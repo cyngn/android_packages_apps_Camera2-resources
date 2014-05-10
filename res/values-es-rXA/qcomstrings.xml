@@ -53,8 +53,8 @@
   <string name="pref_camera_facedetection_entry_off">Desactiváu</string>
   <string name="pref_camera_facedetection_entry_on">Activáu</string>
   <string name="pref_camera_redeyereduction_title">Amenorgamientu de güeyos bermeyos</string>
-  <string name="pref_camera_redeyereduction_entry_enable">Habilitáu</string>
-  <string name="pref_camera_redeyereduction_entry_disable">Deshabilitáu</string>
+  <string name="pref_camera_redeyereduction_entry_enable">Activada</string>
+  <string name="pref_camera_redeyereduction_entry_disable">Desactivada</string>
   <string name="error_app_unsupported_hfr">El videu d\'alta velocidá nun ta sofitáu pa la resolución esbillada</string>
   <string name="error_app_unsupported_hfr_codec">Cuando\'l HFR ta activáu, namái ta sofitada la codificación de videu H.264</string>
   <string name="error_app_unsupported">Resolución de videu non sofitada nesti tipu de codificador</string>
@@ -62,8 +62,8 @@
   <string name="error_app_unsupported_hdr_zsl">HDR ensin sofitu nel mou ZSL</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_title">Esposición HDR automática</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_on">Activáu</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_off">Desactiváu</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_on">Activada</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_off">Desactivada</string>
   <string name="err_app_unsupport_ae_bracket_code">La esposición HDR automática nun ta sofitada pola aplicación</string>
   <string name="snapshot_lower_than_video">El tamañu d\'instantánea ye menor que\'l tamañu de videu. Por favor, seleiciona una resolución igual o mayor al tamañu actual de videu.</string>
   <string name="snapshotsize_low_powermode">Nun ta disponible la resolución d\'imaxe pal mou d\'aforru d\'enerxía. Va capturase una instantánea a la resolución de videu. Por favor, seleiciona\'l mou normal pa usar el tamañu d\'imaxe.</string>
@@ -90,7 +90,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_coloreffect_title">Efeutu de color</string>
-  <string name="pref_camera_coloreffect_entry_none">Darréu</string>
+  <string name="pref_camera_coloreffect_entry_none">Nengún</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
   <string name="pref_camera_coloreffect_entry_negative">Negativu</string>
@@ -162,7 +162,7 @@
   <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_entry_continuous">Continuu</string>
   <string name="pref_camera_scenedetect_title">Auto Detección d\'Escenes</string>
-  <string name="pref_camera_scenedetect_entry_off">Desactiváu</string>
-  <string name="pref_camera_scenedetect_entry_on">Activáu</string>
+  <string name="pref_camera_scenedetect_entry_off">Desactivada</string>
+  <string name="pref_camera_scenedetect_entry_on">Activada</string>
   <string name="time_lapse_error">Tamañu de videu inválidu pal tiempu de grabación.</string>
 </resources>
