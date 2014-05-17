@@ -17,82 +17,82 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Settings screen, camera section -->
-  <string name="pref_camera_camera_section"></string>
+  <string name="pref_camera_camera_section">相機</string>
   <!-- Settings screen, video section -->
-  <string name="pref_camera_video_section"></string>
+  <string name="pref_camera_video_section">影片</string>
   <!-- Settings screen, general section -->
-  <string name="pref_camera_general_section"></string>
+  <string name="pref_camera_general_section">一般</string>
   <!-- Settings screen, Picture size title, the word Size only -->
-  <string name="pref_camera_picturesize_short_title"></string>
+  <string name="pref_camera_picturesize_short_title">大小：</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
-  <string name="pref_camera_jpegquality_short_title"></string>
+  <string name="pref_camera_jpegquality_short_title">品質</string>
   <!-- The Video quality settings in preference -->
-  <string name="pref_video_quality_alt_title"></string>
+  <string name="pref_video_quality_alt_title">影片大小</string>
   <!-- The Video quality settings in preference, word Size only -->
-  <string name="pref_video_quality_short_title"></string>
+  <string name="pref_video_quality_short_title">大小：</string>
   <!-- TODO: replace giant table with dynamically generated entries -->
   <!-- Settings screen, dialog choice for 20.7 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_9_7mp_wide"></string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 萬畫素 (16:9)</string>
   <!-- Settings screen, dialog choice for 18 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_5_7mp_wide"></string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7  萬畫素 (16:9)</string>
   <!-- Settings screen, dialog choice for 20.7 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_20_7mp"></string>
+  <string name="pref_camera_picturesize_entry_20_7mp">20.7 萬畫素</string>
   <!-- Settings screen, dialog choice for 18 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_18mp"></string>
+  <string name="pref_camera_picturesize_entry_18mp">18 萬畫素</string>
   <!-- Settings screen, dialog choice for 12.8 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_12_8mp"></string>
+  <string name="pref_camera_picturesize_entry_12_8mp">12.8 萬畫素</string>
   <!-- Settings screen, dialog choice for 12.7 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_12_7mp"></string>
+  <string name="pref_camera_picturesize_entry_12_7mp">12.7 萬畫素</string>
   <!-- Settings screen, dialog choice for 11.5 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_11_5mp"></string>
+  <string name="pref_camera_picturesize_entry_11_5mp">11.5 萬畫素</string>
   <!-- Settings screen, dialog choice for 10.4 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_10_4mp"></string>
+  <string name="pref_camera_picturesize_entry_10_4mp">10.4 萬畫素</string>
   <!-- Settings screen, dialog choice for 10 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_10mp"></string>
+  <string name="pref_camera_picturesize_entry_10mp">10 萬畫素</string>
   <!-- Settings screen, dialog choice for 9 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_9mp"></string>
+  <string name="pref_camera_picturesize_entry_9mp">9 萬畫素</string>
   <!-- Settings screen, dialog choice for 8.2 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_8_2mp"></string>
+  <string name="pref_camera_picturesize_entry_8_2mp">8.2 萬畫素</string>
   <!-- Settings screen, dialog choice for 7.7 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_7_7mp"></string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7.7 萬畫素</string>
   <!-- Settings screen, dialog choice for 6.4 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_6_4mp"></string>
+  <string name="pref_camera_picturesize_entry_6_4mp">6.4 萬畫素</string>
   <!-- Settings screen, dialog choice for 6 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_6mp"></string>
+  <string name="pref_camera_picturesize_entry_6mp">6 萬畫素</string>
   <!-- Settings screen, dialog choice for 4.5 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_4_5mp"></string>
+  <string name="pref_camera_picturesize_entry_4_5mp">4.5 萬畫素</string>
   <!-- Settings screen, dialog choice for 3.7 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_3_7mp"></string>
+  <string name="pref_camera_picturesize_entry_3_7mp">3.7 萬畫素</string>
   <!-- Settings screen, dialog choice for 2.5 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_2_5mp"></string>
+  <string name="pref_camera_picturesize_entry_2_5mp">2.5 萬畫素</string>
   <!-- Settings screen, dialog choice for 2.1 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_2_1mp"></string>
+  <string name="pref_camera_picturesize_entry_2_1mp">2.1 萬畫素</string>
   <!-- Settings screen, dialog choice for 1.9 megapixels picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_1_9mp"></string>
+  <string name="pref_camera_picturesize_entry_1_9mp">1.9 萬畫素</string>
   <!-- Settings screen, dialog choice for WXGA picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_wxga"></string>
+  <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
   <!-- Settings screen, dialog choice for XGA picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_xga"></string>
+  <string name="pref_camera_picturesize_entry_xga">XGA</string>
   <!-- Settings screen, dialog choice for SVGA picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_svga"></string>
+  <string name="pref_camera_picturesize_entry_svga">SVGA</string>
   <!-- Settings screen, dialog choice for nHD picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_nhd"></string>
+  <string name="pref_camera_picturesize_entry_nhd">nHD</string>
   <!-- Settings screen, dialog choice for WVGA picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_wvga"></string>
+  <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
   <!-- Settings screen, dialog choice for WQVGA picture size [CHAR LIMIT=15] -->
-  <string name="pref_camera_picturesize_entry_wqvga"></string>
+  <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
   <!-- Settings screen, scene mode -->
-  <string name="pref_camera_scenemode_entry_antimotionblur"></string>
-  <string name="pref_camera_scenemode_entry_aqua"></string>
-  <string name="pref_camera_scenemode_entry_ar"></string>
-  <string name="pref_camera_scenemode_entry_asd"></string>
-  <string name="pref_camera_scenemode_entry_baby"></string>
-  <string name="pref_camera_scenemode_entry_backgroundblur"></string>
-  <string name="pref_camera_scenemode_entry_backlight"></string>
-  <string name="pref_camera_scenemode_entry_backlightportrait"></string>
-  <string name="pref_camera_scenemode_entry_barcode"></string>
-  <string name="pref_camera_scenemode_entry_beach"></string>
-  <string name="pref_camera_scenemode_entry_beauty"></string>
+  <string name="pref_camera_scenemode_entry_antimotionblur">降低動態模糊</string>
+  <string name="pref_camera_scenemode_entry_aqua">水景</string>
+  <string name="pref_camera_scenemode_entry_ar">增強實景</string>
+  <string name="pref_camera_scenemode_entry_asd">最佳拍攝</string>
+  <string name="pref_camera_scenemode_entry_baby">嬰兒</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">背景霧化</string>
+  <string name="pref_camera_scenemode_entry_backlight">背光</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">背光人像</string>
+  <string name="pref_camera_scenemode_entry_barcode">條碼</string>
+  <string name="pref_camera_scenemode_entry_beach">海灘</string>
+  <string name="pref_camera_scenemode_entry_beauty">美膚</string>
   <string name="pref_camera_scenemode_entry_candlelight"></string>
   <string name="pref_camera_scenemode_entry_cine"></string>
   <string name="pref_camera_scenemode_entry_closeup"></string>
@@ -138,58 +138,58 @@
   <string name="pref_camera_coloreffect_entry_vintage_cold"></string>
   <string name="pref_camera_coloreffect_entry_point_blue"></string>
   <string name="pref_camera_coloreffect_entry_point_green"></string>
-  <string name="pref_camera_coloreffect_entry_point_red_yellow"></string>
-  <string name="pref_camera_coloreffect_entry_cartoonize"></string>
-  <string name="pref_camera_coloreffect_entry_whiteboard"></string>
-  <string name="pref_camera_coloreffect_entry_blackboard"></string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">紅黃點</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">卡通化</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
   <!-- Settings screen, Burst mode title -->
-  <string name="pref_camera_burst_title"></string>
+  <string name="pref_camera_burst_title">連拍模式</string>
   <!-- Settings screen, Burst mode entries -->
-  <string name="pref_camera_burst_entry_off"></string>
-  <string name="pref_camera_burst_entry_5"></string>
-  <string name="pref_camera_burst_entry_10"></string>
-  <string name="pref_camera_burst_entry_15"></string>
-  <string name="pref_camera_burst_entry_20"></string>
+  <string name="pref_camera_burst_entry_off">關閉</string>
+  <string name="pref_camera_burst_entry_5">5 張</string>
+  <string name="pref_camera_burst_entry_10">10 張</string>
+  <string name="pref_camera_burst_entry_15">15 張</string>
+  <string name="pref_camera_burst_entry_20">20 張</string>
   <!-- Touch-to-focus duration settings -->
-  <string name="pref_camera_focustime_title"></string>
-  <string name="pref_camera_focustime_summary"></string>
+  <string name="pref_camera_focustime_title">觸摸對焦持續時間</string>
+  <string name="pref_camera_focustime_summary">選擇觸摸對焦的持續時間</string>
   <!-- Settings screen, Timer mode entries -->
-  <string name="pref_camera_focustime_entry_5"></string>
-  <string name="pref_camera_focustime_entry_10"></string>
-  <string name="pref_camera_focustime_entry_15"></string>
-  <string name="pref_camera_focustime_entry_20"></string>
-  <string name="pref_camera_focustime_entry_30"></string>
-  <string name="pref_camera_focustime_entry_infinite"></string>
+  <string name="pref_camera_focustime_entry_5">5 秒</string>
+  <string name="pref_camera_focustime_entry_10">10 秒</string>
+  <string name="pref_camera_focustime_entry_15">15 秒</string>
+  <string name="pref_camera_focustime_entry_20">20 秒</string>
+  <string name="pref_camera_focustime_entry_30">30 秒</string>
+  <string name="pref_camera_focustime_entry_infinite">無限</string>
   <!-- Red eye flash mode title -->
-  <string name="pref_camera_flashmode_entry_redeye"></string>
-  <string name="pref_camera_flashmode_label_redeye"></string>
+  <string name="pref_camera_flashmode_entry_redeye">紅眼</string>
+  <string name="pref_camera_flashmode_label_redeye">紅眼</string>
   <!-- Beauty mode -->
-  <string name="pref_camera_beauty_mode_title"></string>
+  <string name="pref_camera_beauty_mode_title">美肌模式</string>
   <!-- SuperZoom -->
-  <string name="pref_camera_superzoom_title"></string>
+  <string name="pref_camera_superzoom_title">放大</string>
   <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title"></string>
   <string name="pref_camera_slow_shutter_default" translatable="false">0</string>
-  <string name="pref_camera_slow_shutter_entry_off"></string>
-  <string name="pref_camera_slow_shutter_entry_auto"></string>
-  <string name="pref_camera_slow_shutter_entry_half_second"></string>
-  <string name="pref_camera_slow_shutter_entry_1s"></string>
-  <string name="pref_camera_slow_shutter_entry_2s"></string>
-  <string name="pref_camera_slow_shutter_entry_4s"></string>
-  <string name="pref_camera_slow_shutter_entry_8s"></string>
+  <string name="pref_camera_slow_shutter_entry_off">關閉</string>
+  <string name="pref_camera_slow_shutter_entry_auto">自動</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ 秒</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 秒</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 秒</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 秒</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 秒</string>
   <!-- More Settings screen, storage title -->
-  <string name="pref_camera_storage_title"></string>
-  <string name="pref_camera_recordlocation_on"></string>
-  <string name="pref_camera_recordlocation_off"></string>
-  <string name="camera_menu_enhance_label"></string>
-  <string name="camera_menu_slow_shutter_label"></string>
-  <string name="camera_menu_beauty_mode_label"></string>
-  <string name="camera_menu_colorize_label"></string>
-  <string name="camera_menu_effects_label"></string>
-  <string name="camera_menu_asd_label"></string>
+  <string name="pref_camera_storage_title">儲存空間</string>
+  <string name="pref_camera_recordlocation_on">標記目前照片位置</string>
+  <string name="pref_camera_recordlocation_off">照片和影片不添加位置標籤</string>
+  <string name="camera_menu_enhance_label">加強</string>
+  <string name="camera_menu_slow_shutter_label">慢速快門</string>
+  <string name="camera_menu_beauty_mode_label">美肌</string>
+  <string name="camera_menu_colorize_label">著色</string>
+  <string name="camera_menu_effects_label">效果</string>
+  <string name="camera_menu_asd_label">智能場景</string>
   <!-- More Settings screen, power button title -->
-  <string name="pref_camera_power_shutter_title"></string>
-  <string name="pref_camera_left_handed_title"></string>
-  <string name="pref_camera_left_handed_summary"></string>
-  <string name="camera_storage_fallback"></string>
+  <string name="pref_camera_power_shutter_title">電源快門鍵</string>
+  <string name="pref_camera_left_handed_title">左撇子</string>
+  <string name="pref_camera_left_handed_summary">調整控制項適合左手者</string>
+  <string name="camera_storage_fallback">恢復到預設的存儲位置</string>
 </resources>
