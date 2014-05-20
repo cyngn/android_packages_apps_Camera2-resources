@@ -15,24 +15,33 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="pref_camera_picturesize_entry_20_7mp">2070万像素</string>
-  <string name="pref_camera_picturesize_entry_18mp">1800万像素</string>
-  <string name="pref_camera_picturesize_entry_12_8mp">1280万像素</string>
-  <string name="pref_camera_picturesize_entry_12_7mp">1270万像素</string>
-  <string name="pref_camera_picturesize_entry_11_5mp">1150万像素</string>
-  <string name="pref_camera_picturesize_entry_10_4mp">1040万像素</string>
-  <string name="pref_camera_picturesize_entry_10mp">1000万像素</string>
-  <string name="pref_camera_picturesize_entry_9mp">900万像素</string>
-  <string name="pref_camera_picturesize_entry_8_2mp">820万像素</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">770万像素</string>
-  <string name="pref_camera_picturesize_entry_6_4mp">640万像素</string>
-  <string name="pref_camera_picturesize_entry_6mp">600万像素</string>
-  <string name="pref_camera_picturesize_entry_4_5mp">450万像素</string>
-  <string name="pref_camera_picturesize_entry_3_7mp">370万像素</string>
-  <string name="pref_camera_picturesize_entry_2_5mp">250万像素</string>
-  <string name="pref_camera_picturesize_entry_2_1mp">210万像素</string>
-  <string name="pref_camera_picturesize_entry_1_9mp">190万像素</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">相机</string>
+  <string name="pref_camera_video_section">视频</string>
+  <string name="pref_camera_general_section">常规</string>
+  <string name="pref_camera_picturesize_short_title">大小</string>
+  <string name="pref_camera_jpegquality_short_title">质量</string>
+  <string name="pref_video_quality_alt_title">视频大小</string>
+  <string name="pref_video_quality_short_title">大小</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">970 万像素 (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">570 万像素 (16:9)</string>
+  <string name="pref_camera_picturesize_entry_20_7mp">2070 万像素</string>
+  <string name="pref_camera_picturesize_entry_18mp">1800 万像素</string>
+  <string name="pref_camera_picturesize_entry_12_8mp">1280 万像素</string>
+  <string name="pref_camera_picturesize_entry_12_7mp">1270 万像素</string>
+  <string name="pref_camera_picturesize_entry_11_5mp">1150 万像素</string>
+  <string name="pref_camera_picturesize_entry_10_4mp">1040 万像素</string>
+  <string name="pref_camera_picturesize_entry_10mp">1000 万像素</string>
+  <string name="pref_camera_picturesize_entry_9mp">900 万像素</string>
+  <string name="pref_camera_picturesize_entry_8_2mp">820 万像素</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">770 万像素</string>
+  <string name="pref_camera_picturesize_entry_6_4mp">640 万像素</string>
+  <string name="pref_camera_picturesize_entry_6mp">600 万像素</string>
+  <string name="pref_camera_picturesize_entry_4_5mp">450 万像素</string>
+  <string name="pref_camera_picturesize_entry_3_7mp">370 万像素</string>
+  <string name="pref_camera_picturesize_entry_2_5mp">250 万像素</string>
+  <string name="pref_camera_picturesize_entry_2_1mp">210 万像素</string>
+  <string name="pref_camera_picturesize_entry_1_9mp">190 万像素</string>
   <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
   <string name="pref_camera_picturesize_entry_xga">XGA</string>
   <string name="pref_camera_picturesize_entry_svga">SVGA</string>
@@ -75,20 +84,28 @@
   <string name="pref_camera_scenemode_entry_softskin">柔软肌肤</string>
   <string name="pref_camera_scenemode_entry_sports">体育</string>
   <string name="pref_camera_scenemode_entry_spotlight">聚光灯</string>
+  <string name="pref_camera_scenemode_entry_steadyphoto">稳定照片</string>
   <string name="pref_camera_scenemode_entry_supernight">黑夜</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">扫描线迹</string>
   <string name="pref_camera_scenemode_entry_text">文本</string>
   <string name="pref_camera_scenemode_entry_theatre">剧场</string>
   <string name="pref_camera_scenemode_entry_whiteboard">白板</string>
   <string name="pref_camera_focusmode_entry_continuouspicture">连拍图片</string>
+  <string name="pref_camera_focusmode_entry_extended">广角</string>
   <string name="pref_camera_focusmode_entry_facedetect">人脸识别</string>
   <string name="pref_camera_focusmode_entry_facepriority">人脸优先</string>
+  <string name="pref_camera_focusmode_entry_fixed">固定</string>
   <string name="pref_camera_focusmode_entry_portrait">肖像</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">超焦距</string>
   <string name="pref_camera_coloreffect_entry_washed">冲蚀</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">暖色仿古</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">冷色仿古</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">点蓝色</string>
   <string name="pref_camera_coloreffect_entry_point_green">点绿色</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">点红黄色</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">卡通</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
   <string name="pref_camera_burst_title">连拍模式</string>
   <string name="pref_camera_burst_entry_off">关闭</string>
   <string name="pref_camera_burst_entry_5">5 连拍</string>
@@ -106,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">红眼</string>
   <string name="pref_camera_flashmode_label_redeye">红眼</string>
   <string name="pref_camera_beauty_mode_title">美肤模式</string>
-  <string name="pref_camera_slow_shutter_title">低速快门</string>
+  <string name="pref_camera_superzoom_title">放大</string>
+  <string name="pref_camera_slow_shutter_title">慢的快门速度</string>
   <string name="pref_camera_slow_shutter_entry_off">关闭</string>
   <string name="pref_camera_slow_shutter_entry_auto">自动</string>
   <string name="pref_camera_slow_shutter_entry_half_second">0.5 s</string>
@@ -115,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 s</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 s</string>
   <string name="pref_camera_storage_title">存储器</string>
+  <string name="pref_camera_recordlocation_on">为照片添加当前位置标签</string>
+  <string name="pref_camera_recordlocation_off">照片和视频不添加位置标签</string>
   <string name="camera_menu_enhance_label">增强</string>
   <string name="camera_menu_slow_shutter_label">低速快门</string>
   <string name="camera_menu_beauty_mode_label">美肤</string>
@@ -122,4 +142,7 @@
   <string name="camera_menu_effects_label">效果</string>
   <string name="camera_menu_asd_label">智能场景</string>
   <string name="pref_camera_power_shutter_title">电源键快门</string>
+  <string name="pref_camera_left_handed_title">左手习惯</string>
+  <string name="pref_camera_left_handed_summary">调整控制以供左手使用</string>
+  <string name="camera_storage_fallback">恢复到默认的存储位置</string>
 </resources>
