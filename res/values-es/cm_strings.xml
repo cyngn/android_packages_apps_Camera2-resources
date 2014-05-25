@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Cámara</string>
+  <string name="pref_camera_video_section">Vídeo</string>
+  <string name="pref_camera_general_section">General</string>
+  <string name="pref_camera_picturesize_short_title">Tamaño</string>
+  <string name="pref_camera_jpegquality_short_title">Calidad</string>
+  <string name="pref_video_quality_alt_title">Tamaño de vídeo</string>
+  <string name="pref_video_quality_short_title">Tamaño</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 MP (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 MP (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 MP</string>
   <string name="pref_camera_picturesize_entry_18mp">18 MP</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 MP</string>
@@ -44,7 +53,7 @@
   <string name="pref_camera_scenemode_entry_ar">Realidad aumentada</string>
   <string name="pref_camera_scenemode_entry_asd">Mejor disparo</string>
   <string name="pref_camera_scenemode_entry_baby">Bebé</string>
-  <string name="pref_camera_scenemode_entry_backgroundblur">Fondo desenfocado</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">Desenfocar fondo</string>
   <string name="pref_camera_scenemode_entry_backlight">Contraluz</string>
   <string name="pref_camera_scenemode_entry_backlightportrait">Retrato a contraluz</string>
   <string name="pref_camera_scenemode_entry_barcode">Código de barras</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Punto verde</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Punto rojo-amarillo</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Viñeta</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Pizarra blanca</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Pizarra</string>
   <string name="pref_camera_burst_title">Modo ráfaga</string>
   <string name="pref_camera_burst_entry_off">Apagado</string>
   <string name="pref_camera_burst_entry_5">5 disparos</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Ojos rojos</string>
   <string name="pref_camera_flashmode_label_redeye">OJOS ROJOS</string>
   <string name="pref_camera_beauty_mode_title">Modo belleza</string>
-  <string name="pref_camera_slow_shutter_title">Obturador lento</string>
+  <string name="pref_camera_superzoom_title">Zoom</string>
+  <string name="pref_camera_slow_shutter_title">Velocidad de obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Apagado</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automático</string>
   <string name="pref_camera_slow_shutter_entry_half_second">0,5 segundos</string>
@@ -121,11 +133,16 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 segundos</string>
   <string name="pref_camera_storage_title">Almacenamiento</string>
-  <string name="camera_menu_enhance_label">MEJORAS</string>
-  <string name="camera_menu_slow_shutter_label">OBTURADOR LENTO</string>
-  <string name="camera_menu_beauty_mode_label">EMBELLECER</string>
-  <string name="camera_menu_colorize_label">COLOREAR</string>
-  <string name="camera_menu_effects_label">EFECTOS</string>
-  <string name="camera_menu_asd_label">ESCENA INTELIGENTE</string>
+  <string name="pref_camera_recordlocation_on">Etiquetar fotos con la ubicación actual</string>
+  <string name="pref_camera_recordlocation_off">No etiquetar las fotos y vídeos con la ubicación actual</string>
+  <string name="camera_menu_enhance_label">Mejoras</string>
+  <string name="camera_menu_slow_shutter_label">Obturador lento</string>
+  <string name="camera_menu_beauty_mode_label">Embellecer</string>
+  <string name="camera_menu_colorize_label">Colorear</string>
+  <string name="camera_menu_effects_label">Efectos</string>
+  <string name="camera_menu_asd_label">Escena inteligente</string>
   <string name="pref_camera_power_shutter_title">Disparador alternativo</string>
+  <string name="pref_camera_left_handed_title">Modo para zurdos</string>
+  <string name="pref_camera_left_handed_summary">Situar los controles a la izquierda de la pantalla</string>
+  <string name="camera_storage_fallback">Restaurando la ubicación de almacenamiento por defecto</string>
 </resources>

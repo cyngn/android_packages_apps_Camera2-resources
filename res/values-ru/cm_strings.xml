@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Камера</string>
+  <string name="pref_camera_video_section">Видео</string>
+  <string name="pref_camera_general_section">Общие</string>
+  <string name="pref_camera_picturesize_short_title">Размер</string>
+  <string name="pref_camera_jpegquality_short_title">Качество</string>
+  <string name="pref_video_quality_alt_title">Размер видео</string>
+  <string name="pref_video_quality_short_title">Размер</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Мпикс. (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 Мпикс. (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Мпикс.</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Мпикс.</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Мпикс.</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Выделить зеленый</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Выделить красный и жёлтый</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Комикс</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Маркерная доска</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Мелованная доска</string>
   <string name="pref_camera_burst_title">Серийная съёмка</string>
   <string name="pref_camera_burst_entry_off">Выкл.</string>
   <string name="pref_camera_burst_entry_5">5 снимков</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Ум. эфф. красных глаз</string>
   <string name="pref_camera_flashmode_label_redeye">УМ. ЭФФ. КРАСНЫХ ГЛАЗ</string>
   <string name="pref_camera_beauty_mode_title">Автоулучшение</string>
-  <string name="pref_camera_slow_shutter_title">Длит. выдержка</string>
+  <string name="pref_camera_superzoom_title">Увеличение</string>
+  <string name="pref_camera_slow_shutter_title">Время экспозиции</string>
   <string name="pref_camera_slow_shutter_entry_off">Выкл.</string>
   <string name="pref_camera_slow_shutter_entry_auto">Авто</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 секунды</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 секунды</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 секунд</string>
   <string name="pref_camera_storage_title">Хранилище</string>
+  <string name="pref_camera_recordlocation_on">Прикреплять текущее местоположение к фотографиям</string>
+  <string name="pref_camera_recordlocation_off">Не прикреплять данные о местоположении к снимкам</string>
   <string name="camera_menu_enhance_label">УЛУЧШЕНИЕ</string>
   <string name="camera_menu_slow_shutter_label">ДЛИТ. ВЫДЕРЖКА</string>
   <string name="camera_menu_beauty_mode_label">АВТОУЛУЧШЕНИЕ</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">ЭФФЕКТЫ</string>
   <string name="camera_menu_asd_label">РАСПОЗН. УСЛОВИЙ СЪЕМКИ</string>
   <string name="pref_camera_power_shutter_title">Съёмка кн. питания</string>
+  <string name="pref_camera_left_handed_title">Режим левши</string>
+  <string name="pref_camera_left_handed_summary">Отображать элементы управления слева на экране</string>
+  <string name="camera_storage_fallback">Возврат к месту сохранения по умолчанию</string>
 </resources>

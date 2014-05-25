@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Φωτογραφική μηχανή</string>
+  <string name="pref_camera_video_section">Λειτουργία βίντεο</string>
+  <string name="pref_camera_general_section">Γενικά</string>
+  <string name="pref_camera_picturesize_short_title">Μέγεθος</string>
+  <string name="pref_camera_jpegquality_short_title">Ποιότητα</string>
+  <string name="pref_video_quality_alt_title">Μέγεθος βίντεο</string>
+  <string name="pref_video_quality_short_title">Μέγεθος</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 MP (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 MP (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20.7 MP</string>
   <string name="pref_camera_picturesize_entry_18mp">18 MP</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8 MP</string>
@@ -57,7 +66,7 @@
   <string name="pref_camera_scenemode_entry_dish">Πιάτο</string>
   <string name="pref_camera_scenemode_entry_duskdawn">Αυγή/Σούρουπο</string>
   <string name="pref_camera_scenemode_entry_document">Έγγραφο</string>
-  <string name="pref_camera_scenemode_entry_fallcolor">Fallcolor</string>
+  <string name="pref_camera_scenemode_entry_fallcolor">Φθινόπωρο</string>
   <string name="pref_camera_scenemode_entry_fireworks">Πυροτεχνήματα</string>
   <string name="pref_camera_scenemode_entry_flowers">Λουλούδια</string>
   <string name="pref_camera_scenemode_entry_handheldtwilight">Λυκόφως</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Επισήμανση πράσινου</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Επισήμανση κόκκινου-κίτρινου</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Κινούμενα σχέδια</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Άσπρος πίνακας</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Μαυροπίνακας</string>
   <string name="pref_camera_burst_title">Λειτουργία ριπής</string>
   <string name="pref_camera_burst_entry_off">Απενεργοποιημένη</string>
   <string name="pref_camera_burst_entry_5">5 λήψεις</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Κόκκινα μάτια</string>
   <string name="pref_camera_flashmode_label_redeye">ΚΟΚΚΙΝΑ ΜΑΤΙΑ</string>
   <string name="pref_camera_beauty_mode_title">Λειτουργία ομορφιάς</string>
-  <string name="pref_camera_slow_shutter_title">Αργό κλείστρο</string>
+  <string name="pref_camera_superzoom_title">Μεγέθυνση</string>
+  <string name="pref_camera_slow_shutter_title">Αργή ταχύτητα κλείστρου</string>
   <string name="pref_camera_slow_shutter_entry_off">Ανενεργό</string>
   <string name="pref_camera_slow_shutter_entry_auto">Αυτόματο</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 δευτ.</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 δευτ.</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 δευτ.</string>
   <string name="pref_camera_storage_title">Αποθ. χώρος</string>
+  <string name="pref_camera_recordlocation_on">Επισήμανση φωτογραφιών με την τρέχουσα τοποθεσία</string>
+  <string name="pref_camera_recordlocation_off">Να μην επισημαίνεται η τοποθεσία στις φωτογραφίες και τα βίντεο</string>
   <string name="camera_menu_enhance_label">ΒΕΛΤΙΩΣΗ</string>
   <string name="camera_menu_slow_shutter_label">ΑΡΓΟ ΚΛΕΙΣΤΡΟ</string>
   <string name="camera_menu_beauty_mode_label">ΟΜΟΡΦΙΑ</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">ΕΦΕ</string>
   <string name="camera_menu_asd_label">ΕΞΥΠΝΗ ΣΚΗΝΗ</string>
   <string name="pref_camera_power_shutter_title">Κλείστρο power</string>
+  <string name="pref_camera_left_handed_title">Λειτουργία αριστερόχειρων</string>
+  <string name="pref_camera_left_handed_summary">Προσαρμογή των πλήκτρων ελέγχου για χρήση από αριστερόχειρες</string>
+  <string name="camera_storage_fallback">Γίνεται επαναφορά στην προεπιλεγμένη θέση αποθήκευσης</string>
 </resources>

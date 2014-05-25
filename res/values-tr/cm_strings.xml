@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Kamera</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Genel</string>
+  <string name="pref_camera_picturesize_short_title">Boyut</string>
+  <string name="pref_camera_jpegquality_short_title">Kalite</string>
+  <string name="pref_video_quality_alt_title">Video boyutu</string>
+  <string name="pref_video_quality_short_title">Boyut</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7M piksel (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7M piksel (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20.7M piksel</string>
   <string name="pref_camera_picturesize_entry_18mp">18M piksel</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8M piksel</string>
@@ -36,7 +45,7 @@
   <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
   <string name="pref_camera_picturesize_entry_xga">XGA</string>
   <string name="pref_camera_picturesize_entry_svga">SVGA</string>
-  <string name="pref_camera_picturesize_entry_nhd">nHs</string>
+  <string name="pref_camera_picturesize_entry_nhd">nHD</string>
   <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
   <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Hareket bulanıklığı düşürücü</string>
@@ -51,16 +60,16 @@
   <string name="pref_camera_scenemode_entry_beach">Plaj</string>
   <string name="pref_camera_scenemode_entry_beauty">Güzellik</string>
   <string name="pref_camera_scenemode_entry_candlelight">Mum ışığı</string>
-  <string name="pref_camera_scenemode_entry_cine">Sine</string>
+  <string name="pref_camera_scenemode_entry_cine">Film</string>
   <string name="pref_camera_scenemode_entry_closeup">Yakın çekim</string>
   <string name="pref_camera_scenemode_entry_dark">Karanlık</string>
   <string name="pref_camera_scenemode_entry_dish">Yemek</string>
-  <string name="pref_camera_scenemode_entry_duskdawn">Şafak vakti</string>
+  <string name="pref_camera_scenemode_entry_duskdawn">Gün batımı</string>
   <string name="pref_camera_scenemode_entry_document">Belge</string>
   <string name="pref_camera_scenemode_entry_fallcolor">Sonbahar renkleri</string>
   <string name="pref_camera_scenemode_entry_fireworks">Havai Fişekler</string>
   <string name="pref_camera_scenemode_entry_flowers">Çiçekler</string>
-  <string name="pref_camera_scenemode_entry_handheldtwilight">Handheld twilight</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">Portatif alacakaranlık</string>
   <string name="pref_camera_scenemode_entry_highsensitivity">Yüksek hassasiyet</string>
   <string name="pref_camera_scenemode_entry_indoor">İç mekan</string>
   <string name="pref_camera_scenemode_entry_landscape">Manzara</string>
@@ -77,7 +86,7 @@
   <string name="pref_camera_scenemode_entry_spotlight">Spot ışığı</string>
   <string name="pref_camera_scenemode_entry_steadyphoto">Durağan fotoğraf</string>
   <string name="pref_camera_scenemode_entry_supernight">Karanlık gece</string>
-  <string name="pref_camera_scenemode_entry_sweepstitch">Tarayarak Birleştir</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">Tarayarak birleştir</string>
   <string name="pref_camera_scenemode_entry_text">Metin</string>
   <string name="pref_camera_scenemode_entry_theatre">Sahne</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Beyaz tahta</string>
@@ -89,12 +98,14 @@
   <string name="pref_camera_focusmode_entry_portrait">Portre</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperodaklı</string>
   <string name="pref_camera_coloreffect_entry_washed">Soluk</string>
-  <string name="pref_camera_coloreffect_entry_vintage_warm">Eski ılık</string>
-  <string name="pref_camera_coloreffect_entry_vintage_cold">Eskı soğuk</string>
-  <string name="pref_camera_coloreffect_entry_point_blue">Nokta mavi</string>
-  <string name="pref_camera_coloreffect_entry_point_green">Nokta yeşil</string>
-  <string name="pref_camera_coloreffect_entry_point_red_yellow">Nokta kırmızı-sarı</string>
-  <string name="pref_camera_coloreffect_entry_cartoonize">Çizgifilmleştir</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">Eski sıcak</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">Eski soğuk</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">Mavi belirgin</string>
+  <string name="pref_camera_coloreffect_entry_point_green">Yeşil belirgin</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">Kırmızı-sarı belirgin</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">Çizgi filmleştir</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Beyaz tahta</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Kara tahta</string>
   <string name="pref_camera_burst_title">Dizi modu</string>
   <string name="pref_camera_burst_entry_off">Kapalı</string>
   <string name="pref_camera_burst_entry_5">5 poz</string>
@@ -112,20 +123,26 @@
   <string name="pref_camera_flashmode_entry_redeye">Kırmızı göz</string>
   <string name="pref_camera_flashmode_label_redeye">KIRMIZI GÖZ</string>
   <string name="pref_camera_beauty_mode_title">Güzellik modu</string>
-  <string name="pref_camera_slow_shutter_title">Yavaş enstantane</string>
+  <string name="pref_camera_superzoom_title">Büyüt</string>
+  <string name="pref_camera_slow_shutter_title">Yavaş çekim hızı</string>
   <string name="pref_camera_slow_shutter_entry_off">Kapalı</string>
   <string name="pref_camera_slow_shutter_entry_auto">Oto</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 saniye</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ saniye</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 saniye</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 saniye</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 saniye</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 saniye</string>
   <string name="pref_camera_storage_title">Depolama</string>
-  <string name="camera_menu_enhance_label">İYİLEŞTİR</string>
-  <string name="camera_menu_slow_shutter_label">YAVAŞ ENSTANTANE</string>
-  <string name="camera_menu_beauty_mode_label">GÜZELLİK</string>
-  <string name="camera_menu_colorize_label">RENKLENDİR</string>
-  <string name="camera_menu_effects_label">EFEKTLER</string>
-  <string name="camera_menu_asd_label">AKILLI SAHNE</string>
+  <string name="pref_camera_recordlocation_on">Fotoğrafları mevcut konum ile etiketle</string>
+  <string name="pref_camera_recordlocation_off">Fotoğraf ve videolara konum etiketi ekleme</string>
+  <string name="camera_menu_enhance_label">İyileştir</string>
+  <string name="camera_menu_slow_shutter_label">Yavaş Enstantane</string>
+  <string name="camera_menu_beauty_mode_label">Güzelleştir</string>
+  <string name="camera_menu_colorize_label">Renklendir</string>
+  <string name="camera_menu_effects_label">Efektler</string>
+  <string name="camera_menu_asd_label">Akıllı Sahne</string>
   <string name="pref_camera_power_shutter_title">Güç tuşuyla çek</string>
+  <string name="pref_camera_left_handed_title">Solak</string>
+  <string name="pref_camera_left_handed_summary">Sol el ile kullanım için kontrolleri ayarla</string>
+  <string name="camera_storage_fallback">Varsayılan depolama konumuna geri dönülüyor</string>
 </resources>

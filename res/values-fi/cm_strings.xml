@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Kamera</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Yleiset</string>
+  <string name="pref_camera_picturesize_short_title">Koko</string>
+  <string name="pref_camera_jpegquality_short_title">Laatu</string>
+  <string name="pref_video_quality_alt_title">Videon koko</string>
+  <string name="pref_video_quality_short_title">Koko</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 megapikseliä (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 megapikseliä (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 megapikseliä</string>
   <string name="pref_camera_picturesize_entry_18mp">18 megapikseliä</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 megapikseliä</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Keskity vihreään</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Keskity puna-keltaiseen</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Sarjakuvat</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Valkotaulu</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Liitutaulu</string>
   <string name="pref_camera_burst_title">Sarjakuvaus</string>
   <string name="pref_camera_burst_entry_off">Pois käytöstä</string>
   <string name="pref_camera_burst_entry_5">5 kuvaa</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Punasilmäisyys</string>
   <string name="pref_camera_flashmode_label_redeye">PUNASILMÄISYYS</string>
   <string name="pref_camera_beauty_mode_title">Kauneustila</string>
-  <string name="pref_camera_slow_shutter_title">Hidas suljin</string>
+  <string name="pref_camera_superzoom_title">Suurenna</string>
+  <string name="pref_camera_slow_shutter_title">Hitaan sulkimen nopeus</string>
   <string name="pref_camera_slow_shutter_entry_off">Pois päältä</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automaattinen</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 sekuntia</string>
@@ -121,11 +133,16 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 sekuntia</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekuntia</string>
   <string name="pref_camera_storage_title">Tallennustila</string>
-  <string name="camera_menu_enhance_label">PARANNUS</string>
-  <string name="camera_menu_slow_shutter_label">HIDAS SULJIN</string>
-  <string name="camera_menu_beauty_mode_label">KAUNISTUS</string>
-  <string name="camera_menu_colorize_label">VÄRITYS</string>
-  <string name="camera_menu_effects_label">EFEKTIT</string>
-  <string name="camera_menu_asd_label">ÄLYKÄS KOHTAUS</string>
+  <string name="pref_camera_recordlocation_on">Merkitse nykyinen sijainti kuvaan</string>
+  <string name="pref_camera_recordlocation_off">Älä merkitse sijaintia kuviin tai videoihin</string>
+  <string name="camera_menu_enhance_label">Parannus</string>
+  <string name="camera_menu_slow_shutter_label">Hidas suljin</string>
+  <string name="camera_menu_beauty_mode_label">Kaunistus</string>
+  <string name="camera_menu_colorize_label">Väritys</string>
+  <string name="camera_menu_effects_label">Efektit</string>
+  <string name="camera_menu_asd_label">Älykäs kohtaus</string>
   <string name="pref_camera_power_shutter_title">Kuvaus virtanäppäimellä</string>
+  <string name="pref_camera_left_handed_title">Vasenkätisyys</string>
+  <string name="pref_camera_left_handed_summary">Siirrä näppäimet vasemman käden käytettäväksi</string>
+  <string name="camera_storage_fallback">Palautetaan tallenuskansio oletukseen</string>
 </resources>

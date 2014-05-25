@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Càmera</string>
+  <string name="pref_camera_video_section">Vídeo</string>
+  <string name="pref_camera_general_section">General</string>
+  <string name="pref_camera_picturesize_short_title">Mida</string>
+  <string name="pref_camera_jpegquality_short_title">Qualitat</string>
+  <string name="pref_video_quality_alt_title">Mida del vídeo</string>
+  <string name="pref_video_quality_short_title">Mida</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 Mp (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">9.7 Mp (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Mp</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Mp</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Mp</string>
@@ -51,7 +60,7 @@
   <string name="pref_camera_scenemode_entry_beach">Platja</string>
   <string name="pref_camera_scenemode_entry_beauty">Bellesa</string>
   <string name="pref_camera_scenemode_entry_candlelight">Espelma</string>
-  <string name="pref_camera_scenemode_entry_cine">Cine</string>
+  <string name="pref_camera_scenemode_entry_cine">Cinema</string>
   <string name="pref_camera_scenemode_entry_closeup">De prop</string>
   <string name="pref_camera_scenemode_entry_dark">Fosca</string>
   <string name="pref_camera_scenemode_entry_dish">Plat</string>
@@ -80,7 +89,7 @@
   <string name="pref_camera_scenemode_entry_sweepstitch">Punt rastrejat</string>
   <string name="pref_camera_scenemode_entry_text">Text</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatre</string>
-  <string name="pref_camera_scenemode_entry_whiteboard">Pissarra</string>
+  <string name="pref_camera_scenemode_entry_whiteboard">Pissarra blanca</string>
   <string name="pref_camera_focusmode_entry_continuouspicture">Fotografia contínua</string>
   <string name="pref_camera_focusmode_entry_extended">Extès</string>
   <string name="pref_camera_focusmode_entry_facedetect">Detecció de cares</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Punt verd</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Punt vermell-groc</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Encartrona</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Pissarra blanca</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Pissarra negra</string>
   <string name="pref_camera_burst_title">Mode ràfaga</string>
   <string name="pref_camera_burst_entry_off">Desactivat</string>
   <string name="pref_camera_burst_entry_5">5 fotos</string>
@@ -112,15 +123,18 @@
   <string name="pref_camera_flashmode_entry_redeye">Ulls vermells</string>
   <string name="pref_camera_flashmode_label_redeye">ULLS VERMELLS</string>
   <string name="pref_camera_beauty_mode_title">Mode bonic</string>
-  <string name="pref_camera_slow_shutter_title">Obturador lent</string>
+  <string name="pref_camera_superzoom_title">Magnifica</string>
+  <string name="pref_camera_slow_shutter_title">Velocitat de l\'obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Desactivat</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 segon</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ segon</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 segon</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 segons</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 segons</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 segons</string>
   <string name="pref_camera_storage_title">Emmagatzematge</string>
+  <string name="pref_camera_recordlocation_on">Marca les fotos amb la ubicació actual</string>
+  <string name="pref_camera_recordlocation_off">No marquis les fotos i els vídeos amb la ubicació</string>
   <string name="camera_menu_enhance_label">MILLORA</string>
   <string name="camera_menu_slow_shutter_label">OBTURADOR LENT</string>
   <string name="camera_menu_beauty_mode_label">FES BONIC</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">EFECTES</string>
   <string name="camera_menu_asd_label">ESCENA INTEL·LIGENT</string>
   <string name="pref_camera_power_shutter_title">Obturador ràpid</string>
+  <string name="pref_camera_left_handed_title">Esquerrà</string>
+  <string name="pref_camera_left_handed_summary">Ajusta els controls per als esquerrans</string>
+  <string name="camera_storage_fallback">S\'està tornant a la ubicació predefinida d\'emmagatzematge</string>
 </resources>
