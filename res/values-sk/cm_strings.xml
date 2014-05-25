@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Fotoaparát</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Všeobecné</string>
+  <string name="pref_camera_picturesize_short_title">Veľkosť</string>
+  <string name="pref_camera_jpegquality_short_title">Kvalita</string>
+  <string name="pref_video_quality_alt_title">Veľkosť videa</string>
+  <string name="pref_video_quality_short_title">Veľkosť</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 Mpx (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 Mpx (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Mpx</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Mpx</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Mpx</string>
@@ -40,7 +49,7 @@
   <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
   <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Redukcia rozmazania pohybu</string>
-  <string name="pref_camera_scenemode_entry_aqua">Pod vodou</string>
+  <string name="pref_camera_scenemode_entry_aqua">Voda</string>
   <string name="pref_camera_scenemode_entry_ar">Rozšírená realita</string>
   <string name="pref_camera_scenemode_entry_asd">Najlepší záber</string>
   <string name="pref_camera_scenemode_entry_baby">Dieťa</string>
@@ -87,14 +96,16 @@
   <string name="pref_camera_focusmode_entry_facepriority">Priorita tváre</string>
   <string name="pref_camera_focusmode_entry_fixed">Pevné</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrét</string>
-  <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocal</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfokálne</string>
   <string name="pref_camera_coloreffect_entry_washed">Degradácia</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Teplé staré</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Chladné staré</string>
   <string name="pref_camera_coloreffect_entry_point_blue">Bodovo modrá</string>
   <string name="pref_camera_coloreffect_entry_point_green">Bodovo zelená</string>
-  <string name="pref_camera_coloreffect_entry_point_red_yellow">Bodovo červeno-žltá</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">Bodovo červenožltá</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Kreslené</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Biela tabuľa</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Čierna tabuľa</string>
   <string name="pref_camera_burst_title">Sekvenčné snímanie</string>
   <string name="pref_camera_burst_entry_off">Vypnuté</string>
   <string name="pref_camera_burst_entry_5">5 záberov</string>
@@ -102,30 +113,36 @@
   <string name="pref_camera_burst_entry_15">15 záberov</string>
   <string name="pref_camera_burst_entry_20">20 záberov</string>
   <string name="pref_camera_focustime_title">Trvanie zaostrenia dotykom</string>
-  <string name="pref_camera_focustime_summary">Trvanie zaostrenia dotykom</string>
-  <string name="pref_camera_focustime_entry_5">5s</string>
-  <string name="pref_camera_focustime_entry_10">10s</string>
-  <string name="pref_camera_focustime_entry_15">15s</string>
-  <string name="pref_camera_focustime_entry_20">20s</string>
-  <string name="pref_camera_focustime_entry_30">30s</string>
+  <string name="pref_camera_focustime_summary">Vyberte trvanie zaostrenia dotykom</string>
+  <string name="pref_camera_focustime_entry_5">5 sekúnd</string>
+  <string name="pref_camera_focustime_entry_10">10 sekúnd</string>
+  <string name="pref_camera_focustime_entry_15">15 sekúnd</string>
+  <string name="pref_camera_focustime_entry_20">20 sekúnd</string>
+  <string name="pref_camera_focustime_entry_30">30 sekúnd</string>
   <string name="pref_camera_focustime_entry_infinite">Nekonečno</string>
   <string name="pref_camera_flashmode_entry_redeye">Červené oči</string>
   <string name="pref_camera_flashmode_label_redeye">ČERVENÉ OČI</string>
   <string name="pref_camera_beauty_mode_title">Režim krásy</string>
-  <string name="pref_camera_slow_shutter_title">Pomalá uzávierka</string>
+  <string name="pref_camera_superzoom_title">Zväčšenie</string>
+  <string name="pref_camera_slow_shutter_title">Pomalá rýchlosť uzávierky</string>
   <string name="pref_camera_slow_shutter_entry_off">Vypnuté</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automaticky</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 sekundy</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ sekundy</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 sekunda</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 sekundy</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekundy</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekúnd</string>
   <string name="pref_camera_storage_title">Ukladací priestor</string>
-  <string name="camera_menu_enhance_label">VYLEPŠENIE</string>
-  <string name="camera_menu_slow_shutter_label">POMALÁ UZÁVIERKA</string>
-  <string name="camera_menu_beauty_mode_label">SKRÁŠLENIE</string>
+  <string name="pref_camera_recordlocation_on">Pridať k fotografiám aktuálnu polohu</string>
+  <string name="pref_camera_recordlocation_off">Nepridávať k fotografiám a videám aktuálnu polohu</string>
+  <string name="camera_menu_enhance_label">Vylepšenie</string>
+  <string name="camera_menu_slow_shutter_label">Pomalá uzávierka</string>
+  <string name="camera_menu_beauty_mode_label">Skrášlenie</string>
   <string name="camera_menu_colorize_label">VYFARBENIE</string>
-  <string name="camera_menu_effects_label">EFEKTY</string>
-  <string name="camera_menu_asd_label">INTELIGENTNÁ SCÉNA</string>
+  <string name="camera_menu_effects_label">Efekty</string>
+  <string name="camera_menu_asd_label">Inteligentná scéna</string>
   <string name="pref_camera_power_shutter_title">Uzávierka tlačidlom vypnutia</string>
+  <string name="pref_camera_left_handed_title">Pre ľavákov</string>
+  <string name="pref_camera_left_handed_summary">Upraviť ovládacie prvky pre ovládanie ľavou rukou</string>
+  <string name="camera_storage_fallback">Obnovovanie na predvolený ukladací priestor</string>
 </resources>

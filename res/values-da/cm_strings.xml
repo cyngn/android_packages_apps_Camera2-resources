@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Kamera</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Generelt</string>
+  <string name="pref_camera_picturesize_short_title">Størrelse</string>
+  <string name="pref_camera_jpegquality_short_title">Kvalitet</string>
+  <string name="pref_video_quality_alt_title">Videostørrelse</string>
+  <string name="pref_video_quality_short_title">Størrelse</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 megapixels (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 megapixels (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 megapixels</string>
   <string name="pref_camera_picturesize_entry_18mp">18 megapixels</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 megapixels</string>
@@ -60,7 +69,7 @@
   <string name="pref_camera_scenemode_entry_fallcolor">Efterårsfarve</string>
   <string name="pref_camera_scenemode_entry_fireworks">Fyrværkeri</string>
   <string name="pref_camera_scenemode_entry_flowers">Blomster</string>
-  <string name="pref_camera_scenemode_entry_handheldtwilight">Handheld twilight</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">Håndholdt tusmørke</string>
   <string name="pref_camera_scenemode_entry_highsensitivity">Høj følsomhed</string>
   <string name="pref_camera_scenemode_entry_indoor">Indendørs</string>
   <string name="pref_camera_scenemode_entry_landscape">Landskab</string>
@@ -94,7 +103,9 @@
   <string name="pref_camera_coloreffect_entry_point_blue">Blå punkter</string>
   <string name="pref_camera_coloreffect_entry_point_green">Grønne punkter</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Rød-gule punkter</string>
-  <string name="pref_camera_coloreffect_entry_cartoonize">Cartoonize</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">Tegneserie</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Hvid tavle</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Sort tavle</string>
   <string name="pref_camera_burst_title">Burst-tilstand</string>
   <string name="pref_camera_burst_entry_off">Fra</string>
   <string name="pref_camera_burst_entry_5">5 skud</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Redøje</string>
   <string name="pref_camera_flashmode_label_redeye">RØDØJE</string>
   <string name="pref_camera_beauty_mode_title">Forskønnelsestilstand</string>
-  <string name="pref_camera_slow_shutter_title">Langsom udløser</string>
+  <string name="pref_camera_superzoom_title">Forstør</string>
+  <string name="pref_camera_slow_shutter_title">Langsom lukkertid</string>
   <string name="pref_camera_slow_shutter_entry_off">Fra</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 sekund</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 sekunder</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekunder</string>
   <string name="pref_camera_storage_title">Lagring</string>
+  <string name="pref_camera_recordlocation_on">Tag billeder med aktuel placering</string>
+  <string name="pref_camera_recordlocation_off">Tag ikke fotos og videoer med placering</string>
   <string name="camera_menu_enhance_label">FORBEDR</string>
   <string name="camera_menu_slow_shutter_label">LANGSOM UDLØSER</string>
   <string name="camera_menu_beauty_mode_label">FORSKØN</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">EFFEKTER</string>
   <string name="camera_menu_asd_label">SMART SCENE</string>
   <string name="pref_camera_power_shutter_title">Strømudløser</string>
+  <string name="pref_camera_left_handed_title">Venstrehåndet</string>
+  <string name="pref_camera_left_handed_summary">Justér kontroller til venstrehåndet brug</string>
+  <string name="camera_storage_fallback">Vender tilbage til standardlagerplaceringen</string>
 </resources>

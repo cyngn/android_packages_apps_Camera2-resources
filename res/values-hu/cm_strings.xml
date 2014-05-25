@@ -15,24 +15,33 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="pref_camera_picturesize_entry_20_7mp">20,7 megapixel</string>
-  <string name="pref_camera_picturesize_entry_18mp">18 megapixel</string>
-  <string name="pref_camera_picturesize_entry_12_8mp">12,8 megapixel</string>
-  <string name="pref_camera_picturesize_entry_12_7mp">12,7 megapixel</string>
-  <string name="pref_camera_picturesize_entry_11_5mp">11,5 megapixel</string>
-  <string name="pref_camera_picturesize_entry_10_4mp">10,4 megapixel</string>
-  <string name="pref_camera_picturesize_entry_10mp">10 megapixel</string>
-  <string name="pref_camera_picturesize_entry_9mp">9 megapixel</string>
-  <string name="pref_camera_picturesize_entry_8_2mp">8,2 megapixel</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">7,7 megapixel</string>
-  <string name="pref_camera_picturesize_entry_6_4mp">6,4 megapixel</string>
-  <string name="pref_camera_picturesize_entry_6mp">6 megapixel</string>
-  <string name="pref_camera_picturesize_entry_4_5mp">4,5 megapixel</string>
-  <string name="pref_camera_picturesize_entry_3_7mp">3,7 megapixel</string>
-  <string name="pref_camera_picturesize_entry_2_5mp">2,5 megapixel</string>
-  <string name="pref_camera_picturesize_entry_2_1mp">2,1 megapixel</string>
-  <string name="pref_camera_picturesize_entry_1_9mp">1,9 megapixel</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Kamera</string>
+  <string name="pref_camera_video_section">Videó</string>
+  <string name="pref_camera_general_section">Általános</string>
+  <string name="pref_camera_picturesize_short_title">Méret</string>
+  <string name="pref_camera_jpegquality_short_title">Minőség</string>
+  <string name="pref_video_quality_alt_title">Videó mérete</string>
+  <string name="pref_video_quality_short_title">Méret</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Megapixel (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 Megapixel (16:9)</string>
+  <string name="pref_camera_picturesize_entry_20_7mp">20,7 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_18mp">18 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_12_8mp">12,8 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_12_7mp">12,7 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_11_5mp">11,5 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_10_4mp">10,4 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_10mp">10 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_9mp">9 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_8_2mp">8,2 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7,7 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_6_4mp">6,4 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_6mp">6 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_4_5mp">4,5 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_3_7mp">3,7 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_2_5mp">2,5 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_2_1mp">2,1 Megapixel</string>
+  <string name="pref_camera_picturesize_entry_1_9mp">1,9 Megapixel</string>
   <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
   <string name="pref_camera_picturesize_entry_xga">XGA</string>
   <string name="pref_camera_picturesize_entry_svga">SVGA</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Zöldes</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Pirosas-sárgás</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Rajzfilm</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Fehér tábla</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Fekete tábla</string>
   <string name="pref_camera_burst_title">Sorozatfelvétel</string>
   <string name="pref_camera_burst_entry_off">Ki</string>
   <string name="pref_camera_burst_entry_5">5 kép</string>
@@ -112,6 +123,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Vörösszem</string>
   <string name="pref_camera_flashmode_label_redeye">VÖRÖSSZEM</string>
   <string name="pref_camera_beauty_mode_title">Szépség</string>
+  <string name="pref_camera_superzoom_title">Nagyítás</string>
   <string name="pref_camera_slow_shutter_title">Hosszú záridő</string>
   <string name="pref_camera_slow_shutter_entry_off">Ki</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatikus</string>
@@ -121,11 +133,16 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 másodperc</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 másodperc</string>
   <string name="pref_camera_storage_title">Tárhely</string>
-  <string name="camera_menu_enhance_label">KIEMELÉS</string>
-  <string name="camera_menu_slow_shutter_label">HOSSZÚ ZÁRIDŐ</string>
-  <string name="camera_menu_beauty_mode_label">EFFEKTEK</string>
-  <string name="camera_menu_colorize_label">SZÍNEZÉS</string>
-  <string name="camera_menu_effects_label">EFFEKTEK</string>
-  <string name="camera_menu_asd_label">OKOS KÉP</string>
+  <string name="pref_camera_recordlocation_on">Felvételek megjelölése a jelenlegi pozícióval</string>
+  <string name="pref_camera_recordlocation_off">Ne jelölje a felvételeket a jelenlegi pozícióval</string>
+  <string name="camera_menu_enhance_label">Kiemelés</string>
+  <string name="camera_menu_slow_shutter_label">Hosszú záridő</string>
+  <string name="camera_menu_beauty_mode_label">Effektek</string>
+  <string name="camera_menu_colorize_label">Színezés</string>
+  <string name="camera_menu_effects_label">Effektek</string>
+  <string name="camera_menu_asd_label">Intelligens jelenet</string>
   <string name="pref_camera_power_shutter_title">Bekapcsoló gombbal exponálás</string>
+  <string name="pref_camera_left_handed_title">Bal kezes mód</string>
+  <string name="pref_camera_left_handed_summary">Vezérlőelemek igazítása balkezes módhoz</string>
+  <string name="camera_storage_fallback">Visszaállítás az alapértelmezett tárolóra</string>
 </resources>
