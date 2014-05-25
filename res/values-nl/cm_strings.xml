@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Camera</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Algemeen</string>
+  <string name="pref_camera_picturesize_short_title">Grootte</string>
+  <string name="pref_camera_jpegquality_short_title">Kwaliteit</string>
+  <string name="pref_video_quality_alt_title">Videokwaliteit</string>
+  <string name="pref_video_quality_short_title">Grootte</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 megapixel (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 megapixel (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 megapixel</string>
   <string name="pref_camera_picturesize_entry_18mp">18 megapixel</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 megapixel</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Groene punt</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Rode-gele punt</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Tekenfilm</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Whiteboard</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Schoolbord</string>
   <string name="pref_camera_burst_title">Burstmodus</string>
   <string name="pref_camera_burst_entry_off">Uit</string>
   <string name="pref_camera_burst_entry_5">5 foto\'s</string>
@@ -112,20 +123,26 @@
   <string name="pref_camera_flashmode_entry_redeye">Rode ogen</string>
   <string name="pref_camera_flashmode_label_redeye">RODE OGEN</string>
   <string name="pref_camera_beauty_mode_title">Verfraaien</string>
-  <string name="pref_camera_slow_shutter_title">Trage sluiter</string>
+  <string name="pref_camera_superzoom_title">Superzoom</string>
+  <string name="pref_camera_slow_shutter_title">Trage sluitertijd</string>
   <string name="pref_camera_slow_shutter_entry_off">Uit</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatisch</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">0,5 sec.</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ sec.</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 sec.</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 sec.</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sec.</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sec.</string>
   <string name="pref_camera_storage_title">Opslag</string>
-  <string name="camera_menu_enhance_label">VERBETEREN</string>
-  <string name="camera_menu_slow_shutter_label">TRAGE SLUITER</string>
-  <string name="camera_menu_beauty_mode_label">VERFRAAIEN</string>
-  <string name="camera_menu_colorize_label">KLEUREFFECT</string>
-  <string name="camera_menu_effects_label">EFFECTEN</string>
-  <string name="camera_menu_asd_label">AUTO-SCÈNE</string>
+  <string name="pref_camera_recordlocation_on">Huidige locatie aan opnames toevoegen</string>
+  <string name="pref_camera_recordlocation_off">Locatie niet aan foto\'s en video\'s toevoegen</string>
+  <string name="camera_menu_enhance_label">Verbeteren</string>
+  <string name="camera_menu_slow_shutter_label">Trage sluiter</string>
+  <string name="camera_menu_beauty_mode_label">Verfraaien</string>
+  <string name="camera_menu_colorize_label">Kleureffect</string>
+  <string name="camera_menu_effects_label">Effecten</string>
+  <string name="camera_menu_asd_label">Auto-scène</string>
   <string name="pref_camera_power_shutter_title">Aan/uit-knop</string>
+  <string name="pref_camera_left_handed_title">Linkshandig</string>
+  <string name="pref_camera_left_handed_summary">Voor linkshandig gebruik instellen</string>
+  <string name="camera_storage_fallback">Terugzetten naar standaardopslaglocatie</string>
 </resources>

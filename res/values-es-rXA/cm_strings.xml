@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Cámara</string>
+  <string name="pref_camera_video_section">Videu</string>
+  <string name="pref_camera_general_section">Xeneral</string>
+  <string name="pref_camera_picturesize_short_title">Tamañu</string>
+  <string name="pref_camera_jpegquality_short_title">Calidá</string>
+  <string name="pref_video_quality_alt_title">Tamañu de videu</string>
+  <string name="pref_video_quality_short_title">Tamañu</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7M pixels (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7M pixels (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20.7M pixels</string>
   <string name="pref_camera_picturesize_entry_18mp">18M pixels</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8M pixels</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Puntu verde</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Puntu encarnáu-mariellu</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Viñetiar</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Pizarra blanca</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Pizarra prieta</string>
   <string name="pref_camera_burst_title">Mou rabasera</string>
   <string name="pref_camera_burst_entry_off">Desactiváu</string>
   <string name="pref_camera_burst_entry_5">5 semeyes</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Güeyos bermeyos</string>
   <string name="pref_camera_flashmode_label_redeye">GÜEYOS BERMEYOS</string>
   <string name="pref_camera_beauty_mode_title">Mou belleza</string>
-  <string name="pref_camera_slow_shutter_title">Obturador lentu</string>
+  <string name="pref_camera_superzoom_title">Ampliar</string>
+  <string name="pref_camera_slow_shutter_title">Velocidá d\'obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Apagáu</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 segundu</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 segundos</string>
   <string name="pref_camera_storage_title">Almacenamientu</string>
+  <string name="pref_camera_recordlocation_on">Etiqueta les semeyes cola llocalización actual</string>
+  <string name="pref_camera_recordlocation_off">Nun etiquetar les semeyes y videos cola llocalización</string>
   <string name="camera_menu_enhance_label">MEYORES</string>
   <string name="camera_menu_slow_shutter_label">OBTURADOR LENTU</string>
   <string name="camera_menu_beauty_mode_label">EMBELLECER</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">EFEUTOS</string>
   <string name="camera_menu_asd_label">ESCENA INTELIXENTE</string>
   <string name="pref_camera_power_shutter_title">Disparador c/botón d\'encendíu</string>
+  <string name="pref_camera_left_handed_title">Maniegu</string>
+  <string name="pref_camera_left_handed_summary">Axusta los controles pa maniegos</string>
+  <string name="camera_storage_fallback">Tornando a la llocalización predefinida d\'almacenamientu</string>
 </resources>

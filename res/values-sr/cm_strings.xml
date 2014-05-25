@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Камера</string>
+  <string name="pref_camera_video_section">Видео</string>
+  <string name="pref_camera_general_section">Опште</string>
+  <string name="pref_camera_picturesize_short_title">Величина</string>
+  <string name="pref_camera_jpegquality_short_title">Квалитет</string>
+  <string name="pref_video_quality_alt_title">Величина видеа</string>
+  <string name="pref_video_quality_short_title">Величина</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 Мегапиксела (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 Мегапиксела (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20.7 мегапиксела</string>
   <string name="pref_camera_picturesize_entry_18mp">18 мегапиксела</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8 мегапиксела</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Тачка зелене</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Тачка црвено-жута</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Цртаћ</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Белатабла</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Црнатабла</string>
   <string name="pref_camera_burst_title">Бурст режим</string>
   <string name="pref_camera_burst_entry_off">Искључено</string>
   <string name="pref_camera_burst_entry_5">5 снимака</string>
@@ -103,16 +114,17 @@
   <string name="pref_camera_burst_entry_20">20 снимака</string>
   <string name="pref_camera_focustime_title">Трајање додирног фокуса</string>
   <string name="pref_camera_focustime_summary">Одаберите трајање за додирни фокус</string>
-  <string name="pref_camera_focustime_entry_5">5s</string>
-  <string name="pref_camera_focustime_entry_10">10s</string>
-  <string name="pref_camera_focustime_entry_15">15s</string>
-  <string name="pref_camera_focustime_entry_20">20s</string>
-  <string name="pref_camera_focustime_entry_30">30s</string>
+  <string name="pref_camera_focustime_entry_5">5с</string>
+  <string name="pref_camera_focustime_entry_10">10с</string>
+  <string name="pref_camera_focustime_entry_15">15с</string>
+  <string name="pref_camera_focustime_entry_20">20с</string>
+  <string name="pref_camera_focustime_entry_30">30с</string>
   <string name="pref_camera_focustime_entry_infinite">Неограничен</string>
   <string name="pref_camera_flashmode_entry_redeye">Црвене очи</string>
   <string name="pref_camera_flashmode_label_redeye">ЦРВЕНЕ ОЧИ</string>
   <string name="pref_camera_beauty_mode_title">Режим лепоте</string>
-  <string name="pref_camera_slow_shutter_title">Спори окидач</string>
+  <string name="pref_camera_superzoom_title">Увеличај</string>
+  <string name="pref_camera_slow_shutter_title">Брзина спорог окидача</string>
   <string name="pref_camera_slow_shutter_entry_off">Искључено</string>
   <string name="pref_camera_slow_shutter_entry_auto">Аутоматски</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 секунде</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 секунде</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 секунди</string>
   <string name="pref_camera_storage_title">Складиштни простор</string>
+  <string name="pref_camera_recordlocation_on">Означите снимке са тренутном локацијом</string>
+  <string name="pref_camera_recordlocation_off">Не означујте снимке и видео са локацијом</string>
   <string name="camera_menu_enhance_label">Повећавање</string>
   <string name="camera_menu_slow_shutter_label">СПОРИ ОКИДАЧ</string>
   <string name="camera_menu_beauty_mode_label">УЛЕПШАВАЊЕ</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">ЕФЕКТИ</string>
   <string name="camera_menu_asd_label">ПАМЕТНА СЦЕНА</string>
   <string name="pref_camera_power_shutter_title">Power окидач</string>
+  <string name="pref_camera_left_handed_title">Леворуки режим</string>
+  <string name="pref_camera_left_handed_summary">Подесите контроле за леворуку употребу</string>
+  <string name="camera_storage_fallback">Враћање на подразумевану локацију за складиштење</string>
 </resources>

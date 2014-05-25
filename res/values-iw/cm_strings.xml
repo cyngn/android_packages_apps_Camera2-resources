@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">מצלמה</string>
+  <string name="pref_camera_video_section">וידאו</string>
+  <string name="pref_camera_general_section">כללי</string>
+  <string name="pref_camera_picturesize_short_title">גודל</string>
+  <string name="pref_camera_jpegquality_short_title">איכות</string>
+  <string name="pref_video_quality_alt_title">גודל וידאו</string>
+  <string name="pref_video_quality_short_title">גודל</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7מגה פיקסלים (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7מגה פיקסלים (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20.7 מגה פיקסל</string>
   <string name="pref_camera_picturesize_entry_18mp">18 מגה פיקסל</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8 מגה פיקסל</string>
@@ -87,7 +96,7 @@
   <string name="pref_camera_focusmode_entry_facepriority">עדיפות לפנים</string>
   <string name="pref_camera_focusmode_entry_fixed">קבוע</string>
   <string name="pref_camera_focusmode_entry_portrait">דיוקן</string>
-  <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocal</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">מיקוד יתר</string>
   <string name="pref_camera_coloreffect_entry_washed">שטוף</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">וינטאיג\' חם</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">וינטאיג\' קר</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">הצבע הירוק</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">הצבע האדום-צהוב</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">מונפש</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">לוח ציור</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">לוח כיתה</string>
   <string name="pref_camera_burst_title">מצב מתפרץ</string>
   <string name="pref_camera_burst_entry_off">כבוי</string>
   <string name="pref_camera_burst_entry_5">5 צילומים</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">עיניים אדומות</string>
   <string name="pref_camera_flashmode_label_redeye">עיניים אדומות</string>
   <string name="pref_camera_beauty_mode_title">מצב יופי</string>
-  <string name="pref_camera_slow_shutter_title">תריס איטי</string>
+  <string name="pref_camera_superzoom_title">הגדל</string>
+  <string name="pref_camera_slow_shutter_title">צמצם איטי</string>
   <string name="pref_camera_slow_shutter_entry_off">כבוי</string>
   <string name="pref_camera_slow_shutter_entry_auto">אוטומטי</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 שניה</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 שניות</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 שניות</string>
   <string name="pref_camera_storage_title">זיכרון</string>
+  <string name="pref_camera_recordlocation_on">תייג תמונות עם המיקום הנוכחי</string>
+  <string name="pref_camera_recordlocation_off">אל תתייג תמונות וסרטונים עם מיקום</string>
   <string name="camera_menu_enhance_label">שפר</string>
   <string name="camera_menu_slow_shutter_label">צמצם איטי</string>
   <string name="camera_menu_beauty_mode_label">יפייף</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">אפקטים</string>
   <string name="camera_menu_asd_label">סצנה חכמה</string>
   <string name="pref_camera_power_shutter_title">לחצן צילום</string>
+  <string name="pref_camera_left_handed_title">לשמאליים</string>
+  <string name="pref_camera_left_handed_summary">כוון בקרה עבור שמאליים</string>
+  <string name="camera_storage_fallback">מחזיר למיקום אחסון ברירת מחדל</string>
 </resources>

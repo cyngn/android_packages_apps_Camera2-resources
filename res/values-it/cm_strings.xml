@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Fotocamera</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Generale</string>
+  <string name="pref_camera_picturesize_short_title">Dimensione</string>
+  <string name="pref_camera_jpegquality_short_title">Qualità</string>
+  <string name="pref_video_quality_alt_title">Dimensioni video</string>
+  <string name="pref_video_quality_short_title">Dimensione</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Mpixel (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 Mpixel (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Mpixel</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Mpixel</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Mpixel</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Punto verde</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Punto rosso-giallo</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Cartone animato</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Lavagna bianca</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Lavagna nera</string>
   <string name="pref_camera_burst_title">Scatti continui</string>
   <string name="pref_camera_burst_entry_off">OFF</string>
   <string name="pref_camera_burst_entry_5">5 scatti</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Occhi rossi</string>
   <string name="pref_camera_flashmode_label_redeye">OCCHI ROSSI</string>
   <string name="pref_camera_beauty_mode_title">Bellezza</string>
-  <string name="pref_camera_slow_shutter_title">Otturatore lento</string>
+  <string name="pref_camera_superzoom_title">Ingrandisci</string>
+  <string name="pref_camera_slow_shutter_title">Velocità scatto lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">OFF</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatico</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 secondo</string>
@@ -121,11 +133,16 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 secondi</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 secondi</string>
   <string name="pref_camera_storage_title">Memoria</string>
+  <string name="pref_camera_recordlocation_on">Memorizza la località nei dati della foto</string>
+  <string name="pref_camera_recordlocation_off">Non memorizzare la località nei dati delle foto e dei video</string>
   <string name="camera_menu_enhance_label">MIGLIORA</string>
   <string name="camera_menu_slow_shutter_label">OTTURATORE LENTO</string>
   <string name="camera_menu_beauty_mode_label">ABBELLISCI</string>
-  <string name="camera_menu_colorize_label">COLORA</string>
-  <string name="camera_menu_effects_label">EFFETTI</string>
-  <string name="camera_menu_asd_label">SCENA AUTOMATICA</string>
+  <string name="camera_menu_colorize_label">Colora</string>
+  <string name="camera_menu_effects_label">Effetti</string>
+  <string name="camera_menu_asd_label">Scena intelligente</string>
   <string name="pref_camera_power_shutter_title">Scatta tasto On/Off</string>
+  <string name="pref_camera_left_handed_title">Per mancini</string>
+  <string name="pref_camera_left_handed_summary">Imposta i controlli per l\'uso con la mano sinistra</string>
+  <string name="camera_storage_fallback">Ripristina la cartella di memorizzazione predefinita</string>
 </resources>
