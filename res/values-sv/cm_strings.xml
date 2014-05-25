@@ -15,7 +15,14 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Kamera</string>
+  <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_picturesize_short_title">Storlek</string>
+  <string name="pref_video_quality_alt_title">Videostorlek</string>
+  <string name="pref_video_quality_short_title">Storlek</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 megapixlar (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 megapixlar (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 megapixlar</string>
   <string name="pref_camera_picturesize_entry_18mp">18 megapixlar</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 megapixlar</string>
@@ -43,7 +50,6 @@
   <string name="pref_camera_scenemode_entry_aqua">Vatten</string>
   <string name="pref_camera_scenemode_entry_ar">Förstärkt verklighet</string>
   <string name="pref_camera_scenemode_entry_asd">Bästa bild</string>
-  <string name="pref_camera_scenemode_entry_baby">Baby</string>
   <string name="pref_camera_scenemode_entry_backgroundblur">Bakgrundsoskärpa</string>
   <string name="pref_camera_scenemode_entry_backlight">Motljus</string>
   <string name="pref_camera_scenemode_entry_backlightportrait">Motljusporträtt</string>
@@ -74,7 +80,6 @@
   <string name="pref_camera_scenemode_entry_snow">Snö</string>
   <string name="pref_camera_scenemode_entry_softskin">Mjuk hud</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
-  <string name="pref_camera_scenemode_entry_spotlight">Spotlight</string>
   <string name="pref_camera_scenemode_entry_steadyphoto">Stadigt foto</string>
   <string name="pref_camera_scenemode_entry_supernight">Mörk natt</string>
   <string name="pref_camera_scenemode_entry_sweepstitch">Svepsöm</string>
@@ -95,6 +100,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Grön punkt</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Rödgul punkt</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Serietidning</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Whiteboard</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Blackboard</string>
   <string name="pref_camera_burst_title">Sekvensläge</string>
   <string name="pref_camera_burst_entry_off">Av</string>
   <string name="pref_camera_burst_entry_5">5 bilder</string>
@@ -112,7 +119,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Röda ögon</string>
   <string name="pref_camera_flashmode_label_redeye">RÖDA ÖGON</string>
   <string name="pref_camera_beauty_mode_title">Skönhetsläge</string>
-  <string name="pref_camera_slow_shutter_title">Långsam slutartid</string>
+  <string name="pref_camera_superzoom_title">Förstora</string>
   <string name="pref_camera_slow_shutter_entry_off">Av</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">0,5 sekunder</string>
@@ -128,4 +135,5 @@
   <string name="camera_menu_effects_label">EFFEKTER</string>
   <string name="camera_menu_asd_label">SMART SCEN</string>
   <string name="pref_camera_power_shutter_title">Påknapp som avtryckare</string>
+  <string name="pref_camera_left_handed_title">Vänsterhänt</string>
 </resources>

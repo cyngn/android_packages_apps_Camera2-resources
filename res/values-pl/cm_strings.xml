@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">Aparat</string>
+  <string name="pref_camera_video_section">Wideo</string>
+  <string name="pref_camera_general_section">Ogólne</string>
+  <string name="pref_camera_picturesize_short_title">Rozmiar</string>
+  <string name="pref_camera_jpegquality_short_title">Jakość</string>
+  <string name="pref_video_quality_alt_title">Rozmiar wideo</string>
+  <string name="pref_video_quality_short_title">Rozmiar</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Mpix (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 Mpix (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Mpix</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Mpix</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Mpix</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">Punktowy zielony</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Punktowy żółto-czerwony</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Kreskówka</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Biała tablica</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Czarna tablica</string>
   <string name="pref_camera_burst_title">Tryb zdjęć seryjnych</string>
   <string name="pref_camera_burst_entry_off">Wyłączony</string>
   <string name="pref_camera_burst_entry_5">5 zdjęć</string>
@@ -112,7 +123,8 @@
   <string name="pref_camera_flashmode_entry_redeye">Czerwone oczy</string>
   <string name="pref_camera_flashmode_label_redeye">CZERWONE OCZY</string>
   <string name="pref_camera_beauty_mode_title">Tryb upiększania</string>
-  <string name="pref_camera_slow_shutter_title">Spowolnienie migawki</string>
+  <string name="pref_camera_superzoom_title">Powiększenie</string>
+  <string name="pref_camera_slow_shutter_title">Prędkość spowolnionej migawki</string>
   <string name="pref_camera_slow_shutter_entry_off">Wyłączone</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatyczne</string>
   <string name="pref_camera_slow_shutter_entry_half_second">1/2 sekundy</string>
@@ -121,6 +133,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 sekundy</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekund</string>
   <string name="pref_camera_storage_title">Pamięć</string>
+  <string name="pref_camera_recordlocation_on">Otaguj zdjęcia obecną lokalizacją</string>
+  <string name="pref_camera_recordlocation_off">Nie taguj zdjęć i filmów obecną lokalizacją</string>
   <string name="camera_menu_enhance_label">POPRAWKI</string>
   <string name="camera_menu_slow_shutter_label">SPOWOLNIENIE MIGAWKI</string>
   <string name="camera_menu_beauty_mode_label">UPIĘKSZANIE</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">EFEKTY</string>
   <string name="camera_menu_asd_label">ROZPOZNAWANIE SCENY</string>
   <string name="pref_camera_power_shutter_title">Migawka przyciskiem zasilania</string>
+  <string name="pref_camera_left_handed_title">Leworęczny</string>
+  <string name="pref_camera_left_handed_summary">Dostosowanie ustawień dla leworęcznych</string>
+  <string name="camera_storage_fallback">Przywracanie domyślnej lokalizacji magazynu</string>
 </resources>

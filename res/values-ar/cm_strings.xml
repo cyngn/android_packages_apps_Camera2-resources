@@ -15,7 +15,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">الكاميرا</string>
+  <string name="pref_camera_video_section">فيديو</string>
+  <string name="pref_camera_general_section">عام</string>
+  <string name="pref_camera_picturesize_short_title">الحجم</string>
+  <string name="pref_camera_jpegquality_short_title">الجودة</string>
+  <string name="pref_video_quality_alt_title">حجم الفيديو</string>
+  <string name="pref_video_quality_short_title">الحجم</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 ميغا بكسل (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 ميغا بكسل (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20.7 ميغا بكسل</string>
   <string name="pref_camera_picturesize_entry_18mp">18 ميغا بكسل</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8 ميغا بكسل</string>
@@ -95,6 +104,8 @@
   <string name="pref_camera_coloreffect_entry_point_green">النقطة الخضراء</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">نقطة أحمر-أصفر</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">كرتون</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">لوح المعلومات</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">سبورة</string>
   <string name="pref_camera_burst_title">وضع الاندفاع</string>
   <string name="pref_camera_burst_entry_off">مغلق</string>
   <string name="pref_camera_burst_entry_5">5 لقطات</string>
@@ -112,15 +123,18 @@
   <string name="pref_camera_flashmode_entry_redeye">العين الحمراء</string>
   <string name="pref_camera_flashmode_label_redeye">العين الحمراء</string>
   <string name="pref_camera_beauty_mode_title">وضع الجمال</string>
-  <string name="pref_camera_slow_shutter_title">مصراع بطيئة</string>
+  <string name="pref_camera_superzoom_title">تكبير</string>
+  <string name="pref_camera_slow_shutter_title">سرعة مصراع بطيئة</string>
   <string name="pref_camera_slow_shutter_entry_off">مغلق</string>
   <string name="pref_camera_slow_shutter_entry_auto">تلقائي</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 ثانية</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ ثانية</string>
   <string name="pref_camera_slow_shutter_entry_1s">الثانية 1</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 ثانية</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 ثوان</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 ثوان</string>
   <string name="pref_camera_storage_title">التخزين</string>
+  <string name="pref_camera_recordlocation_on">علامة اللقطة مع الموقع الحالي</string>
+  <string name="pref_camera_recordlocation_off">لا تضع علامة الصور وأشرطة الفيديو مع موقع</string>
   <string name="camera_menu_enhance_label">تعزيز</string>
   <string name="camera_menu_slow_shutter_label">مصراع بطيئة</string>
   <string name="camera_menu_beauty_mode_label">تجميل</string>
@@ -128,4 +142,7 @@
   <string name="camera_menu_effects_label">آثار</string>
   <string name="camera_menu_asd_label">المشهد الذكية</string>
   <string name="pref_camera_power_shutter_title">مصراع قوي</string>
+  <string name="pref_camera_left_handed_title">اليد اليسرى</string>
+  <string name="pref_camera_left_handed_summary">ضبط عناصر التحكم لاستخدام اليد اليسارى</string>
+  <string name="camera_storage_fallback">العودة إلى موقع التخزين الافتراضي</string>
 </resources>
