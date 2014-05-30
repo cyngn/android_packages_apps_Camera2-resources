@@ -143,6 +143,6 @@
   <string name="camera_menu_asd_label">Chytrá scéna</string>
   <string name="pref_camera_power_shutter_title">Spoušť tlačítkem vypnutí</string>
   <string name="pref_camera_left_handed_title">Pro leváky</string>
-  <string name="pref_camera_left_handed_summary">Upravit prvky pro ovládání levou rukou</string>
+  <string name="pref_camera_left_handed_summary">Upravit ovládání pro ovládání levou rukou</string>
   <string name="camera_storage_fallback">Obnovit umístění ukládání do výchozího úložiště</string>
 </resources>

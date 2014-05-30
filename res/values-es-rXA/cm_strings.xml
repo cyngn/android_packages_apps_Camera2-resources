@@ -142,7 +142,7 @@
   <string name="camera_menu_effects_label">EFEUTOS</string>
   <string name="camera_menu_asd_label">ESCENA INTELIXENTE</string>
   <string name="pref_camera_power_shutter_title">Disparador c/botón d\'encendíu</string>
-  <string name="pref_camera_left_handed_title">Maniegu</string>
-  <string name="pref_camera_left_handed_summary">Axusta los controles pa maniegos</string>
+  <string name="pref_camera_left_handed_title">Mou pa maniegos</string>
+  <string name="pref_camera_left_handed_summary">Axusta controles pa maniegos</string>
   <string name="camera_storage_fallback">Tornando a la llocalización predefinida d\'almacenamientu</string>
 </resources>

@@ -142,7 +142,5 @@
   <string name="camera_menu_effects_label">เอฟเฟค</string>
   <string name="camera_menu_asd_label">สมาร์ทซีน</string>
   <string name="pref_camera_power_shutter_title">ชัตเตอร์ปุ่มเพาเวอร์</string>
-  <string name="pref_camera_left_handed_title">มือซ้าย</string>
-  <string name="pref_camera_left_handed_summary">ตั้งปุ่มควบคุมสำหรับมือซ้าย</string>
   <string name="camera_storage_fallback">เปลี่ยนกลับเป็นสถานที่เก็บเริ่มต้น</string>
 </resources>
