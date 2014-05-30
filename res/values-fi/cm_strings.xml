@@ -127,7 +127,7 @@
   <string name="pref_camera_slow_shutter_title">Hitaan sulkimen nopeus</string>
   <string name="pref_camera_slow_shutter_entry_off">Pois päältä</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automaattinen</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 sekuntia</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ sekuntia</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 sekunti</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 sekuntia</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekuntia</string>

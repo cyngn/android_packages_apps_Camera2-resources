@@ -127,7 +127,7 @@
   <string name="pref_camera_slow_shutter_title">Velocidá d\'obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Apagáu</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 segundu</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ segundu</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 segundu</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 segundos</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
@@ -142,7 +142,7 @@
   <string name="camera_menu_effects_label">EFEUTOS</string>
   <string name="camera_menu_asd_label">ESCENA INTELIXENTE</string>
   <string name="pref_camera_power_shutter_title">Disparador c/botón d\'encendíu</string>
-  <string name="pref_camera_left_handed_title">Maniegu</string>
-  <string name="pref_camera_left_handed_summary">Axusta los controles pa maniegos</string>
+  <string name="pref_camera_left_handed_title">Mou pa maniegos</string>
+  <string name="pref_camera_left_handed_summary">Axusta controles pa maniegos</string>
   <string name="camera_storage_fallback">Tornando a la llocalización predefinida d\'almacenamientu</string>
 </resources>

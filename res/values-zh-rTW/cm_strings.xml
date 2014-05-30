@@ -16,6 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="pref_camera_camera_section">相機</string>
+  <string name="pref_camera_video_section">影片</string>
+  <string name="pref_camera_general_section">一般</string>
+  <string name="pref_video_quality_alt_title">影片大小</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">970 萬像素 (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">570 萬像素 (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">2070 萬像素</string>
   <string name="pref_camera_picturesize_entry_18mp">1800 萬像素</string>
   <string name="pref_camera_picturesize_entry_12_8mp">1280 萬像素</string>
@@ -39,4 +45,12 @@
   <string name="pref_camera_picturesize_entry_nhd">nHD</string>
   <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
   <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
+  <string name="pref_camera_scenemode_entry_document">文件</string>
+  <string name="pref_camera_burst_entry_off">關閉</string>
+  <string name="pref_camera_slow_shutter_entry_off">關閉</string>
+  <string name="pref_camera_slow_shutter_entry_auto">自動</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ 秒</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 秒</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 秒</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 秒</string>
 </resources>

@@ -126,8 +126,8 @@
   <string name="pref_camera_superzoom_title">Ampliar</string>
   <string name="pref_camera_slow_shutter_title">Velocidade lenta do obturador</string>
   <string name="pref_camera_slow_shutter_entry_off">Desligado</string>
-  <string name="pref_camera_slow_shutter_entry_auto">Automático</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 segundo</string>
+  <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ segundo</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 segundo</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 segundos</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>

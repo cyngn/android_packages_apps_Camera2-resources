@@ -23,8 +23,8 @@
   <string name="pref_camera_jpegquality_short_title">Якість</string>
   <string name="pref_video_quality_alt_title">Розмір відео</string>
   <string name="pref_video_quality_short_title">Розмір</string>
-  <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 Мпікс. (16:9)</string>
-  <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7 Мпікс. (16:9)</string>
+  <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Мпікс. (16:9)</string>
+  <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 Мпікс. (16:9)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Мпікс.</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Мпікс.</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Мпікс.</string>
@@ -142,7 +142,5 @@
   <string name="camera_menu_effects_label">Ефекти</string>
   <string name="camera_menu_asd_label">Розпізн. умов зйомки</string>
   <string name="pref_camera_power_shutter_title">Зйомка кноп. живлення</string>
-  <string name="pref_camera_left_handed_title">Для лівші</string>
-  <string name="pref_camera_left_handed_summary">Показувати елементи керування зліва на екрані</string>
   <string name="camera_storage_fallback">Відновлення шляху сховища за замовчуванням</string>
 </resources>

@@ -127,7 +127,7 @@
   <string name="pref_camera_slow_shutter_title">Hosszú záridő</string>
   <string name="pref_camera_slow_shutter_entry_off">Ki</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatikus</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 másodperc</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ másodperc</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 másodperc</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 másodperc</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 másodperc</string>
@@ -142,7 +142,7 @@
   <string name="camera_menu_effects_label">Effektek</string>
   <string name="camera_menu_asd_label">Intelligens jelenet</string>
   <string name="pref_camera_power_shutter_title">Bekapcsoló gombbal exponálás</string>
-  <string name="pref_camera_left_handed_title">Bal kezes mód</string>
-  <string name="pref_camera_left_handed_summary">Vezérlőelemek igazítása balkezes módhoz</string>
+  <string name="pref_camera_left_handed_title">Balkezes</string>
+  <string name="pref_camera_left_handed_summary">Vezérlőelemek balkezes módhoz igazítása</string>
   <string name="camera_storage_fallback">Visszaállítás az alapértelmezett tárolóra</string>
 </resources>
