@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">MATA MERAH</string>
   <string name="pref_camera_beauty_mode_title">Mode beauty</string>
   <string name="pref_camera_superzoom_title">Perbesar</string>
-  <string name="pref_camera_slow_shutter_title">Kecepatan bidik lambat</string>
+  <string name="pref_camera_slow_shutter_title">Bidik lambat</string>
+  <string name="pref_camera_slow_shutter_delay_title">Kecepatan bidik lambat</string>
   <string name="pref_camera_slow_shutter_entry_off">Nonaktif</string>
   <string name="pref_camera_slow_shutter_entry_auto">Otomatis</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ detik</string>
@@ -142,7 +143,10 @@
   <string name="camera_menu_effects_label">Efek</string>
   <string name="camera_menu_asd_label">Smart Scene</string>
   <string name="pref_camera_power_shutter_title">Bidik dengan tombol power</string>
+  <string name="pref_camera_power_shutter_summary">Tombol power mengambil foto</string>
   <string name="pref_camera_left_handed_title">Tangan kiri</string>
   <string name="pref_camera_left_handed_summary">Sesuaikan kontrol untuk pengguna tangan kiri</string>
   <string name="camera_storage_fallback">Kembali ke lokasi penyimpanan semula</string>
+  <string name="pref_camera_volume_zoom_title">Volume zoom</string>
+  <string name="pref_camera_volume_zoom_summary">Tombol volume kontrol zoom</string>
 </resources>

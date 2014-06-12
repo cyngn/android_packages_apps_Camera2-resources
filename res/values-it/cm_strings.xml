@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">OCCHI ROSSI</string>
   <string name="pref_camera_beauty_mode_title">Bellezza</string>
   <string name="pref_camera_superzoom_title">Ingrandisci</string>
-  <string name="pref_camera_slow_shutter_title">Velocità scatto lenta</string>
+  <string name="pref_camera_slow_shutter_title">Aumenta esposizione</string>
+  <string name="pref_camera_slow_shutter_delay_title">Aumenta tempo di esposizione</string>
   <string name="pref_camera_slow_shutter_entry_off">OFF</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatico</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ secondo</string>
@@ -142,7 +143,10 @@
   <string name="camera_menu_effects_label">Effetti</string>
   <string name="camera_menu_asd_label">Scena intelligente</string>
   <string name="pref_camera_power_shutter_title">Scatta tasto On/Off</string>
+  <string name="pref_camera_power_shutter_summary">Il tasto accensione scatta la foto</string>
   <string name="pref_camera_left_handed_title">Mancino</string>
   <string name="pref_camera_left_handed_summary">Regola i controlli per l\'uso con la mano sinistra</string>
   <string name="camera_storage_fallback">Ripristina la cartella di memorizzazione predefinita</string>
+  <string name="pref_camera_volume_zoom_title">Zoom tasti volume</string>
+  <string name="pref_camera_volume_zoom_summary">I tasti volume controllano lo zoom</string>
 </resources>

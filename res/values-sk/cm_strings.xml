@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">ČERVENÉ OČI</string>
   <string name="pref_camera_beauty_mode_title">Režim krásy</string>
   <string name="pref_camera_superzoom_title">Zväčšenie</string>
-  <string name="pref_camera_slow_shutter_title">Pomalá rýchlosť uzávierky</string>
+  <string name="pref_camera_slow_shutter_title">Pomalá uzávierka</string>
+  <string name="pref_camera_slow_shutter_delay_title">Pomalá rýchlosť uzávierky</string>
   <string name="pref_camera_slow_shutter_entry_off">Vypnuté</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automaticky</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ sekundy</string>
@@ -141,8 +142,11 @@
   <string name="camera_menu_colorize_label">VYFARBENIE</string>
   <string name="camera_menu_effects_label">Efekty</string>
   <string name="camera_menu_asd_label">Inteligentná scéna</string>
-  <string name="pref_camera_power_shutter_title">Uzávierka tlačidlom vypnutia</string>
+  <string name="pref_camera_power_shutter_title">Uzávierka tlačidlom napájania</string>
+  <string name="pref_camera_power_shutter_summary">Odfotiť tlačidlom napájania</string>
   <string name="pref_camera_left_handed_title">Režim pre ľavákov</string>
   <string name="pref_camera_left_handed_summary">Upraviť ovládacie prvky pre ovládanie ľavou rukou</string>
   <string name="camera_storage_fallback">Obnovovanie na predvolený ukladací priestor</string>
+  <string name="pref_camera_volume_zoom_title">Priblíženie tlačidlami hlasitosti</string>
+  <string name="pref_camera_volume_zoom_summary">Ovládať priblíženie tlačidlami hlasitosti</string>
 </resources>

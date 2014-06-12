@@ -18,7 +18,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="pref_camera_camera_section">Kamera</string>
   <string name="pref_camera_video_section">Video</string>
+  <string name="pref_camera_general_section">Allmän</string>
   <string name="pref_camera_picturesize_short_title">Storlek</string>
+  <string name="pref_camera_jpegquality_short_title">Kvalitet</string>
   <string name="pref_video_quality_alt_title">Videostorlek</string>
   <string name="pref_video_quality_short_title">Storlek</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 megapixlar (16:9)</string>
@@ -50,6 +52,7 @@
   <string name="pref_camera_scenemode_entry_aqua">Vatten</string>
   <string name="pref_camera_scenemode_entry_ar">Förstärkt verklighet</string>
   <string name="pref_camera_scenemode_entry_asd">Bästa bild</string>
+  <string name="pref_camera_scenemode_entry_baby">Baby</string>
   <string name="pref_camera_scenemode_entry_backgroundblur">Bakgrundsoskärpa</string>
   <string name="pref_camera_scenemode_entry_backlight">Motljus</string>
   <string name="pref_camera_scenemode_entry_backlightportrait">Motljusporträtt</string>
@@ -80,6 +83,7 @@
   <string name="pref_camera_scenemode_entry_snow">Snö</string>
   <string name="pref_camera_scenemode_entry_softskin">Mjuk hud</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
+  <string name="pref_camera_scenemode_entry_spotlight">Spotlight</string>
   <string name="pref_camera_scenemode_entry_steadyphoto">Stadigt foto</string>
   <string name="pref_camera_scenemode_entry_supernight">Mörk natt</string>
   <string name="pref_camera_scenemode_entry_sweepstitch">Svepsöm</string>
@@ -120,6 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">RÖDA ÖGON</string>
   <string name="pref_camera_beauty_mode_title">Skönhetsläge</string>
   <string name="pref_camera_superzoom_title">Förstora</string>
+  <string name="pref_camera_slow_shutter_title">Långsam slutare</string>
+  <string name="pref_camera_slow_shutter_delay_title">Lång slutartid</string>
   <string name="pref_camera_slow_shutter_entry_off">Av</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ sekund</string>
@@ -128,6 +134,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 sekunder</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekunder</string>
   <string name="pref_camera_storage_title">Lagring</string>
+  <string name="pref_camera_recordlocation_on">Geotagga foton</string>
+  <string name="pref_camera_recordlocation_off">Geotagga inte bilder och videor</string>
   <string name="camera_menu_enhance_label">FÖRBÄTTRA</string>
   <string name="camera_menu_slow_shutter_label">LÅNGSAM SLUTARTID</string>
   <string name="camera_menu_beauty_mode_label">FÖRSKÖNA</string>
@@ -135,4 +143,10 @@
   <string name="camera_menu_effects_label">EFFEKTER</string>
   <string name="camera_menu_asd_label">SMART SCEN</string>
   <string name="pref_camera_power_shutter_title">Påknapp som avtryckare</string>
+  <string name="pref_camera_power_shutter_summary">Avstängningsknappen tar foto</string>
+  <string name="pref_camera_left_handed_title">Vänsterhänt</string>
+  <string name="pref_camera_left_handed_summary">Justera kontroller för vänsterhänta</string>
+  <string name="camera_storage_fallback">Återgår till standardlagringsplats</string>
+  <string name="pref_camera_volume_zoom_title">Zoom med volym</string>
+  <string name="pref_camera_volume_zoom_summary">Volymknapparna kontrollerar zoom</string>
 </resources>

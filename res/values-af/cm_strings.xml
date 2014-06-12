@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">ROOI OOG</string>
   <string name="pref_camera_beauty_mode_title">Skoonheids modus</string>
   <string name="pref_camera_superzoom_title">Vergroot</string>
-  <string name="pref_camera_slow_shutter_title">Stadige sluiterspoed</string>
+  <string name="pref_camera_slow_shutter_title">Stadige sluiter</string>
+  <string name="pref_camera_slow_shutter_delay_title">Stadige sluiterspoed</string>
   <string name="pref_camera_slow_shutter_entry_off">af</string>
   <string name="pref_camera_slow_shutter_entry_auto">Outo</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ sekonde</string>
@@ -142,7 +143,10 @@
   <string name="camera_menu_effects_label">Effekte</string>
   <string name="camera_menu_asd_label">Mooi toneel</string>
   <string name="pref_camera_power_shutter_title">Krag knoppie</string>
+  <string name="pref_camera_power_shutter_summary">Krag knoppie neem foto</string>
   <string name="pref_camera_left_handed_title">Links handig</string>
   <string name="pref_camera_left_handed_summary">Verander gebruik vir links handige persoon</string>
   <string name="camera_storage_fallback">Stel terug na standaard spasie plek</string>
+  <string name="pref_camera_volume_zoom_title">Volume vergroot</string>
+  <string name="pref_camera_volume_zoom_summary">Volume sleutels beheer vergroting</string>
 </resources>

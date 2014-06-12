@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">עיניים אדומות</string>
   <string name="pref_camera_beauty_mode_title">מצב יופי</string>
   <string name="pref_camera_superzoom_title">הגדל</string>
-  <string name="pref_camera_slow_shutter_title">צמצם איטי</string>
+  <string name="pref_camera_slow_shutter_title">תריס איטי</string>
+  <string name="pref_camera_slow_shutter_delay_title">האט מהירות צמצם</string>
   <string name="pref_camera_slow_shutter_entry_off">כבוי</string>
   <string name="pref_camera_slow_shutter_entry_auto">אוטומטי</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ שנייה</string>
@@ -142,5 +143,10 @@
   <string name="camera_menu_effects_label">אפקטים</string>
   <string name="camera_menu_asd_label">סצנה חכמה</string>
   <string name="pref_camera_power_shutter_title">לחצן צילום</string>
+  <string name="pref_camera_power_shutter_summary">כפתור כיבוי מצלם תמונה</string>
+  <string name="pref_camera_left_handed_title">שמאלי</string>
+  <string name="pref_camera_left_handed_summary">כוון בקרה עבור שמאליים</string>
   <string name="camera_storage_fallback">מחזיר למיקום אחסון ברירת מחדל</string>
+  <string name="pref_camera_volume_zoom_title">התקרבות עם לחצני קול</string>
+  <string name="pref_camera_volume_zoom_summary">מקשי הקול שולטים בהתקרבות</string>
 </resources>
