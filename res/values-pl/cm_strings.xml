@@ -124,7 +124,6 @@
   <string name="pref_camera_flashmode_label_redeye">CZERWONE OCZY</string>
   <string name="pref_camera_beauty_mode_title">Tryb upiększania</string>
   <string name="pref_camera_superzoom_title">Powiększenie</string>
-  <string name="pref_camera_slow_shutter_title">Prędkość spowolnionej migawki</string>
   <string name="pref_camera_slow_shutter_entry_off">Wyłączone</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatyczne</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ sekundy</string>

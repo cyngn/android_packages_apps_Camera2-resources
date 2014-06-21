@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">ULLS VERMELLS</string>
   <string name="pref_camera_beauty_mode_title">Mode bonic</string>
   <string name="pref_camera_superzoom_title">Magnifica</string>
-  <string name="pref_camera_slow_shutter_title">Velocitat de l\'obturador lenta</string>
+  <string name="pref_camera_slow_shutter_title">Obturador lent</string>
+  <string name="pref_camera_slow_shutter_delay_title">Velocitat de l\'obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Desactivat</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ segon</string>
@@ -142,7 +143,10 @@
   <string name="camera_menu_effects_label">EFECTES</string>
   <string name="camera_menu_asd_label">ESCENA INTEL·LIGENT</string>
   <string name="pref_camera_power_shutter_title">Obturador ràpid</string>
+  <string name="pref_camera_power_shutter_summary">El botó d\'apagat fa una foto</string>
   <string name="pref_camera_left_handed_title">Esquerrà</string>
   <string name="pref_camera_left_handed_summary">Ajusta els controls per als esquerrans</string>
   <string name="camera_storage_fallback">S\'està tornant a la ubicació predefinida d\'emmagatzematge</string>
+  <string name="pref_camera_volume_zoom_title">Zoom amb el volum</string>
+  <string name="pref_camera_volume_zoom_summary">Les tecles de volum controlen el zoom</string>
 </resources>

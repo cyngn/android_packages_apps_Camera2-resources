@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">ЦРВЕНЕ ОЧИ</string>
   <string name="pref_camera_beauty_mode_title">Режим лепоте</string>
   <string name="pref_camera_superzoom_title">Увеличај</string>
-  <string name="pref_camera_slow_shutter_title">Брзина спорог окидача</string>
+  <string name="pref_camera_slow_shutter_title">Спори окидач</string>
+  <string name="pref_camera_slow_shutter_delay_title">Брзина спорог окидача</string>
   <string name="pref_camera_slow_shutter_entry_off">Искључено</string>
   <string name="pref_camera_slow_shutter_entry_auto">Аутоматски</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ секунде</string>
@@ -142,7 +143,10 @@
   <string name="camera_menu_effects_label">ЕФЕКТИ</string>
   <string name="camera_menu_asd_label">ПАМЕТНА СЦЕНА</string>
   <string name="pref_camera_power_shutter_title">Power окидач</string>
+  <string name="pref_camera_power_shutter_summary">Дугме за Напајање ради фотографије</string>
   <string name="pref_camera_left_handed_title">Лево-руко</string>
   <string name="pref_camera_left_handed_summary">Подесите контроле за лево-руку употребу</string>
   <string name="camera_storage_fallback">Враћање на подразумевану локацију за складиштење</string>
+  <string name="pref_camera_volume_zoom_title">Јачина зума</string>
+  <string name="pref_camera_volume_zoom_summary">Тастери за јачину звука контролишу зум</string>
 </resources>

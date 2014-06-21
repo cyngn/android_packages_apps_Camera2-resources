@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">УМ. ЭФФ. КРАСНЫХ ГЛАЗ</string>
   <string name="pref_camera_beauty_mode_title">Автоулучшение</string>
   <string name="pref_camera_superzoom_title">Увеличение</string>
-  <string name="pref_camera_slow_shutter_title">Время экспозиции</string>
+  <string name="pref_camera_slow_shutter_title">Длит. выдержка</string>
+  <string name="pref_camera_slow_shutter_delay_title">Время экспозиции</string>
   <string name="pref_camera_slow_shutter_entry_off">Выкл.</string>
   <string name="pref_camera_slow_shutter_entry_auto">Авто</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ секунды</string>
@@ -142,7 +143,10 @@
   <string name="camera_menu_effects_label">ЭФФЕКТЫ</string>
   <string name="camera_menu_asd_label">РАСПОЗН. УСЛОВИЙ СЪЕМКИ</string>
   <string name="pref_camera_power_shutter_title">Съёмка кн. питания</string>
+  <string name="pref_camera_power_shutter_summary">Съёмка кнопкой питания</string>
   <string name="pref_camera_left_handed_title">Режим левши</string>
   <string name="pref_camera_left_handed_summary">Отображать элементы управления слева на экране</string>
   <string name="camera_storage_fallback">Возврат к месту сохранения по умолчанию</string>
+  <string name="pref_camera_volume_zoom_title">Масштаб. кнопками громкости</string>
+  <string name="pref_camera_volume_zoom_summary">Кнопки громкости управл. приближением</string>
 </resources>

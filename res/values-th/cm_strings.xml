@@ -124,7 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">ตาแดง</string>
   <string name="pref_camera_beauty_mode_title">รูปแบบสวยงาม</string>
   <string name="pref_camera_superzoom_title">ขยาย</string>
-  <string name="pref_camera_slow_shutter_title">ความเร็วชัตเตอร์ช้า</string>
+  <string name="pref_camera_slow_shutter_title">ชัตเตอร์ช้า</string>
+  <string name="pref_camera_slow_shutter_delay_title">ความเร็วชัตเตอร์ช้า</string>
   <string name="pref_camera_slow_shutter_entry_off">ปิด</string>
   <string name="pref_camera_slow_shutter_entry_auto">อัตโนมัติ</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ วินาที</string>
@@ -142,5 +143,10 @@
   <string name="camera_menu_effects_label">เอฟเฟค</string>
   <string name="camera_menu_asd_label">สมาร์ทซีน</string>
   <string name="pref_camera_power_shutter_title">ชัตเตอร์ปุ่มเพาเวอร์</string>
+  <string name="pref_camera_power_shutter_summary">ปุ่มเพาเวอร์เพื่อถ่ายภาพ</string>
+  <string name="pref_camera_left_handed_title">มือซ้าย</string>
+  <string name="pref_camera_left_handed_summary">ตั้งปุ่มควบคุมสำหรับมือซ้าย</string>
   <string name="camera_storage_fallback">เปลี่ยนกลับเป็นสถานที่เก็บเริ่มต้น</string>
+  <string name="pref_camera_volume_zoom_title">ใช้ปุ่มปรับเสียงซูม</string>
+  <string name="pref_camera_volume_zoom_summary">ปุ่มปรับเสียงควบคุมการซูม</string>
 </resources>
