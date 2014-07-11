@@ -124,6 +124,8 @@
   <string name="pref_camera_flashmode_label_redeye">ЕФ. ЧЕРВ. ОЧЕЙ</string>
   <string name="pref_camera_beauty_mode_title">Автопокращення</string>
   <string name="pref_camera_superzoom_title">Збільшення</string>
+  <string name="pref_camera_slow_shutter_title">Повільний затвор</string>
+  <string name="pref_camera_slow_shutter_delay_title">Довга витримка</string>
   <string name="pref_camera_slow_shutter_entry_off">Вимкнути</string>
   <string name="pref_camera_slow_shutter_entry_auto">Авто</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ секунди</string>
@@ -141,5 +143,10 @@
   <string name="camera_menu_effects_label">Ефекти</string>
   <string name="camera_menu_asd_label">Розпізн. умов зйомки</string>
   <string name="pref_camera_power_shutter_title">Зйомка кноп. живлення</string>
+  <string name="pref_camera_power_shutter_summary">Кнопка живлення фотографує</string>
+  <string name="pref_camera_left_handed_title">Режим лівші</string>
+  <string name="pref_camera_left_handed_summary">Показувати елементи керування зліва на екрані</string>
   <string name="camera_storage_fallback">Відновлення шляху сховища за замовчуванням</string>
+  <string name="pref_camera_volume_zoom_title">Масштаб. кнопками гучності</string>
+  <string name="pref_camera_volume_zoom_summary">Кнопки гучності керують зближенням</string>
 </resources>
