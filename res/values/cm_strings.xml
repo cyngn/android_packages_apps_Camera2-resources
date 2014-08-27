@@ -29,6 +29,12 @@
     <!-- Settings screen, Picture quality title, the word Quality only -->
     <string name="pref_camera_jpegquality_short_title">Quality</string>
 
+    <!-- Settings screen, Raw mode toggle -->
+    <string name="pref_camera_raw_mode_title">Save raw image</string>
+    <string name="pref_camera_raw_mode_default" translatable="false">false</string>
+    <!-- Warn about Raw/Beauty mode conflict -->
+    <string name="beauty_mode_disables_raw">Beauty mode disables raw capture</string>
+
     <!-- The Video quality settings in preference -->
     <string name="pref_video_quality_alt_title">Video size</string>
     <!-- The Video quality settings in preference, word Size only -->
