@@ -123,6 +123,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Mata merah</string>
   <string name="pref_camera_flashmode_label_redeye">MATA MERAH</string>
   <string name="pref_camera_beauty_mode_title">Mode beauty</string>
+  <string name="pref_camera_clear_image_title">Gambar bersih</string>
   <string name="pref_camera_slow_shutter_title">Bidik lambat</string>
   <string name="pref_camera_slow_shutter_delay_title">Kecepatan bidik lambat</string>
   <string name="pref_camera_slow_shutter_entry_off">Nonaktif</string>
@@ -148,4 +149,6 @@
   <string name="camera_storage_fallback">Kembali ke lokasi penyimpanan semula</string>
   <string name="pref_camera_volume_zoom_title">Volume zoom</string>
   <string name="pref_camera_volume_zoom_summary">Tombol volume kontrol zoom</string>
+  <string name="pref_max_brightness_title">Layar cerah</string>
+  <string name="pref_max_brightness_summary">Mengatur kecerahan maksimum saat kamera sedang aktif</string>
 </resources>

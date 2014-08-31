@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">General</string>
   <string name="pref_camera_picturesize_short_title">Dimensiune</string>
   <string name="pref_camera_jpegquality_short_title">Calitate</string>
+  <string name="pref_camera_raw_mode_title">Salvare imagine brută</string>
+  <string name="beauty_mode_disables_raw">Modul de frumusețe dezactivează captura brută</string>
   <string name="pref_video_quality_alt_title">Dimensiune video</string>
   <string name="pref_video_quality_short_title">Dimensiune</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7M pixeli (16:9)</string>
@@ -123,6 +125,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Ochi roșii</string>
   <string name="pref_camera_flashmode_label_redeye">OCHI ROȘII</string>
   <string name="pref_camera_beauty_mode_title">Mod de frumusețe</string>
+  <string name="pref_camera_clear_image_title">Șterge imaginea</string>
   <string name="pref_camera_slow_shutter_title">Obturare lentă</string>
   <string name="pref_camera_slow_shutter_delay_title">Viteză lentă de obturare</string>
   <string name="pref_camera_slow_shutter_entry_off">Oprit</string>
@@ -148,4 +151,6 @@
   <string name="camera_storage_fallback">Revenire la locația de stocare implicită</string>
   <string name="pref_camera_volume_zoom_title">Zoom din volum</string>
   <string name="pref_camera_volume_zoom_summary">Butoanele de volum controlează zoom-ul</string>
+  <string name="pref_max_brightness_title">Ecran luminos</string>
+  <string name="pref_max_brightness_summary">Setaează luminozitatea la maxim, cât timp Camera este activă</string>
 </resources>

@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">Generale</string>
   <string name="pref_camera_picturesize_short_title">Dimensione</string>
   <string name="pref_camera_jpegquality_short_title">Qualità</string>
+  <string name="pref_camera_raw_mode_title">Salva immagine raw</string>
+  <string name="beauty_mode_disables_raw">La modalità bellezza disattiva la cattura in raw</string>
   <string name="pref_video_quality_alt_title">Dimensioni video</string>
   <string name="pref_video_quality_short_title">Dimensione</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Mpixel (16:9)</string>
@@ -123,6 +125,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Occhi rossi</string>
   <string name="pref_camera_flashmode_label_redeye">OCCHI ROSSI</string>
   <string name="pref_camera_beauty_mode_title">Bellezza</string>
+  <string name="pref_camera_clear_image_title">Immagine pulita</string>
   <string name="pref_camera_slow_shutter_title">Aumenta esposizione</string>
   <string name="pref_camera_slow_shutter_delay_title">Aumenta tempo di esposizione</string>
   <string name="pref_camera_slow_shutter_entry_off">OFF</string>
@@ -148,4 +151,6 @@
   <string name="camera_storage_fallback">Ripristina la cartella di memorizzazione predefinita</string>
   <string name="pref_camera_volume_zoom_title">Zoom tasti volume</string>
   <string name="pref_camera_volume_zoom_summary">I tasti volume controllano lo zoom</string>
+  <string name="pref_max_brightness_title">Schermo luminoso</string>
+  <string name="pref_max_brightness_summary">Imposta la luminosità al massimo quando la fotocamera è attiva</string>
 </resources>

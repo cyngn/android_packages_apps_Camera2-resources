@@ -123,6 +123,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Yeux rouges</string>
   <string name="pref_camera_flashmode_label_redeye">YEUX ROUGES</string>
   <string name="pref_camera_beauty_mode_title">Mode beauté</string>
+  <string name="pref_camera_clear_image_title">Image nette</string>
   <string name="pref_camera_slow_shutter_title">Obturation lente</string>
   <string name="pref_camera_slow_shutter_delay_title">Vitesse d\'obturation lente</string>
   <string name="pref_camera_slow_shutter_entry_off">Désactiver</string>
@@ -148,4 +149,6 @@
   <string name="camera_storage_fallback">Retour à l\'emplacement de stockage par défaut</string>
   <string name="pref_camera_volume_zoom_title">Zoom par le volume</string>
   <string name="pref_camera_volume_zoom_summary">Les touches du volume contrôlent le zoom</string>
+  <string name="pref_max_brightness_title">Écran lumineux</string>
+  <string name="pref_max_brightness_summary">Réglez la luminosité au maximum lorsque la caméra est active</string>
 </resources>

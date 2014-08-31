@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">Generelt</string>
   <string name="pref_camera_picturesize_short_title">Størrelse</string>
   <string name="pref_camera_jpegquality_short_title">Kvalitet</string>
+  <string name="pref_camera_raw_mode_title">Gem raw-billede</string>
+  <string name="beauty_mode_disables_raw">Tilstanden Skønhed deaktiverer raw-billeder</string>
   <string name="pref_video_quality_alt_title">Videostørrelse</string>
   <string name="pref_video_quality_short_title">Størrelse</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 megapixels (16:9)</string>
@@ -123,6 +125,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Redøje</string>
   <string name="pref_camera_flashmode_label_redeye">RØDØJE</string>
   <string name="pref_camera_beauty_mode_title">Forskønnelsestilstand</string>
+  <string name="pref_camera_clear_image_title">Klart billede</string>
   <string name="pref_camera_slow_shutter_title">Langsom udløser</string>
   <string name="pref_camera_slow_shutter_delay_title">Langsom lukkertid</string>
   <string name="pref_camera_slow_shutter_entry_off">Fra</string>
@@ -148,4 +151,6 @@
   <string name="camera_storage_fallback">Vender tilbage til standardlagerplaceringen</string>
   <string name="pref_camera_volume_zoom_title">Zoom med lydstyrke</string>
   <string name="pref_camera_volume_zoom_summary">Zoom med lydstyrkeknapper</string>
+  <string name="pref_max_brightness_title">Lysstærk skærm</string>
+  <string name="pref_max_brightness_summary">Indstil lysstyrke til maksimum, mens kameraet er aktivt</string>
 </resources>

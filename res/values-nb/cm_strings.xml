@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">Generelt</string>
   <string name="pref_camera_picturesize_short_title">Størrelse</string>
   <string name="pref_camera_jpegquality_short_title">Kvalitet</string>
+  <string name="pref_camera_raw_mode_title">Lagre raw-bilde</string>
+  <string name="beauty_mode_disables_raw">Skjønnhetsmodus deaktiverer raw-bilde</string>
   <string name="pref_video_quality_alt_title">Videostørrelse</string>
   <string name="pref_video_quality_short_title">Størrelse</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 M piksler (16:9)</string>
@@ -123,6 +125,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Røde øyne</string>
   <string name="pref_camera_flashmode_label_redeye">RØDE ØYNE</string>
   <string name="pref_camera_beauty_mode_title">Skjønnhetsmodus</string>
+  <string name="pref_camera_clear_image_title">Klart bilde</string>
   <string name="pref_camera_slow_shutter_title">Treg lukker</string>
   <string name="pref_camera_slow_shutter_delay_title">Treg lukkerhastighet</string>
   <string name="pref_camera_slow_shutter_entry_off">Av</string>
@@ -148,4 +151,6 @@
   <string name="camera_storage_fallback">Går tilbake til standard lagringsplassering</string>
   <string name="pref_camera_volume_zoom_title">Volum zoom</string>
   <string name="pref_camera_volume_zoom_summary">Volumknapper kontrollerer zoom</string>
+  <string name="pref_max_brightness_title">Lys skjerm</string>
+  <string name="pref_max_brightness_summary">Sett lysstyrken til maksimum når kameraet er aktivt</string>
 </resources>

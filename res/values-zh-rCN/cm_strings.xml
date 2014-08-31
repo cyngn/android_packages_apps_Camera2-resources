@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">常规</string>
   <string name="pref_camera_picturesize_short_title">大小</string>
   <string name="pref_camera_jpegquality_short_title">质量</string>
+  <string name="pref_camera_raw_mode_title">保存原始图像</string>
+  <string name="beauty_mode_disables_raw">美化模式将禁用 RAW 拍摄</string>
   <string name="pref_video_quality_alt_title">视频大小</string>
   <string name="pref_video_quality_short_title">大小</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">970 万像素 (16:9)</string>

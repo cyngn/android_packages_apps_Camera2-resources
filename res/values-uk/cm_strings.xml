@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">Загальні</string>
   <string name="pref_camera_picturesize_short_title">Розмір</string>
   <string name="pref_camera_jpegquality_short_title">Якість</string>
+  <string name="pref_camera_raw_mode_title">Зберігати raw-зображення</string>
+  <string name="beauty_mode_disables_raw">Автопокращення вимикає знімок RAW</string>
   <string name="pref_video_quality_alt_title">Розмір відео</string>
   <string name="pref_video_quality_short_title">Розмір</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 Мпікс (16:9)</string>

@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">일반</string>
   <string name="pref_camera_picturesize_short_title">크기</string>
   <string name="pref_camera_jpegquality_short_title">품질</string>
+  <string name="pref_camera_raw_mode_title">RAW 이미지 저장</string>
+  <string name="beauty_mode_disables_raw">피부 보정 모드에선 RAW 저장을 할 수 없습니다</string>
   <string name="pref_video_quality_alt_title">비디오 크기</string>
   <string name="pref_video_quality_short_title">크기</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">970만 화소 (16:9)</string>

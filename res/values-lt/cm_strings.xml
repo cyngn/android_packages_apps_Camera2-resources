@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">Bendra</string>
   <string name="pref_camera_picturesize_short_title">Dydis</string>
   <string name="pref_camera_jpegquality_short_title">Kokybė</string>
+  <string name="pref_camera_raw_mode_title">Išsaugoti neapdorotą nuotrauką</string>
+  <string name="beauty_mode_disables_raw">Grožio režimas išjungia neapdorotą fotografavimą</string>
   <string name="pref_video_quality_alt_title">Vaizdo dydis</string>
   <string name="pref_video_quality_short_title">Dydis</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 MP (16:9)</string>

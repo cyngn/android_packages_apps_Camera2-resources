@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">全般</string>
   <string name="pref_camera_picturesize_short_title">サイズ</string>
   <string name="pref_camera_jpegquality_short_title">画質</string>
+  <string name="pref_camera_raw_mode_title">RAW画像を保存</string>
+  <string name="beauty_mode_disables_raw">ビューティーモードはRAWキャプチャを無効にします</string>
   <string name="pref_video_quality_alt_title">動画のサイズ</string>
   <string name="pref_video_quality_short_title">サイズ</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7メガピクセル（16:9）</string>

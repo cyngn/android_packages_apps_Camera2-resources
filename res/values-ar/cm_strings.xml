@@ -123,6 +123,7 @@
   <string name="pref_camera_flashmode_entry_redeye">العين الحمراء</string>
   <string name="pref_camera_flashmode_label_redeye">العين الحمراء</string>
   <string name="pref_camera_beauty_mode_title">وضع الجمال</string>
+  <string name="pref_camera_clear_image_title">صورة واضحة</string>
   <string name="pref_camera_slow_shutter_title">مصراع بطيئة</string>
   <string name="pref_camera_slow_shutter_delay_title">سرعة مصراع بطيئة</string>
   <string name="pref_camera_slow_shutter_entry_off">مغلق</string>
@@ -148,4 +149,6 @@
   <string name="camera_storage_fallback">العودة إلى موقع التخزين الافتراضي</string>
   <string name="pref_camera_volume_zoom_title">أزار الصوت لي التكبير</string>
   <string name="pref_camera_volume_zoom_summary">ازرار الصوت تتحكم في التكبير</string>
+  <string name="pref_max_brightness_title">شاشة ساطعة</string>
+  <string name="pref_max_brightness_summary">تعيين السطوع إلى الحد الأقصى عندما تكون الكاميرا شغالة</string>
 </resources>
