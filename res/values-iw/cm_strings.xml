@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">כללי</string>
   <string name="pref_camera_picturesize_short_title">גודל</string>
   <string name="pref_camera_jpegquality_short_title">איכות</string>
+  <string name="pref_camera_raw_mode_title">שמור תמונה נקייה</string>
+  <string name="beauty_mode_disables_raw">מצב יופי מבטל לכידת תמונה נקייה</string>
   <string name="pref_video_quality_alt_title">גודל וידאו</string>
   <string name="pref_video_quality_short_title">גודל</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7מגה פיקסל (16:9)</string>
@@ -123,6 +125,7 @@
   <string name="pref_camera_flashmode_entry_redeye">עיניים אדומות</string>
   <string name="pref_camera_flashmode_label_redeye">עיניים אדומות</string>
   <string name="pref_camera_beauty_mode_title">מצב יופי</string>
+  <string name="pref_camera_clear_image_title">נקה תמונה</string>
   <string name="pref_camera_slow_shutter_title">תריס איטי</string>
   <string name="pref_camera_slow_shutter_delay_title">האט מהירות צמצם</string>
   <string name="pref_camera_slow_shutter_entry_off">כבוי</string>
@@ -148,4 +151,6 @@
   <string name="camera_storage_fallback">מחזיר למיקום אחסון ברירת מחדל</string>
   <string name="pref_camera_volume_zoom_title">התקרבות עם לחצני קול</string>
   <string name="pref_camera_volume_zoom_summary">מקשי הקול שולטים בהתקרבות</string>
+  <string name="pref_max_brightness_title">מסך בהיר</string>
+  <string name="pref_max_brightness_summary">הגדר בהירות למירבית כאשר המצלמה פעילה</string>
 </resources>
