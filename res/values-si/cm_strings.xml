@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">ප්‍රධාන</string>
   <string name="pref_camera_picturesize_short_title">තරම</string>
   <string name="pref_camera_jpegquality_short_title">ගුණත්වය</string>
+  <string name="pref_camera_raw_mode_title">දළ පින්තූරය සුරකින්න</string>
+  <string name="beauty_mode_disables_raw">ලස්සණ ප්‍රකාරය දළ ග්‍රහණය අබල කරයි</string>
   <string name="pref_video_quality_alt_title">වීඩියෝවේ තරම</string>
   <string name="pref_video_quality_short_title">තරම</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">මෙගා පික්සල 9.7 (16:9)</string>

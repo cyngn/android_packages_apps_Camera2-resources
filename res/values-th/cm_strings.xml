@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">ทั่วไป</string>
   <string name="pref_camera_picturesize_short_title">ขนาด</string>
   <string name="pref_camera_jpegquality_short_title">คุณภาพ</string>
+  <string name="pref_camera_raw_mode_title">บันทึกภาพ raw</string>
+  <string name="beauty_mode_disables_raw">รูปแบบสวยงามจะถูกปิดในการถ่ายภาพ raw</string>
   <string name="pref_video_quality_alt_title">ขนาดวิดีโอ</string>
   <string name="pref_video_quality_short_title">ขนาด</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7 ล้านพิกเซล (16:9)</string>
@@ -123,6 +125,7 @@
   <string name="pref_camera_flashmode_entry_redeye">ตาแดง</string>
   <string name="pref_camera_flashmode_label_redeye">ตาแดง</string>
   <string name="pref_camera_beauty_mode_title">รูปแบบสวยงาม</string>
+  <string name="pref_camera_clear_image_title">ล้างภาพ</string>
   <string name="pref_camera_slow_shutter_title">ชัตเตอร์ช้า</string>
   <string name="pref_camera_slow_shutter_delay_title">ความเร็วชัตเตอร์ช้า</string>
   <string name="pref_camera_slow_shutter_entry_off">ปิด</string>
@@ -148,4 +151,6 @@
   <string name="camera_storage_fallback">เปลี่ยนกลับเป็นสถานที่เก็บเริ่มต้น</string>
   <string name="pref_camera_volume_zoom_title">ใช้ปุ่มปรับเสียงซูม</string>
   <string name="pref_camera_volume_zoom_summary">ปุ่มปรับเสียงควบคุมการซูม</string>
+  <string name="pref_max_brightness_title">หน้าจอสว่าง</string>
+  <string name="pref_max_brightness_summary">ตั้งค่าความสว่างสูงสุดในขณะที่กล้องอยู่</string>
 </resources>
