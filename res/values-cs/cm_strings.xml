@@ -21,8 +21,8 @@
   <string name="pref_camera_general_section">Obecné</string>
   <string name="pref_camera_picturesize_short_title">Velikost</string>
   <string name="pref_camera_jpegquality_short_title">Kvalita</string>
-  <string name="pref_camera_raw_mode_title">Ukládat obrázky ve formátu raw</string>
-  <string name="beauty_mode_disables_raw">V módu Krása není možné ukládat snímky v režimu raw</string>
+  <string name="pref_camera_raw_mode_title">Ukládat ve formátu RAW</string>
+  <string name="beauty_mode_disables_raw">V módu Krása není možné ukládat snímky v režimu RAW</string>
   <string name="pref_video_quality_alt_title">Velikost videa</string>
   <string name="pref_video_quality_short_title">Velikost</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 Mpx (16:9)</string>

@@ -54,11 +54,16 @@
   <string name="pref_camera_scenemode_entry_landscape">風景</string>
   <string name="pref_camera_scenemode_entry_pet">寵物</string>
   <string name="pref_camera_scenemode_entry_sports">運動</string>
+  <string name="pref_camera_focusmode_entry_facedetect">臉部偵測</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
+  <string name="pref_camera_burst_title">連拍模式</string>
   <string name="pref_camera_burst_entry_off">關閉</string>
   <string name="pref_camera_focustime_entry_5">5 秒</string>
   <string name="pref_camera_focustime_entry_10">10 秒</string>
   <string name="pref_camera_focustime_entry_15">15 秒</string>
   <string name="pref_camera_focustime_entry_20">20 秒</string>
+  <string name="pref_camera_focustime_entry_30">30 秒</string>
   <string name="pref_camera_slow_shutter_entry_off">關閉</string>
   <string name="pref_camera_slow_shutter_entry_auto">自動</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ 秒</string>
@@ -66,4 +71,8 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 秒</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 秒</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 秒</string>
+  <string name="pref_camera_storage_title">儲存空間</string>
+  <string name="pref_camera_power_shutter_title">電源按鈕快門</string>
+  <string name="pref_camera_power_shutter_summary">按電源按鈕來拍攝相片</string>
+  <string name="pref_camera_volume_zoom_title">音量鍵變焦</string>
 </resources>
