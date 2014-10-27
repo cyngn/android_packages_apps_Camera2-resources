@@ -22,6 +22,7 @@
   <string name="pref_camera_picturesize_short_title">大小</string>
   <string name="pref_camera_jpegquality_short_title">質素</string>
   <string name="pref_camera_raw_mode_title">儲存原始圖像</string>
+  <string name="beauty_mode_disables_raw">美化模式將停用原始拍攝</string>
   <string name="pref_video_quality_alt_title">影片大小</string>
   <string name="pref_video_quality_short_title">大小</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">970 萬像素 (16:9)</string>
@@ -30,6 +31,7 @@
   <string name="pref_camera_picturesize_entry_18mp">1800 萬像素</string>
   <string name="pref_camera_picturesize_entry_12_8mp">1280 萬像素</string>
   <string name="pref_camera_picturesize_entry_12_7mp">1270 萬像素</string>
+  <string name="pref_camera_picturesize_entry_12mp">1200 萬像素</string>
   <string name="pref_camera_picturesize_entry_11_5mp">1150 萬像素</string>
   <string name="pref_camera_picturesize_entry_10_4mp">1040 萬像素</string>
   <string name="pref_camera_picturesize_entry_10mp">1000 萬像素</string>
@@ -39,6 +41,7 @@
   <string name="pref_camera_picturesize_entry_6_4mp">640 萬像素</string>
   <string name="pref_camera_picturesize_entry_6mp">600 萬像素</string>
   <string name="pref_camera_picturesize_entry_4_5mp">450 萬像素</string>
+  <string name="pref_camera_picturesize_entry_4mp">400 萬像素</string>
   <string name="pref_camera_picturesize_entry_3_7mp">370 萬像素</string>
   <string name="pref_camera_picturesize_entry_2_5mp">250 萬像素</string>
   <string name="pref_camera_picturesize_entry_2_1mp">210 萬像素</string>
@@ -91,7 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">文字</string>
   <string name="pref_camera_scenemode_entry_theatre">劇院</string>
   <string name="pref_camera_scenemode_entry_whiteboard">白板</string>
-  <string name="pref_camera_focusmode_entry_continuouspicture">連拍相片</string>
+  <string name="pref_camera_focusmode_entry_continuouspicture">連續</string>
   <string name="pref_camera_focusmode_entry_extended">擴展</string>
   <string name="pref_camera_focusmode_entry_facedetect">臉部偵測</string>
   <string name="pref_camera_focusmode_entry_facepriority">臉部優先</string>
@@ -150,4 +153,5 @@
   <string name="camera_storage_fallback">恢復到預設的儲存位置</string>
   <string name="pref_camera_volume_zoom_title">音量鍵變焦</string>
   <string name="pref_camera_volume_zoom_summary">音量鍵控制變焦</string>
+  <string name="pref_max_brightness_summary">相機執行時將亮度設定為最大值</string>
 </resources>

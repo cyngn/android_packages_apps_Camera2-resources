@@ -31,6 +31,7 @@
   <string name="pref_camera_picturesize_entry_18mp">18 Mp</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Mp</string>
   <string name="pref_camera_picturesize_entry_12_7mp">12,7 Mp</string>
+  <string name="pref_camera_picturesize_entry_12mp">12 Mp</string>
   <string name="pref_camera_picturesize_entry_11_5mp">11,5 Mp</string>
   <string name="pref_camera_picturesize_entry_10_4mp">10,4 Mp</string>
   <string name="pref_camera_picturesize_entry_10mp">10 Mp</string>
@@ -40,6 +41,7 @@
   <string name="pref_camera_picturesize_entry_6_4mp">6,4 Mp</string>
   <string name="pref_camera_picturesize_entry_6mp">6 Mp</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4,5 Mp</string>
+  <string name="pref_camera_picturesize_entry_4mp">4 Mp</string>
   <string name="pref_camera_picturesize_entry_3_7mp">3,7 Mp</string>
   <string name="pref_camera_picturesize_entry_2_5mp">2,5 Mp</string>
   <string name="pref_camera_picturesize_entry_2_1mp">2,1 Mp</string>
@@ -92,7 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">Text</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatre</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Pissarra blanca</string>
-  <string name="pref_camera_focusmode_entry_continuouspicture">Fotografia contínua</string>
+  <string name="pref_camera_focusmode_entry_continuouspicture">Continu</string>
   <string name="pref_camera_focusmode_entry_extended">Extès</string>
   <string name="pref_camera_focusmode_entry_facedetect">Detecció de cares</string>
   <string name="pref_camera_focusmode_entry_facepriority">Prioritat de cares</string>

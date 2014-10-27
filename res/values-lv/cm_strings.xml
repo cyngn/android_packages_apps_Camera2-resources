@@ -92,7 +92,6 @@
   <string name="pref_camera_scenemode_entry_text">Teksts</string>
   <string name="pref_camera_scenemode_entry_theatre">Teātris</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Balta tāfele</string>
-  <string name="pref_camera_focusmode_entry_continuouspicture">Nepārtraukts attēls</string>
   <string name="pref_camera_focusmode_entry_extended">Paplašināts</string>
   <string name="pref_camera_focusmode_entry_facedetect">Noteikt seju</string>
   <string name="pref_camera_focusmode_entry_facepriority">Sejas prioritāte</string>

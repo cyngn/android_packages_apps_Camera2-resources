@@ -92,7 +92,6 @@
   <string name="pref_camera_scenemode_entry_text">Tekstas</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatras</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Lenta</string>
-  <string name="pref_camera_focusmode_entry_continuouspicture">Kadrų serija</string>
   <string name="pref_camera_focusmode_entry_extended">Išplėstas</string>
   <string name="pref_camera_focusmode_entry_facedetect">Veido aptikimas</string>
   <string name="pref_camera_focusmode_entry_facepriority">Veido pirmenybė</string>

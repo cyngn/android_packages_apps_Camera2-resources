@@ -31,6 +31,7 @@
   <string name="pref_camera_picturesize_entry_18mp">මෙගා පික්සල 18</string>
   <string name="pref_camera_picturesize_entry_12_8mp">මෙගා පික්සල 12.8</string>
   <string name="pref_camera_picturesize_entry_12_7mp">මෙගා පික්සල 12.7</string>
+  <string name="pref_camera_picturesize_entry_12mp">මෙගා පික්සල 12</string>
   <string name="pref_camera_picturesize_entry_11_5mp">මෙගා පික්සල 11.5</string>
   <string name="pref_camera_picturesize_entry_10_4mp">මෙගා පික්සල 10.4</string>
   <string name="pref_camera_picturesize_entry_10mp">මෙගා පික්සල 10</string>
@@ -40,6 +41,7 @@
   <string name="pref_camera_picturesize_entry_6_4mp">මෙගා පික්සල 6.4</string>
   <string name="pref_camera_picturesize_entry_6mp">මෙගා පික්සල 6</string>
   <string name="pref_camera_picturesize_entry_4_5mp">මෙගා පික්සල 4.5</string>
+  <string name="pref_camera_picturesize_entry_4mp">මෙගා පික්සල 4</string>
   <string name="pref_camera_picturesize_entry_3_7mp">මෙගා පික්සල 3.7</string>
   <string name="pref_camera_picturesize_entry_2_5mp">මෙගා පික්සල 2.5</string>
   <string name="pref_camera_picturesize_entry_2_1mp">මෙගා පික්සල 2.1</string>
@@ -92,7 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">පෙළ</string>
   <string name="pref_camera_scenemode_entry_theatre">රඟමඩල</string>
   <string name="pref_camera_scenemode_entry_whiteboard">සුදු ලෑල්ල</string>
-  <string name="pref_camera_focusmode_entry_continuouspicture">අඛණ්ඩ ඦායාරූපය</string>
+  <string name="pref_camera_focusmode_entry_continuouspicture">අඛණ්ඩ</string>
   <string name="pref_camera_focusmode_entry_extended">විස්තෘත</string>
   <string name="pref_camera_focusmode_entry_facedetect">මුහුණ හඳුනාගැනීම</string>
   <string name="pref_camera_focusmode_entry_facepriority">මුහුණට ප්‍රමුඛතාව</string>
