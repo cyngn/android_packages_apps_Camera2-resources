@@ -31,6 +31,7 @@
   <string name="pref_camera_picturesize_entry_18mp">18 Мпікс</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8 Мпікс</string>
   <string name="pref_camera_picturesize_entry_12_7mp">12.7 Мпікс</string>
+  <string name="pref_camera_picturesize_entry_12mp">12 Мпікс</string>
   <string name="pref_camera_picturesize_entry_11_5mp">11.5 Мпікс</string>
   <string name="pref_camera_picturesize_entry_10_4mp">10.4 Мпікс</string>
   <string name="pref_camera_picturesize_entry_10mp">10 Мпікс</string>
@@ -40,6 +41,7 @@
   <string name="pref_camera_picturesize_entry_6_4mp">6.4 Мпікс</string>
   <string name="pref_camera_picturesize_entry_6mp">6 Мпікс</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5 Мпікс</string>
+  <string name="pref_camera_picturesize_entry_4mp">4 Мпікс</string>
   <string name="pref_camera_picturesize_entry_3_7mp">3.7 Мпікс</string>
   <string name="pref_camera_picturesize_entry_2_5mp">2.5 Мпікс</string>
   <string name="pref_camera_picturesize_entry_2_1mp">2.1 Мпікс</string>
@@ -92,6 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">Текст</string>
   <string name="pref_camera_scenemode_entry_theatre">Театр</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Біла дошка</string>
+  <string name="pref_camera_focusmode_entry_continuouspicture">Безперервний</string>
   <string name="pref_camera_focusmode_entry_extended">Розширений</string>
   <string name="pref_camera_focusmode_entry_facedetect">Визначення лиць</string>
   <string name="pref_camera_focusmode_entry_facepriority">Фокус на лиця</string>

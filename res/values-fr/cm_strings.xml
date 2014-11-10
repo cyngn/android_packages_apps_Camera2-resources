@@ -97,7 +97,7 @@
   <string name="pref_camera_focusmode_entry_continuouspicture">Continu</string>
   <string name="pref_camera_focusmode_entry_extended">Étendu</string>
   <string name="pref_camera_focusmode_entry_facedetect">Détection de visage</string>
-  <string name="pref_camera_focusmode_entry_facepriority">Priorité aux visages</string>
+  <string name="pref_camera_focusmode_entry_facepriority">Priorité au visage</string>
   <string name="pref_camera_focusmode_entry_fixed">Fixé</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrait</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocal</string>
@@ -111,7 +111,7 @@
   <string name="pref_camera_coloreffect_entry_whiteboard">Tableau blanc</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Tableau noir</string>
   <string name="pref_camera_burst_title">Mode rafale</string>
-  <string name="pref_camera_burst_entry_off">Désactiver</string>
+  <string name="pref_camera_burst_entry_off">Désactivé</string>
   <string name="pref_camera_burst_entry_5">5 photos</string>
   <string name="pref_camera_burst_entry_10">10 photos</string>
   <string name="pref_camera_burst_entry_15">15 photos</string>
@@ -130,7 +130,7 @@
   <string name="pref_camera_clear_image_title">Image nette</string>
   <string name="pref_camera_slow_shutter_title">Obturation lente</string>
   <string name="pref_camera_slow_shutter_delay_title">Vitesse d\'obturation lente</string>
-  <string name="pref_camera_slow_shutter_entry_off">Désactiver</string>
+  <string name="pref_camera_slow_shutter_entry_off">Désactivé</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">0,5 seconde</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 seconde</string>
@@ -138,8 +138,8 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 secondes</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 secondes</string>
   <string name="pref_camera_storage_title">Stockage</string>
-  <string name="pref_camera_recordlocation_on">Taguer les photos avec l\'emplacement de la prise</string>
-  <string name="pref_camera_recordlocation_off">Ne pas taguer les photos et les vidéos avec l\'emplacement de la prise</string>
+  <string name="pref_camera_recordlocation_on">Taguer les photos avec la localisation de la prise</string>
+  <string name="pref_camera_recordlocation_off">Ne pas taguer les photos et les vidéos avec la localisation de la prise</string>
   <string name="camera_menu_enhance_label">Améliorer</string>
   <string name="camera_menu_slow_shutter_label">Obturation lente</string>
   <string name="camera_menu_beauty_mode_label">Embellir</string>

@@ -31,6 +31,7 @@
   <string name="pref_camera_picturesize_entry_18mp">18M punkti</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8M punkti</string>
   <string name="pref_camera_picturesize_entry_12_7mp">12.7M punkti</string>
+  <string name="pref_camera_picturesize_entry_12mp">10M punkti</string>
   <string name="pref_camera_picturesize_entry_11_5mp">11.5M punkti</string>
   <string name="pref_camera_picturesize_entry_10_4mp">10.4M punkti</string>
   <string name="pref_camera_picturesize_entry_10mp">10M punkti</string>
@@ -40,6 +41,7 @@
   <string name="pref_camera_picturesize_entry_6_4mp">6.4M punkti</string>
   <string name="pref_camera_picturesize_entry_6mp">6M punkti</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5M punkti</string>
+  <string name="pref_camera_picturesize_entry_4mp">4M punkti</string>
   <string name="pref_camera_picturesize_entry_3_7mp">3.7M punkti</string>
   <string name="pref_camera_picturesize_entry_2_5mp">2.5M punkti</string>
   <string name="pref_camera_picturesize_entry_2_1mp">2.1M punkti</string>
@@ -92,6 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">Teksts</string>
   <string name="pref_camera_scenemode_entry_theatre">Teātris</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Balta tāfele</string>
+  <string name="pref_camera_focusmode_entry_continuouspicture">Nepārtraukti</string>
   <string name="pref_camera_focusmode_entry_extended">Paplašināts</string>
   <string name="pref_camera_focusmode_entry_facedetect">Noteikt seju</string>
   <string name="pref_camera_focusmode_entry_facepriority">Sejas prioritāte</string>
