@@ -23,7 +23,7 @@
   <string name="pref_camera_jpegquality_short_title">Calidad</string>
   <string name="pref_camera_raw_mode_title">Guardar imagen RAW</string>
   <string name="beauty_mode_disables_raw">El modo belleza deshabilita la captura en RAW</string>
-  <string name="pref_video_quality_alt_title">Tamaño de vídeo</string>
+  <string name="pref_video_quality_alt_title">Tamaño del vídeo</string>
   <string name="pref_video_quality_short_title">Tamaño</string>
   <string name="pref_camera_picturesize_entry_9_7mp_wide">9,7 MP (16:9)</string>
   <string name="pref_camera_picturesize_entry_5_7mp_wide">5,7 MP (16:9)</string>
@@ -138,7 +138,7 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 segundos</string>
   <string name="pref_camera_storage_title">Almacenamiento</string>
-  <string name="pref_camera_recordlocation_on">Etiquetar fotos con la ubicación actual</string>
+  <string name="pref_camera_recordlocation_on">Etiquetar fotografías con la ubicación actual</string>
   <string name="pref_camera_recordlocation_off">No etiquetar las fotos y vídeos con la ubicación actual</string>
   <string name="camera_menu_enhance_label">Mejoras</string>
   <string name="camera_menu_slow_shutter_label">Obturador lento</string>
