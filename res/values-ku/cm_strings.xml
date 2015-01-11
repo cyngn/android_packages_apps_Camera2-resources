@@ -31,6 +31,7 @@
   <string name="pref_camera_picturesize_entry_18mp">18 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12.8 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_12_7mp">12.7 مێگاپێکسڵ</string>
+  <string name="pref_camera_picturesize_entry_12mp">١٢ مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_11_5mp">11.5 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_10_4mp">10.4 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_10mp">10 مێگاپێکسڵ</string>
@@ -40,6 +41,7 @@
   <string name="pref_camera_picturesize_entry_6_4mp">6.4 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_6mp">6 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5 مێگاپێکسڵ</string>
+  <string name="pref_camera_picturesize_entry_4mp">٤ مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_3_7mp">3.7 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_2_5mp">2.5 مێگاپێکسڵ</string>
   <string name="pref_camera_picturesize_entry_2_1mp">2.1 مێگاپێکسڵ</string>
@@ -92,6 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">ده‌ق</string>
   <string name="pref_camera_scenemode_entry_theatre">شانۆ</string>
   <string name="pref_camera_scenemode_entry_whiteboard">ته‌خته‌ی وایتبۆرد</string>
+  <string name="pref_camera_focusmode_entry_continuouspicture">به‌رده‌وامبوونه‌کان</string>
   <string name="pref_camera_focusmode_entry_extended">فراوانکردن</string>
   <string name="pref_camera_focusmode_entry_facedetect">پشکنینی ڕوو</string>
   <string name="pref_camera_focusmode_entry_facepriority">له‌پێش ڕوو</string>

@@ -142,6 +142,7 @@
   <string name="pref_camera_jpegquality_entry_1">65% (רגיל)</string>
   <string name="pref_camera_jpegquality_entry_2">75% (איכותי)</string>
   <string name="pref_camera_jpegquality_entry_3">85% (איכותי מאוד)</string>
+  <string name="pref_camera_jpegquality_entry_3_5">90%</string>
   <string name="pref_camera_jpegquality_entry_4">95%</string>
   <string name="pref_camera_jpegquality_entry_5">100%</string>
   <string name="pref_camera_histogram_title">היסטוגרמה</string>
