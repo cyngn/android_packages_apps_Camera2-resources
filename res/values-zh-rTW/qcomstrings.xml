@@ -106,7 +106,7 @@
   <string name="pref_camera_facerc_entry_on">開啟</string>
   <string name="pref_camera_sharpness_entry_level0">0 級</string>
   <string name="pref_camera_sharpness_entry_level1">1 級</string>
-  <string name="pref_camera_sharpness_entry_level2">2 級（預設值）</string>
+  <string name="pref_camera_sharpness_entry_level2">2 級 (預設值)</string>
   <string name="pref_camera_sharpness_entry_level3">3 級</string>
   <string name="pref_camera_sharpness_entry_level4">4 級</string>
   <string name="pref_camera_sharpness_entry_level5">5 級</string>
@@ -116,7 +116,7 @@
   <string name="pref_camera_contrast_entry_level2">2 級</string>
   <string name="pref_camera_contrast_entry_level3">3 級</string>
   <string name="pref_camera_contrast_entry_level4">4 級</string>
-  <string name="pref_camera_contrast_entry_level5">5 級（預設值）</string>
+  <string name="pref_camera_contrast_entry_level5">5 級 (預設值)</string>
   <string name="pref_camera_contrast_entry_level6">6 級</string>
   <string name="pref_camera_contrast_entry_level7">7 級</string>
   <string name="pref_camera_contrast_entry_level8">8 級</string>
@@ -127,7 +127,7 @@
   <string name="pref_camera_saturation_entry_level2">2 級</string>
   <string name="pref_camera_saturation_entry_level3">3 級</string>
   <string name="pref_camera_saturation_entry_level4">4 級</string>
-  <string name="pref_camera_saturation_entry_level5">5 級（預設值）</string>
+  <string name="pref_camera_saturation_entry_level5">5 級 (預設值)</string>
   <string name="pref_camera_saturation_entry_level6">6 級</string>
   <string name="pref_camera_saturation_entry_level7">7 級</string>
   <string name="pref_camera_saturation_entry_level8">8 級</string>
@@ -139,9 +139,9 @@
   <string name="pref_camera_picture_format_title">相片格式</string>
   <string name="pref_camera_jpegquality_title">相片品質</string>
   <string name="pref_camera_jpegquality_entry_0">55%</string>
-  <string name="pref_camera_jpegquality_entry_1">65%（一般）</string>
-  <string name="pref_camera_jpegquality_entry_2">75%（精細）</string>
-  <string name="pref_camera_jpegquality_entry_3">85%（超級精細）</string>
+  <string name="pref_camera_jpegquality_entry_1">65% (一般)</string>
+  <string name="pref_camera_jpegquality_entry_2">75% (精細)</string>
+  <string name="pref_camera_jpegquality_entry_3">85% (超精細)</string>
   <string name="pref_camera_jpegquality_entry_3_5">90%</string>
   <string name="pref_camera_jpegquality_entry_4">95%</string>
   <string name="pref_camera_jpegquality_entry_5">100%</string>
