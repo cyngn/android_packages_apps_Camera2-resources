@@ -268,6 +268,8 @@
 
     <!-- Settings screen, dialog choice for 13 megapixels picture size [CHAR LIMIT=20] -->
     <string name="pref_camera_picturesize_entry_13mp">13M pixels</string>
+    <!-- Settings screen, dialog choice for 12 megapixels picture size [CHAR LIMIT=20] -->
+    <string name="pref_camera_picturesize_entry_12mp">12M pixels</string>
     <!-- Settings screen, dialog choice for 8 megapixels picture size [CHAR LIMIT=20] -->
     <string name="pref_camera_picturesize_entry_8mp">8M pixels</string>
     <!-- Settings screen, dialog choice for 5 megapixels picture size [CHAR LIMIT=20] -->
@@ -472,6 +474,9 @@
 
     <!-- Toast telling users tapping on the viewfinder will trigger autofocus [CHAR LIMIT=28] -->
     <string name="tap_to_focus">Touch to focus.</string>
+
+    <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+    <string name="hold_for_burst">Hold shutter to take burst.</string>
 
     <!-- Default effect setting that clears the effect. -->
     <string name="pref_video_effect_default" translatable="false">none</string>
