@@ -29,72 +29,48 @@
     <!-- Settings screen, Picture quality title, the word Quality only -->
     <string name="pref_camera_jpegquality_short_title">Quality</string>
 
+    <!-- Settings screen, Viewfinder choice -->
+    <string name="pref_camera_viewfinder_title">Viewfinder</string>
+    <string name="pref_camera_viewfinder_fullscreen">Fullscreen</string>
+    <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
+    <string name="pref_camera_viewfinder_default" translatable="false">fullscreen</string>
+
     <!-- Settings screen, Raw mode toggle -->
     <string name="pref_camera_raw_mode_title">Save raw image</string>
     <string name="pref_camera_raw_mode_default" translatable="false">false</string>
     <!-- Warn about Raw/Beauty mode conflict -->
     <string name="beauty_mode_disables_raw">Beauty mode disables raw capture</string>
 
+    <!-- Settings screen, ZSL enable toggle -->
+    <string name="pref_camera_zsl_enable_title">Zero shutter lag</string>
+    <string name="pref_camera_zsl_enable_summary_on">Fast image capture</string>
+    <string name="pref_camera_zsl_enable_summary_alt">Fast image capture and burst shot</string>
+    <string name="pref_camera_zsl_enable_summary_off">Better low light quality</string>
+
     <!-- The Video quality settings in preference -->
     <string name="pref_video_quality_alt_title">Video size</string>
     <!-- The Video quality settings in preference, word Size only -->
     <string name="pref_video_quality_short_title">Size</string>
 
-    <!-- TODO: replace giant table with dynamically generated entries -->
-    <!-- Settings screen, dialog choice for 20.7 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_9_7mp_wide">9.7M pixels (16:9)</string>
-    <!-- Settings screen, dialog choice for 18 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_5_7mp_wide">5.7M pixels (16:9)</string>
-    <!-- Settings screen, dialog choice for 20.7 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_20_7mp">20.7M pixels</string>
-    <!-- Settings screen, dialog choice for 18 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_18mp">18M pixels</string>
-    <!-- Settings screen, dialog choice for 12.8 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_12_8mp">12.8M pixels</string>
-    <!-- Settings screen, dialog choice for 12.7 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_12_7mp">12.7M pixels</string>
-    <!-- Settings screen, dialog choice for 12 megapixels picture size [CHAR LIMIT=20] -->
-    <string name="pref_camera_picturesize_entry_12mp">12M pixels</string>
-    <!-- Settings screen, dialog choice for 11.5 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_11_5mp">11.5M pixels</string>
-    <!-- Settings screen, dialog choice for 10.4 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_10_4mp">10.4M pixels</string>
-    <!-- Settings screen, dialog choice for 10 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_10mp">10M pixels</string>
-    <!-- Settings screen, dialog choice for 9 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_9mp">9M pixels</string>
-    <!-- Settings screen, dialog choice for 8.2 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_8_2mp">8.2M pixels</string>
-    <!-- Settings screen, dialog choice for 7.7 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_7_7mp">7.7M pixels</string>
-    <!-- Settings screen, dialog choice for 6.4 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_6_4mp">6.4M pixels</string>
-    <!-- Settings screen, dialog choice for 6 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_6mp">6M pixels</string>
-    <!-- Settings screen, dialog choice for 4.5 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_4_5mp">4.5M pixels</string>
-    <!-- Settings screen, dialog choice for 4 megapixels picture size [CHAR LIMIT=20] -->
-    <string name="pref_camera_picturesize_entry_4mp">4M pixels</string>
-    <!-- Settings screen, dialog choice for 3.7 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_3_7mp">3.7M pixels</string>
-    <!-- Settings screen, dialog choice for 2.5 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_2_5mp">2.5M pixels</string>
-    <!-- Settings screen, dialog choice for 2.1 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_2_1mp">2.1M pixels</string>
-    <!-- Settings screen, dialog choice for 1.9 megapixels picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_1_9mp">1.9M pixels</string>
-    <!-- Settings screen, dialog choice for WXGA picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
-    <!-- Settings screen, dialog choice for XGA picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_xga">XGA</string>
-    <!-- Settings screen, dialog choice for SVGA picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_svga">SVGA</string>
-    <!-- Settings screen, dialog choice for nHD picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_nhd">nHD</string>
-    <!-- Settings screen, dialog choice for WVGA picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
-    <!-- Settings screen, dialog choice for WQVGA picture size [CHAR LIMIT=15] -->
-    <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
+    <!-- Separate video focus modes preference - specifically for bacon -->
+    <string name="pref_video_focusmode_title" translatable="false">@string/pref_camera_focusmode_title</string>
+    <string name="pref_video_focusmode_entry_touch" translatable="false">@string/pref_camera_focusmode_entry_auto</string>
+    <string name="pref_video_focusmode_entry_continuous" translatable="false">@string/pref_camera_focusmode_entry_continuouspicture</string>
+
+    <!-- common aspect ratios -->
+    <string name="pref_camera_aspectratio_43">4:3</string>
+    <string name="pref_camera_aspectratio_32">3:2</string>
+    <string name="pref_camera_aspectratio_1610">16:10</string>
+    <string name="pref_camera_aspectratio_53">5:3</string>
+    <string name="pref_camera_aspectratio_169">16:9</string>
+    <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+    <string name="pref_camera_aspectratio_wide">Wide</string>
+
+    <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
+    <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixels</string>
 
     <!-- Settings screen, scene mode -->
     <string name="pref_camera_scenemode_entry_antimotionblur">Motion blur reduction</string>
@@ -239,4 +215,19 @@
 
     <string name="pref_max_brightness_title">Bright screen</string>
     <string name="pref_max_brightness_summary">Set brightness to maximum while Camera is active</string>
+
+    <string name="pref_camera_reset_title">Restore defaults</string>
+    <string name="pref_camera_reset_message">Change all camera and video settings to their original values? This cannot be undone.</string>
+    <string name="pref_camera_reset_button">Restore</string>
+
+    <string name="pref_section_advanced">Advanced</string>
+    <string name="pref_section_other">Other</string>
+
+    <string name="msg_cancel_longshot_for_limited_memory">Memory is running low, stopping shots!</string>
+
+    <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+    <string name="hold_for_burst">Hold shutter to take burst.</string>
+
+    <!-- toast message for toast showing error of starting video capture -->
+    <string name="cannot_start_video_toast">Can\'t start a video recording. Is microphone in use?</string>
 </resources>
