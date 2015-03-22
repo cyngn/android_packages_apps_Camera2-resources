@@ -143,7 +143,7 @@
   <string name="camera_menu_enhance_label">Enhance</string>
   <string name="camera_menu_slow_shutter_label">Slow Shutter</string>
   <string name="camera_menu_beauty_mode_label">Beautify</string>
-  <string name="camera_menu_colorize_label">Colorize</string>
+  <string name="camera_menu_colorize_label">Colourize</string>
   <string name="camera_menu_effects_label">Effects</string>
   <string name="camera_menu_asd_label">Smart Scene</string>
   <string name="pref_camera_power_shutter_title">Power shutter</string>
