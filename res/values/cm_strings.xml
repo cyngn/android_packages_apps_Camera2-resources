@@ -58,11 +58,11 @@
     <string name="pref_video_focusmode_entry_continuous" translatable="false">@string/pref_camera_focusmode_entry_continuouspicture</string>
 
     <!-- common aspect ratios -->
-    <string name="pref_camera_aspectratio_43">4:3</string>
-    <string name="pref_camera_aspectratio_32">3:2</string>
-    <string name="pref_camera_aspectratio_1610">16:10</string>
-    <string name="pref_camera_aspectratio_53">5:3</string>
-    <string name="pref_camera_aspectratio_169">16:9</string>
+    <string name="pref_camera_aspectratio_43" translatable="false">4:3</string>
+    <string name="pref_camera_aspectratio_32" translatable="false">3:2</string>
+    <string name="pref_camera_aspectratio_1610" translatable="false">16:10</string>
+    <string name="pref_camera_aspectratio_53" translatable="false">5:3</string>
+    <string name="pref_camera_aspectratio_169" translatable="false">16:9</string>
     <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
     <string name="pref_camera_aspectratio_wide">Wide</string>
 
