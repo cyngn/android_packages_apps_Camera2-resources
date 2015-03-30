@@ -86,7 +86,7 @@
   <string name="wait">Lütfən, gözləyin...</string>
   <string name="no_storage" product="default">Kamera istifadə etməzdən əvvəl SD kartı daxil edin.</string>
   <string name="preparing_sd" product="default">SD kart hazırlanır ...</string>
-  <string name="access_sd_fail" product="default">SD karta giriş mümkün olmadı.</string>
+  <string name="access_sd_fail" product="default">SD karta müraciət edə bilmədi.</string>
   <string name="time_lapse_title">Vaxt aralığı qeyd olunur</string>
   <string name="pref_camera_id_title">Kamera seçin</string>
   <string name="pref_camera_id_entry_back">Geri</string>
@@ -108,16 +108,6 @@
   <string name="pref_camera_settings_category">Kamera parametrləri</string>
   <string name="pref_camcorder_settings_category">Videokamera ayarları</string>
   <string name="pref_camera_picturesize_title">Şəklin ölçüsü</string>
-  <string name="pref_camera_picturesize_entry_13mp">13N piksel</string>
-  <string name="pref_camera_picturesize_entry_8mp">8M piksel</string>
-  <string name="pref_camera_picturesize_entry_5mp">5M Piksel</string>
-  <string name="pref_camera_picturesize_entry_3mp">3M piksel</string>
-  <string name="pref_camera_picturesize_entry_2mp">2M piksel</string>
-  <string name="pref_camera_picturesize_entry_2mp_wide">2M piksel (16:9)</string>
-  <string name="pref_camera_picturesize_entry_1_3mp">1.3M piksel</string>
-  <string name="pref_camera_picturesize_entry_1mp">1M piksel</string>
-  <string name="pref_camera_picturesize_entry_vga">VGA</string>
-  <string name="pref_camera_picturesize_entry_qvga">QVGA</string>
   <string name="pref_camera_focusmode_title">Fokus rejimi</string>
   <string name="pref_camera_focusmode_entry_auto">Avto</string>
   <string name="pref_camera_focusmode_entry_infinity">Sonsuzluq</string>
@@ -258,7 +248,7 @@
   <string name="set_duration">Müddəti saniyələrlə ayarlayı</string>
   <string name="count_down_title_text">Foto çəkmək üçün geri sayılır</string>
   <string name="remember_location_title">Foto məkanları yadda qalsın?</string>
-  <string name="remember_location_prompt">Fotolarınızı və videolarınızı çəkildikləri yerlərlə etiketləyin.\n\nDigər tətbiqetmələr saxladığınız şəkillərlə birlikdə bu məlumatlara giriş edə bilər.</string>
+  <string name="remember_location_prompt">Fotolarınızı və videolarınızı çəkildikləri yerlərlə etiketləyin.\n\nDigər tətbiqetmələr saxladığınız şəkillərlə birlikdə bu məlumatlara müraciət edə bilər.</string>
   <string name="remember_location_no">Yox, çox sağ olun</string>
   <string name="remember_location_yes">Bəli</string>
   <string name="camera_menu_more_label">Daha çox seçim</string>

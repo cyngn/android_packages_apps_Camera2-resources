@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">På</string>
   <string name="pref_camera_video_hdr_title">Video HDR</string>
   <string name="pref_camera_facedetection_title">Ansiktsgjenkjenning</string>
-  <string name="pref_camera_facedetection_entry_off">Av</string>
-  <string name="pref_camera_facedetection_entry_on">På</string>
   <string name="pref_camera_redeyereduction_title">Reduksjon av røde øyne</string>
   <string name="pref_camera_redeyereduction_entry_enable">Aktiver</string>
   <string name="pref_camera_redeyereduction_entry_disable">Deaktiver</string>

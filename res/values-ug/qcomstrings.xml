@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">ئوچۇق</string>
   <string name="pref_camera_video_hdr_title">سىن HDR</string>
   <string name="pref_camera_facedetection_title">چىراي بايقاش</string>
-  <string name="pref_camera_facedetection_entry_off">تاقاق</string>
-  <string name="pref_camera_facedetection_entry_on">ئوچۇق</string>
   <string name="pref_camera_redeyereduction_title">قىزىل كۆز ئوڭشاش</string>
   <string name="pref_camera_redeyereduction_entry_enable">ئوچۇق</string>
   <string name="pref_camera_redeyereduction_entry_disable">تاقاق</string>

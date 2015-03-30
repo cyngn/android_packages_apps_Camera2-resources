@@ -34,8 +34,6 @@
   <string name="pref_camera_video_hdr_entry_on">Açıq</string>
   <string name="pref_camera_video_hdr_title">Video HDR</string>
   <string name="pref_camera_facedetection_title">Üz tanıma</string>
-  <string name="pref_camera_facedetection_entry_off">Bağlı</string>
-  <string name="pref_camera_facedetection_entry_on">Açıq</string>
   <string name="pref_camera_redeyereduction_entry_enable">Açıq</string>
   <string name="pref_camera_redeyereduction_entry_disable">Bağlı</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Açıq</string>

@@ -22,6 +22,7 @@
   <string name="set_image">სურათის დაყენება, როგორც</string>
   <string name="delete">წაშლა</string>
   <plurals name="delete_selection">
+    <item quantity="one">გსურთ, შერჩეული ერთეულების წაშლა?</item>
     <item quantity="other">გსურთ, შერჩეული ერთეულების წაშლა?</item>
   </plurals>
   <string name="share">გაზიარება</string>
@@ -32,12 +33,15 @@
   <string name="details">დეტალები</string>
   <string name="close">დახურვა</string>
   <plurals name="number_of_items_selected">
+    <item quantity="one">არჩეულია %1$d</item>
     <item quantity="other">არჩეულია %1$d</item>
   </plurals>
   <plurals name="number_of_albums_selected">
+    <item quantity="one">არჩეულია %1$d</item>
     <item quantity="other">არჩეულია %1$d</item>
   </plurals>
   <plurals name="number_of_groups_selected">
+    <item quantity="one">არჩეულია %1$d</item>
     <item quantity="other">არჩეულია %1$d</item>
   </plurals>
   <string name="show_on_map">რუკაზე ჩვენება</string>
@@ -93,6 +97,7 @@
   <string name="pref_camera_location_label">მდებარეობა</string>
   <string name="pref_camera_timer_title">უკუმიმართულებით ათვლის ტაიმერი</string>
   <plurals name="pref_camera_timer_entry">
+    <item quantity="one">%d წამი</item>
     <item quantity="other">%d წამი</item>
   </plurals>
   <string name="pref_camera_timer_sound_title">ტაიმერის ხმა</string>
@@ -105,18 +110,6 @@
   <string name="pref_camera_settings_category">კამერის პარამეტრები</string>
   <string name="pref_camcorder_settings_category">ვიდეოჩამწერის პარამეტრები</string>
   <string name="pref_camera_picturesize_title">სურათის ზომა</string>
-  <string name="pref_camera_picturesize_entry_13mp">13 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_8mp">8 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_5mp">5 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_4mp_wide">4 მეგაპიქსელი (16:9)</string>
-  <string name="pref_camera_picturesize_entry_3mp">3 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_2mp">2 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_2mp_wide">2 მეგაპიქსელი (16:9)</string>
-  <string name="pref_camera_picturesize_entry_1_5mp">1,5 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_1_3mp">1.3 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_1mp">1 მეგაპიქსელი</string>
-  <string name="pref_camera_picturesize_entry_vga">VGA</string>
-  <string name="pref_camera_picturesize_entry_qvga">QVGA</string>
   <string name="pref_camera_focusmode_title">ფოკუს რეჟიმი</string>
   <string name="pref_camera_focusmode_entry_auto">ავტომატური</string>
   <string name="pref_camera_focusmode_entry_infinity">უსასრულობა</string>

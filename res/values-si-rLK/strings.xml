@@ -108,16 +108,6 @@
   <string name="pref_camera_settings_category">කැමරා සැකසීම්</string>
   <string name="pref_camcorder_settings_category">කැම්කෝඩර සැකසීම්</string>
   <string name="pref_camera_picturesize_title">පින්තූර ප්‍රමාණය</string>
-  <string name="pref_camera_picturesize_entry_13mp">පික්සල් 13M</string>
-  <string name="pref_camera_picturesize_entry_8mp">පික්සල 8M</string>
-  <string name="pref_camera_picturesize_entry_5mp">පික්සල 5M</string>
-  <string name="pref_camera_picturesize_entry_3mp">පික්සල 3M</string>
-  <string name="pref_camera_picturesize_entry_2mp">පික්සල 2M</string>
-  <string name="pref_camera_picturesize_entry_2mp_wide">2M පික්සල් (16:9)</string>
-  <string name="pref_camera_picturesize_entry_1_3mp">පික්සල 1.3M</string>
-  <string name="pref_camera_picturesize_entry_1mp">පික්සල 1M</string>
-  <string name="pref_camera_picturesize_entry_vga">VGA</string>
-  <string name="pref_camera_picturesize_entry_qvga">QVGA</string>
   <string name="pref_camera_focusmode_title">නාභිගත ප්‍රකාරය</string>
   <string name="pref_camera_focusmode_entry_auto">ස්වයං</string>
   <string name="pref_camera_focusmode_entry_infinity">අනන්තය</string>

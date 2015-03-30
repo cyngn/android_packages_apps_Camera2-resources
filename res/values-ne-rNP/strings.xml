@@ -96,16 +96,6 @@
   <string name="pref_camera_settings_category">क्यामरा सेटिङहरू</string>
   <string name="pref_camcorder_settings_category">क्यामकोडर सेटिङहरू</string>
   <string name="pref_camera_picturesize_title">चित्र आकार</string>
-  <string name="pref_camera_picturesize_entry_13mp">13M पिक्सेल</string>
-  <string name="pref_camera_picturesize_entry_8mp">8M पिक्सल</string>
-  <string name="pref_camera_picturesize_entry_5mp">5M पिक्सेल</string>
-  <string name="pref_camera_picturesize_entry_3mp">3M पिक्सल</string>
-  <string name="pref_camera_picturesize_entry_2mp">२ मेगा पिक्सेल</string>
-  <string name="pref_camera_picturesize_entry_2mp_wide">2M पिक्सेल (16:9)</string>
-  <string name="pref_camera_picturesize_entry_1_3mp">1.3M पिक्सेल</string>
-  <string name="pref_camera_picturesize_entry_1mp">१ मेगा पिक्सेल</string>
-  <string name="pref_camera_picturesize_entry_vga">VGA</string>
-  <string name="pref_camera_picturesize_entry_qvga">QVGA</string>
   <string name="pref_camera_focusmode_title">फोकस मोड</string>
   <string name="pref_camera_focusmode_entry_auto">स्वतः</string>
   <string name="pref_camera_focusmode_entry_infinity">अनन्तता</string>

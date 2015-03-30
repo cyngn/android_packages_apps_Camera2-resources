@@ -55,6 +55,7 @@
   <string name="crop_saved">Immagine ritagliata salvata in <xliff:g id="FOLDER_NAME">%s</xliff:g>.</string>
   <string name="title">Titolo</string>
   <string name="description">Descrizione</string>
+  <string name="time">Ora</string>
   <string name="location">Posizione</string>
   <string name="path">Percorso</string>
   <string name="width">Larghezza</string>
@@ -109,18 +110,6 @@
   <string name="pref_camera_settings_category">Impostazioni della fotocamera</string>
   <string name="pref_camcorder_settings_category">Impostazioni videocamera</string>
   <string name="pref_camera_picturesize_title">Dimensioni immagine</string>
-  <string name="pref_camera_picturesize_entry_13mp">13 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_8mp">8 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_5mp">5 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_4mp_wide">4 Mpixel (16:9)</string>
-  <string name="pref_camera_picturesize_entry_3mp">3 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_2mp">2 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_2mp_wide">2 Mpixel (16:9)</string>
-  <string name="pref_camera_picturesize_entry_1_5mp">1,5 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_1_3mp">1,3 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_1mp">1 Mpixel</string>
-  <string name="pref_camera_picturesize_entry_vga">VGA</string>
-  <string name="pref_camera_picturesize_entry_qvga">QVGA</string>
   <string name="pref_camera_focusmode_title">Modalità messa a fuoco</string>
   <string name="pref_camera_focusmode_entry_auto">Automatica</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
@@ -204,6 +193,7 @@
   <string name="clear_effects">Cancella Effetti</string>
   <string name="effect_silly_faces">FACCINE</string>
   <string name="effect_background">SFONDO</string>
+  <string name="accessibility_shutter_button">Otturatore</string>
   <string name="accessibility_menu_button">Pulsante Menu</string>
   <string name="accessibility_mode_picker">Selettore fotocamera, video o panorama</string>
   <string name="accessibility_check_box">Casella di controllo %1$s</string>
@@ -271,6 +261,8 @@
   <string name="remember_location_yes">Sì</string>
   <string name="camera_menu_more_label">ALTRE OPZIONI</string>
   <string name="camera_menu_settings_label">IMPOSTAZIONI</string>
+  <string name="create_tiny_planet">Crea pianetino</string>
+  <string name="saving_tiny_planet">Salvataggio pianetino&#8230;</string>
   <string name="tiny_planet_zoom">Zoom</string>
   <string name="tiny_planet_rotate">Ruota</string>
   <string name="crop_save">Salva</string>

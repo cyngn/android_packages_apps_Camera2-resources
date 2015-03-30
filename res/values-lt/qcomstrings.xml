@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">Įjungtas</string>
   <string name="pref_camera_video_hdr_title">Vaizdas (HDR)</string>
   <string name="pref_camera_facedetection_title">Veido aptikimas</string>
-  <string name="pref_camera_facedetection_entry_off">Išjungtas</string>
-  <string name="pref_camera_facedetection_entry_on">Įjungtas</string>
   <string name="pref_camera_redeyereduction_title">Raudonų akių mažinimas</string>
   <string name="pref_camera_redeyereduction_entry_enable">Įjungtas</string>
   <string name="pref_camera_redeyereduction_entry_disable">Išjungtas</string>
