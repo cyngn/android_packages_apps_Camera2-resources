@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">Açık</string>
   <string name="pref_camera_video_hdr_title">Video HDR</string>
   <string name="pref_camera_facedetection_title">Yüz tanıma</string>
-  <string name="pref_camera_facedetection_entry_off">Kapalı</string>
-  <string name="pref_camera_facedetection_entry_on">Açık</string>
   <string name="pref_camera_redeyereduction_title">Kırmızı göz giderme</string>
   <string name="pref_camera_redeyereduction_entry_enable">Etkinleştir</string>
   <string name="pref_camera_redeyereduction_entry_disable">Devre dışı bırak</string>

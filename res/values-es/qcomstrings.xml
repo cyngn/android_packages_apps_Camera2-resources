@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">Activado</string>
   <string name="pref_camera_video_hdr_title">Vídeo de alto rango dinámico</string>
   <string name="pref_camera_facedetection_title">Detección rostro</string>
-  <string name="pref_camera_facedetection_entry_off">Desactivado</string>
-  <string name="pref_camera_facedetection_entry_on">Activado</string>
   <string name="pref_camera_redeyereduction_title">Reducción ojos rojos</string>
   <string name="pref_camera_redeyereduction_entry_enable">Activada</string>
   <string name="pref_camera_redeyereduction_entry_disable">Desactivada</string>

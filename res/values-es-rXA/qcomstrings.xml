@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">Activáu</string>
   <string name="pref_camera_video_hdr_title">Videu HDR</string>
   <string name="pref_camera_facedetection_title">Detección de cares</string>
-  <string name="pref_camera_facedetection_entry_off">Desactiváu</string>
-  <string name="pref_camera_facedetection_entry_on">Activáu</string>
   <string name="pref_camera_redeyereduction_title">Amenorgamientu de güeyos bermeyos</string>
   <string name="pref_camera_redeyereduction_entry_enable">Activada</string>
   <string name="pref_camera_redeyereduction_entry_disable">Desactivada</string>

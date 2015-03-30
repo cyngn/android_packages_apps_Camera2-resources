@@ -46,8 +46,6 @@
   <string name="pref_camera_video_hdr_entry_on">Aan</string>
   <string name="pref_camera_video_hdr_title">Video (HDR)</string>
   <string name="pref_camera_facedetection_title">Gesig Opsporing</string>
-  <string name="pref_camera_facedetection_entry_off">Af</string>
-  <string name="pref_camera_facedetection_entry_on">Aan</string>
   <string name="pref_camera_redeyereduction_title">Rooi oë Vermindering</string>
   <string name="pref_camera_redeyereduction_entry_enable">Aktiveer</string>
   <string name="pref_camera_redeyereduction_entry_disable">Deaktiveer</string>
