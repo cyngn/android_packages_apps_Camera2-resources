@@ -210,6 +210,10 @@
     <string name="pref_camera_left_handed_title">Left-handed</string>
     <string name="pref_camera_left_handed_summary">Adjust controls for left-handed use</string>
 
+    <!-- Low-memory dialog message when we have removable storage available -->
+    <!--  %1 will be something like "Internal Storage or "SD Card" -->
+    <!--  %2 will be "SD Card" or "USB Storage" -->
+    <string name="spaceIsLow_alternate" product="default">%1$s is running out of space. Delete some images or other files or use %2$s.</string>
     <string name="camera_storage_fallback">Reverting to default storage location</string>
 
     <string name="pref_camera_volume_zoom_title">Volume zoom</string>
