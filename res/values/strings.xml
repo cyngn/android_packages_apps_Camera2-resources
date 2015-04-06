@@ -173,16 +173,14 @@
     <!-- alert to the user to wait for some operation to complete -->
     <string name="wait">Please wait\u2026</string>
 
-    <!-- alert to the user that storage must be installed before using the camera -->
-    <string name="no_storage" product="default">%1$s not available.</string>
+    <!-- alert to the user that an SD card must be installed before using the camera -->
+    <string name="no_storage" product="default">Insert an SD card before using the camera.</string>
 
-    <!-- alert to the user that storage is being disk-checked -->
-    <!--  %1 will be something like "Internal Storage or "SD Card" -->
-    <string name="preparing_sd" product="default">Preparing %1$s\u2026</string>
+    <!-- alert to the user that the SD card is being disk-checked -->
+    <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
 
-    <!-- alert to the user that the camera fails to read or write storage. -->
-    <!--  %1 will be something like "Internal Storage or "SD Card" -->
-    <string name="access_sd_fail" product="default">Couldn\'t access %1$s.</string>
+    <!-- alert to the user that the camera fails to read or write the SD card. -->
+    <string name="access_sd_fail" product="default">Couldn\'t access SD card.</string>
 
     <!-- A label that overlays on top of the preview frame to indicate the camcorder is in time lapse mode [CHAR LIMIT=35] -->
     <string name="time_lapse_title">Time lapse recording</string>
@@ -408,9 +406,8 @@
     <!-- Dialog "OK" button. Dismisses dialog. -->
     <string name="dialog_ok">OK</string>
 
-    <!-- Low-memory dialog message where there is no alternative storage -->
-    <!--  %1 will be something like "Internal Storage or "SD Card" -->
-    <string name="spaceIsLow_content" product="default">%1$s is running out of space. Delete some images or other files.</string>
+    <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
+    <string name="spaceIsLow_content" product="default">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
 
     <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
     <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
