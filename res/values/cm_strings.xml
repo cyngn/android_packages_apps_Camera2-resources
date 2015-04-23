@@ -46,6 +46,7 @@
     <string name="pref_camera_zsl_enable_summary_on">Fast image capture</string>
     <string name="pref_camera_zsl_enable_summary_alt">Fast image capture and burst shot</string>
     <string name="pref_camera_zsl_enable_summary_off">Better low light quality</string>
+    <string name="pref_camera_zsl_enable_default" translatable="false">true</string>
 
     <!-- The Video quality settings in preference -->
     <string name="pref_video_quality_alt_title">Video size</string>
@@ -208,11 +209,26 @@
     <string name="pref_camera_left_handed_title">Left-handed</string>
     <string name="pref_camera_left_handed_summary">Adjust controls for left-handed use</string>
 
-    <!-- Low-memory dialog message when we have removable storage available -->
-    <!--  %1 will be something like "Internal Storage or "SD Card" -->
-    <!--  %2 will be "SD Card" or "USB Storage" -->
-    <string name="spaceIsLow_alternate" product="default">%1$s is running out of space. Delete some images or other files or use %2$s.</string>
     <string name="camera_storage_fallback">Reverting to default storage location</string>
+
+    <string name="no_storage_sd">SD Card is not inserted or not writable.</string>
+    <string name="no_storage_usb">USB storage is not inserted or not writable.</string>
+
+    <!-- access_sd_fail is in strings.xml -->
+    <string name="access_usb_fail">Couldn\'t access USB storage.</string>
+    <string name="access_storage_fail">Couldn\'t access storage.</string>
+
+    <!-- preparing_sd is in strings.xml -->
+    <string name="preparing_usb">Preparing USB storage\u2026</string>
+    <string name="preparing_storage">Preparing storage\u2026</string>
+
+    <string name="spaceIsLow_sd">Your SD card is running out of space.</string>
+    <string name="spaceIsLow_usb">Your USB storage is running out of space.</string>
+    <string name="spaceIsLow_storage">Your storage is running out of space.</string>
+
+    <string name="alternate_storage_none">Change the quality setting or delete some images or other files.</string>
+    <string name="alternate_storage_sd_card">Delete some images or other files, or use an SD Card.</string>
+    <string name="alternate_storage_usb">Delete some images or other files, or use USB storage.</string>
 
     <string name="pref_camera_volume_zoom_title">Volume zoom</string>
     <string name="pref_camera_volume_zoom_summary">Volume keys control zoom</string>
