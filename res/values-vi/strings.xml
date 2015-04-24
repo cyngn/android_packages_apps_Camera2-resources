@@ -81,9 +81,9 @@
   <string name="cannot_connect_camera">Không thể kết nối với máy ảnh.</string>
   <string name="camera_disabled">Máy ảnh đã bị tắt do chính sách bảo mật.</string>
   <string name="wait">Vui lòng đợi...</string>
-  <string name="no_storage" product="default">Lắp thẻ SD trước khi sử dụng máy ảnh.</string>
-  <string name="preparing_sd" product="default">Đang chuẩn bị thẻ SD…</string>
-  <string name="access_sd_fail" product="default">Không thể truy cập thẻ SD.</string>
+  <string name="no_storage" product="default">Lắp thẻ nhớ trước khi sử dụng máy ảnh.</string>
+  <string name="preparing_sd" product="default">Đang chuẩn bị thẻ nhớ\u2026</string>
+  <string name="access_sd_fail" product="default">Không thể truy cập thẻ nhớ.</string>
   <string name="time_lapse_title">Đang quay ở chế độ khoảng thời gian</string>
   <string name="capturing">Đang chụp</string>
   <string name="pref_camera_id_title">Chọn máy ảnh</string>

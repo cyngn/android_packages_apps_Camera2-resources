@@ -23,6 +23,7 @@
   <string name="pref_camera_jpegquality_short_title">איכות</string>
   <string name="pref_camera_viewfinder_title">עינית</string>
   <string name="pref_camera_viewfinder_fullscreen">מסך מלא</string>
+  <string name="pref_camera_viewfinder_letterbox">תיבה</string>
   <string name="pref_camera_raw_mode_title">שמור תמונה נקייה</string>
   <string name="beauty_mode_disables_raw">מצב יופי מבטל לכידת תמונה נקייה</string>
   <string name="pref_camera_zsl_enable_title">ללא עיכוב תריס</string>
@@ -132,6 +133,18 @@
   <string name="pref_camera_left_handed_title">שמאלי</string>
   <string name="pref_camera_left_handed_summary">כוון בקרה עבור שמאליים</string>
   <string name="camera_storage_fallback">מחזיר למיקום אחסון ברירת מחדל</string>
+  <string name="no_storage_sd">לא הוכנס כרטיס SD, או שהוא נעול לשינויים.</string>
+  <string name="no_storage_usb">לא הוכנס אחסון USB, או שהוא נעול לשינויים.</string>
+  <string name="access_usb_fail">לא ניתן לגשת לאחסון ה-USB.</string>
+  <string name="access_storage_fail">לא ניתן לגשת לאחסון.</string>
+  <string name="preparing_usb">מכין אחסון USB\u2026</string>
+  <string name="preparing_storage">מכין אחסון\u2026</string>
+  <string name="spaceIsLow_sd">אוזל המקום בכרטיס ה-SD שלך.</string>
+  <string name="spaceIsLow_usb">אוזל המקום באחסון ה-USB שלך.</string>
+  <string name="spaceIsLow_storage">אוזל המקום באחסון שלך.</string>
+  <string name="alternate_storage_none">שנה את הגדרות איכות התמונה, או מחק כמה תמונות ישנות או קבצים אחרים.</string>
+  <string name="alternate_storage_sd_card">מחק כמה תמונות או קבצים אחרים, או שתשתמש בכרטיס SD.</string>
+  <string name="alternate_storage_usb">מחק כמה תמונות או קבצים אחרים, או שתשתמש באחסון USB.</string>
   <string name="pref_camera_volume_zoom_title">התקרבות עם לחצני קול</string>
   <string name="pref_camera_volume_zoom_summary">מקשי הקול שולטים בהתקרבות</string>
   <string name="pref_max_brightness_title">מסך בהיר</string>

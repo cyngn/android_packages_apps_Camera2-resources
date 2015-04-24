@@ -21,13 +21,19 @@
   <string name="pref_camera_general_section">Allgemein</string>
   <string name="pref_camera_picturesize_short_title">Größe</string>
   <string name="pref_camera_jpegquality_short_title">Qualität</string>
+  <string name="pref_camera_viewfinder_title">Sucher</string>
   <string name="pref_camera_viewfinder_fullscreen">Vollbild</string>
+  <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
   <string name="pref_camera_raw_mode_title">Raw-Daten speichern</string>
   <string name="beauty_mode_disables_raw">Im Modus \"Gesichter verschönern\" können keine Raw-Aufnahmen erstellen werden</string>
   <string name="pref_camera_zsl_enable_title">Keine Auslöseverzögerung</string>
   <string name="pref_camera_zsl_enable_summary_on">Schnelle Bilderfassung</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Schnelle Bilderfassung und Serienmodus</string>
+  <string name="pref_camera_zsl_enable_summary_off">Bessere Qualität bei wenig Licht</string>
   <string name="pref_video_quality_alt_title">Videogröße</string>
   <string name="pref_video_quality_short_title">Größe</string>
+  <string name="pref_camera_aspectratio_wide">Breitbild</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f MP</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Bewegungsunschärfe-Reduktion</string>
   <string name="pref_camera_scenemode_entry_aqua">Wasser</string>
   <string name="pref_camera_scenemode_entry_ar">Erweiterte Realität</string>
@@ -132,7 +138,11 @@
   <string name="pref_max_brightness_title">Heller Bildschirm</string>
   <string name="pref_max_brightness_summary">Maximale Bildschirmhelligkeit bei aktiver Kamera</string>
   <string name="pref_camera_reset_title">Standardeinstellungen wiederherstellen</string>
+  <string name="pref_camera_reset_message">Wollen Sie alle Kamera- und Video-Einstellungen auf Originalzustand zurücksetzten? Dies kann nicht rückgängig gemacht werden.</string>
   <string name="pref_camera_reset_button">Wiederherstellen</string>
   <string name="pref_section_advanced">Erweitert</string>
   <string name="pref_section_other">Anderes</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Speicher ist niedrig – Aufnahmen werden gestoppt!</string>
+  <string name="hold_for_burst">Auslöser für Serienaufnahme gedrückt halten.</string>
+  <string name="cannot_start_video_toast">Videoaufzeichnung kann nicht gestartet werden. Wird das Mikrofon verwendet?</string>
 </resources>

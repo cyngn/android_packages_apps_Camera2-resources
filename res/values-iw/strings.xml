@@ -19,7 +19,7 @@
   <string name="video_camera_label">מצלמת וידאו</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-  <string name="set_image">הגדר תמונה כ-</string>
+  <string name="set_image">הגדר תמונה כ:</string>
   <string name="delete">מחק</string>
   <plurals name="delete_selection">
     <item quantity="one">האם למחוק את הפריט שנבחר?</item>

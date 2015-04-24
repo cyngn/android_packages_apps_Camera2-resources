@@ -25,6 +25,7 @@
   <string name="beauty_mode_disables_raw">Modul de frumusețe dezactivează captura brută</string>
   <string name="pref_video_quality_alt_title">Dimensiune video</string>
   <string name="pref_video_quality_short_title">Dimensiune</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixeli</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Reducerea umbrei de mișcare</string>
   <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
   <string name="pref_camera_scenemode_entry_ar">Realitatea augmentată</string>
@@ -128,4 +129,6 @@
   <string name="pref_camera_volume_zoom_summary">Butoanele de volum controlează zoom-ul</string>
   <string name="pref_max_brightness_title">Ecran luminos</string>
   <string name="pref_max_brightness_summary">Setaează luminozitatea la maxim, cât timp Camera este activă</string>
+  <string name="pref_section_advanced">Avansat</string>
+  <string name="pref_section_other">Altele</string>
 </resources>

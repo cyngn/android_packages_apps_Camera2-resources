@@ -33,13 +33,19 @@
   <string name="set_as">Setați ca</string>
   <string name="video_err">Nu se poate reda videoclipul.</string>
   <string name="crop_saved">Imaginea decupată a fost salvată în <xliff:g id="FOLDER_NAME">%s</xliff:g>.</string>
+  <string name="title">Titlu</string>
   <string name="description">Descriere</string>
   <string name="time">Ora</string>
   <string name="location">Locație</string>
   <string name="path">Cale</string>
   <string name="width">Lățime</string>
+  <string name="height">Înălțime</string>
+  <string name="orientation">Orientare</string>
+  <string name="duration">Durată</string>
+  <string name="mimetype">Tip MIME</string>
   <string name="file_size">Dimens. fișier</string>
   <string name="maker">Producător</string>
+  <string name="model">Model</string>
   <string name="aperture">Apertură</string>
   <string name="focal_length">Dist. focală</string>
   <string name="white_balance">Balans de alb</string>
@@ -67,6 +73,11 @@
   <string name="pref_camera_recordlocation_title">Stocați locația</string>
   <string name="pref_camera_location_label">LOCAȚIE</string>
   <string name="pref_camera_timer_title">Cronometru numărătoare inversă</string>
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 secundă</item>
+    <item quantity="few">%d (de) secunde</item>
+    <item quantity="other">%d secunde</item>
+  </plurals>
   <string name="pref_camera_timer_sound_title">Bip numărătoare</string>
   <string name="setting_off">Dezactivat</string>
   <string name="setting_on">Activat</string>

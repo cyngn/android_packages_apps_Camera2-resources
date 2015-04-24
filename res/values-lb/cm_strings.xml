@@ -21,10 +21,18 @@
   <string name="pref_camera_general_section">Allgemeng</string>
   <string name="pref_camera_picturesize_short_title">Gréisst</string>
   <string name="pref_camera_jpegquality_short_title">Qualitéit</string>
+  <string name="pref_camera_viewfinder_fullscreen">Vollschierm</string>
+  <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
   <string name="pref_camera_raw_mode_title">Réi-Bild späicheren</string>
   <string name="beauty_mode_disables_raw">Gesiichter verschéineren desaktivéiert d\'Réiopnam</string>
+  <string name="pref_camera_zsl_enable_title">Ouni Verzögerung ausléisen</string>
+  <string name="pref_camera_zsl_enable_summary_on">Séiert Ophuele vu Biller</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Séier Bildopnam a Burst-Modus</string>
+  <string name="pref_camera_zsl_enable_summary_off">Besser Qualitéit bei wéineg Luucht</string>
   <string name="pref_video_quality_alt_title">Videogréisst</string>
   <string name="pref_video_quality_short_title">Gréisst</string>
+  <string name="pref_camera_aspectratio_wide">Breet</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f Megapixel</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Reduktioun vun der Beweegungsonschäerft</string>
   <string name="pref_camera_scenemode_entry_aqua">Waasser</string>
   <string name="pref_camera_scenemode_entry_ar">Erweidert Realitéit</string>
@@ -128,4 +136,8 @@
   <string name="pref_camera_volume_zoom_summary">Mat de Lautstäerktknäppercher zoomen</string>
   <string name="pref_max_brightness_title">Helle Schierm</string>
   <string name="pref_max_brightness_summary">Maximal Schiermhellegkeet bei aktiver Kamera</string>
+  <string name="pref_camera_reset_title">Virgaben zrécksetzen</string>
+  <string name="pref_camera_reset_button">Erëmhierstellen</string>
+  <string name="pref_section_advanced">Erweidert</string>
+  <string name="pref_section_other">Aner</string>
 </resources>
