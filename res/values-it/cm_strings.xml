@@ -21,11 +21,18 @@
   <string name="pref_camera_general_section">Generale</string>
   <string name="pref_camera_picturesize_short_title">Dimensione</string>
   <string name="pref_camera_jpegquality_short_title">Qualità</string>
+  <string name="pref_camera_viewfinder_title">Mirino</string>
   <string name="pref_camera_viewfinder_fullscreen">Schermo intero</string>
+  <string name="pref_camera_viewfinder_letterbox">LetterBox</string>
   <string name="pref_camera_raw_mode_title">Salva immagine raw</string>
   <string name="beauty_mode_disables_raw">La modalità bellezza disattiva la cattura in raw</string>
+  <string name="pref_camera_zsl_enable_title">Ritardo zero dell\'otturatore</string>
+  <string name="pref_camera_zsl_enable_summary_on">Acquisizione rapida dell\'immagine</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Acquisizione rapida immagini con scatto continuo</string>
+  <string name="pref_camera_zsl_enable_summary_off">Migliore qualità con luce bassa</string>
   <string name="pref_video_quality_alt_title">Dimensioni video</string>
   <string name="pref_video_quality_short_title">Dimensione</string>
+  <string name="pref_camera_aspectratio_wide">Ampia</string>
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Riduzione sfocatura da movimento</string>
   <string name="pref_camera_scenemode_entry_aqua">Acqua</string>
@@ -130,4 +137,12 @@
   <string name="pref_camera_volume_zoom_summary">I tasti volume controllano lo zoom</string>
   <string name="pref_max_brightness_title">Schermo luminoso</string>
   <string name="pref_max_brightness_summary">Imposta la luminosità al massimo quando la fotocamera è attiva</string>
+  <string name="pref_camera_reset_title">Ripristina predefiniti</string>
+  <string name="pref_camera_reset_message">Ripristinare tutte le impostazioni della fotocamera e video ai valori originali? L\'azione non può essere annullata.</string>
+  <string name="pref_camera_reset_button">Ripristina</string>
+  <string name="pref_section_advanced">Avanzate</string>
+  <string name="pref_section_other">Altro</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Memoria insufficiente, impossibile scattare!</string>
+  <string name="hold_for_burst">Tieni premuto il pulsante per effettuare scatti continui.</string>
+  <string name="cannot_start_video_toast">Impossibile avviare una registrazione video. Il microfono è in uso?</string>
 </resources>

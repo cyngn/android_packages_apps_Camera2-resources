@@ -90,11 +90,6 @@
   <string name="pref_camera_burst_entry_20">20 kliskatze</string>
   <string name="pref_camera_focustime_title">Enfokearen iraupena</string>
   <string name="pref_camera_focustime_summary">Pantaila ikutzearen enfokearen iraupena aukeratu</string>
-  <string name="pref_camera_focustime_entry_5">5 segundu</string>
-  <string name="pref_camera_focustime_entry_10">10 segundu</string>
-  <string name="pref_camera_focustime_entry_15">15 segundu</string>
-  <string name="pref_camera_focustime_entry_20">20 segundu</string>
-  <string name="pref_camera_focustime_entry_30">30 segundu</string>
   <string name="pref_camera_focustime_entry_infinite">Infinitoa</string>
   <string name="pref_camera_flashmode_entry_redeye">Begi gorriak</string>
   <string name="pref_camera_flashmode_label_redeye">BEGI GORRIAK</string>
@@ -104,11 +99,6 @@
   <string name="pref_camera_slow_shutter_delay_title">Obturadore motelaren abiadura</string>
   <string name="pref_camera_slow_shutter_entry_off">Ezgaituta</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatikoa</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">Segundu ½</string>
-  <string name="pref_camera_slow_shutter_entry_1s">Segundu 1</string>
-  <string name="pref_camera_slow_shutter_entry_2s">2 segundu</string>
-  <string name="pref_camera_slow_shutter_entry_4s">4 segundu</string>
-  <string name="pref_camera_slow_shutter_entry_8s">8 segundu</string>
   <string name="pref_camera_storage_title">Biltegiratzea</string>
   <string name="pref_camera_recordlocation_on">Argazkiak uneko kokalekuarekin etiketatu</string>
   <string name="pref_camera_recordlocation_off">Argazkiak uneko kokalekuarekin ez etiketatu</string>
@@ -122,9 +112,7 @@
   <string name="pref_camera_power_shutter_summary">Itzaltze botoiak argazkia ateratzen du</string>
   <string name="pref_camera_left_handed_title">Ezkertientzako modua</string>
   <string name="pref_camera_left_handed_summary">Kontrolak pantailaren ezkerraldean ezarri</string>
-  <string name="camera_storage_fallback">Lehenetsitako biltegiratzea berrezartzen</string>
   <string name="pref_camera_volume_zoom_title">Zoom-a bolumen botoiekin</string>
   <string name="pref_camera_volume_zoom_summary">Bolumen botoien zoom-a kontrolatzen dute</string>
-  <string name="pref_max_brightness_title">Pantaila diztiratsua</string>
-  <string name="pref_max_brightness_summary">Diztira maximora eraman kamera erabili bitartean</string>
+  <string name="pref_max_brightness_title">Pantaila distiratsua</string>
 </resources>

@@ -26,12 +26,14 @@
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
   <string name="pref_camera_raw_mode_title">RAW-afbeelding opslaan</string>
   <string name="beauty_mode_disables_raw">RAW-afbeelding niet mogelijk bij Verfraaien</string>
+  <string name="pref_camera_zsl_enable_title">Geen ontspanvertraging (ZSL)</string>
   <string name="pref_camera_zsl_enable_summary_on">Snel foto\'s maken</string>
   <string name="pref_camera_zsl_enable_summary_alt">Snel foto\'s en burst-opnamen maken</string>
   <string name="pref_camera_zsl_enable_summary_off">Hogere kwaliteit bij weinig licht</string>
   <string name="pref_video_quality_alt_title">Videokwaliteit</string>
   <string name="pref_video_quality_short_title">Grootte</string>
   <string name="pref_camera_aspectratio_wide">Breedbeeld</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Beweging verscherpen</string>
   <string name="pref_camera_scenemode_entry_aqua">Water</string>
   <string name="pref_camera_scenemode_entry_ar">Augmented reality</string>
@@ -131,16 +133,17 @@
   <string name="pref_camera_left_handed_title">Linkshandig</string>
   <string name="pref_camera_left_handed_summary">Voor linkshandig gebruik instellen</string>
   <string name="camera_storage_fallback">Terugzetten naar standaardopslaglocatie</string>
+  <string name="preparing_usb">USB-opslag voorbereiden\u2026</string>
   <string name="pref_camera_volume_zoom_title">Volumeknoppen</string>
   <string name="pref_camera_volume_zoom_summary">Volumeknoppen gebruiken om te zoomen</string>
   <string name="pref_max_brightness_title">Helder scherm</string>
   <string name="pref_max_brightness_summary">Maximale helderheid wanneer de camera is ingeschakeld</string>
   <string name="pref_camera_reset_title">Standaardwaarden</string>
-  <string name="pref_camera_reset_message">Alle camera en video-instellingen herstellen naar standaardwaarden? Dit kan niet ongedaan worden gemaakt.</string>
+  <string name="pref_camera_reset_message">Alle camera- en video-instellingen herstellen naar standaardwaarden? Dit kan niet ongedaan worden gemaakt.</string>
   <string name="pref_camera_reset_button">Reset</string>
   <string name="pref_section_advanced">Geavanceerd</string>
   <string name="pref_section_other">Overige</string>
   <string name="msg_cancel_longshot_for_limited_memory">Geheugen is bijna vol, stoppen met foto\'s nemen.</string>
-  <string name="hold_for_burst">Sluiterknop inhouden om burst-opnamen te maken.</string>
+  <string name="hold_for_burst">Knop inhouden voor burst-opname</string>
   <string name="cannot_start_video_toast">Kan video-opname niet starten. Is de microfoon in gebruik?</string>
 </resources>

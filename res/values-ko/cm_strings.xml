@@ -21,10 +21,19 @@
   <string name="pref_camera_general_section">일반</string>
   <string name="pref_camera_picturesize_short_title">크기</string>
   <string name="pref_camera_jpegquality_short_title">품질</string>
+  <string name="pref_camera_viewfinder_title">뷰파인더</string>
+  <string name="pref_camera_viewfinder_fullscreen">전체 화면</string>
+  <string name="pref_camera_viewfinder_letterbox">레터박스</string>
   <string name="pref_camera_raw_mode_title">RAW 이미지 저장</string>
   <string name="beauty_mode_disables_raw">피부 보정 모드에선 RAW 저장을 할 수 없습니다</string>
+  <string name="pref_camera_zsl_enable_title">제로 셔터 랙</string>
+  <string name="pref_camera_zsl_enable_summary_on">빠른 사진 촬영</string>
+  <string name="pref_camera_zsl_enable_summary_alt">빠른 사진 촬영 및 버스트 샷</string>
+  <string name="pref_camera_zsl_enable_summary_off">더 나은 저조도 화질</string>
   <string name="pref_video_quality_alt_title">비디오 크기</string>
   <string name="pref_video_quality_short_title">크기</string>
+  <string name="pref_camera_aspectratio_wide">와이드</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f MP</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">모션 블러 감소</string>
   <string name="pref_camera_scenemode_entry_aqua">아쿠아</string>
   <string name="pref_camera_scenemode_entry_ar">증강 현실</string>
@@ -128,4 +137,12 @@
   <string name="pref_camera_volume_zoom_summary">볼륨 버튼으로 확대/축소를 제어합니다</string>
   <string name="pref_max_brightness_title">밝은 화면</string>
   <string name="pref_max_brightness_summary">카메라가 켜져있는 동안 화면 밝기를 최대로 설정</string>
+  <string name="pref_camera_reset_title">기본 설정으로 복원</string>
+  <string name="pref_camera_reset_message">모든 사진 및 동영상 설정을 기본값으로 변경합니까? 이 작업은 되돌릴 수 없습니다.</string>
+  <string name="pref_camera_reset_button">복원</string>
+  <string name="pref_section_advanced">고급</string>
+  <string name="pref_section_other">기타</string>
+  <string name="msg_cancel_longshot_for_limited_memory">메모리가 부족하여 촬영을 중단합니다.</string>
+  <string name="hold_for_burst">버스트 샷을 찍으려면 셔터를 누른 체로 유지하세요.</string>
+  <string name="cannot_start_video_toast">동영상을 촬영할 수 없습니다. 마이크가 사용중이 아닌지 확인하십시오.</string>
 </resources>
