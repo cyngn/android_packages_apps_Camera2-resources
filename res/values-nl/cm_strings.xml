@@ -136,6 +136,7 @@
   <string name="no_storage_sd">SD-kaart is niet geplaatst of niet beschrijfbaar.</string>
   <string name="no_storage_usb">USB-opslag is niet geplaatst of niet beschrijfbaar.</string>
   <string name="access_usb_fail">Geen toegang tot USB-opslag.</string>
+  <string name="access_storage_fail">Geen toegang tot opslag.</string>
   <string name="preparing_usb">USB-opslag voorbereiden\u2026</string>
   <string name="preparing_storage">Opslag voorbereiden\u2026</string>
   <string name="spaceIsLow_sd">Uw SD-kaart is bijna vol.</string>
