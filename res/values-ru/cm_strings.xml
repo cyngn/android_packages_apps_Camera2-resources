@@ -21,6 +21,7 @@
   <string name="pref_camera_general_section">Общие</string>
   <string name="pref_camera_picturesize_short_title">Размер</string>
   <string name="pref_camera_jpegquality_short_title">Качество</string>
+  <string name="pref_camera_viewfinder_title">Видоискатель</string>
   <string name="pref_camera_raw_mode_title">Сохранять RAW-изображения</string>
   <string name="beauty_mode_disables_raw">Режим автоулучшения отключает сохранение в RAW</string>
   <string name="pref_video_quality_alt_title">Размер видео</string>
@@ -128,4 +129,5 @@
   <string name="pref_camera_volume_zoom_summary">Кнопки громкости управл. приближением</string>
   <string name="pref_max_brightness_title">Яркий экран</string>
   <string name="pref_max_brightness_summary">Устанавливать яркость на максимум при активной камере</string>
+  <string name="pref_camera_reset_button">Восстановить</string>
 </resources>
