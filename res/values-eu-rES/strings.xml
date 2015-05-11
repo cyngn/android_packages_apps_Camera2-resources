@@ -15,6 +15,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="delete">Ezabatu</string>
+  <plurals name="delete_selection">
+    <item quantity="one">Ezabatu aukeratutako elementua?</item>
+    <item quantity="other">Ezabatu aukeratutako elementuak?</item>
+  </plurals>
+  <string name="deleted">Ezabatuta</string>
   <string name="pref_camera_countdown_label_three">3 SEGUNDO</string>
   <string name="pref_camera_countdown_label_ten">10 SEGUNDO</string>
   <string name="pref_camera_countdown_label_fifteen">15 SEGUNDO</string>

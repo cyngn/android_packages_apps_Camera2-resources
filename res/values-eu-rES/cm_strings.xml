@@ -21,6 +21,8 @@
   <string name="pref_camera_general_section">Orokorra</string>
   <string name="pref_camera_picturesize_short_title">Tamaina</string>
   <string name="pref_camera_jpegquality_short_title">Kalitatea</string>
+  <string name="pref_camera_viewfinder_title">Bisorea</string>
+  <string name="pref_camera_viewfinder_fullscreen">Pantaila osoa</string>
   <string name="pref_camera_raw_mode_title">RAW irudia gorde</string>
   <string name="beauty_mode_disables_raw">Edertasun moduak RAW kaptura ezgaitzen du</string>
   <string name="pref_video_quality_alt_title">Bideo tamaina</string>
@@ -90,6 +92,11 @@
   <string name="pref_camera_burst_entry_20">20 kliskatze</string>
   <string name="pref_camera_focustime_title">Enfokearen iraupena</string>
   <string name="pref_camera_focustime_summary">Pantaila ikutzearen enfokearen iraupena aukeratu</string>
+  <string name="pref_camera_focustime_entry_5">5s</string>
+  <string name="pref_camera_focustime_entry_10">10s</string>
+  <string name="pref_camera_focustime_entry_15">15s</string>
+  <string name="pref_camera_focustime_entry_20">20s</string>
+  <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Infinitoa</string>
   <string name="pref_camera_flashmode_entry_redeye">Begi gorriak</string>
   <string name="pref_camera_flashmode_label_redeye">BEGI GORRIAK</string>
@@ -99,6 +106,11 @@
   <string name="pref_camera_slow_shutter_delay_title">Obturadore motelaren abiadura</string>
   <string name="pref_camera_slow_shutter_entry_off">Ezgaituta</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automatikoa</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">Segundo ½</string>
+  <string name="pref_camera_slow_shutter_entry_1s">Segundo 1</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 segundo</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 segundo</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 segundo</string>
   <string name="pref_camera_storage_title">Biltegiratzea</string>
   <string name="pref_camera_recordlocation_on">Argazkiak uneko kokalekuarekin etiketatu</string>
   <string name="pref_camera_recordlocation_off">Argazkiak uneko kokalekuarekin ez etiketatu</string>
@@ -112,7 +124,19 @@
   <string name="pref_camera_power_shutter_summary">Itzaltze botoiak argazkia ateratzen du</string>
   <string name="pref_camera_left_handed_title">Ezkertientzako modua</string>
   <string name="pref_camera_left_handed_summary">Kontrolak pantailaren ezkerraldean ezarri</string>
+  <string name="camera_storage_fallback">Lehenetsitako biltegiratzera aldatzen</string>
+  <string name="no_storage_sd">SD txartela ez dago sartuta edo ezin da honetan idatzi.</string>
+  <string name="no_storage_usb">USB biltegiratzea ez dago sartuta edo ezin da honetan idatzi.</string>
+  <string name="access_usb_fail">Ezin izan da USB biltegiratzea atzitu.</string>
+  <string name="access_storage_fail">Ezin izan da biltegiratzea atzitu.</string>
+  <string name="preparing_usb">USB biltegiratzea prestatzen\u2026</string>
+  <string name="preparing_storage">Biltegiratzea prestatzen\u2026</string>
+  <string name="spaceIsLow_sd">Zure SD txarteleko espazioa agortzen ari da.</string>
   <string name="pref_camera_volume_zoom_title">Zoom-a bolumen botoiekin</string>
   <string name="pref_camera_volume_zoom_summary">Bolumen botoien zoom-a kontrolatzen dute</string>
   <string name="pref_max_brightness_title">Pantaila distiratsua</string>
+  <string name="pref_camera_reset_button">Berrezarri</string>
+  <string name="pref_section_advanced">Aurreratua</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Memoria agortzen ari da, argazkiak gelditzen!</string>
+  <string name="cannot_start_video_toast">Ezin da bideo grabaketa hasi, mikrofonoa okupatuta dago?</string>
 </resources>
