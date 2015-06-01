@@ -21,6 +21,11 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Fotografia bude použitá ako</string>
   <string name="delete">Odstrániť</string>
+  <plurals name="delete_selection">
+    <item quantity="one">Odstrániť vybranú položku?</item>
+    <item quantity="few">Odstrániť vybrané položky?</item>
+    <item quantity="other">Odstrániť vybrané položky?</item>
+  </plurals>
   <string name="share">Zdieľať</string>
   <string name="share_panorama">Zdieľať panorámu</string>
   <string name="share_as_photo">Zdieľať ako fotografiu</string>
@@ -28,6 +33,21 @@
   <string name="undo">SPÄŤ</string>
   <string name="details">Podrobnosti</string>
   <string name="close">Zavrieť</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d vybraná</item>
+    <item quantity="few">%1$d vybrané</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d vybraný</item>
+    <item quantity="few">%1$d vybrané</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d vybraná</item>
+    <item quantity="few">%1$d vybrané</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
   <string name="show_on_map">Zobraziť na mape</string>
   <string name="rotate_left">Otočiť doľava</string>
   <string name="rotate_right">Otočiť doprava</string>
@@ -80,6 +100,11 @@
   <string name="pref_camera_recordlocation_title">Ukladať polohu</string>
   <string name="pref_camera_location_label">POLOHA</string>
   <string name="pref_camera_timer_title">Časovač odpočítavania</string>
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 sekunda</item>
+    <item quantity="few">%d sekundy</item>
+    <item quantity="other">%d sekúnd</item>
+  </plurals>
   <string name="pref_camera_timer_sound_title">Zvuk odpočít.</string>
   <string name="setting_off">Vypnuté</string>
   <string name="setting_on">Zapnuté</string>

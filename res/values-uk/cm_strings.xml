@@ -143,6 +143,8 @@
   <string name="spaceIsLow_usb">На Вашому USB-носію бракує місця.</string>
   <string name="spaceIsLow_storage">На Вашому носію бракує місця.</string>
   <string name="alternate_storage_none">Змініть параметри якості чи видаліть деякі зображенняз  або інші файли.</string>
+  <string name="alternate_storage_sd_card">Вилучіть деякі зображення чи інші файли, аби використовувати SD-карту і надалі.</string>
+  <string name="alternate_storage_usb">Вилучіть деякі зображення чи інші файли, аби використовувати USB-носій і надалі.</string>
   <string name="pref_camera_volume_zoom_title">Масштаб. кнопками гучності</string>
   <string name="pref_camera_volume_zoom_summary">Кнопки гучності керують зближенням</string>
   <string name="pref_max_brightness_title">Яскравий екран</string>
