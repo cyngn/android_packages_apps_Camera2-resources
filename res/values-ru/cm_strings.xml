@@ -143,8 +143,8 @@
   <string name="spaceIsLow_usb">На вашем USB-накопителе заканчивается место.</string>
   <string name="spaceIsLow_storage">На вашем накопителе заканчивается место.</string>
   <string name="alternate_storage_none">Измените настройки качества либо удалите часть изображений или других файлов.</string>
-  <string name="alternate_storage_sd_card">Удалите часть изображений или других файлов, либо воспользуйтесь SD-картой.</string>
-  <string name="alternate_storage_usb">Удалите часть изображений или других файлов, либо воспользуйтесь USB-накопителем.</string>
+  <string name="alternate_storage_sd_card">Удалите часть изображений или других файлов либо воспользуйтесь SD-картой.</string>
+  <string name="alternate_storage_usb">Удалите часть изображений или других файлов либо воспользуйтесь USB-накопителем.</string>
   <string name="pref_camera_volume_zoom_title">Масштаб. кнопками громкости</string>
   <string name="pref_camera_volume_zoom_summary">Кнопки громкости управл. приближением</string>
   <string name="pref_max_brightness_title">Яркий экран</string>
