@@ -52,7 +52,7 @@
   <string name="title">عنوان</string>
   <string name="description">توضیح</string>
   <string name="time">زمان</string>
-  <string name="location">موقعیت مکانی</string>
+  <string name="location">مکان</string>
   <string name="path">مسیر</string>
   <string name="width">عرض</string>
   <string name="height">ارتفاع</string>
@@ -73,7 +73,7 @@
   <string name="auto">خودکار</string>
   <string name="flash_on">فلاش زده شد</string>
   <string name="flash_off">بدون فلاش</string>
-  <string name="unknown">نامشخص</string>
+  <string name="unknown">ناشناخته</string>
   <string name="try_to_set_local_album_available_offline">این مورد در دستگاه ذخیره شده و به صورت آفلاین در دسترس است.</string>
   <string name="please_wait">لطفاً منتظر بمانید</string>
   <string name="rendering_photo_sphere">‏در حال تولید تصویر Photo Sphere</string>
@@ -82,7 +82,7 @@
   <string name="camera_disabled">به دلیل خط‌مشی‌های امنیتی، دوربین غیرفعال شده است.</string>
   <string name="wait">لطفاً منتظر بمانید…</string>
   <string name="no_storage" product="default">‏قبل از استفاده از دوربین، یک کارت SD در آن قرار دهید.</string>
-  <string name="preparing_sd" product="default">‏در حال آماده‌سازی کارت SD...</string>
+  <string name="preparing_sd" product="default">آماده‌سازی کارت حافظه\u2026</string>
   <string name="access_sd_fail" product="default">‏دسترسی به کارت SD ممکن نیست.</string>
   <string name="time_lapse_title">ضبط با قابلیت گذر زمان</string>
   <string name="capturing">درحال ضبط</string>
@@ -160,11 +160,11 @@
   <string name="pref_camera_hdr_label">HDR</string>
   <string name="pref_camera_id_label_back">دوربین جلو</string>
   <string name="pref_camera_id_label_front">دوربین پشت</string>
-  <string name="dialog_ok">تأیید</string>
+  <string name="dialog_ok">بسیارخب</string>
   <string name="spaceIsLow_content" product="default">‏کارت SD شما پر شده است. تنظیمات کیفیت را تغییر دهید یا برخی تصاویر یا فایل‌های دیگر را حذف کنید.</string>
   <string name="video_reach_size_limit">حجم ویدیو به حداکثر مجاز رسید.</string>
   <string name="pano_too_fast_prompt">بسیار سریع</string>
-  <string name="pano_dialog_prepare_preview">در حال آماده‌سازی پانوراما</string>
+  <string name="pano_dialog_prepare_preview">آماده‌سازی پانوراما</string>
   <string name="pano_dialog_panorama_failed">ذخیره پانوراما انجام نشد.</string>
   <string name="pano_dialog_title">پانوراما</string>
   <string name="pano_capture_indication">در حال گرفتن عکس پانوراما</string>
@@ -263,5 +263,5 @@
   <string name="crop_save">ذخیره</string>
   <string name="cannot_load_image">تصویر بارگیری نمی‌شود!</string>
   <string name="switch_photo_filmstrip">نمای نوار فیلم</string>
-  <string name="setting_wallpaper">تنظیم کاغذ دیواری</string>
+  <string name="setting_wallpaper">تنظیم کاغذدیواری</string>
 </resources>

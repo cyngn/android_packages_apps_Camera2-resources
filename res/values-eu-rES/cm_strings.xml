@@ -93,7 +93,7 @@
   <string name="pref_camera_coloreffect_entry_whiteboard">Arbela zuria</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Arbela</string>
   <string name="pref_camera_burst_title">Kliskatze sorta</string>
-  <string name="pref_camera_burst_entry_off">Ezgaituta</string>
+  <string name="pref_camera_burst_entry_off">Ez</string>
   <string name="pref_camera_burst_entry_5">5 kliskatze</string>
   <string name="pref_camera_burst_entry_10">10 kliskatze</string>
   <string name="pref_camera_burst_entry_15">15 kliskatze</string>
