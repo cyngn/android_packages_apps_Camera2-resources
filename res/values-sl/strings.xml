@@ -70,7 +70,7 @@
   <string name="camera_disabled">Fotoaparat je onemogočen zaradi varnostnih pravilnikov.</string>
   <string name="wait">Počakajte …</string>
   <string name="no_storage" product="default">Pred uporabo fotoaparata vstavite kartico SD.</string>
-  <string name="preparing_sd" product="default">Priprava kartice SD …</string>
+  <string name="preparing_sd" product="default">Pripravljanje kartice SD …</string>
   <string name="access_sd_fail" product="default">Dostop do kartice SD ni bil mogoč.</string>
   <string name="time_lapse_title">Snemanje s časovnim zamikom</string>
   <string name="capturing">Snemanje</string>
@@ -149,7 +149,7 @@
   <string name="spaceIsLow_content" product="default">Na kartici SD zmanjkuje prostora. Spremenite nastavitev kakovosti ali izbrišite nekaj slik ali drugih datotek.</string>
   <string name="video_reach_size_limit">Dosežena je omejitev velikosti.</string>
   <string name="pano_too_fast_prompt">Prehitro</string>
-  <string name="pano_dialog_prepare_preview">Priprava panorame</string>
+  <string name="pano_dialog_prepare_preview">Pripravljanje panorame</string>
   <string name="pano_dialog_panorama_failed">Panorame ni bilo mogoče shraniti.</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_capture_indication">Snemanje panorame</string>
@@ -180,7 +180,7 @@
   <string name="accessibility_switch_to_camera">Preklopi na fotoaparat</string>
   <string name="accessibility_switch_to_video">Preklopi na videokamero</string>
   <string name="accessibility_switch_to_panorama">Preklopi na panoramo</string>
-  <string name="accessibility_switch_to_photo_sphere">Preklopi na način photo sphere</string>
+  <string name="accessibility_switch_to_photo_sphere">Preklopi v način photo sphere</string>
   <string name="accessibility_switch_to_gcam">Preklopi na visoko kakovost</string>
   <string name="accessibility_review_cancel">Prekliči pregled</string>
   <string name="accessibility_review_ok">Pregled opravljen</string>
@@ -248,5 +248,5 @@
   <string name="crop_save">Shrani</string>
   <string name="cannot_load_image">Slike ni mogoče naložiti.</string>
   <string name="switch_photo_filmstrip">Pogled filmskega traku</string>
-  <string name="setting_wallpaper">Nastavljanje ozadja</string>
+  <string name="setting_wallpaper">Nastavljanje slike ozadja</string>
 </resources>

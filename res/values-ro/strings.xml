@@ -27,7 +27,7 @@
   <string name="show_on_map">Afișați pe hartă</string>
   <string name="rotate_left">Rotește spre stânga</string>
   <string name="rotate_right">Rotește spre dreapta</string>
-  <string name="edit">Editați</string>
+  <string name="edit">Editare</string>
   <string name="crop_action">Decupați</string>
   <string name="trim_action">Decupați</string>
   <string name="set_as">Setați ca</string>
@@ -52,6 +52,7 @@
   <string name="exposure_time">Timp expunere</string>
   <string name="iso">ISO</string>
   <string name="unit_mm">mm</string>
+  <string name="manual">Manual</string>
   <string name="auto">Automat</string>
   <string name="flash_on">Bliț activat</string>
   <string name="flash_off">Fără bliț</string>

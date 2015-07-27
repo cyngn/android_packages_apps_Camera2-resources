@@ -82,7 +82,7 @@
   <string name="rendering_photo_sphere">Photo Sphere təqdim edilir</string>
   <string name="camera_error_title">Kamera xətası</string>
   <string name="cannot_connect_camera">Kamera qoşula bilmir.</string>
-  <string name="camera_disabled">Təhlükəsizlik siyasətinə görə kamera deaktiv edilib.</string>
+  <string name="camera_disabled">Təhlükəsizlik siyasətinə görə kamera Ləğv edildi.</string>
   <string name="wait">Lütfən, gözləyin...</string>
   <string name="no_storage" product="default">Kamera istifadə etməzdən əvvəl SD kartı daxil edin.</string>
   <string name="preparing_sd" product="default">SD kart hazırlanır ...</string>
