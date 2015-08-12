@@ -71,6 +71,7 @@
     <string name="pref_camera_videoencoder_entry_0" translatable="false">MPEG-4</string>
     <string name="pref_camera_videoencoder_entry_1" translatable="false">H.263</string>
     <string name="pref_camera_videoencoder_entry_2" translatable="false">H.264</string>
+    <string name="pref_camera_videoencoder_entry_3" translatable="false">H.265</string>
 
     <!-- Default video encoder setting. A numerical value. -->
     <string name="pref_camera_videoencoder_default" translatable="false">h264</string>
@@ -149,6 +150,13 @@
     <!-- Default redeye reduction setting. -->
     <string name="pref_camera_redeyereduction_default" translatable="false">disable</string>
 
+     <!-- The message is shown in toast when the app encounters an unsupported selection for HFR/HSR mode -->
+     <string name="error_app_unsupported_hfr_selection">HFR/HSR is not supported for DIS and/ TimeLapse</string>
+
+     <!-- The message is shown in dialog when the app
+         encounters an unsupported resolution for HSR mode -->
+     <string name="error_app_unsupported_hsr">High speed video is not supported at the selected resolution</string>
+
     <!-- Settings screen, Select Redeye Reduction -->
     <string name="pref_camera_redeyereduction_title">Red eye reduction</string>
 
@@ -157,10 +165,11 @@
     <string name="pref_camera_redeyereduction_entry_disable">Off</string>
 
     <!-- The message is shown in dialog when the app encounters an unsupported resolution for HFR mode -->
-    <string name="error_app_unsupported_hfr">HFR is not supported for selected resolution</string>
+    <string name="error_app_unsupported_hfr">Slow motion video is not supported at the selected resolution</string>
 
     <!-- The message is shown in dialog when the app encounters an unsupported video codec for HFR mode -->
-    <string name="error_app_unsupported_hfr_codec">Only H.264 video encoding is supported when HFR is on</string>
+    <string name="error_app_unsupported_hfr_codec">Only H.264 video encoding is supported when Slow Motion is on</string>
+    <string name="error_app_unsupported_hsr_codec">Only H.264 video encoding is supported when High Speed is on</string>
 
     <!-- The message is shown in dialog when the app encounters an unsupported video resolution-->
     <string name="error_app_unsupported">Unsupported video resolution for this codec type</string>
@@ -179,19 +188,29 @@
     <string name="pref_camera_hfr_default" translatable="false">off</string>
 
     <!-- Settings screen, Select hfr title -->
-    <string name="pref_camera_hfr_title">Slow Motion (HFR)</string>
+    <string name="pref_camera_hfr_title">Slow Motion</string>
+    <string name="pref_camera_hsr_title">High Speed</string>
+    <string name="pref_camera_hsr_hfr_title">High Speed/Slow Motion</string>
 
     <!-- Settings screen, hfr radio button choices -->
     <string name="pref_camera_hfr_entry_off">Off</string>
-    <string name="pref_camera_hfr_entry_2x">60 FPS</string>
-    <string name="pref_camera_hfr_entry_3x">90 FPS</string>
-    <string name="pref_camera_hfr_entry_4x">120 FPS</string>
+    <string name="pref_camera_hfr_entry_2x">Slow Motion 60 FPS</string>
+    <string name="pref_camera_hfr_entry_3x">Slow Motion 90 FPS</string>
+    <string name="pref_camera_hfr_entry_4x">Slow Motion 120 FPS</string>
+    <string name="pref_camera_hfr_entry_8x">Slow Motion 240 FPS</string>
+    <string name="pref_camera_hfr_entry_hsr_60">High Speed 60 FPS</string>
+    <string name="pref_camera_hfr_entry_hsr_90">High Speed 90 FPS</string>
+    <string name="pref_camera_hfr_entry_hsr_120">High Speed 120 FPS</string>
+    <string name="pref_camera_hfr_entry_hsr_240">High Speed 240 FPS</string>
 
     <!-- HFR entry values. Do not translate. -->
     <string name="pref_camera_hfr_value_off" translatable="false">off</string>
-    <string name="pref_camera_hfr_value_2x" translatable="false">60</string>
-    <string name="pref_camera_hfr_value_3x" translatable="false">90</string>
-    <string name="pref_camera_hfr_value_4x" translatable="false">120</string>
+    <string name="pref_camera_hfr_value_2x" translatable="false">hfr60</string>
+    <string name="pref_camera_hfr_value_3x" translatable="false">hfr90</string>
+    <string name="pref_camera_hfr_value_4x" translatable="false">hfr120</string>
+    <string name="pref_camera_hfr_value_hsr_60" translatable="false">hsr60</string>
+    <string name="pref_camera_hfr_value_hsr_90" translatable="false">hsr90</string>
+    <string name="pref_camera_hfr_value_hsr_120" translatable="false">hsr120</string>
 
     <!-- Denoise Settings screen, setting title text -->
     <string name="pref_camera_denoise_title">Denoise</string>
