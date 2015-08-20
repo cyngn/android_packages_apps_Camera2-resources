@@ -167,7 +167,7 @@
   <string name="effect_goofy_face_small_eyes">Majhne oči</string>
   <string name="effect_backdropper_space">V vesolju</string>
   <string name="effect_backdropper_sunset">Sončni zahod</string>
-  <string name="effect_backdropper_gallery">Vaš videopos.</string>
+  <string name="effect_backdropper_gallery">Vaš video pos.</string>
   <string name="video_recording_started">Snemanje videa se je začelo.</string>
   <string name="video_recording_stopped">Snemanje videa se je ustavilo.</string>
   <string name="clear_effects">Počisti učinke</string>
@@ -236,7 +236,7 @@
   <string name="set_duration">Nastavite trajanje v sekundah</string>
   <string name="count_down_title_text">Odštevanje pred fotografiranjem</string>
   <string name="remember_location_title">Beleženje lokacije fotografije?</string>
-  <string name="remember_location_prompt">Fotografije in videoposnetke označite z lokacijami, na katerih so posneti.\n\nDruge aplikacije lahko dostopajo do teh podatkov skupaj s shranjenimi slikami.</string>
+  <string name="remember_location_prompt">Fotografije in videoposnetke označite z lokacijami, na katerih so posneti.\n\nDrugi programi lahko dostopajo do teh podatkov skupaj s shranjenimi slikami.</string>
   <string name="remember_location_no">Ne, hvala</string>
   <string name="remember_location_yes">Da</string>
   <string name="camera_menu_more_label">VEČ MOŽNOSTI</string>

@@ -15,8 +15,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Cameră</string>
   <string name="video_camera_label">Cameră video</string>
+  <string name="details_ms">%1$02d:%2$02d</string>
+  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Setați fotografia ca</string>
+  <string name="delete">Ștergeți</string>
   <string name="share">Distribuiți</string>
   <string name="share_panorama">Distribuiți panorama</string>
   <string name="share_as_photo">Distribuiți ca fotografie</string>
@@ -46,6 +50,7 @@
   <string name="file_size">Dimens. fișier</string>
   <string name="maker">Producător</string>
   <string name="model">Model</string>
+  <string name="flash">Flash</string>
   <string name="aperture">Apertură</string>
   <string name="focal_length">Dist. focală</string>
   <string name="white_balance">Balans de alb</string>
@@ -63,13 +68,14 @@
   <string name="camera_error_title">Eroare cameră foto</string>
   <string name="cannot_connect_camera">Nu se poate realiza conexiunea la camera foto.</string>
   <string name="camera_disabled">Camera foto a fost dezactivată din cauza politicilor de securitate.</string>
-  <string name="wait">Așteptați…</string>
+  <string name="wait">Așteptați\u2026</string>
   <string name="no_storage" product="default">Introduceți un card SD înainte de a utiliza camera foto.</string>
   <string name="preparing_sd" product="default">Se pregătește cardul SD...</string>
   <string name="access_sd_fail" product="default">Nu s-a putut accesa cardul SD.</string>
   <string name="time_lapse_title">Înregistrare cu filmare lentă</string>
   <string name="capturing">Se capturează</string>
   <string name="pref_camera_id_title">Alegeți camera foto</string>
+  <string name="pref_camera_id_entry_back">Înapoi</string>
   <string name="pref_camera_id_entry_front">Față</string>
   <string name="pref_camera_recordlocation_title">Stocați locația</string>
   <string name="pref_camera_location_label">LOCAȚIE</string>
