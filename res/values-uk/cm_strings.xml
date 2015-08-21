@@ -152,7 +152,7 @@
   <string name="pref_camera_reset_title">Відновити типові налаштування</string>
   <string name="pref_camera_reset_message">Змінити всі установки камери та відеоз’йомки вихідними значеннями? Це не можна буде скасувати.</string>
   <string name="pref_camera_reset_button">Відновити</string>
-  <string name="pref_section_advanced">Розширені налаштування</string>
+  <string name="pref_section_advanced">Додатково</string>
   <string name="pref_section_other">Інші</string>
   <string name="msg_cancel_longshot_for_limited_memory">Замало оперативної пам’яті, припиняємо з’йомку!</string>
   <string name="hold_for_burst">Утримуйте затвор для серійної з’йомки.</string>
