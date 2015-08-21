@@ -132,6 +132,7 @@
   <string name="pref_camera_left_handed_title">Stângaci</string>
   <string name="pref_camera_left_handed_summary">Ajustează controalele pentru mâna stângă</string>
   <string name="camera_storage_fallback">Revenire la locația de stocare implicită</string>
+  <string name="access_usb_fail">Nu s-a putut accesa mediul de stocare USB.</string>
   <string name="access_storage_fail">Nu s-a putut accesa mediul de stocare.</string>
   <string name="preparing_usb">Se pregătește stocarea USB\u2026</string>
   <string name="preparing_storage">Se pregătește stocarea\u2026</string>
