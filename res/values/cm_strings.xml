@@ -252,10 +252,10 @@
     <string name="cannot_start_video_toast">Can\'t start a video recording. Is microphone in use?</string>
 
     <!-- Fingerprint Sensor Image Capture -->
-    <string name="fingerprint_intro_pane_description">Take selfies using the fingerprint scanner</string>
+    <string name="fingerprint_intro_pane_description">Take selfies using the fingerprint sensor</string>
     <string name="fingerprint_intro_pane_learn_more">LEARN MORE</string>
     <string name="fingerprint_intro_dialog_title">Selfie shutter</string>
-    <string name="fingerprint_intro_dialog_description">Locate the fingerprint scanner on your phone to easily take selfies.</string>
+    <string name="fingerprint_intro_dialog_description">Locate the fingerprint sensor on your phone to easily take selfies.</string>
     <string name="fingerprint_intro_dialog_button_text">OK</string>
 
     <!-- Chromaflash -->
