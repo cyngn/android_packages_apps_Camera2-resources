@@ -157,4 +157,11 @@
   <string name="msg_cancel_longshot_for_limited_memory">Nedostatok pamäte, zastavujú sa snímky!</string>
   <string name="hold_for_burst">Držte spúšť na spustenie viacnásobné snímania.</string>
   <string name="cannot_start_video_toast">Nahrávanie videa sa nedá spustiť. Používa sa mikrofón?</string>
+  <string name="fingerprint_intro_pane_description">Snímať selfie pomocou snímača odtlačkov prstov</string>
+  <string name="fingerprint_intro_pane_learn_more">Zistiť viac</string>
+  <string name="fingerprint_intro_dialog_title">Spúšť pre selfie</string>
+  <string name="fingerprint_intro_dialog_description">Vyhľadajte snímač odtlačkov prstov na telefóne pre jednoduché zosnímanie selfie.</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

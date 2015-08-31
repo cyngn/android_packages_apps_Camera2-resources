@@ -49,17 +49,13 @@
   <string name="pref_camera_redeyereduction_title">Röda ögon-reduktion</string>
   <string name="pref_camera_redeyereduction_entry_enable">På</string>
   <string name="pref_camera_redeyereduction_entry_disable">Av</string>
-  <string name="error_app_unsupported_hfr">HFR fungerar inte med vald upplösning</string>
-  <string name="error_app_unsupported_hfr_codec">Endast H.264-kodning fungerar med HFR</string>
   <string name="error_app_unsupported">Videoupplösningen fungerar inte med denna kodek</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracketing</string>
   <string name="pref_camera_ae_bracket_hdr_title">Automatisk exponeringsvariation</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">På</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Av</string>
-  <string name="pref_camera_hfr_title">Slow Motion (HFR)</string>
   <string name="pref_camera_hfr_entry_off">Av</string>
-  <string name="pref_camera_hfr_entry_2x">60 FPS</string>
-  <string name="pref_camera_hfr_entry_3x">90 FPS</string>
-  <string name="pref_camera_hfr_entry_4x">120 FPS</string>
+  <string name="pref_camera_denoise_title">Brusreducering</string>
   <string name="pref_camera_denoise_entry_off">Av</string>
   <string name="pref_camera_denoise_entry_on">På</string>
   <string name="pref_camera_iso_title">ISO</string>
@@ -70,6 +66,7 @@
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
+  <string name="pref_camera_antibanding_title">Antibandning</string>
   <string name="pref_camera_antibanding_entry_0">Av</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>

@@ -133,7 +133,7 @@
   <string name="pref_camera_left_handed_title">Mancino</string>
   <string name="pref_camera_left_handed_summary">Regola i controlli per l\'uso con la mano sinistra</string>
   <string name="camera_storage_fallback">Ripristina la cartella di memorizzazione predefinita</string>
-  <string name="no_storage_sd">Scheda SD non inserita o non scrivibile.</string>
+  <string name="no_storage_sd">Scheda sd non inserita o non scrivibile.</string>
   <string name="no_storage_usb">Memoria USB non inserita o non scrivibile.</string>
   <string name="access_usb_fail">Impossibile accedere alla memoria USB.</string>
   <string name="access_storage_fail">Impossibile accedere alla memoria.</string>
@@ -156,5 +156,10 @@
   <string name="pref_section_other">Altro</string>
   <string name="msg_cancel_longshot_for_limited_memory">Memoria insufficiente, impossibile scattare!</string>
   <string name="hold_for_burst">Tieni premuto il pulsante per effettuare scatti continui.</string>
-  <string name="cannot_start_video_toast">Impossibile avviare una registrazione video. Il microfono è in uso?</string>
+  <string name="cannot_start_video_toast">Non è possibile avviare una registrazione video. Il microfono è in uso?</string>
+  <string name="fingerprint_intro_pane_learn_more">ULTERIORI INFO</string>
+  <string name="fingerprint_intro_dialog_title">Otturatore selfie</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

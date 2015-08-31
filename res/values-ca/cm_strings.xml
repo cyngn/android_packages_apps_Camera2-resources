@@ -157,4 +157,9 @@
   <string name="msg_cancel_longshot_for_limited_memory">S\'està acabant la memòria, parant de disparar!</string>
   <string name="hold_for_burst">Aguanta l\'obturador per disparar contínuament.</string>
   <string name="cannot_start_video_toast">No es pot iniciar una gravació de vídeo. Està el micròfon en ús?</string>
+  <string name="fingerprint_intro_pane_learn_more">MÉS INFORMACIÓ</string>
+  <string name="fingerprint_intro_dialog_title">Obturador de selfies</string>
+  <string name="fingerprint_intro_dialog_button_text">D\'ACORD</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

@@ -157,4 +157,11 @@
   <string name="msg_cancel_longshot_for_limited_memory">Muisti vähissä, lopetetaan kuvaus!</string>
   <string name="hold_for_burst">Pidä laukaisinta pohjassa ottaaksesi sarjakuvaa.</string>
   <string name="cannot_start_video_toast">Videokuvaamista ei voi aloitaa. Onko mikrofoni käytössä?</string>
+  <string name="fingerprint_intro_pane_description">Ota selfieitä käyttäen sormenjälkiskanneria</string>
+  <string name="fingerprint_intro_pane_learn_more">LUE LISÄÄ</string>
+  <string name="fingerprint_intro_dialog_title">Selfie-suljin</string>
+  <string name="fingerprint_intro_dialog_description">Etsi sormenjälkitunnistin puhelimestasi ottaaksesi selfien helposti.</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

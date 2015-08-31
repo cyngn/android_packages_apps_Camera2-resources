@@ -137,7 +137,7 @@
   <string name="no_storage_usb">بیرگەی USB تیا نەکراوە یان نایخوێنێتەوە.</string>
   <string name="access_usb_fail">ده‌سته‌ڵات نه‌شكێنرایه‌وه‌ به‌سه‌ر بیرگه‌ی USB.</string>
   <string name="access_storage_fail">ناتوانرێت بیرگە بەکاربهێنرێت.</string>
-  <string name="preparing_usb">ئاماده‌کردنی بیرگه‌ی USB\u2026</string>
+  <string name="preparing_usb">ئاماده‌کردنی بیرگه‌ی USB\u٢٠٢٦</string>
   <string name="preparing_storage">ئامادەکردنی بیرگە\u2026</string>
   <string name="spaceIsLow_sd">بیرگەی دەرەکی تۆ ئێستا کاردەکات و هیچ شوێنێک نەماوە.</string>
   <string name="spaceIsLow_usb">بیرگەی USB یەکەت کارەکەکات و شوێنی نیە.</string>
@@ -153,7 +153,7 @@
   <string name="pref_camera_reset_message">گۆڕینی هەموو ڕێکخستنی کامێرا و ڤیدۆ بۆ باری بەهای سەرەتای خۆی? ئەمە ناتوانرێت ئەنجام بدرێت.</string>
   <string name="pref_camera_reset_button">گێڕانەوە</string>
   <string name="pref_section_advanced">پەرەسەندوو</string>
-  <string name="pref_section_other">ئەویتر</string>
+  <string name="pref_section_other">دیکە</string>
   <string name="msg_cancel_longshot_for_limited_memory">بیرگەکە کەم ئەبێتەوە، وەستانی وێنەکان!</string>
   <string name="hold_for_burst">هەڵگرتنی داخەر بۆ وێنەگرتنی لەبان یەکتری.</string>
   <string name="cannot_start_video_toast">ناتوانرێت دەستکرێتە تۆمارکردنی ڤیدۆی. ئایە بیستۆکەکە لەکارە?</string>

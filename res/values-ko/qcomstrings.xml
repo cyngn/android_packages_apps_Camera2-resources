@@ -21,7 +21,7 @@
     limitations under the License.
 -->
 <resources>
-  <string name="pref_camera_powermode_title">전력 모드</string>
+  <string name="pref_camera_powermode_title">파워 모드</string>
   <string name="pref_camera_powermode_entry_lp">저전력</string>
   <string name="pref_camera_powermode_entry_np">일반 전력</string>
   <string name="pref_camera_autoexposure_title">자동 노출</string>
@@ -46,21 +46,31 @@
   <string name="pref_camera_video_hdr_entry_on">켜기</string>
   <string name="pref_camera_video_hdr_title">비디오 HDR</string>
   <string name="pref_camera_facedetection_title">얼굴 인식</string>
+  <string name="error_app_unsupported_hfr_selection">DIS와 타임 랩스 모드에서는 고속 카메라/슬로우 모션이 지원되지 않습니다.</string>
+  <string name="error_app_unsupported_hsr">선택한 해상도에서는 고속 카메라가 지원되지 않습니다</string>
   <string name="pref_camera_redeyereduction_title">적목현상 제거</string>
   <string name="pref_camera_redeyereduction_entry_enable">켜기</string>
   <string name="pref_camera_redeyereduction_entry_disable">끄기</string>
-  <string name="error_app_unsupported_hfr">선택된 해상도에서 HFR은 지원되지 않습니다</string>
-  <string name="error_app_unsupported_hfr_codec">HFR을 사용 중일 땐 H.264 인코딩만 사용할 수 있습니다</string>
+  <string name="error_app_unsupported_hfr">선택한 해상도에서는 슬로우 모션이 지원되지 않습니다</string>
+  <string name="error_app_unsupported_hfr_codec">슬로우 모션이 켜져 있을때는 H.264 비디오 인코딩만 사용할 수 있습니다</string>
+  <string name="error_app_unsupported_hsr_codec">고속 카메라가 켜져 있을때는 H.264 비디오 인코딩만 사용할 수 있습니다</string>
   <string name="error_app_unsupported">이 코덱에서는 지원되지 않는 비디오 해상도입니다</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE 브래킷</string>
   <string name="pref_camera_ae_bracket_hdr_title">자동 노출 브래킷</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">켜기</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">끄기</string>
-  <string name="pref_camera_hfr_title">슬로우 모션 (HFR)</string>
+  <string name="pref_camera_hfr_title">슬로우 모션</string>
+  <string name="pref_camera_hsr_title">고속 카메라</string>
+  <string name="pref_camera_hsr_hfr_title">고속 카메라/슬로우 모션</string>
   <string name="pref_camera_hfr_entry_off">끄기</string>
-  <string name="pref_camera_hfr_entry_2x">60 FPS</string>
-  <string name="pref_camera_hfr_entry_3x">90 FPS</string>
-  <string name="pref_camera_hfr_entry_4x">120 FPS</string>
+  <string name="pref_camera_hfr_entry_2x">슬로우 모션 60 FPS</string>
+  <string name="pref_camera_hfr_entry_3x">슬로우 모션 90 FPS</string>
+  <string name="pref_camera_hfr_entry_4x">슬로우 모션 120 FPS</string>
+  <string name="pref_camera_hfr_entry_8x">슬로우 모션 240 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_60">고속 카메라 60 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_90">고속 카메라 90 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_120">고속 카메라 120 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_240">고속 카메라 240 FPS</string>
   <string name="pref_camera_denoise_title">노이즈 감쇄</string>
   <string name="pref_camera_denoise_entry_off">끄기</string>
   <string name="pref_camera_denoise_entry_on">켜기</string>

@@ -38,10 +38,10 @@
   <string name="pref_camera_scenemode_entry_beauty">Beauty</string>
   <string name="pref_camera_scenemode_entry_candlelight">Candlelight</string>
   <string name="pref_camera_scenemode_entry_cine">Cine</string>
-  <string name="pref_camera_scenemode_entry_closeup">Close-up</string>
+  <string name="pref_camera_scenemode_entry_closeup">Closeup</string>
   <string name="pref_camera_scenemode_entry_dark">Dark</string>
   <string name="pref_camera_scenemode_entry_dish">Dish</string>
-  <string name="pref_camera_scenemode_entry_duskdawn">Dusk/dawn</string>
+  <string name="pref_camera_scenemode_entry_duskdawn">Duskdawn</string>
   <string name="pref_camera_scenemode_entry_document">Document</string>
   <string name="pref_camera_scenemode_entry_fallcolor">Fallcolour</string>
   <string name="pref_camera_scenemode_entry_fireworks">Fireworks</string>

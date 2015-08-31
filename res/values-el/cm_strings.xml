@@ -157,4 +157,11 @@
   <string name="msg_cancel_longshot_for_limited_memory">Η μνήμη εξαντλείται, διακοπή λήψεων!</string>
   <string name="hold_for_burst">Κρατήστε πατημένο το κλείστρο για πολλαπλές λήψεις.</string>
   <string name="cannot_start_video_toast">Δεν είναι δυνατή η εγγραφή βίντεο. Είναι σε χρήση το μικρόφωνο;</string>
+  <string name="fingerprint_intro_pane_description">Λήψη selfie χρησιμοποιώντας τον αισθητήρα δακτυλικών αποτυπωμάτων</string>
+  <string name="fingerprint_intro_pane_learn_more">ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ</string>
+  <string name="fingerprint_intro_dialog_title">Κλείστρο selfie</string>
+  <string name="fingerprint_intro_dialog_description">Εντοπίστε τον αισθητήρα δακτυλικών αποτυπωμάτων στο τηλέφωνό σας για εύκολη λήψη selfie.</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

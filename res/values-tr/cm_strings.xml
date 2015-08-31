@@ -92,7 +92,7 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Çizgi filmleştir</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Beyaz tahta</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Kara tahta</string>
-  <string name="pref_camera_burst_title">Seri çekim modu</string>
+  <string name="pref_camera_burst_title">Dizi modu</string>
   <string name="pref_camera_burst_entry_off">Kapalı</string>
   <string name="pref_camera_burst_entry_5">5 poz</string>
   <string name="pref_camera_burst_entry_10">10 poz</string>
@@ -157,4 +157,11 @@
   <string name="msg_cancel_longshot_for_limited_memory">Bellek yetersiz, çekim durduruluyor!</string>
   <string name="hold_for_burst">Seriçekm için dklnşrü basılı ttn.</string>
   <string name="cannot_start_video_toast">Video kaydı başlatılamıyor. Mikrofon kullanımda mı?</string>
+  <string name="fingerprint_intro_pane_description">Parmak izi tarayıcısı ile özçekim</string>
+  <string name="fingerprint_intro_pane_learn_more">FAZLASINI ÖĞRENİN</string>
+  <string name="fingerprint_intro_dialog_title">Özçekim</string>
+  <string name="fingerprint_intro_dialog_description">Kolayca özçekim için telefonunuzdaki parmak izi tarayıcısını bulun.</string>
+  <string name="fingerprint_intro_dialog_button_text">TAMAM</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraYakınlaştırma</string>
 </resources>

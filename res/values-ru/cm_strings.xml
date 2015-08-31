@@ -33,7 +33,7 @@
   <string name="pref_video_quality_alt_title">Размер видео</string>
   <string name="pref_video_quality_short_title">Размер</string>
   <string name="pref_camera_aspectratio_wide">Широкоформатный</string>
-  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f Мп</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f МП</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Устранение разм. движения</string>
   <string name="pref_camera_scenemode_entry_aqua">Вода</string>
   <string name="pref_camera_scenemode_entry_ar">Дополненная реальность</string>
@@ -152,9 +152,16 @@
   <string name="pref_camera_reset_title">Сброс настроек</string>
   <string name="pref_camera_reset_message">Сбросить все параметры в исходное состояние? Отменить данное действие будет невозможно.</string>
   <string name="pref_camera_reset_button">Восстановить</string>
-  <string name="pref_section_advanced">Расширенные настройки</string>
-  <string name="pref_section_other">Другие настройки</string>
-  <string name="msg_cancel_longshot_for_limited_memory">Память заканчивается, съемка прекращается!</string>
+  <string name="pref_section_advanced">Дополнительно</string>
+  <string name="pref_section_other">Прочее</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Недостаточно памяти, серия снимков остановлена!</string>
   <string name="hold_for_burst">Удерживайте кнопку затвора для серийной съёмки.</string>
   <string name="cannot_start_video_toast">Не удается начать запись видео. Микрофон используется в другом приложении?</string>
+  <string name="fingerprint_intro_pane_description">Делайте автопортреты касанием сканера отпечатков пальцев</string>
+  <string name="fingerprint_intro_pane_learn_more">ПОДРОБНЕЕ</string>
+  <string name="fingerprint_intro_dialog_title">Съёмка автопортретов</string>
+  <string name="fingerprint_intro_dialog_description">Найдите сканер отпечатков пальцев на устройстве, чтобы делать автопортреты.</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

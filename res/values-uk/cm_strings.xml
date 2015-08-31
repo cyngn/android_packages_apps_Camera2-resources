@@ -28,7 +28,7 @@
   <string name="beauty_mode_disables_raw">Автопокращення вимикає знімок RAW</string>
   <string name="pref_camera_zsl_enable_title">Нульова затримка затвора</string>
   <string name="pref_camera_zsl_enable_summary_on">Швидке захоплення зображення</string>
-  <string name="pref_camera_zsl_enable_summary_alt">Швидке захоплення зображення і серійна зйомка</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Швидке захоплення зображення і серійна з’йомка</string>
   <string name="pref_camera_zsl_enable_summary_off">Краща якість при поганому освітленні</string>
   <string name="pref_video_quality_alt_title">Розмір відео</string>
   <string name="pref_video_quality_short_title">Розмір</string>
@@ -142,7 +142,7 @@
   <string name="spaceIsLow_sd">На Вашій SD-картці бракує місця.</string>
   <string name="spaceIsLow_usb">На Вашому USB-носію бракує місця.</string>
   <string name="spaceIsLow_storage">На Вашому носію бракує місця.</string>
-  <string name="alternate_storage_none">Змініть параметри якості чи вилучіть деякі зображення або інші файли.</string>
+  <string name="alternate_storage_none">Змініть параметри якості чи видаліть деякі зображенняз  або інші файли.</string>
   <string name="alternate_storage_sd_card">Вилучіть деякі зображення чи інші файли, аби використовувати SD-карту і надалі.</string>
   <string name="alternate_storage_usb">Вилучіть деякі зображення чи інші файли, аби використовувати USB-носій і надалі.</string>
   <string name="pref_camera_volume_zoom_title">Масштаб. кнопками гучності</string>
@@ -152,7 +152,7 @@
   <string name="pref_camera_reset_title">Відновити типові налаштування</string>
   <string name="pref_camera_reset_message">Змінити всі установки камери та відеоз’йомки вихідними значеннями? Це не можна буде скасувати.</string>
   <string name="pref_camera_reset_button">Відновити</string>
-  <string name="pref_section_advanced">Розширені налаштування</string>
+  <string name="pref_section_advanced">Додатково</string>
   <string name="pref_section_other">Інші</string>
   <string name="msg_cancel_longshot_for_limited_memory">Замало оперативної пам’яті, припиняємо з’йомку!</string>
   <string name="hold_for_burst">Утримуйте затвор для серійної з’йомки.</string>

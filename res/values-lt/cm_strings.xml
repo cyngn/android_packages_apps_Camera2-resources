@@ -17,23 +17,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="pref_camera_camera_section">Fotoaparatas</string>
-  <string name="pref_camera_video_section">Vaizdas</string>
+  <string name="pref_camera_video_section">Vaizdo įrašas</string>
   <string name="pref_camera_general_section">Bendra</string>
   <string name="pref_camera_picturesize_short_title">Dydis</string>
   <string name="pref_camera_jpegquality_short_title">Kokybė</string>
   <string name="pref_camera_viewfinder_title">Vaizdo ieškiklis</string>
   <string name="pref_camera_viewfinder_fullscreen">Visas ekranas</string>
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
-  <string name="pref_camera_raw_mode_title">Išsaugoti neapdorotą nuotrauką</string>
+  <string name="pref_camera_raw_mode_title">Išsaugoti neapdorotą vaizdą</string>
   <string name="beauty_mode_disables_raw">Grožio režimas išjungia neapdorotą fotografavimą</string>
   <string name="pref_camera_zsl_enable_title">Nulinis fotografavimo vėlavimas</string>
   <string name="pref_camera_zsl_enable_summary_on">Greitas fotografavimas</string>
   <string name="pref_camera_zsl_enable_summary_alt">Greitas fotografavimas ir greita kadrų serija</string>
   <string name="pref_camera_zsl_enable_summary_off">Geresnė mažo apšvietimo kokybė</string>
-  <string name="pref_video_quality_alt_title">Vaizdo dydis</string>
+  <string name="pref_video_quality_alt_title">Vaizdo įrašo dydis</string>
   <string name="pref_video_quality_short_title">Dydis</string>
   <string name="pref_camera_aspectratio_wide">Platus</string>
-  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f MP</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapiks.</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Judesių liejimosi mažinimas</string>
   <string name="pref_camera_scenemode_entry_aqua">Vanduo</string>
   <string name="pref_camera_scenemode_entry_ar">Papildyta realybė</string>
@@ -99,7 +99,7 @@
   <string name="pref_camera_burst_entry_15">15 nuotraukų</string>
   <string name="pref_camera_burst_entry_20">20 nuotraukų</string>
   <string name="pref_camera_focustime_title">Fokusavimo trukmė</string>
-  <string name="pref_camera_focustime_summary">Pasirinkite fokusavimo trukmę</string>
+  <string name="pref_camera_focustime_summary">Pasirinkti fokusavimo trukmę</string>
   <string name="pref_camera_focustime_entry_5">5 sek.</string>
   <string name="pref_camera_focustime_entry_10">10 sek.</string>
   <string name="pref_camera_focustime_entry_15">15 sek.</string>
@@ -109,7 +109,7 @@
   <string name="pref_camera_flashmode_entry_redeye">Raudonos akys</string>
   <string name="pref_camera_flashmode_label_redeye">RAUDONOS AKYS</string>
   <string name="pref_camera_beauty_mode_title">Grožio režimas</string>
-  <string name="pref_camera_clear_image_title">Aiški nuotrauka</string>
+  <string name="pref_camera_clear_image_title">Aiškus vaizdas</string>
   <string name="pref_camera_slow_shutter_title">Ilgas išlaikymas</string>
   <string name="pref_camera_slow_shutter_delay_title">Lėtas fotografavimo greitis</string>
   <string name="pref_camera_slow_shutter_entry_off">Išjungtas</string>
@@ -120,7 +120,7 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 sek.</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sek.</string>
   <string name="pref_camera_storage_title">Saugykla</string>
-  <string name="pref_camera_recordlocation_on">Žymėti nuotraukas su dabartinė buvimo vieta</string>
+  <string name="pref_camera_recordlocation_on">Žymėti nuotraukas su dabartine buvimo vieta</string>
   <string name="pref_camera_recordlocation_off">Nežymėti nuotraukų ir vaizdo įrašų su buvimo vieta</string>
   <string name="camera_menu_enhance_label">GERINTI</string>
   <string name="camera_menu_slow_shutter_label">ILGAS IŠLAIKYMAS</string>
@@ -147,8 +147,8 @@
   <string name="alternate_storage_usb">Ištrinkite kai kuriuos vaizdus ar kitus failus arba naudokite USB saugyklą.</string>
   <string name="pref_camera_volume_zoom_title">Artinimas garsumo mygtukais</string>
   <string name="pref_camera_volume_zoom_summary">Garsumo mygtukai kontroliuoja artinimą</string>
-  <string name="pref_max_brightness_title">Ryškus ekranas</string>
-  <string name="pref_max_brightness_summary">Nustatyti ryškumą iki maksimumo, kai fotoaparatas yra įjungtas</string>
+  <string name="pref_max_brightness_title">Šviesus ekranas</string>
+  <string name="pref_max_brightness_summary">Nustatyti šviesumą iki maksimumo, kai fotoaparatas yra įjungtas</string>
   <string name="pref_camera_reset_title">Atkurti numatytuosius</string>
   <string name="pref_camera_reset_message">Pakeisti visus fotoaparato ir vaizdo įrašymo nustatymus į pradines vertes? Tai negali būti atšaukta.</string>
   <string name="pref_camera_reset_button">Atkurti</string>

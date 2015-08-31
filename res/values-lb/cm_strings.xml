@@ -21,6 +21,7 @@
   <string name="pref_camera_general_section">Allgemeng</string>
   <string name="pref_camera_picturesize_short_title">Gréisst</string>
   <string name="pref_camera_jpegquality_short_title">Qualitéit</string>
+  <string name="pref_camera_viewfinder_title">Sucher</string>
   <string name="pref_camera_viewfinder_fullscreen">Vollschierm</string>
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
   <string name="pref_camera_raw_mode_title">Réi-Bild späicheren</string>
@@ -140,4 +141,8 @@
   <string name="pref_camera_reset_button">Erëmhierstellen</string>
   <string name="pref_section_advanced">Erweidert</string>
   <string name="pref_section_other">Aner</string>
+  <string name="fingerprint_intro_pane_learn_more">MÉI GEWUER GINN</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">Chroma-Blëtz</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

@@ -27,7 +27,7 @@
   <string name="pref_camera_raw_mode_title">Lagre raw-bilde</string>
   <string name="beauty_mode_disables_raw">Skjønnhetsmodus deaktiverer raw-bilde</string>
   <string name="pref_camera_zsl_enable_title">Ingen lukkerforsinkelse</string>
-  <string name="pref_camera_zsl_enable_summary_on">Hurtig bildetaking </string>
+  <string name="pref_camera_zsl_enable_summary_on">Hurtig bildetaking</string>
   <string name="pref_camera_zsl_enable_summary_alt">Hurtig bildetaking og serietaking</string>
   <string name="pref_camera_zsl_enable_summary_off">Bedre kvalitet ved svakt lys</string>
   <string name="pref_video_quality_alt_title">Videostørrelse</string>
@@ -137,7 +137,7 @@
   <string name="no_storage_usb">USB lagring er ikke montert eller skrivbar.</string>
   <string name="access_usb_fail">Får ikke tilgang til USB lagring.</string>
   <string name="access_storage_fail">Får ikke tilgang til lagring.</string>
-  <string name="preparing_usb">Forbereder usb lagring\u2026</string>
+  <string name="preparing_usb">Forbereder USBlagring\u2026</string>
   <string name="preparing_storage">Forbereder lagring\u2026</string>
   <string name="spaceIsLow_sd">SD kortet ditt er i ferd med å bli fullt.</string>
   <string name="spaceIsLow_usb">USB lagringen din er i ferd med å bli full.</string>

@@ -157,4 +157,11 @@
   <string name="msg_cancel_longshot_for_limited_memory">Está a ficar sem memória, não é possível tirar fotografias!</string>
   <string name="hold_for_burst">Pressione o obturador para tirar várias fotografias.</string>
   <string name="cannot_start_video_toast">Não pode iniciar uma gravação de vídeo. O microfone está em uso?</string>
+  <string name="fingerprint_intro_pane_description">Tire selfies usando o sensor de impressão digital</string>
+  <string name="fingerprint_intro_pane_learn_more">SAIBA MAIS</string>
+  <string name="fingerprint_intro_dialog_title">Obturador de selfie</string>
+  <string name="fingerprint_intro_dialog_description">Localize o sensor de impressão digital no seu telefone para tirar selfies facilmente.</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>
