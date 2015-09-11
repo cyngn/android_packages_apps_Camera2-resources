@@ -157,4 +157,8 @@
   <string name="msg_cancel_longshot_for_limited_memory">Brakuje pamięci, zatrzymywanie fotografowania!</string>
   <string name="hold_for_burst">Przytrzymaj przycisk migawki w celu wykonania zdjęć seryjnych.</string>
   <string name="cannot_start_video_toast">Nie można rozpocząć nagrywania. Czy mikrofon jest w użyciu?</string>
+  <string name="fingerprint_intro_pane_description">Rób selfie za pomocą czytnika linii papilarnych</string>
+  <string name="fingerprint_intro_pane_learn_more">DOWIEDZ SIĘ WIĘCEJ</string>
+  <string name="fingerprint_intro_dialog_title">Migawka selfie</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
 </resources>

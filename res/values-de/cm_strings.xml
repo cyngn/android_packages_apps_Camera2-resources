@@ -157,6 +157,10 @@
   <string name="msg_cancel_longshot_for_limited_memory">Speicher ist niedrig – Aufnahmen werden gestoppt!</string>
   <string name="hold_for_burst">Auslöser für Serienaufnahme gedrückt halten.</string>
   <string name="cannot_start_video_toast">Videoaufzeichnung kann nicht gestartet werden. Wird das Mikrofon verwendet?</string>
+  <string name="fingerprint_intro_pane_description">Selbstporträt mit Hilfe des Fingerabdruckscanners aufnehmen</string>
+  <string name="fingerprint_intro_pane_learn_more">Weitere Informationen</string>
+  <string name="fingerprint_intro_dialog_title">Selbstporträt-Verschluss</string>
+  <string name="fingerprint_intro_dialog_description">Suchen Sie den Fingerabdruckscanner auf Ihrem Telefon, um einfach Selbstporträts aufzunehmen.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">Chroma-Blitz</string>
   <string name="pref_camera_optizoom_title">UltraZoom</string>

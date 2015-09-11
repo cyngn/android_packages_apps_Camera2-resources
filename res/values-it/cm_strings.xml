@@ -157,8 +157,10 @@
   <string name="msg_cancel_longshot_for_limited_memory">Memoria insufficiente, impossibile scattare!</string>
   <string name="hold_for_burst">Tieni premuto il pulsante per effettuare scatti continui.</string>
   <string name="cannot_start_video_toast">Non è possibile avviare una registrazione video. Il microfono è in uso?</string>
+  <string name="fingerprint_intro_pane_description">Scatta selfie usando il lettore d\'impronte digitali</string>
   <string name="fingerprint_intro_pane_learn_more">ULTERIORI INFO</string>
   <string name="fingerprint_intro_dialog_title">Otturatore selfie</string>
+  <string name="fingerprint_intro_dialog_description">Localizza il sensore d\'impronte sul tuo telefono per fare selfie.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <string name="pref_camera_optizoom_title">UltraZoom</string>

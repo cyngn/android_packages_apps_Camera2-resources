@@ -157,8 +157,10 @@
   <string name="msg_cancel_longshot_for_limited_memory">ಸ್ಮರಣೆಯು ಕಡಿಮೆಯಾಗುತ್ತಿದೆ, ಶಾಟ್‍ಗಳನ್ನು ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ!</string>
   <string name="hold_for_burst">ಬರ್ಸ್ಟ್ ಸೆರೆಹಿಡಿಯಲು ಷಟರ್ ಒತ್ತಿ ಹಿಡಿಯಿರಿ.</string>
   <string name="cannot_start_video_toast">ವೀಡಿಯೋ ರಿಕಾರ್ಡಿಂಗ್ ಆರಂಭಿಸಲು ಆಗುತ್ತಿಲ್ಲ. ಧ್ವನಿಗ್ರಾಹಕ ಬಳಕೆಯಲ್ಲಿದೆಯೇ?</string>
+  <string name="fingerprint_intro_pane_description">ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಉಪಯೋಗಿಸಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆಯಿರಿ</string>
   <string name="fingerprint_intro_pane_learn_more">ಮತ್ತಷ್ಟು ತಿಳಿಯಿರಿ</string>
   <string name="fingerprint_intro_dialog_title">ಸೆಲ್ಫೀ ಷಟರ್</string>
+  <string name="fingerprint_intro_dialog_description">ಸುಲಭವಾಗಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ನಿಮ್ಮ ಫೋನಿನಲ್ಲಿರುವ ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಗುರುತಿಸಿ.</string>
   <string name="fingerprint_intro_dialog_button_text">ಆಯ್ತು</string>
   <string name="pref_camera_chroma_flash_title">ಕ್ರೋಮಾಫ್ಲ್ಯಾಶ್</string>
   <string name="pref_camera_optizoom_title">ಅಲ್ಟ್ರಾಝೂಂ</string>

@@ -157,4 +157,11 @@
   <string name="msg_cancel_longshot_for_limited_memory">メモリが不足しているため、撮影を停止しています。</string>
   <string name="hold_for_burst">シャッターを長押ししてバースト撮影をします。</string>
   <string name="cannot_start_video_toast">ビデオ録画を開始できません。マイクを使用していませんか？</string>
+  <string name="fingerprint_intro_pane_description">指紋センサーを使って自撮りする</string>
+  <string name="fingerprint_intro_pane_learn_more">もっと詳しく</string>
+  <string name="fingerprint_intro_dialog_title">自撮りシャッター</string>
+  <string name="fingerprint_intro_dialog_description">携帯電話の指紋センサーに指を置いて簡単に自撮りできます。</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="pref_camera_chroma_flash_title">クロマフラッシュ</string>
+  <string name="pref_camera_optizoom_title">ウルトラズーム</string>
 </resources>
