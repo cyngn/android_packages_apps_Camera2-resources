@@ -160,5 +160,6 @@
   <string name="fingerprint_intro_pane_description">Rób selfie za pomocą czytnika linii papilarnych</string>
   <string name="fingerprint_intro_pane_learn_more">DOWIEDZ SIĘ WIĘCEJ</string>
   <string name="fingerprint_intro_dialog_title">Migawka selfie</string>
+  <string name="fingerprint_intro_dialog_description">Zlokalizuj czytnik linii papilarnych, aby w łatwy sposób robić selfie.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
 </resources>

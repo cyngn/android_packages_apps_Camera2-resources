@@ -51,7 +51,7 @@
   <string name="maker">Izdelovalec</string>
   <string name="model">Model</string>
   <string name="flash">Bliskavica</string>
-  <string name="aperture">Zaslonka</string>
+  <string name="aperture">Osvetlitev</string>
   <string name="focal_length">Goriščna razd.</string>
   <string name="white_balance">Ravnov. beline</string>
   <string name="exposure_time">Čas osvetlitve</string>
@@ -144,7 +144,7 @@
   <string name="pref_exposure_label">OSVETLITEV</string>
   <string name="pref_camera_hdr_label">HDR</string>
   <string name="pref_camera_id_label_back">FOTOAPARAT SPREDAJ</string>
-  <string name="pref_camera_id_label_front">FOTOAPARAT ZADAJ</string>
+  <string name="pref_camera_id_label_front">ZADNJI FOTOAPARAT</string>
   <string name="dialog_ok">V redu</string>
   <string name="spaceIsLow_content" product="default">Na kartici SD zmanjkuje prostora. Spremenite nastavitev kakovosti ali izbrišite nekaj slik ali drugih datotek.</string>
   <string name="video_reach_size_limit">Dosežena je omejitev velikosti.</string>
@@ -236,7 +236,7 @@
   <string name="set_duration">Nastavite trajanje v sekundah</string>
   <string name="count_down_title_text">Odštevanje pred fotografiranjem</string>
   <string name="remember_location_title">Beleženje lokacije fotografije?</string>
-  <string name="remember_location_prompt">Fotografije in videoposnetke označite z lokacijami, na katerih so posneti.\n\nDrugi programi lahko dostopajo do teh podatkov skupaj s shranjenimi slikami.</string>
+  <string name="remember_location_prompt">Fotografije in videoposnetke označi z lokacijami, na katerih so posneti.\n\nDrugi programi lahko dostopajo do teh podatkov skupaj s shranjenimi slikami.</string>
   <string name="remember_location_no">Ne, hvala</string>
   <string name="remember_location_yes">Da</string>
   <string name="camera_menu_more_label">VEČ MOŽNOSTI</string>
