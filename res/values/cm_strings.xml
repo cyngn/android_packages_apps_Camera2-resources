@@ -266,4 +266,9 @@
 
     <!-- Panorama -->
     <string name="pano_preview_size" translatable="false"></string>
+
+    <!-- Thermal warnings -->
+    <string name="overheated_warning">Device is hot. Camera will stop soon.</string>
+    <string name="overheated_critical">Device is too hot. Camera has been disabled.</string>
+    <string name="overheated_cooling">Camera is disabled while device cools.</string>
 </resources>
