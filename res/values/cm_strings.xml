@@ -261,8 +261,8 @@
     <!-- Chromaflash -->
     <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
 
-    <!-- UltraZoom (Qualcomm OptiZoom) -->
-    <string name="pref_camera_optizoom_title">UltraZoom</string>
+    <!-- OptiZoom (Qualcomm OptiZoom) -->
+    <string name="pref_camera_optizoom_title" translatable="false">OptiZoom</string>
 
     <!-- Panorama -->
     <string name="pano_preview_size" translatable="false"></string>
