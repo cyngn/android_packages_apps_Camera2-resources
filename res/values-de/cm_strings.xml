@@ -163,5 +163,4 @@
   <string name="fingerprint_intro_dialog_description">Suchen Sie den Fingerabdruckscanner auf Ihrem Telefon, um einfach Selbstporträts aufzunehmen.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">Chroma-Blitz</string>
-  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>

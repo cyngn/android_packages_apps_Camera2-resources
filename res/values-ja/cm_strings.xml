@@ -163,5 +163,4 @@
   <string name="fingerprint_intro_dialog_description">携帯電話の指紋センサーに指を置いて簡単に自撮りできます。</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">クロマフラッシュ</string>
-  <string name="pref_camera_optizoom_title">ウルトラズーム</string>
 </resources>

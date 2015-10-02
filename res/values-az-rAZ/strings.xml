@@ -43,7 +43,7 @@
     <item quantity="one">%1$d seçilib</item>
     <item quantity="other">%1$d seçilib</item>
   </plurals>
-  <string name="show_on_map">Xəritədə göstərin</string>
+  <string name="show_on_map">Xəritədə göstər</string>
   <string name="rotate_left">Sola fırlat</string>
   <string name="rotate_right">Sağa fırlat</string>
   <string name="edit">Redaktə edin</string>
@@ -79,7 +79,7 @@
   <string name="unknown">Naməlum</string>
   <string name="try_to_set_local_album_available_offline">Bu element yerli və oflayn istifadə edilə biləcək şəkildə saxlanılır.</string>
   <string name="please_wait">Lütfən, gözləyin</string>
-  <string name="rendering_photo_sphere">Photo Sphere təqdim edilir</string>
+  <string name="rendering_photo_sphere">Foto sferası yaradılır</string>
   <string name="camera_error_title">Kamera xətası</string>
   <string name="cannot_connect_camera">Kamera qoşula bilmir.</string>
   <string name="camera_disabled">Təhlükəsizlik siyasətinə görə kamera Ləğv edildi.</string>
@@ -193,10 +193,7 @@
   <string name="accessibility_switch_to_camera">Fotoya keçirin</string>
   <string name="accessibility_switch_to_video">Videoya keçin</string>
   <string name="accessibility_switch_to_panorama">Panoramaya keçin</string>
-  <string name="accessibility_switch_to_photo_sphere">Şəkil sahəsi keçid</string>
-  <string name="accessibility_review_cancel">Ləğvi gözdən keçir</string>
-  <string name="accessibility_review_ok">{z\'t</string>
-  <string name="accessibility_review_retake">Geri almaq inceleyin</string>
+  <string name="accessibility_switch_to_photo_sphere">Photo Sphere rejiminə keç</string>
   <string name="capital_on">AKTIV</string>
   <string name="capital_off">QAPALI</string>
   <string name="pref_video_time_lapse_frame_interval_off">Deaktiv</string>
@@ -247,9 +244,9 @@
   <string name="set_time_interval_help">Vaxt aralığı özəlliyi deaktiv edilib. Vaxt intervalını ayarlamaq üçün onu aktivləşdirin.</string>
   <string name="set_duration">Müddəti saniyələrlə ayarlayı</string>
   <string name="count_down_title_text">Foto çəkmək üçün geri sayılır</string>
-  <string name="remember_location_title">Foto məkanları yadda qalsın?</string>
+  <string name="remember_location_title">Fotoların çəkildiyi yerlər xatırladılsın?</string>
   <string name="remember_location_prompt">Fotolarınızı və videolarınızı çəkildikləri yerlərlə etiketləyin.\n\nDigər tətbiqetmələr saxladığınız şəkillərlə birlikdə bu məlumatlara müraciət edə bilər.</string>
-  <string name="remember_location_no">Yox, çox sağ olun</string>
+  <string name="remember_location_no">Xeyr təşəkkürlər</string>
   <string name="remember_location_yes">Bəli</string>
   <string name="camera_menu_more_label">Daha çox seçim</string>
   <string name="camera_menu_settings_label">AYARLAR</string>

@@ -161,5 +161,4 @@
   <string name="fingerprint_intro_dialog_title">셀카 셔터</string>
   <string name="fingerprint_intro_dialog_button_text">확인</string>
   <string name="pref_camera_chroma_flash_title">크로마플래시</string>
-  <string name="pref_camera_optizoom_title">울트라줌</string>
 </resources>

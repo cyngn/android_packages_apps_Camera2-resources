@@ -163,5 +163,4 @@
   <string name="fingerprint_intro_dialog_description">在您的手機找到指紋感應器，輕鬆自拍。</string>
   <string name="fingerprint_intro_dialog_button_text">確定</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
-  <string name="pref_camera_optizoom_title">UltraZoom</string>
 </resources>
