@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">携帯電話の指紋センサーに指を置いて簡単に自撮りできます。</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">クロマフラッシュ</string>
+  <string name="overheated_warning">端末が熱くなっています。まもなくカメラは停止します。</string>
+  <string name="overheated_critical">端末がとても熱くなっています。カメラは使用できなくなっています。</string>
+  <string name="overheated_cooling">端末が冷却されるまでカメラは使用できません。</string>
 </resources>

@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">Vyhľadajte snímač odtlačkov prstov na telefóne pre jednoduché zosnímanie selfie.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="overheated_warning">Zariadenie je horúce. Fotoaparát sa čoskoro vypne.</string>
+  <string name="overheated_critical">Zariadenie je príliš horúce. Fotoaparát bol dočasne vypnutý.</string>
+  <string name="overheated_cooling">Fotoaparát je do ochladnutia zariadenia vypnutý.</string>
 </resources>

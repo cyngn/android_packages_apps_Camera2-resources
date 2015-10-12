@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">אתרו את מיקום סורק טביעות האצבע במכשירכם כדי לצלם תמונות סלפי בקלות.</string>
   <string name="fingerprint_intro_dialog_button_text">אישור</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="overheated_warning">המכשיר חם. המצלמה תיעצר בקרוב.</string>
+  <string name="overheated_critical">המכשיר חם מדי. המצלמה הושבתה.</string>
+  <string name="overheated_cooling">המצלמה מושבתת בזמן שהמכשיר מתקרר.</string>
 </resources>

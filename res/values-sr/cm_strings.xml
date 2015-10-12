@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">Пронађи сензор отиска на телефону за лако прављење аутопортрета.</string>
   <string name="fingerprint_intro_dialog_button_text">Потврди</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="overheated_warning">Уређај је врућ. Камера ће се искључити ускоро.</string>
+  <string name="overheated_critical">Уређај је превише врућ. Камера је онемогућена.</string>
+  <string name="overheated_cooling">Камера је онемогућена док се уређај хлади.</string>
 </resources>

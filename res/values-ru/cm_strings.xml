@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">Найдите сканер отпечатков пальцев на устройстве, чтобы делать автопортреты.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="overheated_warning">Устройство перегрелось. Камера скоро отключится.</string>
+  <string name="overheated_critical">Устройство перегрелось. Камера была отключена.</string>
+  <string name="overheated_cooling">Камера отключена до остывания устройства.</string>
 </resources>

@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">通过使用手机上的指纹扫描器可以轻易的自拍。</string>
   <string name="fingerprint_intro_dialog_button_text">确定</string>
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <string name="overheated_warning">设备很热。相机将很快停止工作。</string>
+  <string name="overheated_critical">设备过热。相机已被禁用。</string>
+  <string name="overheated_cooling">设备冷却时相机处于禁用状态。</string>
 </resources>
