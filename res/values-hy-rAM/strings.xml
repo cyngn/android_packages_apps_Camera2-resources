@@ -22,6 +22,7 @@
   <string name="set_image">Սահմանել նկարը որպես</string>
   <string name="delete">Ջնջել</string>
   <plurals name="delete_selection">
+    <item quantity="one">Ջնջե՞լ ընտրված նյութերը:</item>
     <item quantity="other">Ջնջե՞լ ընտրված նյութերը:</item>
   </plurals>
   <string name="share">Տարածել</string>
@@ -32,12 +33,15 @@
   <string name="details">Մանրամասներ</string>
   <string name="close">Փակել</string>
   <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d ընտրված</item>
     <item quantity="other">%1$d ընտրված</item>
   </plurals>
   <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d ընտրված</item>
     <item quantity="other">%1$d ընտրված</item>
   </plurals>
   <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d ընտրված</item>
     <item quantity="other">%1$d ընտրված</item>
   </plurals>
   <string name="show_on_map">Ցույց տալ քարտեզի վրա</string>
@@ -93,6 +97,7 @@
   <string name="pref_camera_location_label">ՏԵՂԱԴՐՈՒԹՅՈՒՆ</string>
   <string name="pref_camera_timer_title">Հետհաշվարկի ժամաչափ</string>
   <plurals name="pref_camera_timer_entry">
+    <item quantity="one">%d վայրկյան</item>
     <item quantity="other">%d վայրկյան</item>
   </plurals>
   <string name="pref_camera_timer_sound_title">Հետհաշվարկի նշան</string>

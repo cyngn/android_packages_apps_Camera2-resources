@@ -163,4 +163,7 @@
   <string name="fingerprint_intro_dialog_description">ಸುಲಭವಾಗಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ನಿಮ್ಮ ಫೋನಿನಲ್ಲಿರುವ ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಗುರುತಿಸಿ.</string>
   <string name="fingerprint_intro_dialog_button_text">ಆಯ್ತು</string>
   <string name="pref_camera_chroma_flash_title">ಕ್ರೋಮಾಫ್ಲ್ಯಾಶ್</string>
+  <string name="overheated_warning">ಸಾಧನವು ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾ ಶೀಘ್ರದಲ್ಲಿ ನಿಲ್ಲಲಿದೆ.</string>
+  <string name="overheated_critical">ಸಾಧನವು ಬಹಳಾ ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
+  <string name="overheated_cooling">ಸಾಧನವು ತಣ್ಣಗಾಗುವವರೆಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
 </resources>
