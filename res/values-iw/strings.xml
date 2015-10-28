@@ -85,7 +85,7 @@
   <string name="cannot_connect_camera">לא ניתן להתחבר למצלמה.</string>
   <string name="camera_disabled">המצלמה הושבתה בשל מדיניות אבטחה.</string>
   <string name="wait">המתן…</string>
-  <string name="no_storage" product="default">‏הכנס כרטיס SD לפני השימוש במצלמה.</string>
+  <string name="no_storage" product="default">‏הכנס כרטיס זיכרון לפני השימוש במצלמה.</string>
   <string name="preparing_sd" product="default">מכין כרטיס זיכרון\u2026</string>
   <string name="access_sd_fail" product="default">‏לא ניתן לגשת לכרטיס הזיכרון.</string>
   <string name="time_lapse_title">הקלטה של צילום בהילוך מהיר</string>
@@ -95,12 +95,12 @@
   <string name="pref_camera_id_entry_front">חזיתית</string>
   <string name="pref_camera_recordlocation_title">מיקום אחסון</string>
   <string name="pref_camera_location_label">מיקום</string>
-  <string name="pref_camera_timer_title">טיימר לספירה לאחור</string>
+  <string name="pref_camera_timer_title">שעון לספירה לאחור</string>
   <plurals name="pref_camera_timer_entry">
-    <item quantity="one">שנייה אחת</item>
+    <item quantity="one">שנייה 1</item>
     <item quantity="other">‏%d שניות</item>
   </plurals>
-  <string name="pref_camera_timer_sound_title">צפצף בעת ספירה לאחור</string>
+  <string name="pref_camera_timer_sound_title">צפצף במהלך הספירה לאחור</string>
   <string name="setting_off">כבוי</string>
   <string name="setting_on">פועל</string>
   <string name="pref_video_quality_title">איכות סרטון</string>
@@ -155,7 +155,7 @@
   <string name="pref_camera_scenemode_label_sunset">שקיעה</string>
   <string name="pref_camera_scenemode_label_party">מסיבה</string>
   <string name="pref_camera_countdown_label_off">טיימר כבוי</string>
-  <string name="pref_camera_countdown_label_one">שנייה אחת</string>
+  <string name="pref_camera_countdown_label_one">שנייה 1</string>
   <string name="pref_camera_countdown_label_three">3 שניות</string>
   <string name="pref_camera_countdown_label_ten">10 שניות</string>
   <string name="pref_camera_countdown_label_fifteen">15 שניות</string>
@@ -166,7 +166,7 @@
   <string name="pref_camera_id_label_back">מצלמה חזיתית</string>
   <string name="pref_camera_id_label_front">מצלמה אחורית</string>
   <string name="dialog_ok">אישור</string>
-  <string name="spaceIsLow_content" product="default">‏השטח בכרטיס ה-SD אוזל. שנה את הגדרת האיכות או מחק חלק מהתמונות או קבצים אחרים.</string>
+  <string name="spaceIsLow_content" product="default">‏השטח בכרטיס הזיכרון הולך להיגמר. שנה את הגדרת האיכות, או מחק כמה תמונות או קבצים אחרים.</string>
   <string name="video_reach_size_limit">הגעת למגבלת הגודל.</string>
   <string name="pano_too_fast_prompt">מהר מדי</string>
   <string name="pano_dialog_prepare_preview">מכין פנורמה</string>
