@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Kamera</string>
+  <string name="video_camera_label">Video Kamera</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Şəkli bu kimi istifadə edin:</string>
@@ -250,4 +251,5 @@
   <string name="remember_location_yes">Bəli</string>
   <string name="camera_menu_more_label">Daha çox seçim</string>
   <string name="camera_menu_settings_label">AYARLAR</string>
+  <string name="switch_photo_filmstrip">Film lenti görünüşü</string>
 </resources>
