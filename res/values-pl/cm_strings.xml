@@ -162,4 +162,7 @@
   <string name="fingerprint_intro_dialog_title">Migawka selfie</string>
   <string name="fingerprint_intro_dialog_description">Zlokalizuj czytnik linii papilarnych, aby w łatwy sposób robić selfie.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <string name="overheated_warning">Urządzenie jest gorące. Aparat wkrótce się zatrzyma.</string>
+  <string name="overheated_critical">Urządzenie jest zbyt gorące. Aparat został wyłączony.</string>
+  <string name="overheated_cooling">Aparat jest wyłączony, urządzenie się ochładza.</string>
 </resources>
