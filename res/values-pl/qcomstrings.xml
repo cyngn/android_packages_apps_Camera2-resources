@@ -46,6 +46,7 @@
   <string name="pref_camera_video_hdr_entry_on">Wł.</string>
   <string name="pref_camera_video_hdr_title">Wideo HDR</string>
   <string name="pref_camera_facedetection_title">Wykrywanie twarzy</string>
+  <string name="error_app_unsupported_hfr_selection">Wysoka Szybkość/Zwolnione Tempo jest nie obsługiwane dla cyfrowej stabilizacji obrazu i TimeLapse</string>
   <string name="error_app_unsupported_hsr">Tryb Wysokiej Szybkości nie jest dostępny w wybranej rozdzielczości</string>
   <string name="pref_camera_redeyereduction_title">Redukcja czerwonych oczu</string>
   <string name="pref_camera_redeyereduction_entry_enable">Wł.</string>
