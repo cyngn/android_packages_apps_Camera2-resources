@@ -30,7 +30,7 @@
   <string name="pref_camera_autoexposure_entry_spotmetering">スポット測光</string>
   <string name="pref_camera_videoencoder_title">ビデオコーデック</string>
   <string name="pref_camera_audioencoder_title">オーディオコーデック</string>
-  <string name="pref_camera_video_duration_title">動画の長さ</string>
+  <string name="pref_camera_video_duration_title">動画の時間</string>
   <string name="pref_camera_video_duration_entry_mms">30秒（MMS）</string>
   <string name="pref_camera_video_duration_entry_10">10分</string>
   <string name="pref_camera_video_duration_entry_30">30分</string>

@@ -22,8 +22,8 @@
   <string name="set_image">Definir imagem como:</string>
   <string name="delete">Eliminar</string>
   <plurals name="delete_selection">
-    <item quantity="one">Eliminar item selecionado?</item>
-    <item quantity="other">Eliminar itens selecionados?</item>
+    <item quantity="one">Eliminar o item selecionado?</item>
+    <item quantity="other">Eliminar os itens selecionados?</item>
   </plurals>
   <string name="share">Partilhar</string>
   <string name="share_panorama">Partilhar panorama</string>
@@ -33,16 +33,16 @@
   <string name="details">Detalhes</string>
   <string name="close">Fechar</string>
   <plurals name="number_of_items_selected">
-    <item quantity="one">%1$d selecionado(s)</item>
-    <item quantity="other">%1$d selecionado(s)</item>
+    <item quantity="one">%1$d selecionado</item>
+    <item quantity="other">%1$d selecionados</item>
   </plurals>
   <plurals name="number_of_albums_selected">
-    <item quantity="one">%1$d selecionado(s)</item>
-    <item quantity="other">%1$d selecionado(s)</item>
+    <item quantity="one">%1$d selecionado</item>
+    <item quantity="other">%1$d selecionados</item>
   </plurals>
   <plurals name="number_of_groups_selected">
-    <item quantity="one">%1$d selecionado(s)</item>
-    <item quantity="other">%1$d selecionado(s)</item>
+    <item quantity="one">%1$d selecionado</item>
+    <item quantity="other">%1$d selecionados</item>
   </plurals>
   <string name="show_on_map">Mostrar no mapa</string>
   <string name="rotate_left">Rodar para a esquerda</string>

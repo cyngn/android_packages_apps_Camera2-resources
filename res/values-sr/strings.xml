@@ -21,6 +21,11 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Постављање слике као</string>
   <string name="delete">Избриши</string>
+  <plurals name="delete_selection">
+    <item quantity="one">Обрисати изабрану ставку?</item>
+    <item quantity="few">Обрисати изабране ставке?</item>
+    <item quantity="other">Обрисати изабране ставке?</item>
+  </plurals>
   <string name="share">Дели</string>
   <string name="share_panorama">Дели панораму</string>
   <string name="share_as_photo">Дели као слику</string>
@@ -28,6 +33,21 @@
   <string name="undo">ОПОЗОВИ</string>
   <string name="details">Детаљи</string>
   <string name="close">Затвори</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d изабран</item>
+    <item quantity="few">%1$d изабрано</item>
+    <item quantity="other">%1$d изабране</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d изабран</item>
+    <item quantity="few">%1$d изабрано</item>
+    <item quantity="other">%1$d изабране</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d изабрана</item>
+    <item quantity="few">%1$d изабрано</item>
+    <item quantity="other">%1$d изабране</item>
+  </plurals>
   <string name="show_on_map">Прикажи на мапи</string>
   <string name="rotate_left">Ротирај налево</string>
   <string name="rotate_right">Ротирај надесно</string>
@@ -80,6 +100,11 @@
   <string name="pref_camera_recordlocation_title">Складишти локацију</string>
   <string name="pref_camera_location_label">ЛОКАЦИЈА</string>
   <string name="pref_camera_timer_title">Тајмер за одбројавање</string>
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 секунда</item>
+    <item quantity="few">%d секунди</item>
+    <item quantity="other">%d секунде</item>
+  </plurals>
   <string name="pref_camera_timer_sound_title">Звучно одбројавање</string>
   <string name="setting_off">Искључено</string>
   <string name="setting_on">Укључено</string>

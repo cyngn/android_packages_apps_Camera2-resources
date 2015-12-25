@@ -57,7 +57,7 @@
   <string name="width">幅</string>
   <string name="height">高さ</string>
   <string name="orientation">方向</string>
-  <string name="duration">再生時間</string>
+  <string name="duration">時間</string>
   <string name="mimetype">MIMEタイプ</string>
   <string name="file_size">ファイルサイズ</string>
   <string name="maker">メーカー</string>
