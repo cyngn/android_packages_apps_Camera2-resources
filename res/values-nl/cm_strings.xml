@@ -22,7 +22,7 @@
   <string name="pref_camera_picturesize_short_title">Grootte</string>
   <string name="pref_camera_jpegquality_short_title">Kwaliteit</string>
   <string name="pref_camera_viewfinder_title">Zoeker</string>
-  <string name="pref_camera_viewfinder_fullscreen">Fullscreen</string>
+  <string name="pref_camera_viewfinder_fullscreen">Volledig scherm</string>
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
   <string name="pref_camera_raw_mode_title">RAW-afbeelding opslaan</string>
   <string name="beauty_mode_disables_raw">RAW-afbeelding niet mogelijk bij Verfraaien</string>
