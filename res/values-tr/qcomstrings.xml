@@ -27,7 +27,7 @@
   <string name="pref_camera_autoexposure_title">Otomatik Pozlama</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Çerçeve ortalaması</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Orta ağırlıklı</string>
-  <string name="pref_camera_autoexposure_entry_spotmetering">Nokta Ölçümü</string>
+  <string name="pref_camera_autoexposure_entry_spotmetering">Nokta ölçümü</string>
   <string name="pref_camera_videoencoder_title">Video kodlayıcı</string>
   <string name="pref_camera_audioencoder_title">Ses kodlayıcı</string>
   <string name="pref_camera_video_duration_title">Video süresi</string>
@@ -36,7 +36,7 @@
   <string name="pref_camera_video_duration_entry_30">30 dakika</string>
   <string name="pref_camera_skinToneEnhancement_title">Cilt rengi geliştirmesi</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Etkinleştir</string>
-  <string name="pref_camera_skinToneEnhancement_entry_disable">Devre dışı bırak</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">Kapalı</string>
   <string name="pref_camera_selectablezoneaf_title">Otomatik odaklama alanı</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">Oto</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Nokta ölçümlü</string>
@@ -69,9 +69,9 @@
   <string name="pref_camera_hfr_entry_8x">Ağır Çekim 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Hızlı Çekim 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Hızlı Çekim 90 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_120">Hızlı Çekim 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Hızlı Çekim 240 FPS</string>
-  <string name="pref_camera_denoise_title">Wavelet Gürültü giderme modu</string>
+  <string name="pref_camera_hfr_entry_hsr_120">Yüksek Hız 120 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_240">Yüksek Hız 240 FPS</string>
+  <string name="pref_camera_denoise_title">Gürültü giderme modu</string>
   <string name="pref_camera_denoise_entry_off">Kapalı</string>
   <string name="pref_camera_denoise_entry_on">Açık</string>
   <string name="pref_camera_iso_title">ISO</string>
@@ -103,10 +103,10 @@
   <string name="pref_camera_coloreffect_entry_redtint">Kırmızı tonlama</string>
   <string name="pref_camera_coloreffect_entry_bluetint">Mavi tonlama</string>
   <string name="pref_camera_coloreffect_entry_greentint">Yeşil tonlama</string>
-  <string name="pref_camera_touchafaec_title">Dokunma AF/AEC</string>
+  <string name="pref_camera_touchafaec_title">AF/AEC\'ye dokun</string>
   <string name="pref_camera_touchafaec_entry_off">Kapalı</string>
   <string name="pref_camera_touchafaec_entry_on">Açık</string>
-  <string name="pref_camera_dis_title">Sayısal Görüntü Dengeleme</string>
+  <string name="pref_camera_dis_title">Video dengeleme</string>
   <string name="pref_camera_dis_entry_off">Kapalı</string>
   <string name="pref_camera_dis_entry_on">Açık</string>
   <string name="pref_camera_facerc_title">Yüz tanıma</string>

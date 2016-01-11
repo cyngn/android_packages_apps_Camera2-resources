@@ -23,7 +23,7 @@
   <string name="pref_camera_jpegquality_short_title">Kalite</string>
   <string name="pref_camera_viewfinder_title">Vizör</string>
   <string name="pref_camera_viewfinder_fullscreen">Tam ekran</string>
-  <string name="pref_camera_viewfinder_letterbox">Geniş ekran</string>
+  <string name="pref_camera_viewfinder_letterbox">Mektup kutusu</string>
   <string name="pref_camera_raw_mode_title">Ham görüntüyü kaydet</string>
   <string name="beauty_mode_disables_raw">Güzellik modu ham çekimi devre dışı bırakır</string>
   <string name="pref_camera_zsl_enable_title">Sıfır çekim gecikmesi</string>
@@ -131,7 +131,7 @@
   <string name="pref_camera_power_shutter_title">Güç tuşuyla çek</string>
   <string name="pref_camera_power_shutter_summary">Güç tuşu fotoğraf çeker</string>
   <string name="pref_camera_left_handed_title">Solak mod</string>
-  <string name="pref_camera_left_handed_summary">Kontrolleri sol elle kullanım için ayarlar</string>
+  <string name="pref_camera_left_handed_summary">Kontrolleri sol elle kullanım için ayarla</string>
   <string name="camera_storage_fallback">Varsayılan depolama konumuna geri dönülüyor</string>
   <string name="no_storage_sd">SD Kart takılı değil veya yazılabilir değil.</string>
   <string name="no_storage_usb">USB bellek takılı değil ya da yazılabilir değil.</string>
@@ -143,8 +143,8 @@
   <string name="spaceIsLow_usb">USB belleğinizin alanı dolmak üzere.</string>
   <string name="spaceIsLow_storage">Belleğinizin alanı dolmak üzere.</string>
   <string name="alternate_storage_none">Kalite ayarını değiştirin veya bazı resimleri ya da diğer dosyaları silin.</string>
-  <string name="alternate_storage_sd_card">Bazı resimleri ya da diğer dosyaları silin, veya bir SD Kart kullanın.</string>
-  <string name="alternate_storage_usb">Bazı resimleri ya da diğer dosyaları silin, veya USB bellek kullanın.</string>
+  <string name="alternate_storage_sd_card">Bazı resimleri ya da diğer dosyaları silin veya bir SD Kart kullanın.</string>
+  <string name="alternate_storage_usb">Bazı resimleri ya da diğer dosyaları silin veya USB bellek kullanın.</string>
   <string name="pref_camera_volume_zoom_title">Ses tuşlarıyla yakınlaştır</string>
   <string name="pref_camera_volume_zoom_summary">Ses tuşları yakınlaştırmayı kontrol eder</string>
   <string name="pref_max_brightness_title">Parlak ekran</string>
@@ -157,7 +157,7 @@
   <string name="msg_cancel_longshot_for_limited_memory">Bellek yetersiz, çekim durduruluyor!</string>
   <string name="hold_for_burst">Seriçekm için dklnşrü basılı ttn.</string>
   <string name="cannot_start_video_toast">Video kaydı başlatılamıyor. Mikrofon kullanımda mı?</string>
-  <string name="fingerprint_intro_pane_description">Parmak izi tarayıcısı ile özçekim çekin</string>
+  <string name="fingerprint_intro_pane_description">Parmak izi tarayıcısı ile özçekim yapın</string>
   <string name="fingerprint_intro_pane_learn_more">FAZLASINI ÖĞRENİN</string>
   <string name="fingerprint_intro_dialog_title">Özçekim</string>
   <string name="fingerprint_intro_dialog_description">Kolayca özçekim için telefonunuzdaki parmak izi tarayıcısını bulun.</string>

@@ -21,6 +21,11 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Postavi sliku kao</string>
   <string name="delete">Izbriši</string>
+  <plurals name="delete_selection">
+    <item quantity="one">Obrisati označenu stavku?</item>
+    <item quantity="few">Obrisati označene stavke?</item>
+    <item quantity="other">Obrisati označene stavke?</item>
+  </plurals>
   <string name="share">Dijeli</string>
   <string name="share_panorama">Dijeli panoramu</string>
   <string name="share_as_photo">Dijeli kao fotografiju</string>
@@ -28,6 +33,21 @@
   <string name="undo">PONIŠTI</string>
   <string name="details">Pojedinosti</string>
   <string name="close">Zatvori</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d označena</item>
+    <item quantity="few">%1$d označene</item>
+    <item quantity="other">%1$d označeno</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d označen</item>
+    <item quantity="few">%1$d označena</item>
+    <item quantity="other">%1$d označenih</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d označena</item>
+    <item quantity="few">%1$d označene</item>
+    <item quantity="other">%1$d označeno</item>
+  </plurals>
   <string name="show_on_map">Pokaži na karti</string>
   <string name="rotate_left">Zakreni ulijevo</string>
   <string name="rotate_right">Zakreni udesno</string>

@@ -21,6 +21,12 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Nastavi sliko kot</string>
   <string name="delete">Izbriši</string>
+  <plurals name="delete_selection">
+    <item quantity="one">Izbriši izbrani predmet?</item>
+    <item quantity="two">Izbriši izbrana predmeta?</item>
+    <item quantity="few">Izbriši izbrane predmete?</item>
+    <item quantity="other">Izbriši izbrane predmete?</item>
+  </plurals>
   <string name="share">Deli z drugimi</string>
   <string name="share_panorama">Deli panoramo z drugimi</string>
   <string name="share_as_photo">Deli z drugimi kot fotografijo</string>
@@ -28,6 +34,24 @@
   <string name="undo">RAZVELJAVI</string>
   <string name="details">Podrobnosti</string>
   <string name="close">Zapri</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d izbran</item>
+    <item quantity="two">%1$d izbrana</item>
+    <item quantity="few">%1$d izbrani</item>
+    <item quantity="other">%1$d izbranih</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d izbran</item>
+    <item quantity="two">%1$d izbrana</item>
+    <item quantity="few">%1$d izbrani</item>
+    <item quantity="other">%1$d izbranih</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d izbrana</item>
+    <item quantity="two">%1$d izbrani</item>
+    <item quantity="few">%1$d izbrane</item>
+    <item quantity="other">%1$d izbranih</item>
+  </plurals>
   <string name="show_on_map">Pokaži na zemljevidu</string>
   <string name="rotate_left">Zasuk v levo</string>
   <string name="rotate_right">Zasuk v desno</string>
@@ -80,6 +104,12 @@
   <string name="pref_camera_recordlocation_title">Shrani lokacijo</string>
   <string name="pref_camera_location_label">LOKACIJA</string>
   <string name="pref_camera_timer_title">Odštevalni merilnik časa</string>
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 sekunda</item>
+    <item quantity="two">%d sekundi</item>
+    <item quantity="few">%d sekunde</item>
+    <item quantity="other">%d sekund</item>
+  </plurals>
   <string name="pref_camera_timer_sound_title">Zvok med odštev.</string>
   <string name="setting_off">Izklopljeno</string>
   <string name="setting_on">Vklopljeno</string>

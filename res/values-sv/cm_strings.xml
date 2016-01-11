@@ -157,4 +157,5 @@
   <string name="msg_cancel_longshot_for_limited_memory">Minnet håller på att ta slut, slutar ta bilder!</string>
   <string name="hold_for_burst">Håll ner avtryckaren för sekvenstagning.</string>
   <string name="cannot_start_video_toast">Kan inte starta en videoinspelning. Används mikrofonen?</string>
+  <string name="fingerprint_intro_dialog_button_text">OK</string>
 </resources>
