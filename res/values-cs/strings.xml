@@ -21,6 +21,11 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="set_image">Nastavit fotku jako</string>
   <string name="delete">Smazat</string>
+  <plurals name="delete_selection">
+    <item quantity="one">Odstranit vybranou položku?</item>
+    <item quantity="few">Odstranit vybrané položky?</item>
+    <item quantity="other">Odstranit vybrané položky?</item>
+  </plurals>
   <string name="share">Sdílet</string>
   <string name="share_panorama">Sdílet panorama</string>
   <string name="share_as_photo">Sdílet jako fotku</string>
@@ -28,6 +33,21 @@
   <string name="undo">VRÁTIT ZPĚT</string>
   <string name="details">Podrobnosti</string>
   <string name="close">Zavřít</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d vybrána</item>
+    <item quantity="few">%1$d vybrané</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d vybráno</item>
+    <item quantity="few">%1$d vybrána</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d vybrána</item>
+    <item quantity="few">%1$d vybrány</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
   <string name="show_on_map">Zobrazit na mapě</string>
   <string name="rotate_left">Otočit doleva</string>
   <string name="rotate_right">Otočit doprava</string>
@@ -80,6 +100,11 @@
   <string name="pref_camera_recordlocation_title">Ukládat polohu</string>
   <string name="pref_camera_location_label">POLOHA</string>
   <string name="pref_camera_timer_title">Časovač odpočítávání</string>
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 sekunda</item>
+    <item quantity="few">%d sekundy</item>
+    <item quantity="other">%d sekund</item>
+  </plurals>
   <string name="pref_camera_timer_sound_title">Zvuk při odpočtu</string>
   <string name="setting_off">Vypnuto</string>
   <string name="setting_on">Zapnuto</string>

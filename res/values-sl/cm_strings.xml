@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="pref_camera_camera_section">Fotoaparat</string>
-  <string name="pref_camera_video_section">Video posnetki</string>
+  <string name="pref_camera_video_section">Videopos.</string>
   <string name="pref_camera_general_section">Splošno</string>
   <string name="pref_camera_picturesize_short_title">Velikost</string>
   <string name="pref_camera_jpegquality_short_title">Kakovost</string>
@@ -30,10 +30,10 @@
   <string name="pref_camera_zsl_enable_summary_on">Hitri zajem slike</string>
   <string name="pref_camera_zsl_enable_summary_alt">Hitri zajem slike in zaporedno slikanje</string>
   <string name="pref_camera_zsl_enable_summary_off">Boljša kakovost ob nizki svetlobi</string>
-  <string name="pref_video_quality_alt_title">Velikost video posnetka</string>
+  <string name="pref_video_quality_alt_title">Velikost videopos.</string>
   <string name="pref_video_quality_short_title">Velikost</string>
   <string name="pref_camera_aspectratio_wide">Široko</string>
-  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f M sl. točk</string>
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f mio. sl. točk</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Zmanjšanje zamegljenosti gibanja</string>
   <string name="pref_camera_scenemode_entry_aqua">Akva</string>
   <string name="pref_camera_scenemode_entry_ar">Izboljšana resničnost</string>
@@ -156,7 +156,7 @@
   <string name="pref_section_other">Ostalo</string>
   <string name="msg_cancel_longshot_for_limited_memory">Primanjkuje pomnilnika, ustavljanje posnetkov!</string>
   <string name="hold_for_burst">Pridržite sprožilec, da posnamete zaporedje slik.</string>
-  <string name="cannot_start_video_toast">Snemanje video posnetka ni mogoče začeti. Ali je mikrofon v uporabi?</string>
+  <string name="cannot_start_video_toast">Snemanje videoposnetka ni mogoče začeti. Ali je mikrofon v uporabi?</string>
   <string name="fingerprint_intro_pane_description">Posnemite samoposnetke z uporabo tipala prstnih odtisov</string>
   <string name="fingerprint_intro_pane_learn_more">VEČ O TEM</string>
   <string name="fingerprint_intro_dialog_title">Sprožilec za samoposnetke</string>

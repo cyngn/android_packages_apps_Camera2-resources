@@ -22,7 +22,7 @@
 -->
 <resources>
   <string name="pref_camera_powermode_title">電力モード</string>
-  <string name="pref_camera_powermode_entry_lp">低電力</string>
+  <string name="pref_camera_powermode_entry_lp">省電力</string>
   <string name="pref_camera_powermode_entry_np">標準電力</string>
   <string name="pref_camera_autoexposure_title">自動露出</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">フレームアベレージ</string>
@@ -45,8 +45,8 @@
   <string name="pref_camera_video_hdr_entry_off">OFF</string>
   <string name="pref_camera_video_hdr_entry_on">ON</string>
   <string name="pref_camera_video_hdr_title">HDR動画</string>
-  <string name="pref_camera_facedetection_title">顔検出</string>
-  <string name="error_app_unsupported_hfr_selection">ハイスピード/スローモーションは電子式手ぶれ補正と微速度撮影ではサポートされていません</string>
+  <string name="pref_camera_facedetection_title">顔認識</string>
+  <string name="error_app_unsupported_hfr_selection">ハイスピード/スローモーションは電子式手ぶれ補正と低速度撮影ではサポートされていません</string>
   <string name="error_app_unsupported_hsr">選択した解像度ではハイスピード動画はサポートされていません</string>
   <string name="pref_camera_redeyereduction_title">赤目軽減</string>
   <string name="pref_camera_redeyereduction_entry_enable">ON</string>

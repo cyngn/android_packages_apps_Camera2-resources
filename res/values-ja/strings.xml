@@ -56,7 +56,7 @@
   <string name="path">パス</string>
   <string name="width">幅</string>
   <string name="height">高さ</string>
-  <string name="orientation">方向</string>
+  <string name="orientation">回転</string>
   <string name="duration">時間</string>
   <string name="mimetype">MIMEタイプ</string>
   <string name="file_size">ファイルサイズ</string>
@@ -95,7 +95,7 @@
   <plurals name="pref_camera_timer_entry">
     <item quantity="other">%d秒</item>
   </plurals>
-  <string name="pref_camera_timer_sound_title">タイマー時にビープ音</string>
+  <string name="pref_camera_timer_sound_title">カウントダウン音を鳴らす</string>
   <string name="setting_off">OFF</string>
   <string name="setting_on">ON</string>
   <string name="pref_video_quality_title">画質</string>
@@ -104,7 +104,7 @@
   <string name="pref_video_time_lapse_frame_interval_title">低速度撮影</string>
   <string name="pref_camera_settings_category">カメラの設定</string>
   <string name="pref_camcorder_settings_category">ビデオ録画の設定</string>
-  <string name="pref_camera_picturesize_title">画像サイズ</string>
+  <string name="pref_camera_picturesize_title">写真のサイズ</string>
   <string name="pref_camera_focusmode_title">フォーカスモード</string>
   <string name="pref_camera_focusmode_entry_auto">オート</string>
   <string name="pref_camera_focusmode_entry_infinity">無限遠</string>
@@ -161,7 +161,7 @@
   <string name="pref_camera_id_label_back">前面カメラ</string>
   <string name="pref_camera_id_label_front">背面カメラ</string>
   <string name="dialog_ok">OK</string>
-  <string name="spaceIsLow_content" product="default">SDカードの空き領域が少なくなっています。画質設定を変更するか、画像などのファイルを一部削除してください。</string>
+  <string name="spaceIsLow_content" product="default">SDカードの空き領域が少なくなっています。画質の設定を変更するか、画像などのファイルを一部削除してください。</string>
   <string name="video_reach_size_limit">サイズ制限に達しました。</string>
   <string name="pano_too_fast_prompt">速すぎます</string>
   <string name="pano_dialog_prepare_preview">パノラマを準備しています</string>
@@ -249,15 +249,15 @@
   <string name="set_time_interval">間隔を設定</string>
   <string name="set_time_interval_help">低速度撮影機能がOFFになっています。間隔を設定するにはONにしてください。</string>
   <string name="set_duration">設定時間（秒数）</string>
-  <string name="count_down_title_text">画像を撮影するまでカウントダウンします</string>
+  <string name="count_down_title_text">写真を撮影するまでカウントダウンします</string>
   <string name="remember_location_title">撮影場所を記録しますか？</string>
-  <string name="remember_location_prompt">画像や動画に撮影場所のタグを付けることができます。\n\n他のアプリから、保存された画像とともに撮影場所の情報にもアクセスできるようになります。</string>
+  <string name="remember_location_prompt">写真や動画に撮影場所のタグを付けることができます。\n\n他のアプリから、保存された画像とともに撮影場所の情報にもアクセスできるようになります。</string>
   <string name="remember_location_no">いいえ</string>
   <string name="remember_location_yes">はい</string>
   <string name="camera_menu_more_label">その他のオプション</string>
   <string name="camera_menu_settings_label">設定</string>
   <string name="create_tiny_planet">小さい惑星を作成</string>
-  <string name="saving_tiny_planet">小さい惑星を保存しています&#8230;</string>
+  <string name="saving_tiny_planet">小惑星を保存中&#8230;</string>
   <string name="tiny_planet_zoom">ズーム</string>
   <string name="tiny_planet_rotate">回転</string>
   <string name="crop_save">保存</string>

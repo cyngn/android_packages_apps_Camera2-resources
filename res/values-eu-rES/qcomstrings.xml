@@ -25,7 +25,7 @@
   <string name="pref_camera_powermode_entry_lp">Energia baxua</string>
   <string name="pref_camera_powermode_entry_np">Energia arrunta</string>
   <string name="pref_camera_autoexposure_title">Esposizio automatikoa</string>
-  <string name="pref_camera_autoexposure_entry_frameaverage">Matriziala</string>
+  <string name="pref_camera_autoexposure_entry_frameaverage">Fotogramaren batezbestekoa</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Erdialdean haztatua</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Puntuala</string>
   <string name="pref_camera_videoencoder_title">Bideo kodeka</string>
@@ -41,7 +41,7 @@
   <string name="pref_camera_selectablezoneaf_entry_auto">Automatikoa</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Puntuala</string>
   <string name="pref_camera_selectablezoneaf_entry_centerweighted">Erdialdean haztatua</string>
-  <string name="pref_camera_selectablezoneaf_entry_frameaverage">Matriziala</string>
+  <string name="pref_camera_selectablezoneaf_entry_frameaverage">Fotogramaren batezbestekoa</string>
   <string name="pref_camera_video_hdr_entry_off">Ez</string>
   <string name="pref_camera_video_hdr_entry_on">Bai</string>
   <string name="pref_camera_video_hdr_title">HDR bideoa</string>
@@ -55,8 +55,8 @@
   <string name="error_app_unsupported_hfr_codec">Kamera geldoan H264 kodeketa besterik ez da onartzen</string>
   <string name="error_app_unsupported_hsr_codec">Abiadura handiko bideo moduan H264 kodeketa besterik ez da onartzen</string>
   <string name="error_app_unsupported">Kodek honentzako baliagarria ez den bideo erresoluzioa</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">HDR esposizioa</string>
-  <string name="pref_camera_ae_bracket_hdr_title">HDR esposizio automatikoa</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Esposizio automatikoaren kortxetamendua</string>
+  <string name="pref_camera_ae_bracket_hdr_title">Esposizio automatikoaren kortxetamendua</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Bai</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Ez</string>
   <string name="pref_camera_hfr_title">Kamera geldoa</string>
@@ -95,7 +95,7 @@
   <string name="pref_camera_coloreffect_entry_solarize">Solarizatu</string>
   <string name="pref_camera_coloreffect_entry_posterize">Posterizatu</string>
   <string name="pref_camera_coloreffect_entry_aqua">Ura</string>
-  <string name="pref_camera_coloreffect_entry_emboss">Nabarmendu</string>
+  <string name="pref_camera_coloreffect_entry_emboss">Bozeldu</string>
   <string name="pref_camera_coloreffect_entry_sketch">Marrazkia</string>
   <string name="pref_camera_coloreffect_entry_neon">Neona</string>
   <string name="pref_camera_coloreffect_entry_pastel">Pastela</string>
