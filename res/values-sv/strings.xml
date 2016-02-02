@@ -87,7 +87,7 @@
   <string name="wait">Vänta …</string>
   <string name="no_storage" product="default">Sätt i ett SD-kort innan du använder kameran.</string>
   <string name="preparing_sd" product="default">Förbereder SD-kort …</string>
-  <string name="access_sd_fail" product="default">Det gick inte att öppna SD-kortet.</string>
+  <string name="access_sd_fail" product="default">Kunde inte komma åt SD-kort.</string>
   <string name="time_lapse_title">Intervallinspelning</string>
   <string name="capturing">Tar ett foto …</string>
   <string name="pref_camera_id_title">Välj kamera</string>

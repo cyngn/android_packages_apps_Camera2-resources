@@ -59,6 +59,10 @@
   <string name="pref_camera_hfr_entry_3x">Mișcare lentă 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Mișcare lentă 120 FPS</string>
   <string name="pref_camera_hfr_entry_8x">Mișcare lentă 240 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_60">Viteză mărită 60 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_90">Viteză mărită 90 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_120">Viteză mărită 120 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_240">Viteză mărită 240 FPS</string>
   <string name="pref_camera_denoise_title">Înlăturare zgomot</string>
   <string name="pref_camera_denoise_entry_off">Oprit</string>
   <string name="pref_camera_denoise_entry_on">Pornit</string>

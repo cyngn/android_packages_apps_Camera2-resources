@@ -30,7 +30,7 @@
   <string name="pref_camera_autoexposure_entry_spotmetering">Točkovno</string>
   <string name="pref_camera_videoencoder_title">Kodek slike</string>
   <string name="pref_camera_audioencoder_title">Kodek zvoka</string>
-  <string name="pref_camera_video_duration_title">Trajanje video posnetka</string>
+  <string name="pref_camera_video_duration_title">Trajanje videoposnetka</string>
   <string name="pref_camera_video_duration_entry_mms">30 sekund (MMS)</string>
   <string name="pref_camera_video_duration_entry_10">10 minut</string>
   <string name="pref_camera_video_duration_entry_30">30 minut</string>
@@ -54,7 +54,7 @@
   <string name="error_app_unsupported_hfr">Počasni posnetek ni podprt za izbrano ločljivost</string>
   <string name="error_app_unsupported_hfr_codec">Ko je vključen Počasni posnetek, je podprto samo kodiranje slike H.264</string>
   <string name="error_app_unsupported_hsr_codec">Ko je vključena Visoka hitrost, je podprto samo kodiranje slike H.264</string>
-  <string name="error_app_unsupported">Nepodprta ločljivost video posnetka za to vrsto kodeka</string>
+  <string name="error_app_unsupported">Nepodprta ločljivost videoposnetka za to vrsto kodeka</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Korektura sam. osvetlitve</string>
   <string name="pref_camera_ae_bracket_hdr_title">Korektura samodejne osvetlitve</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Vklopi</string>

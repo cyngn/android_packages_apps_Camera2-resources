@@ -80,7 +80,7 @@
   <string name="unknown">Onbekend</string>
   <string name="try_to_set_local_album_available_offline">Dit item is lokaal opgeslagen en offline beschikbaar.</string>
   <string name="please_wait">Even geduld</string>
-  <string name="rendering_photo_sphere">Panoramafoto weergeven</string>
+  <string name="rendering_photo_sphere">360° foto genereren</string>
   <string name="camera_error_title">Camerafout</string>
   <string name="cannot_connect_camera">Kan geen verbinding maken met de camera.</string>
   <string name="camera_disabled">De camera is uitgeschakeld vanwege het beveiligingsbeleid.</string>
@@ -200,7 +200,7 @@
   <string name="accessibility_switch_to_camera">Overschakelen naar foto</string>
   <string name="accessibility_switch_to_video">Overschakelen naar video</string>
   <string name="accessibility_switch_to_panorama">Overschakelen naar panorama</string>
-  <string name="accessibility_switch_to_photo_sphere">Overschakelen naar panoramafoto</string>
+  <string name="accessibility_switch_to_photo_sphere">Overschakelen naar 360° foto</string>
   <string name="accessibility_switch_to_gcam">Overschakelen naar hoge kwaliteit</string>
   <string name="accessibility_review_cancel">Controle annuleren</string>
   <string name="accessibility_review_ok">Controle gereed</string>
@@ -208,7 +208,7 @@
   <string name="capital_on">AAN</string>
   <string name="capital_off">UIT</string>
   <string name="pref_video_time_lapse_frame_interval_off">Uit</string>
-  <string name="pref_video_time_lapse_frame_interval_500">0,5 seconden</string>
+  <string name="pref_video_time_lapse_frame_interval_500">0,5 seconde</string>
   <string name="pref_video_time_lapse_frame_interval_1000">1 seconde</string>
   <string name="pref_video_time_lapse_frame_interval_1500">1,5 seconden</string>
   <string name="pref_video_time_lapse_frame_interval_2000">2 seconden</string>
@@ -221,7 +221,7 @@
   <string name="pref_video_time_lapse_frame_interval_12000">12 seconden</string>
   <string name="pref_video_time_lapse_frame_interval_15000">15 seconden</string>
   <string name="pref_video_time_lapse_frame_interval_24000">24 seconden</string>
-  <string name="pref_video_time_lapse_frame_interval_30000">0,5 minuten</string>
+  <string name="pref_video_time_lapse_frame_interval_30000">0,5 minuut</string>
   <string name="pref_video_time_lapse_frame_interval_60000">1 minuut</string>
   <string name="pref_video_time_lapse_frame_interval_90000">1,5 minuten</string>
   <string name="pref_video_time_lapse_frame_interval_120000">2 minuten</string>
@@ -263,7 +263,7 @@
   <string name="camera_menu_settings_label">INSTELLINGEN</string>
   <string name="create_tiny_planet">Tiny Planet maken</string>
   <string name="saving_tiny_planet">Tiny Planet opslaan\u2026</string>
-  <string name="tiny_planet_zoom">In-/uitzoomen</string>
+  <string name="tiny_planet_zoom">Zoomen</string>
   <string name="tiny_planet_rotate">Draaien</string>
   <string name="crop_save">Opslaan</string>
   <string name="cannot_load_image">Kan de afbeelding niet laden.</string>

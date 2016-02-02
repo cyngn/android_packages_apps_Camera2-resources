@@ -28,6 +28,24 @@
   <string name="undo">RAZVELJAVI</string>
   <string name="details">Podrobnosti</string>
   <string name="close">Zapri</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">Št. izbranih: %1$d</item>
+    <item quantity="two">Št. izbranih: %1$d</item>
+    <item quantity="few">Št. izbranih: %1$d</item>
+    <item quantity="other">Št. izbranih: %1$d</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">Št. izbranih: %1$d</item>
+    <item quantity="two">Št. izbranih: %1$d</item>
+    <item quantity="few">Št. izbranih: %1$d</item>
+    <item quantity="other">Št. izbranih: %1$d</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">Št. izbranih: %1$d</item>
+    <item quantity="two">Št. izbranih: %1$d</item>
+    <item quantity="few">Št. izbranih: %1$d</item>
+    <item quantity="other">Št. izbranih: %1$d</item>
+  </plurals>
   <string name="show_on_map">Pokaži na zemljevidu</string>
   <string name="rotate_left">Zasuk v levo</string>
   <string name="rotate_right">Zasuk v desno</string>
@@ -35,7 +53,7 @@
   <string name="crop_action">Obrezovanje</string>
   <string name="trim_action">Obrezovanje</string>
   <string name="set_as">Nastavi kot</string>
-  <string name="video_err">Videa ni mogoče predvajati.</string>
+  <string name="video_err">Videopos. ni mogoče predvajati.</string>
   <string name="crop_saved">Obrezana slika je shranjena v mapi <xliff:g id="FOLDER_NAME">%s</xliff:g>.</string>
   <string name="title">Naslov</string>
   <string name="description">Opis</string>
@@ -83,12 +101,12 @@
   <string name="pref_camera_timer_sound_title">Zvok med odštev.</string>
   <string name="setting_off">Izklopljeno</string>
   <string name="setting_on">Vklopljeno</string>
-  <string name="pref_video_quality_title">Kakovost videoposnet.</string>
+  <string name="pref_video_quality_title">Kakovost videoposnetkov</string>
   <string name="pref_video_quality_entry_high">Visoka</string>
   <string name="pref_video_quality_entry_low">Nizka</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časovni zamik</string>
   <string name="pref_camera_settings_category">Nastavitve fotoaparata</string>
-  <string name="pref_camcorder_settings_category">Nastavitve videokamere</string>
+  <string name="pref_camcorder_settings_category">Nastavitve kamere</string>
   <string name="pref_camera_picturesize_title">Velikost slike</string>
   <string name="pref_camera_focusmode_title">Način ostrenja</string>
   <string name="pref_camera_focusmode_entry_auto">Samodejno</string>
@@ -167,9 +185,9 @@
   <string name="effect_goofy_face_small_eyes">Majhne oči</string>
   <string name="effect_backdropper_space">V vesolju</string>
   <string name="effect_backdropper_sunset">Sončni zahod</string>
-  <string name="effect_backdropper_gallery">Vaš video pos.</string>
-  <string name="video_recording_started">Snemanje videa se je začelo.</string>
-  <string name="video_recording_stopped">Snemanje videa se je ustavilo.</string>
+  <string name="effect_backdropper_gallery">Vaš videoposnetek</string>
+  <string name="video_recording_started">Snemanje videoposnetka se je začelo.</string>
+  <string name="video_recording_stopped">Snemanje videoposnetka se je ustavilo.</string>
   <string name="clear_effects">Počisti učinke</string>
   <string name="effect_silly_faces">NORČAVI OBRAZI</string>
   <string name="effect_background">OZADJE</string>
@@ -178,7 +196,7 @@
   <string name="accessibility_mode_picker">Izbirnik fotoaparata, kamere ali panorame</string>
   <string name="accessibility_check_box">Označno polje %1$s</string>
   <string name="accessibility_switch_to_camera">Preklopi na fotoaparat</string>
-  <string name="accessibility_switch_to_video">Preklopi na videokamero</string>
+  <string name="accessibility_switch_to_video">Preklopi na kamero</string>
   <string name="accessibility_switch_to_panorama">Preklopi na panoramo</string>
   <string name="accessibility_switch_to_photo_sphere">Preklopi v način photo sphere</string>
   <string name="accessibility_switch_to_gcam">Preklopi na visoko kakovost</string>
@@ -236,7 +254,7 @@
   <string name="set_duration">Nastavite trajanje v sekundah</string>
   <string name="count_down_title_text">Odštevanje pred fotografiranjem</string>
   <string name="remember_location_title">Beleženje lokacije fotografije?</string>
-  <string name="remember_location_prompt">Fotografije in videoposnetke označi z lokacijami, na katerih so posneti.\n\nDrugi programi lahko dostopajo do teh podatkov skupaj s shranjenimi slikami.</string>
+  <string name="remember_location_prompt">Fotografije in videoposnetke označite z lokacijami, na katerih so posneti.\n\nDruge aplikacije lahko dostopajo do teh podatkov skupaj s shranjenimi slikami.</string>
   <string name="remember_location_no">Ne, hvala</string>
   <string name="remember_location_yes">Da</string>
   <string name="camera_menu_more_label">VEČ MOŽNOSTI</string>
