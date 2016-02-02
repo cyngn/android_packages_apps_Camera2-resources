@@ -30,7 +30,7 @@
   <string name="pref_camera_autoexposure_entry_spotmetering">スポット測光</string>
   <string name="pref_camera_videoencoder_title">ビデオコーデック</string>
   <string name="pref_camera_audioencoder_title">オーディオコーデック</string>
-  <string name="pref_camera_video_duration_title">動画の時間</string>
+  <string name="pref_camera_video_duration_title">録画時間</string>
   <string name="pref_camera_video_duration_entry_mms">30秒（MMS）</string>
   <string name="pref_camera_video_duration_entry_10">10分</string>
   <string name="pref_camera_video_duration_entry_30">30分</string>
@@ -145,7 +145,7 @@
   <string name="pref_camera_contrast_title">コントラスト</string>
   <string name="pref_camera_saturation_title">彩度</string>
   <string name="pref_camera_picture_format_title">写真の形式</string>
-  <string name="pref_camera_jpegquality_title">写真の画質</string>
+  <string name="pref_camera_jpegquality_title">画質</string>
   <string name="pref_camera_jpegquality_entry_0">55%</string>
   <string name="pref_camera_jpegquality_entry_1">65%（標準）</string>
   <string name="pref_camera_jpegquality_entry_2">75%（ファイン）</string>

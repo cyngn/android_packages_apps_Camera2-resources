@@ -148,9 +148,10 @@
   <string name="pref_max_brightness_title">Ecran luminos</string>
   <string name="pref_max_brightness_summary">Setaează luminozitatea la maxim, cât timp Camera este activă</string>
   <string name="pref_camera_reset_title">Restabilire valori implicite</string>
-  <string name="pref_camera_reset_message">Schimbă toate setările camerei foto și video la valorile lor originale? Acest lucru nu poate fi anulat.</string>
+  <string name="pref_camera_reset_message">Schimbați toate setările camerei foto și video la valorile lor originale? Acest lucru nu poate fi anulat.</string>
   <string name="pref_camera_reset_button">Restaurează</string>
   <string name="pref_section_advanced">Avansat</string>
   <string name="pref_section_other">Altele</string>
+  <string name="cannot_start_video_toast">Nu se poate începe o înregistrare video. Este microfonul în uz?</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
 </resources>
