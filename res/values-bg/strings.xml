@@ -93,7 +93,7 @@
   <string name="pref_camera_id_title">Избиране на камера</string>
   <string name="pref_camera_id_entry_back">Задна</string>
   <string name="pref_camera_id_entry_front">Предна</string>
-  <string name="pref_camera_recordlocation_title">Място за съхранение</string>
+  <string name="pref_camera_recordlocation_title">Местоположение</string>
   <string name="pref_camera_location_label">МЕСТОПОЛОЖЕНИЕ</string>
   <string name="pref_camera_timer_title">Таймер за обратно отброяване</string>
   <plurals name="pref_camera_timer_entry">
@@ -109,7 +109,7 @@
   <string name="pref_video_time_lapse_frame_interval_title">Цайтрафер</string>
   <string name="pref_camera_settings_category">Настройки на камерата</string>
   <string name="pref_camcorder_settings_category">Настройки на видеокамерата</string>
-  <string name="pref_camera_picturesize_title">Размер на снимката</string>
+  <string name="pref_camera_picturesize_title">Резолюция на снимката</string>
   <string name="pref_camera_focusmode_title">Фокусен режим</string>
   <string name="pref_camera_focusmode_entry_auto">Автоматично</string>
   <string name="pref_camera_focusmode_entry_infinity">Безкрайност</string>
@@ -119,9 +119,9 @@
   <string name="pref_camera_focusmode_label_macro">МАКРО</string>
   <string name="pref_camera_flashmode_title">Режим на светкавицата</string>
   <string name="pref_camera_flashmode_label">РЕЖИМ НА СВЕТКАВИЦАТА</string>
-  <string name="pref_camera_flashmode_entry_auto">Автоматично</string>
-  <string name="pref_camera_flashmode_entry_on">Включено</string>
-  <string name="pref_camera_flashmode_entry_off">Изключено</string>
+  <string name="pref_camera_flashmode_entry_auto">Автоматична</string>
+  <string name="pref_camera_flashmode_entry_on">Включена</string>
+  <string name="pref_camera_flashmode_entry_off">Изключена</string>
   <string name="pref_camera_flashmode_label_auto">АВТОМАТИЧНА СВЕТКАВИЦА</string>
   <string name="pref_camera_flashmode_label_on">СВЕТКАВИЦАТА Е ВКЛЮЧЕНА</string>
   <string name="pref_camera_flashmode_label_off">СВЕТКАВИЦАТА Е ИЗКЛЮЧЕНА</string>

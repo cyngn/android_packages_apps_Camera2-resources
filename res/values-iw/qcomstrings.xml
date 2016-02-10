@@ -82,7 +82,7 @@
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
-  <string name="pref_camera_antibanding_title">Antibanding</string>
+  <string name="pref_camera_antibanding_title">החלקת פסי גוונים</string>
   <string name="pref_camera_antibanding_entry_0">כבוי</string>
   <string name="pref_camera_antibanding_entry_1">50 הרץ</string>
   <string name="pref_camera_antibanding_entry_2">60 הרץ</string>

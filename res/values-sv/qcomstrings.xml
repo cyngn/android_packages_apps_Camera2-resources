@@ -46,10 +46,14 @@
   <string name="pref_camera_video_hdr_entry_on">På</string>
   <string name="pref_camera_video_hdr_title">Video HDR</string>
   <string name="pref_camera_facedetection_title">Ansiktsigenkänning</string>
+  <string name="error_app_unsupported_hfr_selection">Höghastighet/Slow Motion stöds inte för DIS och TimeLapse</string>
+  <string name="error_app_unsupported_hsr">Höghastighetsvideo stöds inte med den valda upplösningen</string>
   <string name="pref_camera_redeyereduction_title">Röda ögon-reduktion</string>
   <string name="pref_camera_redeyereduction_entry_enable">På</string>
   <string name="pref_camera_redeyereduction_entry_disable">Av</string>
+  <string name="error_app_unsupported_hfr">Slow motion video stöds inte med den valda upplösningen</string>
   <string name="error_app_unsupported_hfr_codec">Bara H.264 video kodning stöds när Slow Motion är på</string>
+  <string name="error_app_unsupported_hsr_codec">Bara H.264 video encoding stöds när höghastighet är på</string>
   <string name="error_app_unsupported">Videoupplösningen fungerar inte med denna kodek</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracketing</string>
   <string name="pref_camera_ae_bracket_hdr_title">Automatisk exponeringsvariation</string>

@@ -137,8 +137,8 @@
   <string name="no_storage_usb">USB-Speicher ist nicht angeschlossen oder ist nicht beschreibbar.</string>
   <string name="access_usb_fail">Auf den USB-Speicher konnte nicht zugegriffen werden.</string>
   <string name="access_storage_fail">Auf den Speicher konnte nicht zugegriffen werden.</string>
-  <string name="preparing_usb">USB-Speicher vorbereiten\u2026</string>
-  <string name="preparing_storage">Speicher vorbereiten\u2026</string>
+  <string name="preparing_usb">USB-Speicher wird vorbereitet\u2026</string>
+  <string name="preparing_storage">Speicher wird vorbereitet\u2026</string>
   <string name="spaceIsLow_sd">SD-Karte hat nicht genügend Speicherplatz.</string>
   <string name="spaceIsLow_usb">USB-Speicher hat nicht genügend Speicherplatz.</string>
   <string name="spaceIsLow_storage">Speicher hat nicht genügend Speicherplatz.</string>
