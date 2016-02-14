@@ -22,7 +22,7 @@
   <string name="set_image">將相片設為</string>
   <string name="delete">刪除</string>
   <plurals name="delete_selection">
-    <item quantity="other">刪除選取的項目？</item>
+    <item quantity="other">刪除已選取的項目？</item>
   </plurals>
   <string name="share">分享</string>
   <string name="share_panorama">分享全景</string>

@@ -22,7 +22,7 @@
   <string name="set_image">Använd bild som</string>
   <string name="delete">Ta bort</string>
   <plurals name="delete_selection">
-    <item quantity="one">Vill du ta bort markerat objekt?</item>
+    <item quantity="one">Vill du radera markerat objekt?</item>
     <item quantity="other">VIll du radera markerade objekt?</item>
   </plurals>
   <string name="share">Dela</string>
@@ -37,12 +37,12 @@
     <item quantity="other">%1$d har valts</item>
   </plurals>
   <plurals name="number_of_albums_selected">
-    <item quantity="one">%1$d har valts</item>
-    <item quantity="other">%1$d har valts</item>
+    <item quantity="one">%1$d vald</item>
+    <item quantity="other">%1$d valda</item>
   </plurals>
   <plurals name="number_of_groups_selected">
-    <item quantity="one">%1$d har valts</item>
-    <item quantity="other">%1$d har valts</item>
+    <item quantity="one">%1$d vald</item>
+    <item quantity="other">%1$d valda</item>
   </plurals>
   <string name="show_on_map">Visa på karta</string>
   <string name="rotate_left">Rotera åt vänster</string>
