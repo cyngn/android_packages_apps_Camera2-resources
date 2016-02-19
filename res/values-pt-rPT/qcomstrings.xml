@@ -46,7 +46,7 @@
   <string name="pref_camera_video_hdr_entry_on">Ligado</string>
   <string name="pref_camera_video_hdr_title">Vídeo HDR</string>
   <string name="pref_camera_facedetection_title">Deteção de rosto</string>
-  <string name="error_app_unsupported_hfr_selection">Alta velocidade/Câmara lenta não é suportado para DIS e TimeLapse</string>
+  <string name="error_app_unsupported_hfr_selection">Alta velocidade/Câmara lenta não é suportada para DIS e intervalo de tempo</string>
   <string name="error_app_unsupported_hsr">Alta velocidade não é suportada na resolução selecionada</string>
   <string name="pref_camera_redeyereduction_title">Redução de olhos vermelhos</string>
   <string name="pref_camera_redeyereduction_entry_enable">Ligado</string>

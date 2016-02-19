@@ -28,7 +28,7 @@
   <string name="share">Partager</string>
   <string name="share_panorama">Partager le panorama</string>
   <string name="share_as_photo">Partager en tant que photo</string>
-  <string name="deleted">Photo supprimée.</string>
+  <string name="deleted">Supprimée</string>
   <string name="undo">ANNULER</string>
   <string name="details">Détails</string>
   <string name="close">Fermer</string>
@@ -52,11 +52,12 @@
   <string name="trim_action">Couper</string>
   <string name="set_as">Définir comme</string>
   <string name="video_err">Impossible de lire la vidéo.</string>
-  <string name="crop_saved">L\'image rognée a bien été enregistrée dans le dossier \"<xliff:g id="FOLDER_NAME">%s</xliff:g>\".</string>
+  <string name="crop_saved">
+        L\'image rognée a bien été enregistrée dans le dossier <xliff:g id="folder_name">%s</xliff:g>.</string>
   <string name="title">Titre</string>
   <string name="description">Description</string>
   <string name="time">Date/Heure</string>
-  <string name="location">Lieu</string>
+  <string name="location">Emplacement</string>
   <string name="path">Chemin d\'accès</string>
   <string name="width">Largeur</string>
   <string name="height">Hauteur</string>

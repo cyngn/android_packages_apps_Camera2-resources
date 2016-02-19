@@ -146,13 +146,13 @@
   <string name="alternate_storage_sd_card">Изтрийте някои изображения или други файлове, или използвайте SD карта.</string>
   <string name="alternate_storage_usb">Изтрийте някои изображения или други файлове или използвайте USB хранилище.</string>
   <string name="pref_camera_volume_zoom_title">Приближаване с бутоните за звукът</string>
-  <string name="pref_camera_volume_zoom_summary">Контролирай приближаването с бутоните за звукът</string>
+  <string name="pref_camera_volume_zoom_summary">Контролирай приближаването с бутоните за сила на звука</string>
   <string name="pref_max_brightness_title">Ярък екран</string>
   <string name="pref_max_brightness_summary">Задавай яркостта на максимум, докато камерата е активна</string>
   <string name="pref_camera_reset_title">Възстанови настройките по подразбиране</string>
   <string name="pref_camera_reset_message">Да върна ли всички настройки за камера и видео към първоначалните им стойности? Това не може да бъде отменено.</string>
   <string name="pref_camera_reset_button">Възстанови</string>
-  <string name="pref_section_advanced">За напреднали</string>
+  <string name="pref_section_advanced">Разширени</string>
   <string name="pref_section_other">Други</string>
   <string name="msg_cancel_longshot_for_limited_memory">Паметта е изчерпана, спиране на снимките!</string>
   <string name="hold_for_burst">Задръжте натиснат бутона за снимане за да направите серия от снимки.</string>

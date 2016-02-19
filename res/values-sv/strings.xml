@@ -22,7 +22,7 @@
   <string name="set_image">Använd bild som</string>
   <string name="delete">Ta bort</string>
   <plurals name="delete_selection">
-    <item quantity="one">Vill du ta bort markerat objekt?</item>
+    <item quantity="one">Vill du radera markerat objekt?</item>
     <item quantity="other">VIll du radera markerade objekt?</item>
   </plurals>
   <string name="share">Dela</string>
