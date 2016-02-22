@@ -30,7 +30,7 @@
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure spot</string>
   <string name="pref_camera_videoencoder_title">Codec vidéo</string>
   <string name="pref_camera_audioencoder_title">Codec audio</string>
-  <string name="pref_camera_video_duration_title">Durée de vidéo</string>
+  <string name="pref_camera_video_duration_title">Durée de la vidéo</string>
   <string name="pref_camera_video_duration_entry_mms">30 secondes (MMS)</string>
   <string name="pref_camera_video_duration_entry_10">10 minutes</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
@@ -39,7 +39,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactivé</string>
   <string name="pref_camera_selectablezoneaf_title">Zone de mise au point automatique</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">Auto</string>
-  <string name="pref_camera_selectablezoneaf_entry_spotmetering">Mesure de spot</string>
+  <string name="pref_camera_selectablezoneaf_entry_spotmetering">Mesure spot</string>
   <string name="pref_camera_selectablezoneaf_entry_centerweighted">Pondérée centrale</string>
   <string name="pref_camera_selectablezoneaf_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_video_hdr_entry_off">Désactivé</string>

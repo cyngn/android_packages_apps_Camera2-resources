@@ -54,6 +54,9 @@
   <string name="pref_camera_ae_bracket_hdr_title">Bracketing cu expunere automată</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Pornit</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Oprit</string>
+  <string name="pref_camera_hfr_title">Cu încetinitorul</string>
+  <string name="pref_camera_hsr_title">De mare viteză</string>
+  <string name="pref_camera_hsr_hfr_title">De mare viteză/Cu încetinitorul</string>
   <string name="pref_camera_hfr_entry_off">Oprit</string>
   <string name="pref_camera_hfr_entry_2x">Mișcare lentă 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Mișcare lentă 90 FPS</string>

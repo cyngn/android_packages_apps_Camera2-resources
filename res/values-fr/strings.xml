@@ -28,7 +28,7 @@
   <string name="share">Partager</string>
   <string name="share_panorama">Partager le panorama</string>
   <string name="share_as_photo">Partager en tant que photo</string>
-  <string name="deleted">Photo supprimée.</string>
+  <string name="deleted">Supprimée</string>
   <string name="undo">ANNULER</string>
   <string name="details">Détails</string>
   <string name="close">Fermer</string>
@@ -52,11 +52,12 @@
   <string name="trim_action">Couper</string>
   <string name="set_as">Définir comme</string>
   <string name="video_err">Impossible de lire la vidéo.</string>
-  <string name="crop_saved">L\'image rognée a bien été enregistrée dans le dossier \"<xliff:g id="FOLDER_NAME">%s</xliff:g>\".</string>
+  <string name="crop_saved">
+        L\'image rognée a bien été enregistrée dans le dossier <xliff:g id="folder_name">%s</xliff:g>.</string>
   <string name="title">Titre</string>
   <string name="description">Description</string>
   <string name="time">Date/Heure</string>
-  <string name="location">Lieu</string>
+  <string name="location">Emplacement</string>
   <string name="path">Chemin d\'accès</string>
   <string name="width">Largeur</string>
   <string name="height">Hauteur</string>
@@ -69,18 +70,18 @@
   <string name="flash">Flash</string>
   <string name="aperture">Ouverture</string>
   <string name="focal_length">Longueur focale</string>
-  <string name="white_balance">Balance blancs</string>
+  <string name="white_balance">Balance des blancs</string>
   <string name="exposure_time">Durée d\'expo</string>
   <string name="iso">ISO</string>
   <string name="unit_mm">mm</string>
-  <string name="manual">Manuel</string>
+  <string name="manual">Manuelle</string>
   <string name="auto">Auto</string>
   <string name="flash_on">Flash déclenché</string>
   <string name="flash_off">Flash désactivé</string>
   <string name="unknown">Inconnue</string>
   <string name="try_to_set_local_album_available_offline">Cet élément est stocké localement et disponible hors connexion.</string>
   <string name="please_wait">Veuillez patienter…</string>
-  <string name="rendering_photo_sphere">Rendu de la photo-sphère en cours…</string>
+  <string name="rendering_photo_sphere">Rendu de Photo Sphere en cours</string>
   <string name="camera_error_title">Erreur au niveau de la caméra</string>
   <string name="cannot_connect_camera">Impossible d\'établir une connexion avec la caméra.</string>
   <string name="camera_disabled">La caméra a été désactivée en raison des règles de sécurité.</string>

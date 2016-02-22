@@ -25,7 +25,7 @@
   <string name="pref_camera_viewfinder_fullscreen">Vollbild</string>
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
   <string name="pref_camera_raw_mode_title">Raw-Daten speichern</string>
-  <string name="beauty_mode_disables_raw">Im Modus \"Gesichter verschönern\" können keine Raw-Aufnahmen erstellen werden</string>
+  <string name="beauty_mode_disables_raw">Im Modus \"Gesichter verschönern\" können keine Raw-Aufnahmen erstellen werden.</string>
   <string name="pref_camera_zsl_enable_title">Keine Auslöseverzögerung</string>
   <string name="pref_camera_zsl_enable_summary_on">Schnelle Bilderfassung</string>
   <string name="pref_camera_zsl_enable_summary_alt">Schnelle Bilderfassung und Serienmodus</string>
@@ -83,7 +83,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fixfokus</string>
   <string name="pref_camera_focusmode_entry_portrait">Porträt</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfokal</string>
-  <string name="pref_camera_coloreffect_entry_washed">Verwaschen</string>
+  <string name="pref_camera_coloreffect_entry_washed">Ausgewaschen</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Retro (warm)</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Retro (kalt)</string>
   <string name="pref_camera_coloreffect_entry_point_blue">Blau hervorheben</string>
@@ -134,7 +134,7 @@
   <string name="pref_camera_left_handed_summary">Steuerelemente für Linkshänder anpassen</string>
   <string name="camera_storage_fallback">Auf Standard-Speicherort zurücksetzen</string>
   <string name="no_storage_sd">SD-Karte ist nicht eingelegt oder ist nicht beschreibbar.</string>
-  <string name="no_storage_usb">USB-Speicher ist nicht angeschlossen oder nicht beschreibbar.</string>
+  <string name="no_storage_usb">Der USB-Speicher ist nicht angeschlossen oder nicht beschreibbar.</string>
   <string name="access_usb_fail">Auf den USB-Speicher konnte nicht zugegriffen werden.</string>
   <string name="access_storage_fail">Auf den Speicher konnte nicht zugegriffen werden.</string>
   <string name="preparing_usb">USB-Speicher wird vorbereitet\u2026</string>
@@ -146,7 +146,7 @@
   <string name="alternate_storage_sd_card">Löschen Sie einige Bilder oder andere Dateien oder verwenden Sie eine SD-Karte.</string>
   <string name="alternate_storage_usb">Löschen Sie einige Bilder oder andere Dateien oder verwenden Sie einen USB-Speicher.</string>
   <string name="pref_camera_volume_zoom_title">Lautstärke-Zoom</string>
-  <string name="pref_camera_volume_zoom_summary">Zoomen mit den Lautstärketasten</string>
+  <string name="pref_camera_volume_zoom_summary">Lautstärketasten steuern den Zoom</string>
   <string name="pref_max_brightness_title">Heller Bildschirm</string>
   <string name="pref_max_brightness_summary">Maximale Bildschirmhelligkeit bei aktiver Kamera</string>
   <string name="pref_camera_reset_title">Standardeinstellungen wiederherstellen</string>

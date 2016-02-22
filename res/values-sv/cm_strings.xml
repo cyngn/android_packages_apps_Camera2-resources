@@ -137,7 +137,7 @@
   <string name="no_storage_usb">USB-lagring har inte satts in eller är inte skrivbar.</string>
   <string name="access_usb_fail">Kunde inte komma åt USB-lagring.</string>
   <string name="access_storage_fail">Kunde inte komma åt lagring.</string>
-  <string name="preparing_usb">Förbereder USB-lagringsenheten\u2026</string>
+  <string name="preparing_usb">Förbereder USB-lagringsenhet\u2026</string>
   <string name="preparing_storage">Förbereder lagring\u2026</string>
   <string name="spaceIsLow_sd">Ditt SD-kort håller på att bli fullt.</string>
   <string name="spaceIsLow_usb">Ditt USB-lager håller på att bli fullt.</string>

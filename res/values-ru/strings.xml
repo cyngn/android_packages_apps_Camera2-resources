@@ -31,7 +31,7 @@
   <string name="share_as_photo">Отправить фото</string>
   <string name="deleted">Удалено</string>
   <string name="undo">ОТМЕНИТЬ</string>
-  <string name="details">Детали</string>
+  <string name="details">Сведения</string>
   <string name="close">Закрыть</string>
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d выбран</item>
@@ -51,12 +51,13 @@
   <string name="show_on_map">Показать на карте</string>
   <string name="rotate_left">Повернуть влево</string>
   <string name="rotate_right">Повернуть вправо</string>
-  <string name="edit">Редактировать</string>
+  <string name="edit">Изменить</string>
   <string name="crop_action">Кадрировать</string>
   <string name="trim_action">Обрезать</string>
   <string name="set_as">Установить как</string>
-  <string name="video_err">Не удалось воспроизвести видео</string>
-  <string name="crop_saved">Кадрированное изображение сохранено в папке \"<xliff:g id="FOLDER_NAME">%s</xliff:g>\"</string>
+  <string name="video_err">Не удалось воспроизвести видео.</string>
+  <string name="crop_saved">
+Кадрированное изображение сохранено в папке «<xliff:g id="folder_name">%s</xliff:g>».</string>
   <string name="title">Название</string>
   <string name="description">Описание</string>
   <string name="time">Время</string>
@@ -72,7 +73,6 @@
   <string name="model">Модель</string>
   <string name="flash">Вспышка</string>
   <string name="aperture">Диафрагма</string>
-  <string name="focal_length">Фокус</string>
   <string name="white_balance">Баланс белого</string>
   <string name="exposure_time">Выдержка</string>
   <string name="iso">ISO</string>
@@ -83,13 +83,13 @@
   <string name="flash_off">Без вспышки</string>
   <string name="unknown">Неизвестно</string>
   <string name="try_to_set_local_album_available_offline">Этот альбом хранится на устройстве, его можно посмотреть в офлайн-режиме</string>
-  <string name="please_wait">Подождите…</string>
-  <string name="rendering_photo_sphere">Создание круговой панорамы…</string>
+  <string name="please_wait">Подождите</string>
+  <string name="rendering_photo_sphere">Создание круговой панорамы</string>
   <string name="camera_error_title">Ошибка камеры</string>
   <string name="cannot_connect_camera">Не удалось подключиться к камере</string>
   <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности.</string>
   <string name="wait">Подождите…</string>
-  <string name="no_storage" product="default">Чтобы использовать камеру, вставьте SD-карту</string>
+  <string name="no_storage" product="default">Чтобы использовать камеру, вставьте SD-карту.</string>
   <string name="preparing_sd" product="default">Подготовка SD-карты…</string>
   <string name="access_sd_fail" product="default">Нет доступа к SD-карте</string>
   <string name="time_lapse_title">Режим замедленной съемки</string>
