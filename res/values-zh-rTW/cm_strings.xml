@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">相機</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">影片</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">一般</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">大小</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">品質</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">取景器</string>
   <string name="pref_camera_viewfinder_fullscreen">全螢幕</string>
   <string name="pref_camera_viewfinder_letterbox">框</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">保存原始圖像</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">拍攝相片時禁用美肌模式</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">零快門延遲</string>
   <string name="pref_camera_zsl_enable_summary_on">快速圖像捕捉</string>
   <string name="pref_camera_zsl_enable_summary_alt">快速圖像捕捉和連拍</string>
   <string name="pref_camera_zsl_enable_summary_off">更好的低光畫質</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">影片大小</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">大小</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">寬</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f 百萬像素</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">降低動態模糊</string>
   <string name="pref_camera_scenemode_entry_aqua">水色</string>
   <string name="pref_camera_scenemode_entry_ar">增強實景</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">文字</string>
   <string name="pref_camera_scenemode_entry_theatre">劇院</string>
   <string name="pref_camera_scenemode_entry_whiteboard">白板</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">連續</string>
   <string name="pref_camera_focusmode_entry_extended">擴展</string>
   <string name="pref_camera_focusmode_entry_facedetect">臉部偵測</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">固定</string>
   <string name="pref_camera_focusmode_entry_portrait">肖像</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">超焦距</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">沖蝕</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">仿古暖色</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">仿古冷色</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">卡通化</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
   <string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">連拍模式</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">關閉</string>
   <string name="pref_camera_burst_entry_5">5 連拍</string>
   <string name="pref_camera_burst_entry_10">10 連拍</string>
   <string name="pref_camera_burst_entry_15">15 連拍</string>
   <string name="pref_camera_burst_entry_20">20 連拍</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">觸控對焦持續時間</string>
   <string name="pref_camera_focustime_summary">選取觸控對焦的持續時間</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 秒</string>
   <string name="pref_camera_focustime_entry_10">10 秒</string>
   <string name="pref_camera_focustime_entry_15">15 秒</string>
   <string name="pref_camera_focustime_entry_20">20 秒</string>
   <string name="pref_camera_focustime_entry_30">30 秒</string>
   <string name="pref_camera_focustime_entry_infinite">無限</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">紅眼</string>
   <string name="pref_camera_flashmode_label_redeye">紅眼</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">美肌模式</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">清晰圖像</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">慢速快門</string>
   <string name="pref_camera_slow_shutter_delay_title">慢速快門速度</string>
   <string name="pref_camera_slow_shutter_entry_off">關閉</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 秒</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 秒</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 秒</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">儲存空間</string>
   <string name="pref_camera_recordlocation_on">標記目前照片位置</string>
   <string name="pref_camera_recordlocation_off">不添加相片和影片的位置標籤</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">增強</string>
   <string name="camera_menu_slow_shutter_label">慢速快門</string>
   <string name="camera_menu_beauty_mode_label">美肌</string>
   <string name="camera_menu_colorize_label">著色</string>
   <string name="camera_menu_effects_label">效果</string>
   <string name="camera_menu_asd_label">智能場景</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">電源按鈕快門</string>
   <string name="pref_camera_power_shutter_summary">按電源按鈕來拍攝相片</string>
   <string name="pref_camera_left_handed_title">左撇子</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">恢復到預設的儲存位置</string>
   <string name="no_storage_sd">未插入 SD 卡或無法存取。</string>
   <string name="no_storage_usb">未插入 USB 裝置或無法存取。</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">無法存取 USB 裝置。</string>
   <string name="access_storage_fail">無法存取裝置。</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">正在準備 USB 儲存裝置\u2026</string>
   <string name="preparing_storage">正在準備裝置\u2026</string>
   <string name="spaceIsLow_sd">您的 SD 卡空間將要用完。</string>
@@ -155,6 +189,13 @@
   <string name="pref_section_advanced">進階</string>
   <string name="pref_section_other">其他</string>
   <string name="msg_cancel_longshot_for_limited_memory">記憶體不足，停止拍攝！</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">按住快門以連拍。</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">無法開始錄影。您是否正在使用麥克風呢？</string>
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

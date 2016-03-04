@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Fotoaparát</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Všeobecné</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Veľkosť</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kvalita</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Hľadáčik</string>
   <string name="pref_camera_viewfinder_fullscreen">Celá obrazovka</string>
   <string name="pref_camera_viewfinder_letterbox">Pevný pomer</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Ukladať RAW snímky</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Režim krásy zakáže RAW snímanie</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Nulové oneskorenie uzávierky</string>
   <string name="pref_camera_zsl_enable_summary_on">Rýchle snímanie</string>
   <string name="pref_camera_zsl_enable_summary_alt">Rýchle snímanie a viacnásobný režim</string>
   <string name="pref_camera_zsl_enable_summary_off">Lepšia kvalita pri slabom osvetlení</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Veľkosť videa</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Veľkosť</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Široké</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixelov</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Redukcia rozmazania pohybu</string>
   <string name="pref_camera_scenemode_entry_aqua">Voda</string>
   <string name="pref_camera_scenemode_entry_ar">Rozšírená realita</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Text</string>
   <string name="pref_camera_scenemode_entry_theatre">Divadlo</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Biela tabuľa</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Neustály</string>
   <string name="pref_camera_focusmode_entry_extended">Rozšírené</string>
   <string name="pref_camera_focusmode_entry_facedetect">Rozpoznanie tváre</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Pevné</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrét</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfokálne</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Degradácia</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Teplé staré</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Chladné staré</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Kreslené</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Biela tabuľa</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Čierna tabuľa</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Sekvenčné snímanie</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Vypnuté</string>
   <string name="pref_camera_burst_entry_5">5 záberov</string>
   <string name="pref_camera_burst_entry_10">10 záberov</string>
   <string name="pref_camera_burst_entry_15">15 záberov</string>
   <string name="pref_camera_burst_entry_20">20 záberov</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Trvanie zaostrenia dotykom</string>
   <string name="pref_camera_focustime_summary">Vyberte trvanie zaostrenia dotykom</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 sekúnd</string>
   <string name="pref_camera_focustime_entry_10">10 sekúnd</string>
   <string name="pref_camera_focustime_entry_15">15 sekúnd</string>
   <string name="pref_camera_focustime_entry_20">20 sekúnd</string>
   <string name="pref_camera_focustime_entry_30">30 sekúnd</string>
   <string name="pref_camera_focustime_entry_infinite">Nekonečno</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Červené oči</string>
   <string name="pref_camera_flashmode_label_redeye">ČERVENÉ OČI</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Režim krásy</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Jasný obrázok</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Pomalá uzávierka</string>
   <string name="pref_camera_slow_shutter_delay_title">Pomalá rýchlosť uzávierky</string>
   <string name="pref_camera_slow_shutter_entry_off">Vypnuté</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 sekundy</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekundy</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekúnd</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Ukladací priestor</string>
   <string name="pref_camera_recordlocation_on">Pridať k fotografiám aktuálnu polohu</string>
   <string name="pref_camera_recordlocation_off">Nepridávať k fotografiám a videám aktuálnu polohu</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Vylepšenie</string>
   <string name="camera_menu_slow_shutter_label">Pomalá uzávierka</string>
   <string name="camera_menu_beauty_mode_label">Skrášlenie</string>
   <string name="camera_menu_colorize_label">VYFARBENIE</string>
   <string name="camera_menu_effects_label">Efekty</string>
   <string name="camera_menu_asd_label">Inteligentná scéna</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Uzávierka tlačidlom napájania</string>
   <string name="pref_camera_power_shutter_summary">Odfotiť tlačidlom napájania</string>
   <string name="pref_camera_left_handed_title">Režim pre ľavákov</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Obnovovanie na predvolený ukladací priestor</string>
   <string name="no_storage_sd">Karta SD nie je vložená alebo sa na ňu nedá zapisovať.</string>
   <string name="no_storage_usb">USB úložisko nie je vložené alebo naň nedá zapisovať.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Nie je možné pristupovať k USB úložisku.</string>
   <string name="access_storage_fail">Nie je možné pristupovať k úložisku.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Príprava USB úložiska\u2026</string>
   <string name="preparing_storage">Príprava úložiska\u2026</string>
   <string name="spaceIsLow_sd">Na vašej karte SD je nedostatok miesta.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Pokročilé</string>
   <string name="pref_section_other">Iné</string>
   <string name="msg_cancel_longshot_for_limited_memory">Nedostatok pamäte, zastavujú sa snímky!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Držte spúšť na spustenie viacnásobné snímania.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nahrávanie videa sa nedá spustiť. Používa sa mikrofón?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Snímať selfie pomocou snímača odtlačkov prstov</string>
   <string name="fingerprint_intro_pane_learn_more">Zistiť viac</string>
   <string name="fingerprint_intro_dialog_title">Spúšť pre selfie</string>
   <string name="fingerprint_intro_dialog_description">Vyhľadajte snímač odtlačkov prstov na telefóne pre jednoduché zosnímanie selfie.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Zariadenie je horúce. Fotoaparát sa čoskoro vypne.</string>
   <string name="overheated_critical">Zariadenie je príliš horúce. Fotoaparát bol dočasne vypnutý.</string>
   <string name="overheated_cooling">Fotoaparát je do ochladnutia zariadenia vypnutý.</string>

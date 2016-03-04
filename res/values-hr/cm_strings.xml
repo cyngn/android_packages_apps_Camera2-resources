@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Videozapis</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Općenito</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Veličina</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kvaliteta</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Tražilo</string>
   <string name="pref_camera_viewfinder_fullscreen">Cijeli zaslon</string>
   <string name="pref_camera_viewfinder_letterbox">Oblik pisma</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Spremi sliku u raw formatu</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Uljepšani format iskuljučuje snimanje u raw formatu</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Nula laga okidača</string>
   <string name="pref_camera_zsl_enable_summary_on">Brzo snimanje slike</string>
   <string name="pref_camera_zsl_enable_summary_alt">Brzo snimanje slika i višestruki snimak</string>
   <string name="pref_camera_zsl_enable_summary_off">Bolja kvaliteta pri slabom svjetlu</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Veličina videozapisa</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Veličina</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Široko</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapiksela</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Smanjenje zamagljenja zbog pokreta</string>
   <string name="pref_camera_scenemode_entry_aqua">Akva</string>
   <string name="pref_camera_scenemode_entry_ar">Poboljšana stvarnost</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Tekst</string>
   <string name="pref_camera_scenemode_entry_theatre">Kazalište</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Bijela ploča</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Neprekidno</string>
   <string name="pref_camera_focusmode_entry_extended">Produženo</string>
   <string name="pref_camera_focusmode_entry_facedetect">Detekcija lica</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fiksni</string>
   <string name="pref_camera_focusmode_entry_portrait">Portret</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfokus</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Isprano</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Zastarjelo toplo</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Zastarjelo hladno</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Crtić</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Bijela ploča</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Školska ploča</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Brzo uzastopno okidanje</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Isključeno</string>
   <string name="pref_camera_burst_entry_5">5 snimaka</string>
   <string name="pref_camera_burst_entry_10">10 snimaka</string>
   <string name="pref_camera_burst_entry_15">15 snimaka</string>
   <string name="pref_camera_burst_entry_20">20 snimaka</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Trajanje fokusa na dodir</string>
   <string name="pref_camera_focustime_summary">Odaberite trajanje fokusa na dodir</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Neograničeno</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Crvene oči</string>
   <string name="pref_camera_flashmode_label_redeye">CRVENE OČI</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Ljepota</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Jasna slika</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Duga ekspozicija</string>
   <string name="pref_camera_slow_shutter_delay_title">Trajanje duge ekspozicije</string>
   <string name="pref_camera_slow_shutter_entry_off">Isključeno</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">dvije sekunde</string>
   <string name="pref_camera_slow_shutter_entry_4s">četiri sekunde</string>
   <string name="pref_camera_slow_shutter_entry_8s">osam sekundi</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Pohrana</string>
   <string name="pref_camera_recordlocation_on">Označi snimke s trenutnom lokacijom</string>
   <string name="pref_camera_recordlocation_off">Nemoj označavati slike i filmove s lokacijom</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Poboljšaj</string>
   <string name="camera_menu_slow_shutter_label">Duga ekspozicija</string>
   <string name="camera_menu_beauty_mode_label">Uljepšaj</string>
   <string name="camera_menu_colorize_label">Dodaj boje</string>
   <string name="camera_menu_effects_label">Efekti</string>
   <string name="camera_menu_asd_label">Pametna scena</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Tipka za napajanje i okidač</string>
   <string name="pref_camera_power_shutter_summary">Tipka za napajanje okida</string>
   <string name="pref_camera_left_handed_title">Ljevaci</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Vraćam na zadano mjesto za pohranu</string>
   <string name="no_storage_sd">SD kartica nije umetnuta ili nije upisiva.</string>
   <string name="no_storage_usb">USB pohrana nije umetnuta ili nije upisiva.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Nije moguće pristupiti USB pohrani.</string>
   <string name="access_storage_fail">Nije moguće pristupiti pohrani.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Priprema USB pohrane\u2026</string>
   <string name="preparing_storage">Priprema pohrane\u2026</string>
   <string name="spaceIsLow_sd">SD kartici ponestaje prostora.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Napredno</string>
   <string name="pref_section_other">Ostalo</string>
   <string name="msg_cancel_longshot_for_limited_memory">Ostalo je malo memorije, zaustavljanje snimanja!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Zadržite okidač za višestruki snimak.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nije moguće pokrenuti video snimanje. Da li se mikrofon koristi?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Napravite selfie pomoću senzora otiska</string>
   <string name="fingerprint_intro_pane_learn_more">NAUČI VIŠE</string>
   <string name="fingerprint_intro_dialog_title">Selfie okidač</string>
   <string name="fingerprint_intro_dialog_description">Nađite senzor otiska na telefonu za lako pravljenje selfija.</string>
   <string name="fingerprint_intro_dialog_button_text">U redu</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Uređaj je vruć. Kamera će se uskoro isključiti.</string>
   <string name="overheated_critical">Uređaj je previše vruć. Kamera je onemogućena.</string>
   <string name="overheated_cooling">Kamera je onemogućena dok se uređaj ne ohladi.</string>

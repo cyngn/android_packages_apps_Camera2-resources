@@ -16,15 +16,34 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">කැමරාව</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">වීඩියෝ</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">ප්‍රධාන</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">තරම</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">ගුණත්වය</string>
+  <!-- Settings screen, Viewfinder choice -->
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">දළ පින්තූරය සුරකින්න</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">ලස්සණ ප්‍රකාරය දළ ග්‍රහණය අබල කරයි</string>
+  <!-- Settings screen, ZSL enable toggle -->
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">වීඩියෝවේ තරම</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">තරම</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">චලන අවිශදතාව අඩුකිරීම</string>
   <string name="pref_camera_scenemode_entry_aqua">ලා නිල්</string>
   <string name="pref_camera_scenemode_entry_ar">ආවර්ධිත තථ්‍යතාව</string>
@@ -67,6 +86,7 @@
   <string name="pref_camera_scenemode_entry_text">පෙළ</string>
   <string name="pref_camera_scenemode_entry_theatre">රඟමඩල</string>
   <string name="pref_camera_scenemode_entry_whiteboard">සුදු ලෑල්ල</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">අඛණ්ඩ</string>
   <string name="pref_camera_focusmode_entry_extended">විස්තෘත</string>
   <string name="pref_camera_focusmode_entry_facedetect">මුහුණ හඳුනාගැනීම</string>
@@ -74,6 +94,7 @@
   <string name="pref_camera_focusmode_entry_fixed">ස්ථාවර</string>
   <string name="pref_camera_focusmode_entry_portrait">සිරස්</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">අති නාභිගත</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">සේදූ</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">මිදී උණුසුම</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">මිදී සිසිලස</string>
@@ -83,24 +104,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">කාටූනකරණය</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">සුදු ලෑල්ල</string>
   <string name="pref_camera_coloreffect_entry_blackboard">කළු ලෑල්ල</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">පිපිරුම් ප්‍රකාරය</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_burst_entry_5">දර්ශන ඛණ්ඩ 5</string>
   <string name="pref_camera_burst_entry_10">දර්ශන ඛණ්ඩ 10</string>
   <string name="pref_camera_burst_entry_15">දර්ශන ඛණ්ඩ 15</string>
   <string name="pref_camera_burst_entry_20">දර්ශන ඛණ්ඩ 20</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">අල්වා නාභිගතකිරීමේ කාලය</string>
   <string name="pref_camera_focustime_summary">අල්වා නාභිගතකිරීමට අවශ්‍ය කාලය තෝරන්න</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">තත් 5</string>
   <string name="pref_camera_focustime_entry_10">තත් 10</string>
   <string name="pref_camera_focustime_entry_15">තත් 15</string>
   <string name="pref_camera_focustime_entry_20">තත් 20</string>
   <string name="pref_camera_focustime_entry_30">තත් 30</string>
   <string name="pref_camera_focustime_entry_infinite">අනන්තයි</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">රතු ඇස</string>
   <string name="pref_camera_flashmode_label_redeye">රතු ඇස</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">ලස්සණ ප්‍රකාරය</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">පැහැදිලි පින්තූරය</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">ප්‍රමාදී ශටරය</string>
   <string name="pref_camera_slow_shutter_delay_title">ප්‍රමාදී ශටර වේගය</string>
   <string name="pref_camera_slow_shutter_entry_off">අක්‍රීයයි</string>
@@ -110,22 +139,34 @@
   <string name="pref_camera_slow_shutter_entry_2s">තත්පර 2</string>
   <string name="pref_camera_slow_shutter_entry_4s">තත්පර 4</string>
   <string name="pref_camera_slow_shutter_entry_8s">තත්පර 8</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">ආචයනය</string>
   <string name="pref_camera_recordlocation_on">වත්මන් ස්ථානය දර්ශන ඛණ්ඩ සමග ටැග් කරන්න</string>
   <string name="pref_camera_recordlocation_off">සේයා සහ වීඩියෝ ස්ථානය සමග ටැග් නොකරන්න</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">උසස් කරන්න</string>
   <string name="camera_menu_slow_shutter_label">ප්‍රමාදී ශටරය</string>
   <string name="camera_menu_beauty_mode_label">ලස්සණ කිරීම</string>
   <string name="camera_menu_colorize_label">පැහැගැන්වීම</string>
   <string name="camera_menu_effects_label">ප්‍රතිවිපාක</string>
   <string name="camera_menu_asd_label">දැකුම්කලු දර්ශනය</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">බල ශටරය</string>
   <string name="pref_camera_power_shutter_summary">බල බොත්තම සේයා ලබාගනී</string>
   <string name="pref_camera_left_handed_title">වමත්</string>
   <string name="pref_camera_left_handed_summary">වමත භාවිතයට පාලකයන් සීරුමාරු කරන්න</string>
   <string name="camera_storage_fallback">පෙරනිමි ආචයන ස්ථානයට ආපසු යමින්</string>
+  <!-- access_sd_fail is in strings.xml -->
+  <!-- preparing_sd is in strings.xml -->
   <string name="pref_camera_volume_zoom_title">ශබ්ද යතුරෙන් විශාලනය</string>
   <string name="pref_camera_volume_zoom_summary">ශබ්ද යතුරු විශාලනය පාලනය කරයි</string>
   <string name="pref_max_brightness_title">දීප්තිමත් තිරය</string>
   <string name="pref_max_brightness_summary">කැමරාව සක්‍රීය විට දීප්තිය උපරිමයට සකසන්න</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <!-- toast message for toast showing error of starting video capture -->
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

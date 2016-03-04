@@ -16,23 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="pref_camera_camera_section">Camera</string>
+  <!-- Settings screen, camera section -->
+  <string name="pref_camera_camera_section">Cameră foto</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">General</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Dimensiune</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Calitate</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Vizor</string>
   <string name="pref_camera_viewfinder_fullscreen">Pe tot ecranul</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Salvare imagine brută</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Modul de frumusețe dezactivează captura brută</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Întârziere declanșator zero</string>
   <string name="pref_camera_zsl_enable_summary_on">Captare imagine rapidă</string>
   <string name="pref_camera_zsl_enable_summary_alt">Captare imagine rapidă și fotografii în rafală</string>
   <string name="pref_camera_zsl_enable_summary_off">Calitate mai bună la lumină scăzută</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Dimensiune video</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Dimensiune</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Largă</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixeli</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Reducerea umbrei de mișcare</string>
   <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
   <string name="pref_camera_scenemode_entry_ar">Realitatea augmentată</string>
@@ -75,6 +94,7 @@
   <string name="pref_camera_scenemode_entry_text">Text</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatru</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Tablă albă</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Continuu</string>
   <string name="pref_camera_focusmode_entry_extended">Extins</string>
   <string name="pref_camera_focusmode_entry_facedetect">Detectare față</string>
@@ -82,6 +102,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fix</string>
   <string name="pref_camera_focusmode_entry_portrait">Portret</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfocală</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Desaturat</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Retro cald</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Retro rece</string>
@@ -91,24 +112,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Caricaturizare</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Tablă albă</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Tablă neagră</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Mod rafală</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Oprit</string>
   <string name="pref_camera_burst_entry_5">5 cadre</string>
   <string name="pref_camera_burst_entry_10">10 cadre</string>
   <string name="pref_camera_burst_entry_15">15 cadre</string>
   <string name="pref_camera_burst_entry_20">20 de cadre</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Durată focalizare tactilă</string>
   <string name="pref_camera_focustime_summary">Selectare durată focalizare tactilă</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Infinit</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Ochi roșii</string>
   <string name="pref_camera_flashmode_label_redeye">OCHI ROȘII</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Mod de frumusețe</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Șterge imaginea</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Obturare lentă</string>
   <string name="pref_camera_slow_shutter_delay_title">Viteză lentă de obturare</string>
   <string name="pref_camera_slow_shutter_entry_off">Oprit</string>
@@ -118,23 +147,28 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 secunde</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 secunde</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 secunde</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Spațiu de stocare</string>
   <string name="pref_camera_recordlocation_on">Marcheaza fotografii cu locația curentă</string>
   <string name="pref_camera_recordlocation_off">Nu marca fotografii și secvențe video cu locația</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Îmbunătățire</string>
   <string name="camera_menu_slow_shutter_label">Obturator lent</string>
   <string name="camera_menu_beauty_mode_label">Înfrumusețare</string>
   <string name="camera_menu_colorize_label">Colorare</string>
   <string name="camera_menu_effects_label">Efecte</string>
   <string name="camera_menu_asd_label">Scenă inteligentă</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Obturare buton de pornire</string>
   <string name="pref_camera_power_shutter_summary">Butonul de pornire captează imagine</string>
   <string name="pref_camera_left_handed_title">Stângaci</string>
   <string name="pref_camera_left_handed_summary">Ajustează controalele pentru mâna stângă</string>
   <string name="camera_storage_fallback">Revenire la locația de stocare implicită</string>
   <string name="no_storage_sd">Cardul SD nu este inserat sau nu aveți drepturi de scriere.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Nu s-a putut accesa mediul de stocare USB.</string>
   <string name="access_storage_fail">Nu s-a putut accesa mediul de stocare.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Se pregătește stocarea USB\u2026</string>
   <string name="preparing_storage">Se pregătește stocarea\u2026</string>
   <string name="spaceIsLow_sd">Cardul SD este în criză de spațiu.</string>
@@ -152,6 +186,13 @@
   <string name="pref_camera_reset_button">Restaurează</string>
   <string name="pref_section_advanced">Avansat</string>
   <string name="pref_section_other">Altele</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nu se poate începe o înregistrare video. Este microfonul în uz?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

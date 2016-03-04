@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Fotoapparat</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Allgemeng</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Gréisst</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Qualitéit</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Sucher</string>
   <string name="pref_camera_viewfinder_fullscreen">Vollschierm</string>
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Réi-Bild späicheren</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Gesiichter verschéineren desaktivéiert d\'Réiopnam</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Ouni Verzögerung ausléisen</string>
   <string name="pref_camera_zsl_enable_summary_on">Séiert Ophuele vu Biller</string>
   <string name="pref_camera_zsl_enable_summary_alt">Séier Bildopnam a Burst-Modus</string>
   <string name="pref_camera_zsl_enable_summary_off">Besser Qualitéit bei wéineg Luucht</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Videogréisst</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Gréisst</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Breet</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f Megapixel</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Reduktioun vun der Beweegungsonschäerft</string>
   <string name="pref_camera_scenemode_entry_aqua">Waasser</string>
   <string name="pref_camera_scenemode_entry_ar">Erweidert Realitéit</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Text</string>
   <string name="pref_camera_scenemode_entry_theatre">Theater</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Wäiss Tafel</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Kontinuéierlech</string>
   <string name="pref_camera_focusmode_entry_extended">Erweidert</string>
   <string name="pref_camera_focusmode_entry_facedetect">Gesiichtererkennung</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fixéiert</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrait</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfokal</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Ausgewäsch</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Retro (waarm)</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Retro (kal)</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Cartoon-aarteg</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Wäiss Tafel</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Tafel</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Seriebildmodus</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Aus</string>
   <string name="pref_camera_burst_entry_5">5 Schëss</string>
   <string name="pref_camera_burst_entry_10">10 Schëss</string>
   <string name="pref_camera_burst_entry_15">15 Schëss</string>
   <string name="pref_camera_burst_entry_20">20 Schëss</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Touch-Fokus-Dauer</string>
   <string name="pref_camera_focustime_summary">Fokusséierdauer festleeën</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Onendlech</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Rout Aen</string>
   <string name="pref_camera_flashmode_label_redeye">ROUT AEN</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Gesiichter verschéineren</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Kloert Bild</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Laang Beliichtungszäit</string>
   <string name="pref_camera_slow_shutter_delay_title">Vitess vun der laanger Beliichtungszäit</string>
   <string name="pref_camera_slow_shutter_entry_off">Aus</string>
@@ -119,20 +148,25 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 Sekonnen</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 Sekonnen</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 Sekonnen</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Späicher</string>
   <string name="pref_camera_recordlocation_on">Opname mat aktuellem Standuert markéieren</string>
   <string name="pref_camera_recordlocation_off">Opnamen net mam aktuelle Standuert markéieren</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Verbesseren</string>
   <string name="camera_menu_slow_shutter_label">Laang Beliichtungszäit</string>
   <string name="camera_menu_beauty_mode_label">Verschéineren</string>
   <string name="camera_menu_colorize_label">Afierwen</string>
   <string name="camera_menu_effects_label">Effekter</string>
   <string name="camera_menu_asd_label">Schlau Szeen</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Uschaltknäppchen-Ausléiser</string>
   <string name="pref_camera_power_shutter_summary">Mam Uschaltknäppchen eng Foto ausléisen</string>
   <string name="pref_camera_left_handed_title">Lénkshänneg</string>
   <string name="pref_camera_left_handed_summary">Steierelementer fir Lénkshänner ajustéieren</string>
   <string name="camera_storage_fallback">Op d\'Standard-Späicherplaz zrécksetzen</string>
+  <!-- access_sd_fail is in strings.xml -->
+  <!-- preparing_sd is in strings.xml -->
   <string name="pref_camera_volume_zoom_title">Lautstäerkt-Zoom</string>
   <string name="pref_camera_volume_zoom_summary">Mat de Lautstäerktknäppercher zoomen</string>
   <string name="pref_max_brightness_title">Helle Schierm</string>
@@ -141,8 +175,15 @@
   <string name="pref_camera_reset_button">Erëmhierstellen</string>
   <string name="pref_section_advanced">Erweidert</string>
   <string name="pref_section_other">Aner</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <!-- toast message for toast showing error of starting video capture -->
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_learn_more">MÉI GEWUER GINN</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Chroma-Blëtz</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_cooling">De Fotoapparat gouf desaktivéiert bis den Apparat ofgekillt ass.</string>
 </resources>

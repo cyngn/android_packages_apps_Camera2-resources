@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">کامێرا</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">ڤیدیۆ</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">گشتی</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">قه‌باره‌</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">کوالێتی</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">دۆزرپیشاندەر</string>
   <string name="pref_camera_viewfinder_fullscreen">تەواوی لاپەڕە</string>
   <string name="pref_camera_viewfinder_letterbox">سندوقی نامە</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">پاشه‌که‌وتی وێنه‌ی کوالێتبه‌رز</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">باری جوانی کارناکات بۆ کوالێتبه‌رز</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">نیشانەنوێنی سفر داخرەر</string>
   <string name="pref_camera_zsl_enable_summary_on">گرتنی وێنەی خێرا</string>
   <string name="pref_camera_zsl_enable_summary_alt">گرتنی وێنەی خێرا و وێنەی لەبان یەکتر</string>
   <string name="pref_camera_zsl_enable_summary_off">باشتر لە کەمتر جۆری ڕۆشنای</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">ئاستی ڤیدیۆ</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">قه‌باره‌</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">پان</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f مێگاپێکسڵەکان</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">که‌مکردنه‌وه‌ی ته‌ڵخبوونی جوڵه‌</string>
   <string name="pref_camera_scenemode_entry_aqua">ئه‌کوا</string>
   <string name="pref_camera_scenemode_entry_ar">قه‌باره‌یه‌کی گه‌وره‌تری ڕاستی</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">ده‌ق</string>
   <string name="pref_camera_scenemode_entry_theatre">شانۆ</string>
   <string name="pref_camera_scenemode_entry_whiteboard">ته‌خته‌ی وایتبۆرد</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">به‌رده‌وامبوونه‌کان</string>
   <string name="pref_camera_focusmode_entry_extended">فراوانکردن</string>
   <string name="pref_camera_focusmode_entry_facedetect">پشکنینی ڕوو</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">چاره‌سه‌رکراو</string>
   <string name="pref_camera_focusmode_entry_portrait">وێنه‌ی تاکه‌که‌سی</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">نزیکترین</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">شتراو</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">گه‌رمایه‌کی به‌هێز</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">سه‌رمایه‌کی به‌هێز</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">کارتۆنی</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">ته‌خته‌ی وایتبۆرد</string>
   <string name="pref_camera_coloreffect_entry_blackboard">ته‌خته‌ی ڕه‌ش</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">باری ته‌قاندن</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">ناچالاکردن</string>
   <string name="pref_camera_burst_entry_5">5 گرتن</string>
   <string name="pref_camera_burst_entry_10">10 گرتن</string>
   <string name="pref_camera_burst_entry_15">15 گرتن</string>
   <string name="pref_camera_burst_entry_20">20 گرتن</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">ماوه‌ی ده‌ستلێدان بۆ سه‌رنجدان(فۆکوس)</string>
   <string name="pref_camera_focustime_summary">ده‌ستنیشانکردنی ماوه‌ی ده‌ستلێدان بۆ سه‌رنجدان(فۆکوس)</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5چرکه‌</string>
   <string name="pref_camera_focustime_entry_10">10چرکه‌</string>
   <string name="pref_camera_focustime_entry_15">15چرکه‌</string>
   <string name="pref_camera_focustime_entry_20">20چرکه‌</string>
   <string name="pref_camera_focustime_entry_30">30چرکه‌</string>
   <string name="pref_camera_focustime_entry_infinite">بێسنوور</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">چاوی سوور</string>
   <string name="pref_camera_flashmode_label_redeye">چاوی سوور</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">باری جوانکاری</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">پاککردنه‌وه‌ی وێنه‌</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">گیره‌ری خاو</string>
   <string name="pref_camera_slow_shutter_delay_title">خێرایی گیره‌ری خاو</string>
   <string name="pref_camera_slow_shutter_entry_off">ناچالاکردن</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 چرکه‌</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 چرکه‌</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 چرکه‌</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">بیرگەی</string>
   <string name="pref_camera_recordlocation_on">پێشنیاری گرتنه‌کان له‌گه‌ڵ شوێنی ئێستات</string>
   <string name="pref_camera_recordlocation_off">ده‌ستنیشانکردن کارنه‌کات له‌گه‌ڵ شوێنی ئێستات</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">کوالێتی به‌رزتر</string>
   <string name="camera_menu_slow_shutter_label">گیره‌ری خاو</string>
   <string name="camera_menu_beauty_mode_label">جوانکاری</string>
   <string name="camera_menu_colorize_label">ڕه‌نگا و ڕه‌نگ</string>
   <string name="camera_menu_effects_label">کاریگه‌رییه‌کان</string>
   <string name="camera_menu_asd_label">دیمه‌نی به‌هێز</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">هێزی وێنه‌ گیره‌ر</string>
   <string name="pref_camera_power_shutter_summary">دوگمه‌ی پاوه‌ر و گرتنی وێنه‌</string>
   <string name="pref_camera_left_handed_title">چه‌پله‌ر</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">گه‌ڕانه‌وه‌ بۆ شوێنی سه‌ره‌تایی پاشه‌که‌وتکردن</string>
   <string name="no_storage_sd">بیرگەی دەرەکی تیانەکراوە یان نەخوێنراوەتەوە.</string>
   <string name="no_storage_usb">بیرگەی USB تیا نەکراوە یان نایخوێنێتەوە.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">ده‌سته‌ڵات نه‌شكێنرایه‌وه‌ به‌سه‌ر بیرگه‌ی USB.</string>
   <string name="access_storage_fail">ناتوانرێت بیرگە بەکاربهێنرێت.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">ئاماده‌کردنی بیرگه‌ی USB\u٢٠٢٦</string>
   <string name="preparing_storage">ئامادەکردنی بیرگە\u2026</string>
   <string name="spaceIsLow_sd">بیرگەی دەرەکی تۆ ئێستا کاردەکات و هیچ شوێنێک نەماوە.</string>
@@ -155,6 +189,13 @@
   <string name="pref_section_advanced">پەرەسەندوو</string>
   <string name="pref_section_other">دیکە</string>
   <string name="msg_cancel_longshot_for_limited_memory">بیرگەکە کەم ئەبێتەوە، وەستانی وێنەکان!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">هەڵگرتنی داخەر بۆ وێنەگرتنی لەبان یەکتری.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ناتوانرێت دەستکرێتە تۆمارکردنی ڤیدۆی. ئایە بیستۆکەکە لەکارە?</string>
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

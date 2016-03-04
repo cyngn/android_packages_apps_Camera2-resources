@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Камера</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Видео</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Общи</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Размер</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Качество</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Визьор</string>
   <string name="pref_camera_viewfinder_fullscreen">Цял екран</string>
   <string name="pref_camera_viewfinder_letterbox">Оразмеряване</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Записване на необработено изображение</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Режим красота забранява необработено фокусиране</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Нулево забавяне на затвора</string>
   <string name="pref_camera_zsl_enable_summary_on">Бързо фокусиране</string>
   <string name="pref_camera_zsl_enable_summary_alt">Бързо фокусиране и многократно заснемане</string>
   <string name="pref_camera_zsl_enable_summary_off">По-добро качество при слаба светлина</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Размер на видеото</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Размер</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Широк</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f мегапиксела</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Намаляване на замъгляването</string>
   <string name="pref_camera_scenemode_entry_aqua">Вода</string>
   <string name="pref_camera_scenemode_entry_ar">Увеличена реалност</string>
@@ -49,7 +68,7 @@
   <string name="pref_camera_scenemode_entry_cine">Кино</string>
   <string name="pref_camera_scenemode_entry_closeup">Близък план</string>
   <string name="pref_camera_scenemode_entry_dark">Тъмно</string>
-  <string name="pref_camera_scenemode_entry_dish">рефлектор</string>
+  <string name="pref_camera_scenemode_entry_dish">Рефлектор</string>
   <string name="pref_camera_scenemode_entry_duskdawn">Здрач</string>
   <string name="pref_camera_scenemode_entry_document">Документ</string>
   <string name="pref_camera_scenemode_entry_fallcolor">Есенни цветове</string>
@@ -62,7 +81,7 @@
   <string name="pref_camera_scenemode_entry_mix_illuminant">Смесено осветление</string>
   <string name="pref_camera_scenemode_entry_mood">Настроение</string>
   <string name="pref_camera_scenemode_entry_nightportrait">Нощен портрет</string>
-  <string name="pref_camera_scenemode_entry_nightindoor">Вътре през нощта</string>
+  <string name="pref_camera_scenemode_entry_nightindoor">На закрито през нощта</string>
   <string name="pref_camera_scenemode_entry_oldfilm">Стар филм</string>
   <string name="pref_camera_scenemode_entry_pet">Домашен любимец</string>
   <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Текст</string>
   <string name="pref_camera_scenemode_entry_theatre">Театър</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Бяла дъска</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Непрекъснато</string>
   <string name="pref_camera_focusmode_entry_extended">Разширен</string>
   <string name="pref_camera_focusmode_entry_facedetect">Откриване на лицето</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Фиксиран</string>
   <string name="pref_camera_focusmode_entry_portrait">Портрет</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Хиперфокално разстояние</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Измити</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Ретро топли цветове</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Ретро студени цветове</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Комикс</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Бяла дъска</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Черна дъска</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Режим за серия снимки</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Изключено</string>
   <string name="pref_camera_burst_entry_5">5 снимки</string>
   <string name="pref_camera_burst_entry_10">10 снимки</string>
   <string name="pref_camera_burst_entry_15">15 снимки</string>
   <string name="pref_camera_burst_entry_20">20 снимки</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Продължителност на фокуса</string>
   <string name="pref_camera_focustime_summary">Изберете времетраене на фокуса</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 секунди</string>
   <string name="pref_camera_focustime_entry_10">10 секунди</string>
   <string name="pref_camera_focustime_entry_15">15 секунди</string>
   <string name="pref_camera_focustime_entry_20">20 секунди</string>
   <string name="pref_camera_focustime_entry_30">30 секунди</string>
   <string name="pref_camera_focustime_entry_infinite">Безкраен</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Червени очи</string>
   <string name="pref_camera_flashmode_label_redeye">ЧЕРВЕНИ ОЧИ</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Режим на красота</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Ясно изображение</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Забави затвора</string>
   <string name="pref_camera_slow_shutter_delay_title">Забави скороста на затвора</string>
   <string name="pref_camera_slow_shutter_entry_off">Изключено</string>
@@ -119,23 +148,29 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 секунди</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 секунди</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 секунди</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Памет</string>
   <string name="pref_camera_recordlocation_on">Маркирай снимките с текущото местоположение</string>
   <string name="pref_camera_recordlocation_off">Не маркирай снимките и видеоклиповете с местоположение</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Подобряване</string>
   <string name="camera_menu_slow_shutter_label">Забави затвора</string>
   <string name="camera_menu_beauty_mode_label">Разкрасяване</string>
   <string name="camera_menu_colorize_label">Оцветете</string>
   <string name="camera_menu_effects_label">Ефекти</string>
   <string name="camera_menu_asd_label">Интелигентна сцена</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Бутон за снимане</string>
   <string name="pref_camera_power_shutter_summary">Снимай с бутона за включване</string>
   <string name="pref_camera_left_handed_title">Режим за лява ръка</string>
   <string name="pref_camera_left_handed_summary">Настрой контролите за лява ръка</string>
   <string name="camera_storage_fallback">Връщане към мястото по подразбиране за запазване</string>
+  <string name="no_storage_sd">Не е поставена карта памет или е незаписваема.</string>
   <string name="no_storage_usb">USB хранилището не е включено или е незаписваемо.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Няма достъп до USB хранилището.</string>
   <string name="access_storage_fail">Няма достъп до хранилището.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Подготовка на USB хранилището\u2026</string>
   <string name="preparing_storage">Подготовка на хранилището\u2026</string>
   <string name="spaceIsLow_sd">Свободното пространство в картата памет е към изчерпване.</string>
@@ -154,14 +189,21 @@
   <string name="pref_section_advanced">Разширени</string>
   <string name="pref_section_other">Други</string>
   <string name="msg_cancel_longshot_for_limited_memory">Паметта е изчерпана, спиране на снимките!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Задръжте натиснат бутона за снимане за да направите серия от снимки.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не може да стартира видео запис. Ще се използва ли микрофона?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Направете селфи използвайки сензора за пръстов отпечатък</string>
   <string name="fingerprint_intro_pane_learn_more">Научете повече</string>
   <string name="fingerprint_intro_dialog_title">Заснемане на селфи</string>
   <string name="fingerprint_intro_dialog_description">Намерете сензора за пръстови отпечатъци на телефона си, за лесно заснемане на селфи.</string>
   <string name="fingerprint_intro_dialog_button_text">Добре</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Наситеност на цвета на светкавицата</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Устройството е горещо. Камерата ще се изключи скоро.</string>
   <string name="overheated_critical">Устройството е твърде горещо. Камерата е дезактивирана.</string>
   <string name="overheated_cooling">Камерата е деактевирана, докато устройството се охлади.</string>

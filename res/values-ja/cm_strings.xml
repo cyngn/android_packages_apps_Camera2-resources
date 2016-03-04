@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">カメラ</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">動画</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">全般</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">サイズ</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">画質</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">ファインダー</string>
   <string name="pref_camera_viewfinder_fullscreen">全画面</string>
   <string name="pref_camera_viewfinder_letterbox">レターボックス</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">RAW画像を保存</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">ビューティーモードはRAWキャプチャを無効にします</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">ゼロシャッターラグ</string>
   <string name="pref_camera_zsl_enable_summary_on">高速画像キャプチャ</string>
   <string name="pref_camera_zsl_enable_summary_alt">高速画像キャプチャとバースト撮影</string>
   <string name="pref_camera_zsl_enable_summary_off">弱光での画質が向上します</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">動画のサイズ</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">サイズ</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">ワイド</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">（%1$s）%2$1.1fメガピクセル</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">被写体ブレ軽減</string>
   <string name="pref_camera_scenemode_entry_aqua">アクア</string>
   <string name="pref_camera_scenemode_entry_ar">AR</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">テキスト</string>
   <string name="pref_camera_scenemode_entry_theatre">シアター</string>
   <string name="pref_camera_scenemode_entry_whiteboard">ホワイトボード</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">コンティニュアス</string>
   <string name="pref_camera_focusmode_entry_extended">拡張</string>
   <string name="pref_camera_focusmode_entry_facedetect">顔認識</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">固定</string>
   <string name="pref_camera_focusmode_entry_portrait">ポートレート</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">過焦点</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">ウォッシュ</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">暖色ビンテージ</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">寒色ビンテージ</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">マンガ風</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">ホワイトボード</string>
   <string name="pref_camera_coloreffect_entry_blackboard">黒板</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">バーストモード</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">OFF</string>
   <string name="pref_camera_burst_entry_5">5枚</string>
   <string name="pref_camera_burst_entry_10">10枚</string>
   <string name="pref_camera_burst_entry_15">15枚</string>
   <string name="pref_camera_burst_entry_20">20枚</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">タッチフォーカス継続時間</string>
   <string name="pref_camera_focustime_summary">タッチフォーカス継続時間を選択する</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5秒</string>
   <string name="pref_camera_focustime_entry_10">10秒</string>
   <string name="pref_camera_focustime_entry_15">15秒</string>
   <string name="pref_camera_focustime_entry_20">20秒</string>
   <string name="pref_camera_focustime_entry_30">30秒</string>
   <string name="pref_camera_focustime_entry_infinite">無制限</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">赤目</string>
   <string name="pref_camera_flashmode_label_redeye">赤目</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">ビューティーモード</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">クリアイメージ</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">スローシャッター</string>
   <string name="pref_camera_slow_shutter_delay_title">スローシャッタースピード</string>
   <string name="pref_camera_slow_shutter_entry_off">OFF</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2秒</string>
   <string name="pref_camera_slow_shutter_entry_4s">4秒</string>
   <string name="pref_camera_slow_shutter_entry_8s">8秒</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">ストレージ</string>
   <string name="pref_camera_recordlocation_on">ショットに現在地のタグを付ける</string>
   <string name="pref_camera_recordlocation_off">写真や動画に位置情報のタグを付けない</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">補正</string>
   <string name="camera_menu_slow_shutter_label">スローシャッター</string>
   <string name="camera_menu_beauty_mode_label">ビューティー化</string>
   <string name="camera_menu_colorize_label">カラー化</string>
   <string name="camera_menu_effects_label">効果</string>
   <string name="camera_menu_asd_label">スマートシーン</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">電源ボタンシャッター</string>
   <string name="pref_camera_power_shutter_summary">電源ボタンで写真を撮る</string>
   <string name="pref_camera_left_handed_title">左利き</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">デフォルトのストレージの場所に戻しています</string>
   <string name="no_storage_sd">SDカードが挿入されていないか、書き込み禁止になっています。</string>
   <string name="no_storage_usb">USBストレージが挿入されていないか、書き込み禁止になっています。</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">USBストレージにアクセスできませんでした。</string>
   <string name="access_storage_fail">ストレージにアクセスできませんでした。</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">USBストレージを準備中\u2026</string>
   <string name="preparing_storage">ストレージを準備中\u2026</string>
   <string name="spaceIsLow_sd">SDカードの空き容量が少なくなっています。</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">詳細</string>
   <string name="pref_section_other">その他</string>
   <string name="msg_cancel_longshot_for_limited_memory">メモリが不足しているため、撮影を停止しています。</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">シャッターを長押ししてバースト撮影をします。</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ビデオ録画を開始できません。マイクを使用していませんか？</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">指紋センサーを使って自撮りする</string>
   <string name="fingerprint_intro_pane_learn_more">もっと詳しく</string>
   <string name="fingerprint_intro_dialog_title">自撮りシャッター</string>
   <string name="fingerprint_intro_dialog_description">携帯電話の指紋センサーに指を置いて簡単に自撮りできます。</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">クロマフラッシュ</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">端末が熱くなっています。まもなくカメラは停止します。</string>
   <string name="overheated_critical">端末がとても熱くなっています。カメラは使用できなくなっています。</string>
   <string name="overheated_cooling">端末が冷却されるまでカメラは使用できません。</string>

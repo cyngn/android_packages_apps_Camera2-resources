@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Камера</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Видео</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Общие</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Размер</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Качество</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Видоискатель</string>
   <string name="pref_camera_viewfinder_fullscreen">Полноэкранный режим</string>
   <string name="pref_camera_viewfinder_letterbox">Квадрат</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Сохранять RAW-изображения</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Режим автоулучшения отключает сохранение в RAW</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Нулевая задержка затвора</string>
   <string name="pref_camera_zsl_enable_summary_on">Быстрый захват изображения</string>
-  <string name="pref_camera_zsl_enable_summary_alt">Быстрый захват изображения и серийная съёмка</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Быстрый захват изображения и фотографирование со вспышкой</string>
   <string name="pref_camera_zsl_enable_summary_off">Компенсация низкого уровня освещения</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Размер видео</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Размер</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Широкоформатный</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f МП</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Устранение разм. движения</string>
   <string name="pref_camera_scenemode_entry_aqua">Вода</string>
   <string name="pref_camera_scenemode_entry_ar">Дополненная реальность</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Текст</string>
   <string name="pref_camera_scenemode_entry_theatre">Театр</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Белая доска</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Непрерывный</string>
   <string name="pref_camera_focusmode_entry_extended">Расширенный</string>
   <string name="pref_camera_focusmode_entry_facedetect">Обнаружение лиц</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Фиксированный</string>
   <string name="pref_camera_focusmode_entry_portrait">Портрет</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Гиперфокальный</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Размытие</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Винтаж теплый</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Винтаж холодный</string>
@@ -90,26 +111,34 @@
   <string name="pref_camera_coloreffect_entry_point_green">Выделить зеленый</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Выделить красный и жёлтый</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Комикс</string>
-  <string name="pref_camera_coloreffect_entry_whiteboard">Маркерная доска</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Белая доска</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Мелованная доска</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Серийная съёмка</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Выкл.</string>
   <string name="pref_camera_burst_entry_5">5 снимков</string>
   <string name="pref_camera_burst_entry_10">10 снимков</string>
   <string name="pref_camera_burst_entry_15">15 снимков</string>
   <string name="pref_camera_burst_entry_20">20 снимков</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Фокус касанием</string>
   <string name="pref_camera_focustime_summary">Выберите длительность удержания фокуса касанием</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 секунд</string>
   <string name="pref_camera_focustime_entry_10">10 секунд</string>
   <string name="pref_camera_focustime_entry_15">15 секунд</string>
   <string name="pref_camera_focustime_entry_20">20 секунд</string>
   <string name="pref_camera_focustime_entry_30">30 секунд</string>
   <string name="pref_camera_focustime_entry_infinite">Бесконечно</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Ум. эфф. красных глаз</string>
   <string name="pref_camera_flashmode_label_redeye">УМ. ЭФФ. КРАСНЫХ ГЛАЗ</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Автоулучшение</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Чёткое изображение</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Длит. выдержка</string>
   <string name="pref_camera_slow_shutter_delay_title">Время экспозиции</string>
   <string name="pref_camera_slow_shutter_entry_off">Выкл.</string>
@@ -119,30 +148,35 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 секунды</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 секунды</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 секунд</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Хранилище</string>
   <string name="pref_camera_recordlocation_on">Прикреплять текущее местоположение к фотографиям</string>
-  <string name="pref_camera_recordlocation_off">Не прикреплять данные о местоположении к снимкам</string>
+  <string name="pref_camera_recordlocation_off">Не прикреплять данные о местоположении к фото и видео</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">УЛУЧШЕНИЕ</string>
   <string name="camera_menu_slow_shutter_label">ДЛИТ. ВЫДЕРЖКА</string>
   <string name="camera_menu_beauty_mode_label">АВТОУЛУЧШЕНИЕ</string>
   <string name="camera_menu_colorize_label">ОКРАСКА</string>
   <string name="camera_menu_effects_label">ЭФФЕКТЫ</string>
   <string name="camera_menu_asd_label">РАСПОЗН. УСЛОВИЙ СЪЕМКИ</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Съёмка кн. питания</string>
   <string name="pref_camera_power_shutter_summary">Съёмка кнопкой питания</string>
   <string name="pref_camera_left_handed_title">Режим левши</string>
   <string name="pref_camera_left_handed_summary">Отображать элементы управления слева на экране</string>
-  <string name="camera_storage_fallback">Возврат к месту сохранения по умолчанию</string>
-  <string name="no_storage_sd">SD-карта не установлена или защищена от записи.</string>
+  <string name="camera_storage_fallback">Возврат к месту хранения по умолчанию</string>
+  <string name="no_storage_sd">SD-карта не подключена или защищена от записи.</string>
   <string name="no_storage_usb">USB-накопитель не подключен или защищен от записи.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Не удалось получить доступ к USB-накопителю.</string>
   <string name="access_storage_fail">Не удалось получить доступ к накопителю.</string>
-  <string name="preparing_usb">Подготавливается USB-накопитель\u2026</string>
-  <string name="preparing_storage">Подготавливается накопитель\u2026</string>
+  <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">Подготовка USB-накопителя\u2026</string>
+  <string name="preparing_storage">Подготовка накопителя\u2026</string>
   <string name="spaceIsLow_sd">На вашей SD-карте заканчивается место.</string>
   <string name="spaceIsLow_usb">На вашем USB-накопителе заканчивается место.</string>
   <string name="spaceIsLow_storage">На вашем накопителе заканчивается место.</string>
-  <string name="alternate_storage_none">Измените настройки качества либо удалите часть изображений или других файлов.</string>
+  <string name="alternate_storage_none">Измените настройки качества либо удалите часть изображений или другие файлы.</string>
   <string name="alternate_storage_sd_card">Удалите часть изображений или других файлов либо воспользуйтесь SD-картой.</string>
   <string name="alternate_storage_usb">Удалите часть изображений или других файлов либо воспользуйтесь USB-накопителем.</string>
   <string name="pref_camera_volume_zoom_title">Масштаб. кнопками громкости</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Дополнительно</string>
   <string name="pref_section_other">Прочее</string>
   <string name="msg_cancel_longshot_for_limited_memory">Недостаточно памяти, серия снимков остановлена!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Удерживайте кнопку затвора для серийной съёмки.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не удается начать запись видео. Микрофон используется в другом приложении?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Делайте автопортреты касанием сканера отпечатков пальцев</string>
   <string name="fingerprint_intro_pane_learn_more">ПОДРОБНЕЕ</string>
   <string name="fingerprint_intro_dialog_title">Съёмка автопортретов</string>
   <string name="fingerprint_intro_dialog_description">Найдите сканер отпечатков пальцев на устройстве, чтобы делать автопортреты.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Устройство перегрелось. Камера скоро отключится.</string>
   <string name="overheated_critical">Устройство перегрелось. Камера была отключена.</string>
   <string name="overheated_cooling">Камера отключена до остывания устройства.</string>

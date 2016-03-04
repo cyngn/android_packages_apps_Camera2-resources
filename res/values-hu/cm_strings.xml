@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Videó</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Általános</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Méret</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Minőség</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Kereső</string>
   <string name="pref_camera_viewfinder_fullscreen">Teljes képernyő</string>
   <string name="pref_camera_viewfinder_letterbox">Levélláda</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Raw kép mentése</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Szépség mód letiltja a raw képet</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Zéró zárkésés</string>
   <string name="pref_camera_zsl_enable_summary_on">Gyors képrögzítés</string>
   <string name="pref_camera_zsl_enable_summary_alt">Gyors képrögzítés és burst üzemmód</string>
   <string name="pref_camera_zsl_enable_summary_off">Jobb képminőség kevés fénynél</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Videó mérete</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Méret</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Széles</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Elmosódás csökkentés</string>
   <string name="pref_camera_scenemode_entry_aqua">Víz</string>
   <string name="pref_camera_scenemode_entry_ar">Kiterjesztett valóság</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Szöveg</string>
   <string name="pref_camera_scenemode_entry_theatre">Színház</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Fehértábla</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Folyamatos</string>
   <string name="pref_camera_focusmode_entry_extended">Kiterjesztett</string>
   <string name="pref_camera_focusmode_entry_facedetect">Arcfelismerés</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Rögzített</string>
   <string name="pref_camera_focusmode_entry_portrait">Portré</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfokális</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Elmosódott</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Retro meleg</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Retro hideg</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Rajzfilm</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Fehér tábla</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Fekete tábla</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Sorozatfelvétel</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Ki</string>
   <string name="pref_camera_burst_entry_5">5 kép</string>
   <string name="pref_camera_burst_entry_10">10 kép</string>
   <string name="pref_camera_burst_entry_15">15 kép</string>
   <string name="pref_camera_burst_entry_20">20 kép</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Fókusz tartás</string>
   <string name="pref_camera_focustime_summary">Válassza ki a fókusz tartás idejét</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 mp</string>
   <string name="pref_camera_focustime_entry_10">10 mp</string>
   <string name="pref_camera_focustime_entry_15">15 mp</string>
   <string name="pref_camera_focustime_entry_20">20 mp</string>
   <string name="pref_camera_focustime_entry_30">30 mp</string>
   <string name="pref_camera_focustime_entry_infinite">Végtelen</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Vörösszem</string>
   <string name="pref_camera_flashmode_label_redeye">VÖRÖSSZEM</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Szépség</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Tiszta kép</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Hosszú záridő</string>
   <string name="pref_camera_slow_shutter_delay_title">Hosszú záridő sebessége</string>
   <string name="pref_camera_slow_shutter_entry_off">Ki</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 másodperc</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 másodperc</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 másodperc</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Tárhely</string>
   <string name="pref_camera_recordlocation_on">Felvételek megjelölése a jelenlegi pozícióval</string>
   <string name="pref_camera_recordlocation_off">Ne jelölje a felvételeket a jelenlegi pozícióval</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Kiemelés</string>
   <string name="camera_menu_slow_shutter_label">Hosszú záridő</string>
   <string name="camera_menu_beauty_mode_label">Effektek</string>
   <string name="camera_menu_colorize_label">Színezés</string>
   <string name="camera_menu_effects_label">Effektek</string>
   <string name="camera_menu_asd_label">Intelligens jelenet</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Bekapcsoló gombbal exponálás</string>
   <string name="pref_camera_power_shutter_summary">Bekapcsoló gombbal exponálás</string>
   <string name="pref_camera_left_handed_title">Balkezes</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Visszaállítás az alapértelmezett tárolóra</string>
   <string name="no_storage_sd">Az SD-kártya nem elérhető vagy nem írható.</string>
   <string name="no_storage_usb">Az USB tárhely nincs csatlakoztatva vagy nem írható.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Nem lehet elérni az USB tárhelyet.</string>
   <string name="access_storage_fail">Nem lehet elérni a tárhelyet.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">USB tárhely előkészítése\u2026</string>
   <string name="preparing_storage">Tárhely előkészítése\u2026</string>
   <string name="spaceIsLow_sd">Kevés a hely az SD-kártyán.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Haladó</string>
   <string name="pref_section_other">Egyéb</string>
   <string name="msg_cancel_longshot_for_limited_memory">Kevés a memória, állítsa le a felvételt!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Tartsa lenyomva a folyamatos kép készítéshez.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nem lehet elindítani a felvételt. Használatban van a mikrofon?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Szelfik készítése ujjlenyomat-olvasó használatával</string>
   <string name="fingerprint_intro_pane_learn_more">TUDJON MEG TÖBBET</string>
   <string name="fingerprint_intro_dialog_title">Szelfi exponáló</string>
   <string name="fingerprint_intro_dialog_description">Keresse meg az ujjlenyomat-leolvasót a telefonján, hogy könnyen készíthessen szelfiket.</string>
   <string name="fingerprint_intro_dialog_button_text">Rendben</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Készülék meleg. Kamera hamarosan leáll.</string>
   <string name="overheated_critical">Készülék túl meleg. Kamera ideiglenesen le lett tiltva.</string>
   <string name="overheated_cooling">Kamera letiltva, míg a készülék lehűl.</string>

@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Umum</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Ukuran</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kualitas</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Jendela bidik</string>
   <string name="pref_camera_viewfinder_fullscreen">Layar penuh</string>
   <string name="pref_camera_viewfinder_letterbox">Kotak surat</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Simpan gambar raw</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Modus kecantikan menonaktifkan pemotretan raw</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Bidik tanpa jeda</string>
   <string name="pref_camera_zsl_enable_summary_on">Pengambilan gambar cepat</string>
   <string name="pref_camera_zsl_enable_summary_alt">Pengambilan gambar cepat dan pengambilan rentet</string>
   <string name="pref_camera_zsl_enable_summary_off">Kualitas cahaya rendah yang lebih baik</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Ukuran Video</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Ukuran</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Lebar</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Reduksi gerakan kabur</string>
   <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
   <string name="pref_camera_scenemode_entry_ar">Perkaya realita</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Teks</string>
   <string name="pref_camera_scenemode_entry_theatre">Teater</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Papan tulis putih</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Terus-menerus</string>
   <string name="pref_camera_focusmode_entry_extended">Diperluas</string>
   <string name="pref_camera_focusmode_entry_facedetect">Deteksi wajah</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Tetap</string>
   <string name="pref_camera_focusmode_entry_portrait">Potret</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocal</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Washed</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Vintage warm</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Vintage cold</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Kartunis</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Papan tulis putih</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Papan tulis hitam</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Mode burst</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Nonaktif</string>
   <string name="pref_camera_burst_entry_5">5 bidikan</string>
   <string name="pref_camera_burst_entry_10">10 bidikan</string>
   <string name="pref_camera_burst_entry_15">15 bidikan</string>
   <string name="pref_camera_burst_entry_20">20 bidikan</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Durasi fokus sentuhan</string>
   <string name="pref_camera_focustime_summary">Pilih durasi untuk fokus sentuh</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5det</string>
   <string name="pref_camera_focustime_entry_10">10det</string>
   <string name="pref_camera_focustime_entry_15">15det</string>
   <string name="pref_camera_focustime_entry_20">20det</string>
   <string name="pref_camera_focustime_entry_30">30det</string>
   <string name="pref_camera_focustime_entry_infinite">Tak terhingga</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Mata merah</string>
   <string name="pref_camera_flashmode_label_redeye">MATA MERAH</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Mode beauty</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Gambar bersih</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Bidik lambat</string>
   <string name="pref_camera_slow_shutter_delay_title">Kecepatan bidik lambat</string>
   <string name="pref_camera_slow_shutter_entry_off">Nonaktif</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 detik</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 detik</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 detik</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Penyimpanan</string>
   <string name="pref_camera_recordlocation_on">Tag gambar dengan lokasi saat ini</string>
   <string name="pref_camera_recordlocation_off">Jangan tag foto dan video dengan lokasi</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Sempurnakan</string>
   <string name="camera_menu_slow_shutter_label">Bidik lambat</string>
   <string name="camera_menu_beauty_mode_label">Beautify</string>
   <string name="camera_menu_colorize_label">Warnai</string>
   <string name="camera_menu_effects_label">Efek</string>
   <string name="camera_menu_asd_label">Smart Scene</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Bidik dengan tombol power</string>
   <string name="pref_camera_power_shutter_summary">Tombol power mengambil foto</string>
   <string name="pref_camera_left_handed_title">Tangan kiri</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Kembali ke lokasi penyimpanan semula</string>
   <string name="no_storage_sd">Kartu SD tidak ditancap atau tidak bisa ditulisi.</string>
   <string name="no_storage_usb">Penyimpanan USB tidak ditancap atau tidak bisa ditulisi.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Tidak dapat mengakses penyimpanan USB.</string>
   <string name="access_storage_fail">Tidak dapat mengakses penyimpanan.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Mempersiapkan penyimpanan USB\u2026</string>
   <string name="preparing_storage">Mempersiapkan penyimpanan\u2026</string>
   <string name="spaceIsLow_sd">Kartu SD Anda akan kehabisan ruang.</string>
@@ -155,6 +189,13 @@
   <string name="pref_section_advanced">Tingkat lanjut</string>
   <string name="pref_section_other">Lainnya</string>
   <string name="msg_cancel_longshot_for_limited_memory">Memori habis, menghentikan pengambilan!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Tekan bidik untuk mengambil rentetan.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Tidak dapat memulai perekam video. Apakah mikrofon sedang digunakan?</string>
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

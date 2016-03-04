@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Cámara</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Vídeo</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Xeral</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamaño</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Calidade</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Visor</string>
   <string name="pref_camera_viewfinder_fullscreen">Pantalla completa</string>
   <string name="pref_camera_viewfinder_letterbox">Caixa de correo</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Gardar imaxe raw</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">O modo de beleza desactiva a captura raw</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Ningún lag de obturador</string>
   <string name="pref_camera_zsl_enable_summary_on">Captura rápida</string>
   <string name="pref_camera_zsl_enable_summary_alt">Captura rápida e disparo ráfaga</string>
   <string name="pref_camera_zsl_enable_summary_off">Mellor calidade con pouca luz</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Tamaño do vídeo</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Tamaño</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Amplitude</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapíxeles</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Redución do desenfoque</string>
   <string name="pref_camera_scenemode_entry_aqua">Auga</string>
   <string name="pref_camera_scenemode_entry_ar">Realidade aumentada</string>
@@ -71,13 +90,26 @@
   <string name="pref_camera_scenemode_entry_sports">Deportes</string>
   <string name="pref_camera_scenemode_entry_spotlight">Foco</string>
   <string name="pref_camera_scenemode_entry_steadyphoto">Foto estábel</string>
+  <!-- Settings screen, focus mode -->
+  <!-- Color effects -->
+  <!-- Settings screen, Burst mode title -->
+  <!-- Settings screen, Burst mode entries -->
+  <!-- Touch-to-focus duration settings -->
+  <!-- Settings screen, Timer mode entries -->
+  <!-- Red eye flash mode title -->
+  <!-- Beauty mode -->
+  <!-- Superresolution : Clear Image -->
+  <!-- Slow shutter modes -->
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_recordlocation_off">Non etiquetar as fotos e vídeos coa localización</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Mellorar</string>
   <string name="camera_menu_slow_shutter_label">Obturador lento</string>
   <string name="camera_menu_beauty_mode_label">Embelecer</string>
   <string name="camera_menu_colorize_label">Colorir</string>
   <string name="camera_menu_effects_label">Efectos</string>
   <string name="camera_menu_asd_label">Escena intelixente</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Disparar co botón de acendido</string>
   <string name="pref_camera_power_shutter_summary">O botón de arranque saca unha foto</string>
   <string name="pref_camera_left_handed_title">Manexo zurdo</string>
@@ -85,8 +117,10 @@
   <string name="camera_storage_fallback">Volver á localización predeterminada do almacenamento</string>
   <string name="no_storage_sd">Non hai ningunha tarxeta SD inserida ou non se pode escribir nela.</string>
   <string name="no_storage_usb">Non hai ningún dispositivo de almacenamento USB inserido ou non se pode escribir nel.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Non se puido acceder ao dispositivo de almacenamento USB.</string>
   <string name="access_storage_fail">Non se puido acceder ao dispositivo de almacenamento.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Preparando o dispositivo de almacenamento USB\u2026</string>
   <string name="preparing_storage">Preparando o dispositivo de almacenamento\u2026</string>
   <string name="spaceIsLow_sd">Estase a quedar sen espazo na tarxeta SD.</string>
@@ -105,14 +139,21 @@
   <string name="pref_section_advanced">Avanzados</string>
   <string name="pref_section_other">Outro</string>
   <string name="msg_cancel_longshot_for_limited_memory">Queda pouca batería. Ten que deixar de sacar fotos!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Prema o obturador para sacar unha ráfaga.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Non se pode comenzar a gravar. Estase a utilizar o micrófono?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Saca autorretratos co sensor de pegadas dixitais</string>
   <string name="fingerprint_intro_pane_learn_more">SABER MÁIS</string>
   <string name="fingerprint_intro_dialog_title">Obturador de autorretratos</string>
   <string name="fingerprint_intro_dialog_description">Busque o sensor de pegadas dixitais do seu teléfono para sacar autorretratos dun xeito máis doado.</string>
   <string name="fingerprint_intro_dialog_button_text">Aceptar</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">O dispositivo está quente. A cámara deterase agora.</string>
   <string name="overheated_critical">O dispositivo está moi quente. Desactivouse a cámara.</string>
   <string name="overheated_cooling">A cámara está desactivada mentres se arrefría o terminal.</string>

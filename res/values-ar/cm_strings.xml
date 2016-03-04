@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">الكاميرا</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">فيديو</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">عام</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">الحجم</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">الجودة</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Viewfinder</string>
   <string name="pref_camera_viewfinder_fullscreen">وضع ملء الشاشة</string>
   <string name="pref_camera_viewfinder_letterbox">Letterbox</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">حفظ الصورة غير المعدلة</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">وضع الجمال يعطل الإلتقاط الخام</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">المدة الانتقالية للمصراع صفر</string>
   <string name="pref_camera_zsl_enable_summary_on">التقاط الصورة بسرعة</string>
   <string name="pref_camera_zsl_enable_summary_alt">التقاط الصورة بسرعة وصور متعددة</string>
   <string name="pref_camera_zsl_enable_summary_off">جودة أفضل في الضوء المنخفض</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">حجم الفيديو</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">الحجم</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">عريض</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f ميغا بيكسل</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">خفض عدم الوضوح</string>
   <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
   <string name="pref_camera_scenemode_entry_ar">واقع بزيادة</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">نص</string>
   <string name="pref_camera_scenemode_entry_theatre">مسرح</string>
   <string name="pref_camera_scenemode_entry_whiteboard">لوح المعلومات</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">متواصل</string>
   <string name="pref_camera_focusmode_entry_extended">موسع</string>
   <string name="pref_camera_focusmode_entry_facedetect">تم الكشف عن الوجه</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">ثابت</string>
   <string name="pref_camera_focusmode_entry_portrait">صورة لوجه</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">فوق بؤري</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">مغسولة</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">كلاسيكي دافئ</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">كلاسيكي بارد</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">كرتون</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">لوح المعلومات</string>
   <string name="pref_camera_coloreffect_entry_blackboard">سبورة</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">وضع اللقطات المتدفعة</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">إيقاف</string>
   <string name="pref_camera_burst_entry_5">5 لقطات</string>
   <string name="pref_camera_burst_entry_10">10 لقطات</string>
   <string name="pref_camera_burst_entry_15">15 لقطة</string>
   <string name="pref_camera_burst_entry_20">20 لقطة</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">المس مدة التركيز</string>
   <string name="pref_camera_focustime_summary">حدد مدة اللمس للتركيز</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5ث</string>
   <string name="pref_camera_focustime_entry_10">10ث</string>
   <string name="pref_camera_focustime_entry_15">15ث</string>
   <string name="pref_camera_focustime_entry_20">20ث</string>
   <string name="pref_camera_focustime_entry_30">30ث</string>
   <string name="pref_camera_focustime_entry_infinite">لا نهائي</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">العين الحمراء</string>
   <string name="pref_camera_flashmode_label_redeye">العين الحمراء</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">وضع الجمال</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">صورة واضحة</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">مصراع بطيئ</string>
   <string name="pref_camera_slow_shutter_delay_title">سرعة مصراع بطيئة</string>
   <string name="pref_camera_slow_shutter_entry_off">إيقاف</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 ثانية</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 ثوان</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 ثوان</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">التخزين</string>
   <string name="pref_camera_recordlocation_on">وضع العلامة على اللقطات مع الموقع الحالي</string>
   <string name="pref_camera_recordlocation_off">لا تضع علامة على الصور ومقاطع الفيديو مع الموقع</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">تعزيز</string>
   <string name="camera_menu_slow_shutter_label">مصراع بطيئ</string>
   <string name="camera_menu_beauty_mode_label">تجميل</string>
   <string name="camera_menu_colorize_label">تلوين</string>
   <string name="camera_menu_effects_label">تأثيرات</string>
   <string name="camera_menu_asd_label">المشهد الذكي</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">مصراع طاقة</string>
   <string name="pref_camera_power_shutter_summary">زر الطاقة يلتقط صورة</string>
   <string name="pref_camera_left_handed_title">استخدام اليد اليسرى</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">العودة إلى موقع التخزين الافتراضي</string>
   <string name="no_storage_sd">شريحة SD غير مدرجة أو غير قابل للكتابة عليها.</string>
   <string name="no_storage_usb">وحدة تخزين USB غير مدرجة أو غير قابل للكتابة عليها.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">لا يمكن الوصول إلى وحدة تخزين USB.</string>
   <string name="access_storage_fail">لا يمكن الوصول إلى التخزين.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">جاري إعداد وحدة تخزين USB\u2026</string>
   <string name="preparing_storage">جاري إعداد وحدة التخزين</string>
   <string name="spaceIsLow_sd">الحيز المتاح على بطاقة SD أوشك على النفاذ. </string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">متقدم</string>
   <string name="pref_section_other">أخرى</string>
   <string name="msg_cancel_longshot_for_limited_memory">الذاكرة تنخفض، مما يترتب عليه وقف التقاط الصور!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">استمر في فتح المصراع لاالتقاط صورة متعددة</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">لا يمكن بدء تسجيل فيديو. هل الميكروفون قيد الاستخدام؟</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">التقاط السيلفي باستخدام مستشعر البصمة</string>
   <string name="fingerprint_intro_pane_learn_more">تعرف على المزيد</string>
   <string name="fingerprint_intro_dialog_title">مصراع السيلفي</string>
   <string name="fingerprint_intro_dialog_description">تحديد موقع مستشعر البصمة على هاتفك لالتقاط السيلفي بسهولة.</string>
   <string name="fingerprint_intro_dialog_button_text">موافق</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">درجة حرارة الجهاز عالية. الكاميرا ستتوقف قريباً.</string>
   <string name="overheated_critical">درجة حرارة الجهاز عالية للغاية. تم تعطيل الكاميرا.</string>
   <string name="overheated_cooling">الكاميرا معطلة بينما يتم تبريد درجة حرارة الجهاز.</string>

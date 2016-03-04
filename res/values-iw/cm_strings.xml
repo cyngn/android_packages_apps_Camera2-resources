@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">מצלמה</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">וידאו</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">כללי</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">גודל</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">איכות</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">עינית</string>
   <string name="pref_camera_viewfinder_fullscreen">מסך מלא</string>
   <string name="pref_camera_viewfinder_letterbox">תיבה</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">שמור תמונה נקייה</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">מצב יופי מבטל לכידת תמונה נקייה</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">ללא עיכוב תריס</string>
   <string name="pref_camera_zsl_enable_summary_on">לכידת תמונה מהירה</string>
   <string name="pref_camera_zsl_enable_summary_alt">לכידת תמונה מהירה וצילום רצף תמונות</string>
   <string name="pref_camera_zsl_enable_summary_off">איכות צילום טובה יותר באור נמוך</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">גודל וידאו</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">גודל</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">רחב</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f מגה-פיקסלים</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">הפחתת טשטוש תנועה</string>
   <string name="pref_camera_scenemode_entry_aqua">אקווה</string>
   <string name="pref_camera_scenemode_entry_ar">מציאות מוגברת</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">טקסט</string>
   <string name="pref_camera_scenemode_entry_theatre">תיאטרון</string>
   <string name="pref_camera_scenemode_entry_whiteboard">לוח ציור</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">רציף</string>
   <string name="pref_camera_focusmode_entry_extended">מורחב</string>
   <string name="pref_camera_focusmode_entry_facedetect">זיהוי פנים</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">קבוע</string>
   <string name="pref_camera_focusmode_entry_portrait">דיוקן</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">מיקוד יתר</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">שטוף</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">וינטאיג\' חם</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">וינטאיג\' קר</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">מונפש</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">לוח ציור</string>
   <string name="pref_camera_coloreffect_entry_blackboard">לוח כיתה</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">מצב מתפרץ</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">כבוי</string>
   <string name="pref_camera_burst_entry_5">5 צילומים</string>
   <string name="pref_camera_burst_entry_10">10 צילומים</string>
   <string name="pref_camera_burst_entry_15">15 צילומים</string>
   <string name="pref_camera_burst_entry_20">20 צילומים</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">משך פוקוס</string>
   <string name="pref_camera_focustime_summary">בחר משך פוקוס</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5ש</string>
   <string name="pref_camera_focustime_entry_10">10 שנ\'</string>
   <string name="pref_camera_focustime_entry_15">15 שנ\'</string>
   <string name="pref_camera_focustime_entry_20">20 שנ\'</string>
   <string name="pref_camera_focustime_entry_30">30 שנ\'</string>
   <string name="pref_camera_focustime_entry_infinite">אינסופי</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">עיניים אדומות</string>
   <string name="pref_camera_flashmode_label_redeye">עיניים אדומות</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">מצב יופי</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">נקה תמונה</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">תריס איטי</string>
   <string name="pref_camera_slow_shutter_delay_title">האט מהירות צמצם</string>
   <string name="pref_camera_slow_shutter_entry_off">כבוי</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 שניות</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 שניות</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 שניות</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">אחסון</string>
   <string name="pref_camera_recordlocation_on">תייג תמונות עם המיקום הנוכחי</string>
   <string name="pref_camera_recordlocation_off">אל תתייג תמונות וסרטונים עם מיקום</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">שפר</string>
   <string name="camera_menu_slow_shutter_label">צמצם איטי</string>
   <string name="camera_menu_beauty_mode_label">יפייף</string>
   <string name="camera_menu_colorize_label">צבעוני</string>
   <string name="camera_menu_effects_label">אפקטים</string>
   <string name="camera_menu_asd_label">סצנה חכמה</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">לחצן צילום</string>
   <string name="pref_camera_power_shutter_summary">כפתור כיבוי מצלם תמונה</string>
   <string name="pref_camera_left_handed_title">שמאלי</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">מחזיר למיקום אחסון ברירת מחדל</string>
   <string name="no_storage_sd">לא הוכנס כרטיס זיכרון, או שהוא נעול לשינויים.</string>
   <string name="no_storage_usb">לא הוכנס אחסון USB, או שהוא נעול לשינויים.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">לא ניתן לגשת לאחסון ה-USB.</string>
   <string name="access_storage_fail">לא ניתן לגשת לאחסון.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">מכין אחסון USB\u2026</string>
   <string name="preparing_storage">מכין אחסון\u2026</string>
   <string name="spaceIsLow_sd">המקום בכרטיס הזיכרון שלך עומד להיגמר.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">מתקדם</string>
   <string name="pref_section_other">אחר</string>
   <string name="msg_cancel_longshot_for_limited_memory">נשאר מעט זיכרון פנוי, עוצר צילום!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">החזק את הצמצם כדי לקחת רצף תמונות.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">אין אפשרות להתחיל הקלטת וידאו. האם המיקרופון נמצא בשימוש?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">צילום סלפי באמצעות סורק טביעות האצבע</string>
   <string name="fingerprint_intro_pane_learn_more">למד עוד</string>
   <string name="fingerprint_intro_dialog_title">צילום סלפי</string>
   <string name="fingerprint_intro_dialog_description">אתרו את מיקום סורק טביעות האצבע במכשירכם כדי לצלם תמונות סלפי בקלות.</string>
   <string name="fingerprint_intro_dialog_button_text">אישור</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">המכשיר חם. המצלמה תיעצר בקרוב.</string>
   <string name="overheated_critical">המכשיר חם מדי. המצלמה הושבתה.</string>
   <string name="overheated_cooling">המצלמה מושבתת בזמן שהמכשיר מתקרר.</string>
