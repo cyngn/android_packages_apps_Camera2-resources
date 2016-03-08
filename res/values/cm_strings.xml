@@ -251,13 +251,6 @@
     <!-- toast message for toast showing error of starting video capture -->
     <string name="cannot_start_video_toast">Can\'t start a video recording. Is microphone in use?</string>
 
-    <!-- Fingerprint Sensor Image Capture -->
-    <string name="fingerprint_intro_pane_description">Take selfies using the fingerprint sensor</string>
-    <string name="fingerprint_intro_pane_learn_more">LEARN MORE</string>
-    <string name="fingerprint_intro_dialog_title">Selfie shutter</string>
-    <string name="fingerprint_intro_dialog_description">Locate the fingerprint sensor on your phone to easily take selfies.</string>
-    <string name="fingerprint_intro_dialog_button_text">OK</string>
-
     <!-- Chromaflash -->
     <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
 
@@ -267,8 +260,21 @@
     <!-- Panorama -->
     <string name="pano_preview_size" translatable="false"></string>
 
+    <!-- Liveshot -->
+    <string name="max_video_snapshot_size" translatable="false"></string>
+
     <!-- Thermal warnings -->
     <string name="overheated_warning">Device is hot. Camera will stop soon.</string>
     <string name="overheated_critical">Device is too hot. Camera has been disabled.</string>
     <string name="overheated_cooling">Camera is disabled while device cools.</string>
+
+    <!-- Permissions -->
+    <string name="permission_missing">The camera application cannot run because it has not been granted permission.</string>
+    <string name="permission_camera"><b>Camera</b> permission is required to take pictures.</string>
+    <string name="permission_storage"><b>Storage</b> permission is required to save and view photos.</string>
+    <string name="permission_microphone"><b>Microphone</b> permission is required to record video.</string>
+    <string name="permission_call_to_action">Go to <b>Settings</b>, and tap <b>Permissions</b> to grant permission.</string>
+    <string name="permission_location_denied">You must grant Location permission to this app if you want to tag photos with location.</string>
+
+    <string name="no_video_trim">No app available to trim video.</string>
 </resources>
