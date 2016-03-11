@@ -269,7 +269,7 @@
     <string name="overheated_cooling">Camera is disabled while device cools.</string>
 
     <!-- Permissions -->
-    <string name="permission_missing">The camera application cannot run because it has not been granted permission.</string>
+    <string name="permission_missing">The camera app cannot run because it has not been granted permission.</string>
     <string name="permission_camera"><b>Camera</b> permission is required to take pictures.</string>
     <string name="permission_storage"><b>Storage</b> permission is required to save and view photos.</string>
     <string name="permission_microphone"><b>Microphone</b> permission is required to record video.</string>
