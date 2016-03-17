@@ -193,18 +193,14 @@
   <string name="hold_for_burst">استمر في فتح المصراع لاالتقاط صورة متعددة</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">لا يمكن بدء تسجيل فيديو. هل الميكروفون قيد الاستخدام؟</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">التقاط السيلفي باستخدام مستشعر البصمة</string>
-  <string name="fingerprint_intro_pane_learn_more">تعرف على المزيد</string>
-  <string name="fingerprint_intro_dialog_title">مصراع السيلفي</string>
-  <string name="fingerprint_intro_dialog_description">تحديد موقع مستشعر البصمة على هاتفك لالتقاط السيلفي بسهولة.</string>
-  <string name="fingerprint_intro_dialog_button_text">موافق</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">درجة حرارة الجهاز عالية. الكاميرا ستتوقف قريباً.</string>
   <string name="overheated_critical">درجة حرارة الجهاز عالية للغاية. تم تعطيل الكاميرا.</string>
   <string name="overheated_cooling">الكاميرا معطلة بينما يتم تبريد درجة حرارة الجهاز.</string>
+  <!-- Permissions -->
 </resources>

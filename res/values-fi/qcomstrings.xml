@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Hidastuskuvaus 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Hidastuskuvaus 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Hidastuskuvaus 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Hidastuskuvaus 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Suurnopeuskuvaus 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Suurnopeuskuvaus 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Suurnopeuskuvaus 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Suurnopeuskuvaus 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Denoise-tila</string>

@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Κρατήστε πατημένο το κλείστρο για πολλαπλές λήψεις.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Δεν είναι δυνατή η εγγραφή βίντεο. Είναι σε χρήση το μικρόφωνο;</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Λήψη selfie χρησιμοποιώντας τον αισθητήρα δακτυλικών αποτυπωμάτων</string>
-  <string name="fingerprint_intro_pane_learn_more">ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ</string>
-  <string name="fingerprint_intro_dialog_title">Κλείστρο selfie</string>
-  <string name="fingerprint_intro_dialog_description">Εντοπίστε τον αισθητήρα δακτυλικών αποτυπωμάτων στο τηλέφωνό σας για εύκολη λήψη selfie.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Η συσκευή είναι ζεστή. Η φωτογραφική μηχανή θα σταματήσει σύντομα.</string>
   <string name="overheated_critical">Η συσκευή είναι πολύ ζεστή. Η φωτογραφική μηχανή έχει απενεργοποιηθεί.</string>
   <string name="overheated_cooling">Η φωτογραφική μηχανή είναι απενεργοποιημένη μέχρι να κρυώσει η συσκευή.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Η φωτογραφική μηχανή δεν μπορεί να τρέξει επειδή δεν έχει χορηγηθεί τα απαιτούμενα δικαιώματα.</string>
+  <string name="permission_camera">Το δικαίωμα <b>Φωτογραφικής μηχανής</b> απαιτείται για τη λήψη φωτογραφιών.</string>
+  <string name="permission_storage">Το δικαίωμα <b>Αποθ. χώρου</b> απαιτείται για την αποθήκευση και προβολή φωτογραφιών.</string>
+  <string name="permission_microphone">Το δικαίωμα <b>Μικροφώνου</b> απαιτείται για την εγγραφή βίντεο.</string>
+  <string name="permission_call_to_action">Μεταβείτε στις <b>Ρυθμίσεις</b> και πατήστε <b>Δικαιώματα</b> για να εκχωρήσετε τα δικαιώματα.</string>
+  <string name="permission_location_denied">Πρέπει να παραχωρήσετε δικαίωμα πρόσβασης τοποθεσίας σε αυτή την εφαρμογή εάν θέλετε να επισημάνετε τις φωτογραφίες σας με την τοποθεσία.</string>
+  <string name="no_video_trim">Δεν υπάρχει διαθέσιμη εφαρμογή για περικοπή βίντεο.</string>
 </resources>

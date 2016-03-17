@@ -193,9 +193,10 @@
   <string name="hold_for_burst">هەڵگرتنی داخەر بۆ وێنەگرتنی لەبان یەکتری.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ناتوانرێت دەستکرێتە تۆمارکردنی ڤیدۆی. ئایە بیستۆکەکە لەکارە?</string>
-  <!-- Fingerprint Sensor Image Capture -->
   <!-- Chromaflash -->
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
 </resources>

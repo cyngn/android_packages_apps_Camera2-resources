@@ -193,15 +193,11 @@
   <string name="hold_for_burst">按住快門以連拍。</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">無法開始錄影。您是否正在使用麥克風？</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">利用指紋感應器自拍</string>
-  <string name="fingerprint_intro_pane_learn_more">瞭解更多</string>
-  <string name="fingerprint_intro_dialog_title">自拍快門</string>
-  <string name="fingerprint_intro_dialog_description">在您的手機找到指紋感應器，輕鬆自拍。</string>
-  <string name="fingerprint_intro_dialog_button_text">確定</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
 </resources>

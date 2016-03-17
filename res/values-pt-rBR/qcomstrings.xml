@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Câmera lenta 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Câmera lenta FPS 90</string>
   <string name="pref_camera_hfr_entry_4x">Câmera lenta 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Câmera lenta 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Alta velocidade 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Alta velocidade 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Alta velocidade 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Alta velocidade de 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Reduzir ruído</string>

@@ -193,18 +193,14 @@
   <string name="hold_for_burst">กดชัตเตอร์ค้างเพื่อถ่ายต่อเนื่อง</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ไม่สามารถเริ่มถ่ายวิดีโอได้ มีการใช้งานไมโครโฟนอยู่หรือไม่</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">ถ่ายภาพ selfie โดยใช้การสแกนลายนิ้วมือ</string>
-  <string name="fingerprint_intro_pane_learn_more">เรียนรู้เพิ่มเติม</string>
-  <string name="fingerprint_intro_dialog_title">ชัตเตอร์ selfie</string>
-  <string name="fingerprint_intro_dialog_description">ค้นหาเครื่องสแกนลายนิ้วมือบนโทรศัพท์เพื่อถ่ายภาพ selfie ได้โดยง่าย</string>
-  <string name="fingerprint_intro_dialog_button_text">ตกลง</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">อุปกรณ์ร้อน กล้องจะหยุดทำงานในไม่ช้า</string>
   <string name="overheated_critical">อุปกรณ์ร้อนเกินไป กล้องได้ถูกปิดใช้งาน</string>
   <string name="overheated_cooling">กล้องจะถูกปิดใช้งานขณะอุปกรณ์ลดอุณหภูมิลง</string>
+  <!-- Permissions -->
 </resources>

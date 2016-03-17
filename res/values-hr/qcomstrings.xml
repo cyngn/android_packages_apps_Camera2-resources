@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Usporeni snimak 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Usporeni snimak 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Usporeni snimak 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Usporeni snimak 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Visoka brzina 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">VisokA brzinA 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Visoka brzina 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Visoka brzina 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Uklanjanje šuma</string>

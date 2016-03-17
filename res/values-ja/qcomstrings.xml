@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">スローモーション 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">スローモーション 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">スローモーション 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">スローモーション 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">ハイスピード 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">ハイスピード 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">ハイスピード 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">ハイスピード 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">ノイズ除去</string>

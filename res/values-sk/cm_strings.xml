@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Držte spúšť na spustenie viacnásobné snímania.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nahrávanie videa sa nedá spustiť. Používa sa mikrofón?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Snímať selfie pomocou snímača odtlačkov prstov</string>
-  <string name="fingerprint_intro_pane_learn_more">Zistiť viac</string>
-  <string name="fingerprint_intro_dialog_title">Spúšť pre selfie</string>
-  <string name="fingerprint_intro_dialog_description">Vyhľadajte snímač odtlačkov prstov na telefóne pre jednoduché zosnímanie selfie.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Zariadenie je horúce. Fotoaparát sa čoskoro vypne.</string>
   <string name="overheated_critical">Zariadenie je príliš horúce. Fotoaparát bol dočasne vypnutý.</string>
   <string name="overheated_cooling">Fotoaparát je do ochladnutia zariadenia vypnutý.</string>
+  <!-- Permissions -->
 </resources>

@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Pridržite sprožilec, da posnamete zaporedje slik.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Snemanje videoposnetka ni mogoče začeti. Ali je mikrofon v uporabi?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Posnemite samoposnetke z uporabo tipala prstnih odtisov</string>
-  <string name="fingerprint_intro_pane_learn_more">VEČ O TEM</string>
-  <string name="fingerprint_intro_dialog_title">Sprožilec za samoposnetke</string>
-  <string name="fingerprint_intro_dialog_description">Poiščite tipalo prstnih odtisov na svojem telefonu za enostavno fotografiranje samoposnetkov.</string>
-  <string name="fingerprint_intro_dialog_button_text">V redu</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Naprava je vroča. Fotoaparat se bo kmalu ustavil.</string>
   <string name="overheated_critical">Naprava je prevroča. Fotoaparat je bil onemogočen.</string>
   <string name="overheated_cooling">Fotoaparat je bil onemogočen, medtem ko se naprava hladi.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Fotoaparat ne deluje, ker nima odobrenih dovoljenj.</string>
+  <string name="permission_camera">Za slikanje je potrebno dovoljenje za <b>Fotoaparat</b>.</string>
+  <string name="permission_storage">Za shranjevanje in ogled fotografij je potrebno dovoljenje <b>Prostora za shranjevanje</b>.</string>
+  <string name="permission_microphone">Za snemanje videoposnetka je potrebno dovoljenje za <b>Mikrofon</b>.</string>
+  <string name="permission_call_to_action">Pojdite v <b>Nastavitve</b> in tapnite <b>Dovoljenja</b> za odobritev dovoljenja.</string>
+  <string name="permission_location_denied">Če želite fotografije označiti z lokacijo, morate tej aplikaciji odobriti dovoljenje za lokacijo.</string>
+  <string name="no_video_trim">Ni na voljo aplikacij za obrezovanje videoposnetkov.</string>
 </resources>

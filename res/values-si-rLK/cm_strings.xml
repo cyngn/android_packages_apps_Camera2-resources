@@ -164,9 +164,10 @@
   <string name="pref_max_brightness_summary">කැමරාව සක්‍රීය විට දීප්තිය උපරිමයට සකසන්න</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <!-- toast message for toast showing error of starting video capture -->
-  <!-- Fingerprint Sensor Image Capture -->
   <!-- Chromaflash -->
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
 </resources>

@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Mantén pulsado el obturador para tomar varias fotos.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">No se puede empezar la grabación. ¿Se está usando el micrófono?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Toma selfies usando el sensor de huella digital</string>
-  <string name="fingerprint_intro_pane_learn_more">LEE MÁS</string>
-  <string name="fingerprint_intro_dialog_title">Obturador de Selfies</string>
-  <string name="fingerprint_intro_dialog_description">Ubique el sensor de huella digital en el teléfono para tomar selfies fácilmente.</string>
-  <string name="fingerprint_intro_dialog_button_text">ACEPTAR</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">El dispositivo está caliente. La cámara se detendrá ahora.</string>
   <string name="overheated_critical">El dispositivo está muy caliente. La cámara ha sido desactivada.</string>
   <string name="overheated_cooling">La cámara está desactivada mientras se enfría el dispositivo.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">La cámara no se puede ejecutar porque no se le han concedido permisos.</string>
+  <string name="permission_camera">Para tomar fotos es necesario dar permisos a la <b>cámara</b>.</string>
+  <string name="permission_storage">Es necesario el permiso de <b>almacenamiento de información</b> para guardar y ver fotos.</string>
+  <string name="permission_microphone">Es necesario el permiso de <b>micrófono</b> para grabar vídeo.</string>
+  <string name="permission_call_to_action">Ve a <b>Ajustes</b> y pulsa <b>Permisos</b> para otorgarlos.</string>
+  <string name="permission_location_denied">Si quieres tomar fotos con ubicación, debes conceder permiso de ubicación a esta aplicación.</string>
+  <string name="no_video_trim">No hay una aplicación disponible para recortar vídeo.</string>
 </resources>

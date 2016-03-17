@@ -84,15 +84,20 @@
   <string name="pref_camera_facedetection_title">چىراي بايقاش</string>
   <!-- Default redeye reduction setting. -->
   <!-- The message is shown in toast when the app encounters an unsupported selection for HFR/HSR mode -->
+  <string name="error_app_unsupported_hfr_selection">DIS ۋە TimeLapse ئاستا ھەرىكەت\تىز ھەرىكەتنى قوللىمايدۇ</string>
   <!-- The message is shown in dialog when the app
          encounters an unsupported resolution for HSR mode -->
+  <string name="error_app_unsupported_hsr">تاللانغان ئېنىقلىق تىز سۈرئەتلىك سىننى قوللىمايدۇ</string>
   <!-- Settings screen, Select Redeye Reduction -->
   <string name="pref_camera_redeyereduction_title">قىزىل كۆز ئوڭشاش</string>
   <!-- Settings menu, redeye reduction choices -->
   <string name="pref_camera_redeyereduction_entry_enable">ئوچۇق</string>
   <string name="pref_camera_redeyereduction_entry_disable">تاقاق</string>
   <!-- The message is shown in dialog when the app encounters an unsupported resolution for HFR mode -->
+  <string name="error_app_unsupported_hfr">تاللانغان ئېنىقلىق ئاستا سۈرئەتلىك سىننى قوللىمايدۇ</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video codec for HFR mode -->
+  <string name="error_app_unsupported_hfr_codec">ئاستا ھەرىكەت قوزغىتىلغاندا، پەقەت H.264 فورماتىدىكى سىن كودىنىلا قوللايدۇ</string>
+  <string name="error_app_unsupported_hsr_codec">تىز ھەرىكەت قوزغىتىلغاندا، پەقەت H.264 فورماتىدىكى سىن كودىنىلا قوللايدۇ</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video resolution-->
   <string name="error_app_unsupported">سىن كودلاش نىسبىتى بۇ خىل كودلاش تىپىنى قوللىمايدۇ</string>
   <!-- Settings screen, AE bracketing and HDR location dialog choices -->
@@ -102,8 +107,17 @@
   <string name="pref_camera_ae_bracket_hdr_entry_off">تاقاق</string>
   <!-- Default hfr setting. Do not translate. -->
   <!-- Settings screen, Select hfr title -->
+  <string name="pref_camera_hfr_title">ئاستا ھەرىكەت</string>
+  <string name="pref_camera_hsr_title">تىز ھەرىكەت</string>
+  <string name="pref_camera_hsr_hfr_title">تىز ھەرىكەت\ئاستا ھەرىكەت</string>
   <!-- Settings screen, hfr radio button choices -->
   <string name="pref_camera_hfr_entry_off">تاقاق</string>
+  <string name="pref_camera_hfr_entry_2x">60 FPS ئاستا ھەرىكەت</string>
+  <string name="pref_camera_hfr_entry_3x">90 FPS ئاستا ھەرىكەت</string>
+  <string name="pref_camera_hfr_entry_4x">120 FPS ئاستا ھەرىكەت</string>
+  <string name="pref_camera_hfr_entry_hsr_60">60 FPS يوقىرى سۈرئەت</string>
+  <string name="pref_camera_hfr_entry_hsr_90">90 FPS يوقىرى سۈرئەت</string>
+  <string name="pref_camera_hfr_entry_hsr_120">120 FPS يوقىرى سۈرئەت</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">شاۋقۇن پەسەيتىش</string>

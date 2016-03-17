@@ -193,18 +193,14 @@
   <string name="hold_for_burst">ಬರ್ಸ್ಟ್ ಸೆರೆಹಿಡಿಯಲು ಷಟರ್ ಒತ್ತಿ ಹಿಡಿಯಿರಿ.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ವೀಡಿಯೋ ರಿಕಾರ್ಡಿಂಗ್ ಆರಂಭಿಸಲು ಆಗುತ್ತಿಲ್ಲ. ಧ್ವನಿಗ್ರಾಹಕ ಬಳಕೆಯಲ್ಲಿದೆಯೇ?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಉಪಯೋಗಿಸಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆಯಿರಿ</string>
-  <string name="fingerprint_intro_pane_learn_more">ಮತ್ತಷ್ಟು ತಿಳಿಯಿರಿ</string>
-  <string name="fingerprint_intro_dialog_title">ಸೆಲ್ಫೀ ಷಟರ್</string>
-  <string name="fingerprint_intro_dialog_description">ಸುಲಭವಾಗಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ನಿಮ್ಮ ಫೋನಿನಲ್ಲಿರುವ ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಗುರುತಿಸಿ.</string>
-  <string name="fingerprint_intro_dialog_button_text">ಆಯ್ತು</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ಕ್ರೋಮಾಫ್ಲ್ಯಾಶ್</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">ಸಾಧನವು ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾ ಶೀಘ್ರದಲ್ಲಿ ನಿಲ್ಲಲಿದೆ.</string>
   <string name="overheated_critical">ಸಾಧನವು ಬಹಳಾ ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
   <string name="overheated_cooling">ಸಾಧನವು ತಣ್ಣಗಾಗುವವರೆಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
+  <!-- Permissions -->
 </resources>

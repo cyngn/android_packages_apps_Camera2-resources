@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Seriçekm için dklnşrü basılı ttn.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Video kaydı başlatılamıyor. Mikrofon kullanımda mı?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Parmak izi tarayıcısı ile özçekim yapın</string>
-  <string name="fingerprint_intro_pane_learn_more">FAZLASINI ÖĞRENİN</string>
-  <string name="fingerprint_intro_dialog_title">Özçekim</string>
-  <string name="fingerprint_intro_dialog_description">Kolayca özçekim için telefonunuzdaki parmak izi tarayıcısını bulun.</string>
-  <string name="fingerprint_intro_dialog_button_text">Tamam</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Cihaz çok ısındı. Kamera kapatılacak.</string>
   <string name="overheated_critical">Kamera aşırı derecede sıcak. Kamera devre dışı bırakıldı.</string>
   <string name="overheated_cooling">Cihaz soğurken kamera devre dışı bırakıldı.</string>
+  <!-- Permissions -->
 </resources>

@@ -189,10 +189,10 @@
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nu se poate începe o înregistrare video. Este microfonul în uz?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
 </resources>

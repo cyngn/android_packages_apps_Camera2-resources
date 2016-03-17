@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Ağır Çekim 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Ağır Çekim 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Ağır Çekim 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Ağır Çekim 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Hızlı Çekim 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Hızlı Çekim 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Yüksek Hız 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Yüksek Hız 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Gürültü giderme modu</string>

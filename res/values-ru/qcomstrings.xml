@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Замедл. движ. — 60 к/с</string>
   <string name="pref_camera_hfr_entry_3x">Замедл. движ. — 90 к/с</string>
   <string name="pref_camera_hfr_entry_4x">Замедл. движ. — 120 к/с</string>
-  <string name="pref_camera_hfr_entry_8x">Замедл. движ. — 240 к/с</string>
   <string name="pref_camera_hfr_entry_hsr_60">Ускор. съёмка — 60 к/с</string>
   <string name="pref_camera_hfr_entry_hsr_90">Ускор. съёмка — 90 к/с</string>
   <string name="pref_camera_hfr_entry_hsr_120">Ускор. съёмка — 120 к/с</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Ускор. съёмка — 240 к/с</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Шумоподавление</string>

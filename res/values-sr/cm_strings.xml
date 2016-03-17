@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Задржи окидач да направиш вишеструки снимак.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не могу стартовати видео снимање. Да ли се микрофон користи?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Аутопортрет коришћењем сензора отиска</string>
-  <string name="fingerprint_intro_pane_learn_more">НАУЧИ ВИШЕ</string>
-  <string name="fingerprint_intro_dialog_title">Аутопортрет окидач</string>
-  <string name="fingerprint_intro_dialog_description">Пронађи сензор отиска на телефону за лако прављење аутопортрета.</string>
-  <string name="fingerprint_intro_dialog_button_text">Потврди</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Уређај је врућ. Камера ће се искључити ускоро.</string>
   <string name="overheated_critical">Уређај је превише врућ. Камера је онемогућена.</string>
   <string name="overheated_cooling">Камера је онемогућена док се уређај хлади.</string>
+  <!-- Permissions -->
 </resources>

@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">ಸ್ಲೋ ಮೋಷನ್ 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">ಸ್ಲೋ ಮೋಷನ್ 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">ಸ್ಲೋ ಮೋಷನ್ 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">ಸ್ಲೋ ಮೋಷನ್ 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">ಹೈ ಸ್ಪೀಡ್ 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">ಹೈ ಸ್ಪೀಡ್ 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">ಹೈ ಸ್ಪೀಡ್ 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">ಹೈ ಸ್ಪೀಡ್ 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">ಡೀನಾಯ್ಸ್</string>

@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Stadige Aksie 60 RPS</string>
   <string name="pref_camera_hfr_entry_3x">Stadige Aksie 90 RPS</string>
   <string name="pref_camera_hfr_entry_4x">Stadige Aksie 120 RPS</string>
-  <string name="pref_camera_hfr_entry_8x">Stadige Aksie 240 RPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Hoë Spoed 60 RPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Hoë Spoed 90 RPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Hoë Spoed 120 RPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Hoë Spoed 240 RPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Wavelet Denoise Modus</string>

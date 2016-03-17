@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Przytrzymaj przycisk migawki w celu wykonania zdjęć seryjnych.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nie można rozpocząć nagrywania. Czy mikrofon jest w użyciu?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Rób selfie za pomocą czytnika linii papilarnych</string>
-  <string name="fingerprint_intro_pane_learn_more">DOWIEDZ SIĘ WIĘCEJ</string>
-  <string name="fingerprint_intro_dialog_title">Migawka selfie</string>
-  <string name="fingerprint_intro_dialog_description">Zlokalizuj czytnik linii papilarnych, aby w łatwy sposób robić selfie.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Urządzenie jest gorące. Aparat wkrótce się zatrzyma.</string>
   <string name="overheated_critical">Urządzenie jest zbyt gorące. Aparat został wyłączony.</string>
   <string name="overheated_cooling">Aparat jest wyłączony, urządzenie się ochładza.</string>
+  <!-- Permissions -->
 </resources>

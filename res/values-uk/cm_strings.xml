@@ -193,15 +193,11 @@
   <string name="hold_for_burst">Утримуйте затвор для серійної з’йомки.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не вдалося розпочати запис відео. Мікрофон використовується іншою програмою?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Робіть \"селфі\" використовуючи сенсор відбитків пальців</string>
-  <string name="fingerprint_intro_pane_learn_more">ДЕТАЛЬНІШЕ</string>
-  <string name="fingerprint_intro_dialog_title">Зйомка \"селфі\"</string>
-  <string name="fingerprint_intro_dialog_description">Знайдіть сенсор відбитків пальців на вашому телефоні щоб легко робити \"селфі\".</string>
-  <string name="fingerprint_intro_dialog_button_text">OК</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
 </resources>

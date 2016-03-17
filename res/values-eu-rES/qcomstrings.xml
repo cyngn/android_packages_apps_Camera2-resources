@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Kamera geldoa 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Kamera geldoa 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Kamera geldoa 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Kamera geldoa 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Abiadura handia 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Abiadura handia 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Abiadura handia 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Abiadura handia 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Zarata murrizketa</string>

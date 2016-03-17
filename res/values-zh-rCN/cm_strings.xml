@@ -193,18 +193,21 @@
   <string name="hold_for_burst">按住快门来连拍。</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">无法开始视频录制。麦克风正在被使用？</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">使用指纹扫描器自拍</string>
-  <string name="fingerprint_intro_pane_learn_more">了解更多</string>
-  <string name="fingerprint_intro_dialog_title">自拍快门</string>
-  <string name="fingerprint_intro_dialog_description">通过使用手机上的指纹扫描器可以轻易的自拍。</string>
-  <string name="fingerprint_intro_dialog_button_text">确定</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">设备很热。相机将很快停止工作。</string>
   <string name="overheated_critical">设备过热。相机已被禁用。</string>
   <string name="overheated_cooling">设备冷却时相机处于禁用状态。</string>
+  <!-- Permissions -->
+  <string name="permission_missing">权限不足，相机应用无法运行。</string>
+  <string name="permission_camera">拍照需要 <b>相机</b> 权限。</string>
+  <string name="permission_storage">存储和查看照片需要 <b>存储</b> 权限。</string>
+  <string name="permission_microphone">录制视频需要 <b>麦克风</b> 权限。</string>
+  <string name="permission_call_to_action">进入 <b>设置</b> ，然后点击 <b>权限</b> 以授予权限。</string>
+  <string name="permission_location_denied">如果您想要标记照片位置，则必须授予此应用位置权限。</string>
+  <string name="no_video_trim">没有可用于修剪视频的应用。</string>
 </resources>

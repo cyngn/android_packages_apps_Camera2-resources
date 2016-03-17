@@ -17,50 +17,197 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Settings screen, camera section -->
+  <string name="pref_camera_camera_section">Cámara</string>
   <!-- Settings screen, video section -->
+  <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
+  <string name="pref_camera_general_section">General</string>
   <!-- Settings screen, Picture size title, the word Size only -->
+  <string name="pref_camera_picturesize_short_title">Tamaño</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
+  <string name="pref_camera_jpegquality_short_title">Calidad</string>
   <!-- Settings screen, Viewfinder choice -->
+  <string name="pref_camera_viewfinder_title">Visor</string>
+  <string name="pref_camera_viewfinder_fullscreen">Pantalla completa</string>
+  <string name="pref_camera_viewfinder_letterbox">Buzón</string>
   <!-- Settings screen, Raw mode toggle -->
+  <string name="pref_camera_raw_mode_title">Guardar imagen Raw</string>
   <!-- Warn about Raw/Beauty mode conflict -->
+  <string name="beauty_mode_disables_raw">El modo belleza deshabilita la captura en Raw</string>
   <!-- Settings screen, ZSL enable toggle -->
+  <string name="pref_camera_zsl_enable_title">Eliminar retraso del disparador</string>
+  <string name="pref_camera_zsl_enable_summary_on">Captura rápida de imagen</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Captura rápida de imagen y captura múltiple</string>
+  <string name="pref_camera_zsl_enable_summary_off">Mejor calidad con luz baja</string>
   <!-- The Video quality settings in preference -->
+  <string name="pref_video_quality_alt_title">Tamaño del video</string>
   <!-- The Video quality settings in preference, word Size only -->
+  <string name="pref_video_quality_short_title">Tamaño</string>
   <!-- Separate video focus modes preference - specifically for bacon -->
   <!-- common aspect ratios -->
   <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <string name="pref_camera_aspectratio_wide">Ampliada</string>
   <!-- format for entries in the picture size menu. Parameter one is aspect ratio
          parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
          NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
          will be multiplied by 100 as those languages want to count by ten thousands -->
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapíxeles</string>
   <!-- Settings screen, scene mode -->
+  <string name="pref_camera_scenemode_entry_antimotionblur">Reductor de desenfoque</string>
+  <string name="pref_camera_scenemode_entry_aqua">Agua</string>
+  <string name="pref_camera_scenemode_entry_ar">Realidad aumentada</string>
+  <string name="pref_camera_scenemode_entry_asd">Mejor disparo</string>
+  <string name="pref_camera_scenemode_entry_baby">Bebé</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">Desenfocar fondo</string>
+  <string name="pref_camera_scenemode_entry_backlight">Contraluz</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">Retrato a contraluz</string>
+  <string name="pref_camera_scenemode_entry_barcode">Código de barras</string>
+  <string name="pref_camera_scenemode_entry_beach">Playa</string>
+  <string name="pref_camera_scenemode_entry_beauty">Belleza</string>
+  <string name="pref_camera_scenemode_entry_candlelight">Luz de velas</string>
+  <string name="pref_camera_scenemode_entry_cine">Cine</string>
+  <string name="pref_camera_scenemode_entry_closeup">Primer plano</string>
+  <string name="pref_camera_scenemode_entry_dark">Oscuro</string>
+  <string name="pref_camera_scenemode_entry_dish">Reflector</string>
+  <string name="pref_camera_scenemode_entry_duskdawn">Amanecer/anochecer</string>
+  <string name="pref_camera_scenemode_entry_document">Documento</string>
+  <string name="pref_camera_scenemode_entry_fallcolor">Otoñal</string>
+  <string name="pref_camera_scenemode_entry_fireworks">Fuegos artificiales</string>
+  <string name="pref_camera_scenemode_entry_flowers">Flores</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">Anochecer</string>
+  <string name="pref_camera_scenemode_entry_highsensitivity">Alta sensibilidad</string>
+  <string name="pref_camera_scenemode_entry_indoor">Interior</string>
+  <string name="pref_camera_scenemode_entry_landscape">Horizontal</string>
+  <string name="pref_camera_scenemode_entry_mix_illuminant">Mezcla de luces</string>
+  <string name="pref_camera_scenemode_entry_mood">Estado de ánimo</string>
+  <string name="pref_camera_scenemode_entry_nightportrait">Retrato nocturno</string>
+  <string name="pref_camera_scenemode_entry_nightindoor">Interior nocturno</string>
+  <string name="pref_camera_scenemode_entry_oldfilm">Película antigua</string>
+  <string name="pref_camera_scenemode_entry_pet">Mascota</string>
+  <string name="pref_camera_scenemode_entry_portrait">Vertical</string>
+  <string name="pref_camera_scenemode_entry_snow">Nieve</string>
+  <string name="pref_camera_scenemode_entry_softskin">Suavizado</string>
+  <string name="pref_camera_scenemode_entry_sports">Deportes</string>
+  <string name="pref_camera_scenemode_entry_spotlight">Destacado</string>
+  <string name="pref_camera_scenemode_entry_steadyphoto">Foto estable</string>
+  <string name="pref_camera_scenemode_entry_supernight">Noche oscura</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">Barrido</string>
+  <string name="pref_camera_scenemode_entry_text">Texto</string>
+  <string name="pref_camera_scenemode_entry_theatre">Teatro</string>
+  <string name="pref_camera_scenemode_entry_whiteboard">Pizarra</string>
   <!-- Settings screen, focus mode -->
+  <string name="pref_camera_focusmode_entry_continuouspicture">Continuo</string>
+  <string name="pref_camera_focusmode_entry_extended">Amplio</string>
+  <string name="pref_camera_focusmode_entry_facedetect">Detección de rostro</string>
+  <string name="pref_camera_focusmode_entry_facepriority">Prioridad de rostro</string>
+  <string name="pref_camera_focusmode_entry_fixed">Fijo</string>
+  <string name="pref_camera_focusmode_entry_portrait">Vertical</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfocal</string>
   <!-- Color effects -->
+  <string name="pref_camera_coloreffect_entry_washed">Lavado</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">Retro cálido</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">Retro frío</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">Punto azul</string>
+  <string name="pref_camera_coloreffect_entry_point_green">Punto verde</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">Punto rojo-amarillo</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">Caricaturizar</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Pizarra</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Pizarrón</string>
   <!-- Settings screen, Burst mode title -->
+  <string name="pref_camera_burst_title">Modo ráfaga</string>
   <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Desactivado</string>
+  <string name="pref_camera_burst_entry_5">5 capturas</string>
+  <string name="pref_camera_burst_entry_10">10 capturas</string>
+  <string name="pref_camera_burst_entry_15">15 capturas</string>
+  <string name="pref_camera_burst_entry_20">20 capturas</string>
   <!-- Touch-to-focus duration settings -->
+  <string name="pref_camera_focustime_title">Duración del enfoque</string>
+  <string name="pref_camera_focustime_summary">Seleccionar la duración del enfoque al tocar la pantalla</string>
   <!-- Settings screen, Timer mode entries -->
+  <string name="pref_camera_focustime_entry_5">5 segundos</string>
+  <string name="pref_camera_focustime_entry_10">10 segundos</string>
+  <string name="pref_camera_focustime_entry_15">15 segundos</string>
+  <string name="pref_camera_focustime_entry_20">20 segundos</string>
+  <string name="pref_camera_focustime_entry_30">30 segundos</string>
+  <string name="pref_camera_focustime_entry_infinite">Infinito</string>
   <!-- Red eye flash mode title -->
+  <string name="pref_camera_flashmode_entry_redeye">Ojos rojos</string>
+  <string name="pref_camera_flashmode_label_redeye">OJOS ROJOS</string>
   <!-- Beauty mode -->
+  <string name="pref_camera_beauty_mode_title">Modo belleza</string>
   <!-- Superresolution : Clear Image -->
+  <string name="pref_camera_clear_image_title">Imagen nítida</string>
   <!-- Slow shutter modes -->
+  <string name="pref_camera_slow_shutter_title">Obturador lento</string>
   <string name="pref_camera_slow_shutter_delay_title">Velocidad de obturador lento</string>
+  <string name="pref_camera_slow_shutter_entry_off">Desactivada</string>
+  <string name="pref_camera_slow_shutter_entry_auto">Automático</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ segundo</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 segundo</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 segundos</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 segundos</string>
   <!-- More Settings screen, storage title -->
+  <string name="pref_camera_storage_title">Almacenamiento</string>
+  <string name="pref_camera_recordlocation_on">Etiquetar fotos con la ubicación actual</string>
+  <string name="pref_camera_recordlocation_off">No etiquetar fotos y videos con la ubicación actual</string>
   <!-- ASD -->
+  <string name="camera_menu_enhance_label">Mejorar</string>
+  <string name="camera_menu_slow_shutter_label">Obturador lento</string>
+  <string name="camera_menu_beauty_mode_label">Embellecer</string>
+  <string name="camera_menu_colorize_label">Colorear</string>
+  <string name="camera_menu_effects_label">Efectos</string>
+  <string name="camera_menu_asd_label">Escena inteligente</string>
   <!-- More Settings screen, power button title -->
+  <string name="pref_camera_power_shutter_title">Disparador alternativo</string>
+  <string name="pref_camera_power_shutter_summary">Tomar una foto al pulsar el botón de encendido</string>
+  <string name="pref_camera_left_handed_title">Modo para zurdos</string>
+  <string name="pref_camera_left_handed_summary">Ajustar controles para zurdos</string>
+  <string name="camera_storage_fallback">Restaurar a ubicación de almacenamiento predeterminada</string>
+  <string name="no_storage_sd">La tarjeta SD no está insertada o no puede ser modificada.</string>
+  <string name="no_storage_usb">El almacenamiento USB no está insertado o no puede ser modificado.</string>
   <!-- access_sd_fail is in strings.xml -->
+  <string name="access_usb_fail">No se puede acceder al almacenamiento USB.</string>
+  <string name="access_storage_fail">No se puede acceder al almacenamiento.</string>
   <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">Preparando almacenamiento USB\u2026</string>
+  <string name="preparing_storage">Preparando almacenamiento\u2026</string>
+  <string name="spaceIsLow_sd">Tu tarjeta SD se está quedando sin espacio.</string>
+  <string name="spaceIsLow_usb">Tu almacenamiento USB se está quedando sin espacio.</string>
+  <string name="spaceIsLow_storage">Tu almacenamiento se está quedando sin espacio.</string>
+  <string name="alternate_storage_none">Cambia las opciones de calidad o borra algunas imágenes u otros archivos.</string>
+  <string name="alternate_storage_sd_card">Borra algunas imágenes u otros archivos, o utiliza una tarjeta SD.</string>
   <string name="alternate_storage_usb">Borra algunas imágenes u otros archivos, o utiliza un almacenamiento USB.</string>
+  <string name="pref_camera_volume_zoom_title">Zoom con volumen</string>
+  <string name="pref_camera_volume_zoom_summary">Controlar el zoom con los botones de volumen</string>
+  <string name="pref_max_brightness_title">Pantalla brillante</string>
+  <string name="pref_max_brightness_summary">Establecer el brillo de pantalla al máximo mientras la cámara esté activa</string>
+  <string name="pref_camera_reset_title">Restaurar valores predeterminados</string>
+  <string name="pref_camera_reset_message">¿Cambiar todos los ajustes de cámara y video a sus valores originales? Esta acción no se puede deshacer.</string>
+  <string name="pref_camera_reset_button">Restaurar</string>
+  <string name="pref_section_advanced">Avanzado</string>
+  <string name="pref_section_other">Otros</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Memoria baja, ¡detener las tomas!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <string name="hold_for_burst">Mantener presionado el disparador para tomar varias fotos.</string>
   <!-- toast message for toast showing error of starting video capture -->
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Toma selfies con el sensor de huella digital</string>
-  <string name="fingerprint_intro_dialog_title">Obturador de selfies</string>
+  <string name="cannot_start_video_toast">No se puede iniciar la grabación. ¿Se está usando el micrófono?</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">El dispositivo está caliente. La cámara se detendrá ahora.</string>
+  <string name="overheated_critical">El dispositivo está muy caliente. La cámara ha sido desactivada.</string>
+  <string name="overheated_cooling">La cámara está desactivada mientras se enfría el dispositivo.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">La aplicación de cámara no se puede ejecutar porque no se le han concedido permisos.</string>
+  <string name="permission_camera">Para tomar fotos es necesario dar permisos a la <b>cámara</b>.</string>
+  <string name="permission_storage">Es necesario el permiso de <b>almacenamiento de información</b> para guardar y ver fotos.</string>
+  <string name="permission_microphone">Es necesario el permiso de <b>micrófono</b> para grabar video.</string>
+  <string name="permission_call_to_action">Ir a <b>Configuración</b> y pulsar <b>Permisos</b> para otorgar el permiso.</string>
+  <string name="permission_location_denied">Si quieres tomar fotos con ubicación, debes conceder permiso de ubicación a esta aplicación.</string>
+  <string name="no_video_trim">No hay una aplicación disponible para recortar videos.</string>
 </resources>

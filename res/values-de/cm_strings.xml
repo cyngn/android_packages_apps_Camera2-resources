@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Auslöser für Serienaufnahme gedrückt halten.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Videoaufzeichnung kann nicht gestartet werden. Wird das Mikrofon verwendet?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Selbstporträt mit Hilfe des Fingerabdruckscanners aufnehmen</string>
-  <string name="fingerprint_intro_pane_learn_more">WEITERE INFORMATIONEN</string>
-  <string name="fingerprint_intro_dialog_title">Selbstporträt-Verschluss</string>
-  <string name="fingerprint_intro_dialog_description">Suchen Sie den Fingerabdruckscanner auf Ihrem Telefon, um mühelos Selbstporträts aufzunehmen.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Chroma-Blitz</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Gerät ist heiß – Kamera wird bald ausgeschaltet.</string>
   <string name="overheated_critical">Gerät ist zu heiß – Kamera wurde ausgeschaltet.</string>
   <string name="overheated_cooling">Die Kamera ist ausgeschaltet bis das Gerät abgekühlt ist.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Die Kamera-App kann nicht gestartet werden, weil für sie keine Berechtigung erteilt wurde.</string>
+  <string name="permission_camera">Zum Fotografieren wird die Berechtigung zum Zugriff auf die <b>Kamera</b> benötigt.</string>
+  <string name="permission_storage">Zum Speichern und Ansehen von Fotos wird die Berechtigung zum Zugriff auf den <b>Speicher</b> benötigt.</string>
+  <string name="permission_microphone">Zum Aufnehmen von Videos wird die Berechtigung zum Zugriff auf das <b>Mikrofon</b> benötigt.</string>
+  <string name="permission_call_to_action">Rufen Sie die <b>Einstellungen</b> auf und tippen Sie auf <b>Berechtigungen</b>, um die Berechtigung zu erteilen.</string>
+  <string name="permission_location_denied">Sie müssen dieser App die Berechtigung zum Zugriff auf Ihren Standort geben, wenn Sie Fotos mit Standort-Tags versehen wollen.</string>
+  <string name="no_video_trim">Keine App für den Videoschnitt verfügbar.</string>
 </resources>

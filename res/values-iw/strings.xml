@@ -25,7 +25,7 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <!-- Displayed in the title of the dialog for things to do with a picture
              that is to be "set as" (e.g. set as contact photo or set as wallpaper) -->
-  <string name="set_image">הגדר תמונה כ:</string>
+  <string name="set_image">הגדר תמונה כ-</string>
   <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">מחק</string>
   <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
@@ -77,7 +77,8 @@
   <string name="video_err">לא ניתן להפעיל את הסרטון.</string>
   <!-- Toast message shown when the cropped image has been saved in the
          %s folder (string: folder_download) [CHAR LIMIT=50]-->
-  <string name="crop_saved">התמונה שנחתכה נשמרה ב-<xliff:g id="FOLDER_NAME">%s</xliff:g>.</string>
+  <string name="crop_saved">
+התמונה שנחתכה נשמרה ב-<xliff:g id="folder_name">%s</xliff:g>.</string>
   <!-- Text indicating the title of a media item in details window [CHAR LIMIT=14] -->
   <string name="title">כותרת</string>
   <!-- Text indicating the description of a media item in details window [CHAR LIMIT=14] -->
@@ -95,7 +96,7 @@
   <!-- Text indicating the orientation of a media item in details window [CHAR LIMIT=14] -->
   <string name="orientation">כיוון</string>
   <!-- Text indicating the duration of a video item in details window [CHAR LIMIT=18] -->
-  <string name="duration">משך זמן</string>
+  <string name="duration">משך</string>
   <!-- Text indicating the mime type of a media item in details window [CHAR LIMIT=14] -->
   <string name="mimetype">‏סוג MIME</string>
   <!-- Text indicating the file size of a media item in details window [CHAR LIMIT=14] -->
@@ -165,7 +166,7 @@
   <!--  Label for record location preference [CHAR LIMIT=50] -->
   <string name="pref_camera_location_label">מיקום</string>
   <!-- Title for countdown timer on camera settings screen [CHAR LIMIT=30]-->
-  <string name="pref_camera_timer_title">שעון לספירה לאחור</string>
+  <string name="pref_camera_timer_title">טיימר לספירה לאחור</string>
   <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
   <plurals name="pref_camera_timer_entry">
     <item quantity="one">שנייה 1</item>
@@ -176,7 +177,7 @@
   <!-- Entry of a on/off setting. The setting is turned off. [CHAR LIMIT=15] -->
   <string name="setting_off">כבוי</string>
   <!-- Entry of a on/off setting. The setting is turned on. [CHAR LIMIT=15] -->
-  <string name="setting_on">פועל</string>
+  <string name="setting_on">מופעל</string>
   <!-- The value of a camera preference indicating the setting is off. -->
   <!-- The value of a camera preference indicating the setting is on. -->
   <!-- The Video quality settings in preference [CHAR LIMIT=21] -->
@@ -199,7 +200,7 @@
   <!-- Settings screen, Camera setting category title -->
   <string name="pref_camera_settings_category">הגדרות המצלמה</string>
   <!-- Settings screen, Camcorder setting category title -->
-  <string name="pref_camcorder_settings_category">הגדרות של מצלמת וידאו</string>
+  <string name="pref_camcorder_settings_category">הגדרות מצלמת וידאו</string>
   <!-- Settings screen, Picture size title -->
   <string name="pref_camera_picturesize_title">גודל תמונה</string>
   <!-- Settings screen, Focus mode title -->
@@ -223,12 +224,12 @@
   <!-- Settings screen, Flash mode 'auto'. [CHAR LIMIT=12] -->
   <string name="pref_camera_flashmode_entry_auto">אוטומטי</string>
   <!-- Settings screen, Flash mode 'alway on'. [CHAR LIMIT=12] -->
-  <string name="pref_camera_flashmode_entry_on">פועל</string>
+  <string name="pref_camera_flashmode_entry_on">מופעל</string>
   <!-- Settings screen, Flash mode 'always off'. [CHAR LIMIT=12] -->
   <string name="pref_camera_flashmode_entry_off">כבוי</string>
   <!-- Menu, flash mode labels [CHAR LIMIT=50] -->
   <string name="pref_camera_flashmode_label_auto">פלאש אוטומטי</string>
-  <string name="pref_camera_flashmode_label_on">פלאש פועל</string>
+  <string name="pref_camera_flashmode_label_on">פלאש מופעל</string>
   <string name="pref_camera_flashmode_label_off">פלאש כבוי</string>
   <!-- Default videocamera flash mode setting.-->
   <!-- Default white balance setting. -->
@@ -250,7 +251,7 @@
   <string name="pref_camera_whitebalance_label_cloudy">מעונן</string>
   <!-- Default scene mode setting. -->
   <!-- Settings screen, Select Scene mode -->
-  <string name="pref_camera_scenemode_title">מצב נוף</string>
+  <string name="pref_camera_scenemode_title">מצב נוף/רוחב</string>
   <!-- Settings menu, scene mode choices [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_auto">אוטומטי</string>
   <!-- Scene mode that uses HDR plus (better HDR) [CHAR LIMIT=16] -->
@@ -294,7 +295,7 @@
   <!-- Settings menu countdown timer 15 seconds [CHAR LIMIT=50] -->
   <string name="pref_camera_countdown_label_fifteen">15 שניות</string>
   <!-- Toast after trying to select a setting that is not allowed to change in scene mode [CHAR LIMIT=NONE] -->
-  <string name="not_selectable_in_scene_mode">לא ניתן לבחירה במצב נוף.</string>
+  <string name="not_selectable_in_scene_mode">לא ניתן לבחירה במצב נוף/רוחב.</string>
   <!-- Exposure settings in preference -->
   <string name="pref_exposure_title">חשיפה</string>
   <!--  menu label exposure compensation [CHAR LIMIT=50] -->
@@ -310,7 +311,7 @@
   <!-- Dialog "OK" button. Dismisses dialog. -->
   <string name="dialog_ok">אישור</string>
   <!-- Low-memory dialog message where there is no alternative storage -->
-  <string name="spaceIsLow_content" product="default">‏השטח בכרטיס הזיכרון הולך להיגמר. שנה את הגדרת האיכות, או מחק כמה תמונות או קבצים אחרים.</string>
+  <string name="spaceIsLow_content" product="default">‏השטח בכרטיס הזיכרון אוזל. שנה את הגדרת האיכות, או מחק כמה תמונות או קבצים אחרים.</string>
   <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
   <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
   <!-- Filename prefix for panorama output. -->
@@ -329,11 +330,11 @@
   <!-- The text shown in the progress dialog when waiting for previous panorama finishing [CHAR LIMIT=40] -->
   <string name="pano_dialog_waiting_previous">ממתין לפנורמה הקודמת</string>
   <!-- The text shown on the bottom-left corner of the screen to indicate that the saving is in process [CHAR LIMIT=13] -->
-  <string name="pano_review_saving_indication_str">שומר…</string>
+  <string name="pano_review_saving_indication_str">שומר\u2026</string>
   <!-- The text shown on the screen to indicate that the panorama is rendering [CHAR LIMIT=27] -->
   <string name="pano_review_rendering">יוצר פנורמה</string>
   <!-- Toast telling users tapping on the viewfinder will trigger autofocus [CHAR LIMIT=28] -->
-  <string name="tap_to_focus">גע כדי להתמקד.</string>
+  <string name="tap_to_focus">גע כדי למקד.</string>
   <!-- Default effect setting that clears the effect. -->
   <!-- Title of video effect setting popup window -->
   <string name="pref_video_effect_title">אפקטים</string>
@@ -368,7 +369,7 @@
   <!-- Title of category for background replacement effects. [CHAR LIMIT=26] -->
   <string name="effect_background">רקע</string>
   <!-- The shutter button. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_shutter_button">לחצן הצילום</string>
+  <string name="accessibility_shutter_button">צמצם</string>
   <!-- The menu button. [CHAR LIMIT = NONE] -->
   <string name="accessibility_menu_button">לחצן תפריט</string>
   <!-- The mode picker to switch between camera, video and panorama. [CHAR LIMIT = NONE] -->
@@ -393,7 +394,7 @@
 CHAR LIMIT = NONE] -->
   <string name="accessibility_review_retake">הצג צילום חוזר</string>
   <!-- Default text for a button that can be toggled on and off. -->
-  <string name="capital_on">פועל</string>
+  <string name="capital_on">מופעל</string>
   <!-- Default text for a button that can be toggled on and off. -->
   <string name="capital_off">כבוי</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
@@ -495,7 +496,7 @@ CHAR LIMIT = NONE] -->
   <!-- Title for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 50] -->
   <string name="remember_location_title">האם לזכור מיקומי תמונות?</string>
   <!-- Message for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = None] -->
-  <string name="remember_location_prompt">תייג את התמונות והסרטונים שלך לציון המקומות שבהם צולמו.\n\nאפליקציות אחרות יכולות לגשת למידע הזה, כולל תמונות שנשמרו.</string>
+  <string name="remember_location_prompt">תייג את התמונות והסרטונים שלך לציון המקומות שבהם צולמו.\n\nיישומים אחרים יכולים לגשת למידע זה וכן לתמונות שנשמרו.</string>
   <!-- Negative answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 20] -->
   <string name="remember_location_no">לא תודה</string>
   <!-- Positive answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 20] -->

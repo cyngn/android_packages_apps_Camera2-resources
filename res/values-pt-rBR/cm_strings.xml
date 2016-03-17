@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Pressione o disparador para tirar várias fotografias.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Não foi possível iniciar uma gravação de vídeo. O microfone está em uso?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Tire selfies usando o sensor de impressão digital</string>
-  <string name="fingerprint_intro_pane_learn_more">SAIBA MAIS</string>
-  <string name="fingerprint_intro_dialog_title">Disparador de selfie</string>
-  <string name="fingerprint_intro_dialog_description">Localize o sensor de impressão digital em seu telefone para tirar selfies facilmente.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">O dispositivo está quente. A câmera irá parar em breve.</string>
   <string name="overheated_critical">O dispositivo está muito quente. A câmera foi desativada.</string>
   <string name="overheated_cooling">A câmera está desativada enquanto o dispositivo esfria.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">O aplicativo da câmera não pôde ser executado porque ele não recebeu permissão.</string>
+  <string name="permission_camera"><b>Câmera</b> precisa de permissão para tirar fotos.</string>
+  <string name="permission_storage">É necessário permissão de <b>Armazenamento</b> para salvar e exibir fotos.</string>
+  <string name="permission_microphone">É necessário permissão para o <b>Microfone</b> para gravar vídeo.</string>
+  <string name="permission_call_to_action">Vai a <b>Configurações</b> e toque em <b>Permissões</b> para conceder a permissão.</string>
+  <string name="permission_location_denied">Você deve conceder permissões de Localização para esta aplicação se quiser guardar os dados de localização das fotografias.</string>
+  <string name="no_video_trim">Não há aplicativo disponível para cortar o vídeo.</string>
 </resources>

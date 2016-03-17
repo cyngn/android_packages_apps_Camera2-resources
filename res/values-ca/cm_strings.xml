@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Aguanta l\'obturador per disparar contínuament.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">No es pot iniciar una gravació de vídeo. Està el micròfon en ús?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Fes selfies utilitzant el lector d\'empremtes digitals</string>
-  <string name="fingerprint_intro_pane_learn_more">MÉS INFORMACIÓ</string>
-  <string name="fingerprint_intro_dialog_title">Obturador de selfies</string>
-  <string name="fingerprint_intro_dialog_description">Localitza el lector d\'empremtes digital al teu telèfon per fer selfies fàcilment.</string>
-  <string name="fingerprint_intro_dialog_button_text">D\'ACORD</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">El dispositiu està calent. La càmera s\'aturarà aviat.</string>
   <string name="overheated_critical">El dispositiu està massa calent. La càmera s\'ha inhabilitat.</string>
   <string name="overheated_cooling">La càmera està inhabilitada mentre el dispositiu es refreda.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">L\'aplicació de la càmera no es pot executar perquè no se li ha estat concedit el permís.</string>
+  <string name="permission_camera">És necessari el permís de <b>Càmera</b> per a fer fotos.</string>
+  <string name="permission_storage">És necessari el permís <b>d\'emmagatzematge</b> Per podera desar i veure fotos.</string>
+  <string name="permission_microphone">És necessari el permís de <b>Micròfon</b> per poder enregistar vídeo.</string>
+  <string name="permission_call_to_action">Ves a la <b>Configuració</b> i prem a <b>Permisos</b> per concedir el permís.</string>
+  <string name="permission_location_denied">Has de concedir el permís d\'Ubicació a aquesta aplicació si vols poder etiquetar fotos amb la seva ubicació.</string>
+  <string name="no_video_trim">No hi ha cap aplicació disponible per retallar vídeo.</string>
 </resources>

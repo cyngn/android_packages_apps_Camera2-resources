@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Håll ner avtryckaren för sekvenstagning.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Kan inte starta en videoinspelning. Används mikrofonen?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Ta selfies genom att använda fingeravtrycksläsaren</string>
-  <string name="fingerprint_intro_pane_learn_more">FÅ MER INFORMATION</string>
-  <string name="fingerprint_intro_dialog_title">Selfie slutare</string>
-  <string name="fingerprint_intro_dialog_description">Leta upp fingeravtrycksläsaren på telefonen för att enkelt ta selfies.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Enheten är varm. Kameran kommer att stängas av snart.</string>
   <string name="overheated_critical">Enheten är för varm. Kameran har temporärt inaktiverats.</string>
   <string name="overheated_cooling">Kameran är avaktiverad tills enheten kylts ner.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Kameraappen kan inte köras eftersom den inte har beviljats behörighet.</string>
+  <string name="permission_camera"><b>Kamera</b> behörighet krävs för att ta bilder.</string>
+  <string name="permission_storage"><b>Lagrings</b> behörighet krävs för att spara och Visa bilder.</string>
+  <string name="permission_microphone"><b>Mikrofon</b> behörighet krävs för att spela in video.</string>
+  <string name="permission_call_to_action">Gå till <b>Inställningar</b> och tryck på <b>Behörigheter</b> för att bevilja behörighet.</string>
+  <string name="permission_location_denied">Om du vill Tagga foton med plats måste du ge platstillstånd till denna app.</string>
+  <string name="no_video_trim">Ingen app är tillgänglig för att beskära video.</string>
 </resources>

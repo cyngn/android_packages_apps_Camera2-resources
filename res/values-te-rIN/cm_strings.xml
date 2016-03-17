@@ -17,44 +17,190 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Settings screen, camera section -->
+  <string name="pref_camera_camera_section">కెమెరా</string>
   <!-- Settings screen, video section -->
+  <string name="pref_camera_video_section">వీడియో</string>
   <!-- Settings screen, general section -->
+  <string name="pref_camera_general_section">సాధారణం</string>
   <!-- Settings screen, Picture size title, the word Size only -->
+  <string name="pref_camera_picturesize_short_title">పరిమాణం</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
+  <string name="pref_camera_jpegquality_short_title">నాణ్యత</string>
   <!-- Settings screen, Viewfinder choice -->
+  <string name="pref_camera_viewfinder_title">వ్యూఫైండర్</string>
+  <string name="pref_camera_viewfinder_fullscreen">పూర్తి స్క్రీన్</string>
+  <string name="pref_camera_viewfinder_letterbox">లెటర్ బాక్స్</string>
   <!-- Settings screen, Raw mode toggle -->
+  <string name="pref_camera_raw_mode_title">ముడి చిత్రాన్ని భద్రపరుచు</string>
   <!-- Warn about Raw/Beauty mode conflict -->
+  <string name="beauty_mode_disables_raw">బ్యూటీ రీతి ముడి చిత్రీకరణను నిలిపివేస్తుంది</string>
   <!-- Settings screen, ZSL enable toggle -->
+  <string name="pref_camera_zsl_enable_title">జీరో షట్టర్ ల్యాగ్</string>
+  <string name="pref_camera_zsl_enable_summary_on">వేగవంతంగా చిత్రాన్ని బంధించడం</string>
+  <string name="pref_camera_zsl_enable_summary_alt">వేగవంతంగా చిత్రాన్ని బంధించడం మరియు అత్యద్భుతమైన షాట్</string>
+  <string name="pref_camera_zsl_enable_summary_off">మెరుగైన తక్కువ లైట్ నాణ్యత</string>
   <!-- The Video quality settings in preference -->
+  <string name="pref_video_quality_alt_title">వీడియో పరిమాణం</string>
   <!-- The Video quality settings in preference, word Size only -->
+  <string name="pref_video_quality_short_title">పరిమాణం</string>
   <!-- Separate video focus modes preference - specifically for bacon -->
   <!-- common aspect ratios -->
   <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <string name="pref_camera_aspectratio_wide">విశాలం</string>
   <!-- format for entries in the picture size menu. Parameter one is aspect ratio
          parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
          NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
          will be multiplied by 100 as those languages want to count by ten thousands -->
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f మెగాపిక్సెల్స్</string>
   <!-- Settings screen, scene mode -->
+  <string name="pref_camera_scenemode_entry_antimotionblur">మోషన్ అస్పష్టత తగ్గింపు</string>
+  <string name="pref_camera_scenemode_entry_aqua">ఆక్వా</string>
+  <string name="pref_camera_scenemode_entry_ar">అనుబంధ వాస్తవికత</string>
+  <string name="pref_camera_scenemode_entry_asd">ఉత్తమ షాట్</string>
+  <string name="pref_camera_scenemode_entry_baby">పసిబిడ్డ</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">నేపధ్య అస్పష్టత</string>
+  <string name="pref_camera_scenemode_entry_backlight">వెనక లైట్</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">వెనక లైట్ పటం</string>
+  <string name="pref_camera_scenemode_entry_barcode">బార్ కోడ్</string>
+  <string name="pref_camera_scenemode_entry_beach">బీచ్</string>
+  <string name="pref_camera_scenemode_entry_beauty">బ్యూటీ</string>
+  <string name="pref_camera_scenemode_entry_candlelight">కొవ్వొత్తి కాంతి</string>
+  <string name="pref_camera_scenemode_entry_cine">సినీ</string>
+  <string name="pref_camera_scenemode_entry_closeup">దగ్గరిగా</string>
+  <string name="pref_camera_scenemode_entry_dark">ముదురు రంగు</string>
+  <string name="pref_camera_scenemode_entry_dish">పాత్ర</string>
+  <string name="pref_camera_scenemode_entry_duskdawn">సంధ్యాసమయం ఉషోదయం</string>
+  <string name="pref_camera_scenemode_entry_document">పత్రం</string>
+  <string name="pref_camera_scenemode_entry_fallcolor">ఆకురాలేకాలం రంగు</string>
+  <string name="pref_camera_scenemode_entry_fireworks">బాణాసంచా</string>
+  <string name="pref_camera_scenemode_entry_flowers">పువ్వులు</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">హ్యాండ్ హెల్డ్ కను చీకటి</string>
+  <string name="pref_camera_scenemode_entry_highsensitivity">అధిక సున్నితత్వం</string>
+  <string name="pref_camera_scenemode_entry_indoor">లోపల</string>
+  <string name="pref_camera_scenemode_entry_landscape">సమతలదిశ</string>
+  <string name="pref_camera_scenemode_entry_mix_illuminant">మిశ్రమ లైటింగ్</string>
+  <string name="pref_camera_scenemode_entry_mood">మనస్థితి</string>
+  <string name="pref_camera_scenemode_entry_nightportrait">రాత్రి పోర్ట్రైట్</string>
+  <string name="pref_camera_scenemode_entry_nightindoor">రాత్రిపూట లోపల</string>
+  <string name="pref_camera_scenemode_entry_oldfilm">పాత సినిమా</string>
+  <string name="pref_camera_scenemode_entry_pet">పెంపుడు జంతువు</string>
+  <string name="pref_camera_scenemode_entry_portrait">పటం</string>
+  <string name="pref_camera_scenemode_entry_snow">మంచు</string>
+  <string name="pref_camera_scenemode_entry_softskin">మృదువైన చర్మం</string>
+  <string name="pref_camera_scenemode_entry_sports">క్రీడలు</string>
+  <string name="pref_camera_scenemode_entry_spotlight">స్పాట్‌లైట్‌</string>
+  <string name="pref_camera_scenemode_entry_steadyphoto">స్థిరమైన ఫోటో</string>
+  <string name="pref_camera_scenemode_entry_supernight">చీకటి రాత్రి</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">తుడిచివేసే కుట్టు</string>
+  <string name="pref_camera_scenemode_entry_text">పాఠం</string>
+  <string name="pref_camera_scenemode_entry_theatre">థియేటర్</string>
+  <string name="pref_camera_scenemode_entry_whiteboard">వైట్‌బోర్డ్</string>
   <!-- Settings screen, focus mode -->
+  <string name="pref_camera_focusmode_entry_continuouspicture">కొనసాగింపు</string>
+  <string name="pref_camera_focusmode_entry_extended">విస్తరించబడిన</string>
+  <string name="pref_camera_focusmode_entry_facedetect">ముఖాన్ని గుర్తించడం</string>
+  <string name="pref_camera_focusmode_entry_facepriority">ముఖ ప్రాధాన్యత</string>
+  <string name="pref_camera_focusmode_entry_fixed">స్థిరమైన</string>
+  <string name="pref_camera_focusmode_entry_portrait">పటం</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">హైపర్ ఫోకల్</string>
   <!-- Color effects -->
+  <string name="pref_camera_coloreffect_entry_washed">కడిగిన</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">వెచ్చని</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">చల్లని</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">బిందువు నీలం</string>
+  <string name="pref_camera_coloreffect_entry_point_green">బిందువు ఆకుపచ్చ</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">బిందువు ఎరుపు-పసుపు</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">కార్టూనైజ్</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">వైట్‌బోర్డ్</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">నలుపుబోర్డ్</string>
   <!-- Settings screen, Burst mode title -->
+  <string name="pref_camera_burst_title">బర్స్ట్ మోడ్</string>
   <!-- Settings screen, Burst mode entries -->
+  <string name="pref_camera_burst_entry_off">ఆఫ్‌లో ఉంది</string>
+  <string name="pref_camera_burst_entry_5">5 షాట్లు</string>
+  <string name="pref_camera_burst_entry_10">10 షాట్లు</string>
+  <string name="pref_camera_burst_entry_15">15 షాట్లు</string>
+  <string name="pref_camera_burst_entry_20">20 షాట్లు</string>
   <!-- Touch-to-focus duration settings -->
+  <string name="pref_camera_focustime_title">ఫోకస్ కాలవ్యవధిని తాకుము</string>
+  <string name="pref_camera_focustime_summary">టచ్ ఫోకస్ కొరకు కాలవ్యవధిని ఎంచుకొనుము</string>
   <!-- Settings screen, Timer mode entries -->
+  <string name="pref_camera_focustime_entry_5">5s</string>
+  <string name="pref_camera_focustime_entry_10">10s</string>
+  <string name="pref_camera_focustime_entry_15">15s</string>
+  <string name="pref_camera_focustime_entry_20">20s</string>
+  <string name="pref_camera_focustime_entry_30">30s</string>
+  <string name="pref_camera_focustime_entry_infinite">అనంతమైన</string>
   <!-- Red eye flash mode title -->
+  <string name="pref_camera_flashmode_entry_redeye">వరుపు కన్ను</string>
+  <string name="pref_camera_flashmode_label_redeye">వరుపు కన్ను</string>
   <!-- Beauty mode -->
+  <string name="pref_camera_beauty_mode_title">అందమైన రీతి</string>
   <!-- Superresolution : Clear Image -->
+  <string name="pref_camera_clear_image_title">స్పష్టమైన చిత్రం</string>
   <!-- Slow shutter modes -->
+  <string name="pref_camera_slow_shutter_title">నిదాన్ షట్టర్</string>
+  <string name="pref_camera_slow_shutter_delay_title">నిదాన షట్టర్ వేగం</string>
+  <string name="pref_camera_slow_shutter_entry_off">ఆఫ్‌లో ఉంది</string>
+  <string name="pref_camera_slow_shutter_entry_auto">ఆటో</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ సెకను</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 సెకను</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 సెకనులు</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 సెకనులు</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 సెకనులు</string>
   <!-- More Settings screen, storage title -->
+  <string name="pref_camera_storage_title">నిల్వ</string>
+  <string name="pref_camera_recordlocation_on">షాట్లను ప్రస్తుత స్థానంతో ట్యాగ్ చేయుము</string>
+  <string name="pref_camera_recordlocation_off">వీడియోలు మరియు ఫోటోలను స్థానంతో ట్యాగ్ చేయవద్దు</string>
   <!-- ASD -->
+  <string name="camera_menu_enhance_label">మెరుగుపరుచు</string>
+  <string name="camera_menu_slow_shutter_label">స్లో షట్టర్</string>
+  <string name="camera_menu_beauty_mode_label">అందంగా తీర్చి</string>
+  <string name="camera_menu_colorize_label">వర్ణభరితం చేయు</string>
+  <string name="camera_menu_effects_label">ప్రభావాలు</string>
+  <string name="camera_menu_asd_label">స్మార్ట్ దృశ్యం</string>
   <!-- More Settings screen, power button title -->
+  <string name="pref_camera_power_shutter_title">పవర్ షట్టర్</string>
+  <string name="pref_camera_power_shutter_summary">పవర్ బటన్లు ఫోటో తీస్తాయి</string>
+  <string name="pref_camera_left_handed_title">ఎడమ-చేతి వాటం</string>
+  <string name="pref_camera_left_handed_summary">ఎడమ-చేతి వాటానికి నియంత్రణలను సవరించుము</string>
+  <string name="camera_storage_fallback">స్వయంసిద్ధ స్థానానికి మళ్ళుతుంది</string>
+  <string name="no_storage_sd">SD కార్డు చొప్పించబడలేదు లేదా వ్రాయడానికి వీలుగా లేదు.</string>
+  <string name="no_storage_usb">USB కార్డు చొప్పించబడలేదు లేదా వ్రాయడానికి వీలుగా లేదు.</string>
   <!-- access_sd_fail is in strings.xml -->
+  <string name="access_usb_fail">USB నిల్వకు ప్రాప్యత లభించలేదు.</string>
+  <string name="access_storage_fail">నిల్వకు ప్రాప్యత లభించలేదు.</string>
   <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">USB నిల్వకు సిద్ధమవుతుంది\u2026</string>
+  <string name="preparing_storage">నిల్వకు సిద్ధమవుతుంది\u2026</string>
+  <string name="spaceIsLow_sd">మీ SD కార్డులో ఖాళీ అయిపోతోంది.</string>
+  <string name="spaceIsLow_usb">మీ USB నిల్వలోని ఖాళీ అయిపోతోంది.</string>
+  <string name="spaceIsLow_storage">మీ నిల్వలోని ఖాళీ అయిపోతోంది.</string>
+  <string name="alternate_storage_none">నాణ్యతా సెట్టింగును మార్చండి లేదా కొన్ని చిత్రాలను లేదా ఇతర ఫైళ్ళను తొలిగించండి.</string>
+  <string name="alternate_storage_sd_card">కొన్ని చిత్రాలు లేదా ఇతర ఫైళ్ళను తొలిగించుము, లేదా SD కార్డును ఉపయోగించుము</string>
+  <string name="alternate_storage_usb">కొన్ని చిత్రాలు లేదా ఇతర ఫైళ్ళను తొలిగించుము, లేదా USB నిల్వను ఉపయోగించుము</string>
+  <string name="pref_camera_volume_zoom_title">వాల్యూమ్ జూమ్</string>
+  <string name="pref_camera_volume_zoom_summary">వాల్యూమ్ మీటలు జూమును నియంత్రిస్తాయి</string>
+  <string name="pref_max_brightness_title">ప్రకాశవంతమైన స్క్రీన్</string>
+  <string name="pref_max_brightness_summary">కెమెరా క్రియాశీలంగా ఉన్నప్పుడు ప్రకాశాన్ని గరిష్టానికి సెట్ చేయండి</string>
+  <string name="pref_camera_reset_title">డిఫాల్ట్‌లను పునరుద్ధరించు</string>
+  <string name="pref_camera_reset_message">అన్ని కెమెరా మరియు వీడియో సెట్టింగులను వాటి యొక్క అసలు విలువలకు మార్చాలా? దీనిని రద్దు చేయడం కుదరదు.</string>
+  <string name="pref_camera_reset_button">పునరుద్ధరించు</string>
+  <string name="pref_section_advanced">అధునాతనం</string>
+  <string name="pref_section_other">ఇతరం</string>
+  <string name="msg_cancel_longshot_for_limited_memory">మెమరీ తక్కువగా ఉంది, షాటులు ఆపివేయబడుతున్నాయి!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <string name="hold_for_burst">విరామం కొరకు షట్టరును పట్టుకోండి.</string>
   <!-- toast message for toast showing error of starting video capture -->
-  <!-- Fingerprint Sensor Image Capture -->
+  <string name="cannot_start_video_toast">వీడియో రికార్డింగును ప్రారంభించడం సాధ్యపడదు. మైక్రోఫోన్ ఉపయోగించబడుతోందా?</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">క్రోమాఫ్లాష్</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">పరికరం వేడిగా ఉంది. త్వరలో కెమెరా ఆగిపోతుంది.</string>
+  <string name="overheated_critical">పరికరం చాలా వేడిగా ఉంది. కెమెరా నిలిపివేయబడింది.</string>
+  <string name="overheated_cooling">పరికరం చల్లారేంతవరకు కెమెరా నిలిపివేయబడింది.</string>
+  <!-- Permissions -->
 </resources>

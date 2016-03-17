@@ -177,13 +177,12 @@
   <string name="pref_section_other">Aner</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <!-- toast message for toast showing error of starting video capture -->
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_learn_more">MÉI GEWUER GINN</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Chroma-Blëtz</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_cooling">De Fotoapparat gouf desaktivéiert bis den Apparat ofgekillt ass.</string>
+  <!-- Permissions -->
 </resources>

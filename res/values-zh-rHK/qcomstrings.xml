@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">慢動作 60 幀/秒</string>
   <string name="pref_camera_hfr_entry_3x">慢動作 90 幀/秒</string>
   <string name="pref_camera_hfr_entry_4x">慢動作 120 幀/秒</string>
-  <string name="pref_camera_hfr_entry_8x">慢動作 240 幀/秒</string>
   <string name="pref_camera_hfr_entry_hsr_60">高速度 60 幀/秒</string>
   <string name="pref_camera_hfr_entry_hsr_90">高速度 90 幀/秒</string>
   <string name="pref_camera_hfr_entry_hsr_120">高速度 120 幀/秒</string>
-  <string name="pref_camera_hfr_entry_hsr_240">高速度 240 幀/秒</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">降噪</string>

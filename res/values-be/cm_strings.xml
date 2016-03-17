@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Утрымвайце кнопку засаўкі для серыйнай здымкі.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не атрымоўваецца пачаць запіс відэа. Мікрафон выкарыстоўваецца ў іншым дадатку?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Рабіце аўтапартрэты дотыкам сканара адбіткаў пальцаў</string>
-  <string name="fingerprint_intro_pane_learn_more">ПАДРАБЯЗНЕЙ</string>
-  <string name="fingerprint_intro_dialog_title">Здымка аўтапартрэтаў</string>
-  <string name="fingerprint_intro_dialog_description">Знайдзіце сканар адбіткаў пальцаў на прыладзе, каб рабіць аўтапартрэты.</string>
-  <string name="fingerprint_intro_dialog_button_text">Добра</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Прылада перагрэлася. Камера хутка адключыцца.</string>
   <string name="overheated_critical">Прылада перагрэлася. Камера была адключана.</string>
   <string name="overheated_cooling">Камера адключана да астывання прылады.</string>
+  <!-- Permissions -->
 </resources>

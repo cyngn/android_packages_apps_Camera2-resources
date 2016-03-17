@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Spomalené 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Spomalené 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Spomalené 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Spomalené 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Vysoká rýchlosť 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Vysoká rýchlosť 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Vysoká rýchlosť 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Vysoká rýchlosť 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Režim odšumovania vlniek</string>

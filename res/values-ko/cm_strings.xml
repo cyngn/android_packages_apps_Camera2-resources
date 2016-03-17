@@ -193,18 +193,14 @@
   <string name="hold_for_burst">버스트 샷을 찍으려면 셔터를 누른 체로 유지하세요.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">동영상을 찍을 수 없습니다. 마이크를 사용중입니까?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">지문 센서를 이용하여 셀카 촬영</string>
-  <string name="fingerprint_intro_pane_learn_more">더 알아보기</string>
-  <string name="fingerprint_intro_dialog_title">셀카 셔터</string>
-  <string name="fingerprint_intro_dialog_description">휴대 전화에 있는 지문 센서를 찾아 쉽게 셀카를 찍으세요.</string>
-  <string name="fingerprint_intro_dialog_button_text">확인</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">크로마플래시</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">장치가 뜨겁습니다. 카메라가 곧 중지됩니다.</string>
   <string name="overheated_critical">카메라가 너무 뜨겁습니다. 카메라가 비활성화되었습니다.</string>
   <string name="overheated_cooling">장치가 냉각되는 동안 카메라가 비활성화됩니다.</string>
+  <!-- Permissions -->
 </resources>

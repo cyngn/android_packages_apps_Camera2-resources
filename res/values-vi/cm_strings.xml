@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Giữ nút bấm để chụp.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Không thể khởi động máy quay video. Micro đang sử dụng?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Chụp ảnh tự sướng bằng cách sử dụng cảm biến vân tay</string>
-  <string name="fingerprint_intro_pane_learn_more">TÌM HIỂU THÊM</string>
-  <string name="fingerprint_intro_dialog_title">Nút bấm tự sướng</string>
-  <string name="fingerprint_intro_dialog_description">Xác định vị trí cảm biến vân tay trên điện thoại của bạn để dễ dàng chụp ảnh tự sướng.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Thiết bị đang nóng. Máy ảnh sẽ sớm ngừng hoạt động.</string>
   <string name="overheated_critical">Thiết bị quá nóng. Máy ảnh đã bị vô hiệu.</string>
   <string name="overheated_cooling">Máy ảnh bị vô hiệu khi thiết bị lạnh.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Ứng dụng máy ảnh không thể chạy vì nó đã không được cấp quyền.</string>
+  <string name="permission_camera">Cần phải có quyền truy cập <b>máy ảnh</b> thì mới chụp được ảnh.</string>
+  <string name="permission_storage">Cần phải có quyền truy cập <b>bộ nhớ</b> để lưu và xem ảnh.</string>
+  <string name="permission_microphone">Cần phải có quyền truy cập <b>micro</b> để quay video.</string>
+  <string name="permission_call_to_action">Đi đến <b>Cài đặt</b>, và chạm vào <b>Quyền truy cập</b> để cấp quyền.</string>
+  <string name="permission_location_denied">Bạn phải cấp quyền truy cập Vị trí cho ứng dụng này nếu bạn muốn gắn thẻ vị trí cho ảnh.</string>
+  <string name="no_video_trim">Không có ứng dụng nào khả dụng để cắt video.</string>
 </resources>

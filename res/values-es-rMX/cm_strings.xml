@@ -52,9 +52,17 @@
   <!-- preparing_sd is in strings.xml -->
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <!-- toast message for toast showing error of starting video capture -->
-  <!-- Fingerprint Sensor Image Capture -->
   <!-- Chromaflash -->
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
+  <string name="permission_missing">La aplicación de cámara no se puede ejecutar porque no se le han concedido permisos.</string>
+  <string name="permission_camera">Para tomar fotos es necesario dar permisos a la <b>cámara</b>.</string>
+  <string name="permission_storage">Es necesario el permiso de <b>almacenamiento de información</b> para guardar y ver fotos.</string>
+  <string name="permission_microphone">Es necesario el permiso de <b>micrófono</b> para grabar video.</string>
+  <string name="permission_call_to_action">Ve a <b>Ajustes</b> y pulsa <b>Permisos</b> para otorgarlos.</string>
+  <string name="permission_location_denied">Si quieres tomar fotos con ubicación, debes conceder permiso de ubicación a esta aplicación.</string>
+  <string name="no_video_trim">No hay una aplicación disponible para recortar vídeo.</string>
 </resources>

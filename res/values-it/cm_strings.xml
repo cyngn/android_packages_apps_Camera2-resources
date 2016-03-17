@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Tieni premuto il pulsante per effettuare scatti continui.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Non è possibile avviare una registrazione video. Il microfono è in uso?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Scatta selfie usando il lettore d\'impronte digitali</string>
-  <string name="fingerprint_intro_pane_learn_more">ULTERIORI INFO</string>
-  <string name="fingerprint_intro_dialog_title">Otturatore selfie</string>
-  <string name="fingerprint_intro_dialog_description">Localizza il sensore d\'impronte sul tuo telefono per fare selfie.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Il dispositivo è caldo. La fotocamera si arresterà.</string>
   <string name="overheated_critical">Il dispositivo è troppo caldo. La fotocamera è stata disattivata.</string>
   <string name="overheated_cooling">Fotocamera disabilitata mentre il dispositivo si raffredda.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">L\'app Fotocamera non può essere eseguite perché dei premessi sono stati negati.</string>
+  <string name="permission_camera">L\'accesso alla <b>fotocamera</b> è necessario per scattare foto.</string>
+  <string name="permission_storage">L\'accesso alla <b>memoria interna</b> è necessario per salvare e visualizzare le foto.</string>
+  <string name="permission_microphone">L\'accesso al <b>microfono</b> è necessario per registrare un video.</string>
+  <string name="permission_call_to_action">Vai in <b>Impostazioni</b> e seleziona <b>Permessi</b> per concedere l\'autorizzazione.</string>
+  <string name="permission_location_denied">Devi concedere l\'accesso alla localizzazione all\'app se vuoi aggiungere il tag della località alle foto.</string>
+  <string name="no_video_trim">Nessun\'app disponibile per tagliare video.</string>
 </resources>

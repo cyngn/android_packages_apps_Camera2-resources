@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Запаволенае прайграванне 60 к\сек.</string>
   <string name="pref_camera_hfr_entry_3x">Запаволенае прайграванне 90 к\сек.</string>
   <string name="pref_camera_hfr_entry_4x">Запаволенае прайграванне 120 к\сек.</string>
-  <string name="pref_camera_hfr_entry_8x">Запаволенае прайграванне 240 к\сек.</string>
   <string name="pref_camera_hfr_entry_hsr_60">Паскораная здымка 60 к\сек.</string>
   <string name="pref_camera_hfr_entry_hsr_90">Паскораная здымка 90 к\сек.</string>
   <string name="pref_camera_hfr_entry_hsr_120">Паскораная здымка 120 к\сек.</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Паскораная здымка 240 к\сек.</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Шумапрыглушэнне</string>

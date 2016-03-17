@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Задръжте натиснат бутона за снимане за да направите серия от снимки.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не може да стартира видео запис. Ще се използва ли микрофона?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Направете селфи използвайки сензора за пръстов отпечатък</string>
-  <string name="fingerprint_intro_pane_learn_more">Научете повече</string>
-  <string name="fingerprint_intro_dialog_title">Заснемане на селфи</string>
-  <string name="fingerprint_intro_dialog_description">Намерете сензора за пръстови отпечатъци на телефона си, за лесно заснемане на селфи.</string>
-  <string name="fingerprint_intro_dialog_button_text">Добре</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Наситеност на цвета на светкавицата</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Устройството е горещо. Камерата ще се изключи скоро.</string>
   <string name="overheated_critical">Устройството е твърде горещо. Камерата е дезактивирана.</string>
   <string name="overheated_cooling">Камерата е деактевирана, докато устройството се охлади.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Приложението Камера не работи, защото не му е дадено разрешение.</string>
+  <string name="permission_camera">Необходим е достъп <b>Камера</b> за да правите снимки.</string>
+  <string name="permission_storage">Необходим е достъп <b>Хранилище</b> за да съхранявате и преглеждате снимките.</string>
+  <string name="permission_microphone">Необходим е достъп <b>Микрофон</b>, за да запишете видеоклип.</string>
+  <string name="permission_call_to_action">Отидете в Настройки и кликнете върху \" Разрешения \" за да дадете разрешение за достъп.</string>
+  <string name="permission_location_denied">Трябва да дадете на приложението достъп до услугата за определяне на местоположението, ако искате да запаметявате координати в снимките.</string>
+  <string name="no_video_trim">Няма приложение за обработка видеоклиповете.</string>
 </resources>

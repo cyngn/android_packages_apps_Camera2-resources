@@ -33,9 +33,9 @@
   <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">שמור תמונה נקייה</string>
   <!-- Warn about Raw/Beauty mode conflict -->
-  <string name="beauty_mode_disables_raw">מצב יופי מבטל לכידת תמונה נקייה</string>
+  <string name="beauty_mode_disables_raw">מצב יופי משבית לכידת תמונה נקייה</string>
   <!-- Settings screen, ZSL enable toggle -->
-  <string name="pref_camera_zsl_enable_title">ללא עיכוב תריס</string>
+  <string name="pref_camera_zsl_enable_title">ללא עיכוב צמצם</string>
   <string name="pref_camera_zsl_enable_summary_on">לכידת תמונה מהירה</string>
   <string name="pref_camera_zsl_enable_summary_alt">לכידת תמונה מהירה וצילום רצף תמונות</string>
   <string name="pref_camera_zsl_enable_summary_off">איכות צילום טובה יותר באור נמוך</string>
@@ -74,17 +74,17 @@
   <string name="pref_camera_scenemode_entry_fallcolor">צבעי סתיו</string>
   <string name="pref_camera_scenemode_entry_fireworks">זיקוקים</string>
   <string name="pref_camera_scenemode_entry_flowers">פרחים</string>
-  <string name="pref_camera_scenemode_entry_handheldtwilight">דמדומים</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">ריצוד דמדומים טופל</string>
   <string name="pref_camera_scenemode_entry_highsensitivity">רגישות גבוהה</string>
   <string name="pref_camera_scenemode_entry_indoor">בתוך מבנים</string>
-  <string name="pref_camera_scenemode_entry_landscape">נוף</string>
+  <string name="pref_camera_scenemode_entry_landscape">נוף/רוחב</string>
   <string name="pref_camera_scenemode_entry_mix_illuminant">תאורה מעורבת</string>
   <string name="pref_camera_scenemode_entry_mood">מצב רוח</string>
   <string name="pref_camera_scenemode_entry_nightportrait">דיוקן לילה</string>
   <string name="pref_camera_scenemode_entry_nightindoor">לילה בתוך מבנה</string>
   <string name="pref_camera_scenemode_entry_oldfilm">סרט ישן</string>
   <string name="pref_camera_scenemode_entry_pet">חיית מחמד</string>
-  <string name="pref_camera_scenemode_entry_portrait">דיוקן</string>
+  <string name="pref_camera_scenemode_entry_portrait">דיוקן/אורך</string>
   <string name="pref_camera_scenemode_entry_snow">שלג</string>
   <string name="pref_camera_scenemode_entry_softskin">עור רך</string>
   <string name="pref_camera_scenemode_entry_sports">ספורט</string>
@@ -101,12 +101,12 @@
   <string name="pref_camera_focusmode_entry_facedetect">זיהוי פנים</string>
   <string name="pref_camera_focusmode_entry_facepriority">עדיפות לפנים</string>
   <string name="pref_camera_focusmode_entry_fixed">קבוע</string>
-  <string name="pref_camera_focusmode_entry_portrait">דיוקן</string>
+  <string name="pref_camera_focusmode_entry_portrait">דיוקן/אורך</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">מיקוד יתר</string>
   <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">שטוף</string>
-  <string name="pref_camera_coloreffect_entry_vintage_warm">וינטאיג\' חם</string>
-  <string name="pref_camera_coloreffect_entry_vintage_cold">וינטאיג\' קר</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">וינטג\' חם</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">וינטג\' קר</string>
   <string name="pref_camera_coloreffect_entry_point_blue">הצבע הכחול</string>
   <string name="pref_camera_coloreffect_entry_point_green">הצבע הירוק</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">הצבע האדום-צהוב</string>
@@ -139,7 +139,7 @@
   <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">נקה תמונה</string>
   <!-- Slow shutter modes -->
-  <string name="pref_camera_slow_shutter_title">תריס איטי</string>
+  <string name="pref_camera_slow_shutter_title">צמצם איטי</string>
   <string name="pref_camera_slow_shutter_delay_title">האט מהירות צמצם</string>
   <string name="pref_camera_slow_shutter_entry_off">כבוי</string>
   <string name="pref_camera_slow_shutter_entry_auto">אוטומטי</string>
@@ -160,11 +160,11 @@
   <string name="camera_menu_effects_label">אפקטים</string>
   <string name="camera_menu_asd_label">סצנה חכמה</string>
   <!-- More Settings screen, power button title -->
-  <string name="pref_camera_power_shutter_title">לחצן צילום</string>
-  <string name="pref_camera_power_shutter_summary">כפתור כיבוי מצלם תמונה</string>
+  <string name="pref_camera_power_shutter_title">צילום בלחיצה על לחצן ההפעלה</string>
+  <string name="pref_camera_power_shutter_summary">לחצן ההפעלה מצלם תמונה</string>
   <string name="pref_camera_left_handed_title">שמאלי</string>
-  <string name="pref_camera_left_handed_summary">כוון בקרה עבור שמאליים</string>
-  <string name="camera_storage_fallback">מחזיר למיקום אחסון ברירת מחדל</string>
+  <string name="pref_camera_left_handed_summary">התאם פקדים עבור שמאליים</string>
+  <string name="camera_storage_fallback">חוזר למיקום אחסון ברירת מחדל</string>
   <string name="no_storage_sd">לא הוכנס כרטיס זיכרון, או שהוא נעול לשינויים.</string>
   <string name="no_storage_usb">לא הוכנס אחסון USB, או שהוא נעול לשינויים.</string>
   <!-- access_sd_fail is in strings.xml -->
@@ -177,8 +177,8 @@
   <string name="spaceIsLow_usb">אוזל המקום באחסון ה-USB שלך.</string>
   <string name="spaceIsLow_storage">אוזל המקום באחסון שלך.</string>
   <string name="alternate_storage_none">שנה את הגדרות איכות התמונה, או מחק כמה תמונות ישנות או קבצים אחרים.</string>
-  <string name="alternate_storage_sd_card">מחק כמה תמונות או קבצים אחרים, או שתשתמש בכרטיס זיכרון.</string>
-  <string name="alternate_storage_usb">מחק כמה תמונות או קבצים אחרים, או שתשתמש באחסון USB.</string>
+  <string name="alternate_storage_sd_card">מחק כמה תמונות או קבצים אחרים, או השתמש בכרטיס זיכרון.</string>
+  <string name="alternate_storage_usb">מחק כמה תמונות או קבצים אחרים, או השתמש באחסון USB.</string>
   <string name="pref_camera_volume_zoom_title">התקרבות עם לחצני קול</string>
   <string name="pref_camera_volume_zoom_summary">מקשי הקול שולטים בהתקרבות</string>
   <string name="pref_max_brightness_title">מסך בהיר</string>
@@ -190,21 +190,17 @@
   <string name="pref_section_other">אחר</string>
   <string name="msg_cancel_longshot_for_limited_memory">נשאר מעט זיכרון פנוי, עוצר צילום!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
-  <string name="hold_for_burst">החזק את הצמצם כדי לקחת רצף תמונות.</string>
+  <string name="hold_for_burst">החזק צמצם לצילום רצף תמונות.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">אין אפשרות להתחיל הקלטת וידאו. האם המיקרופון נמצא בשימוש?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">צילום סלפי באמצעות סורק טביעות האצבע</string>
-  <string name="fingerprint_intro_pane_learn_more">למד עוד</string>
-  <string name="fingerprint_intro_dialog_title">צילום סלפי</string>
-  <string name="fingerprint_intro_dialog_description">אתרו את מיקום סורק טביעות האצבע במכשירכם כדי לצלם תמונות סלפי בקלות.</string>
-  <string name="fingerprint_intro_dialog_button_text">אישור</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">המכשיר חם. המצלמה תיעצר בקרוב.</string>
   <string name="overheated_critical">המכשיר חם מדי. המצלמה הושבתה.</string>
   <string name="overheated_cooling">המצלמה מושבתת בזמן שהמכשיר מתקרר.</string>
+  <!-- Permissions -->
 </resources>

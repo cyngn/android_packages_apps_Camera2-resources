@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Hold udløseren nede for serieoptagelse.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Kan ikke starte en video-optagelse. Er mikrofonen i brug?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Tag selfies ved hjælp af fingeraftrykssensoren</string>
-  <string name="fingerprint_intro_pane_learn_more">LÆR MERE</string>
-  <string name="fingerprint_intro_dialog_title">Selfie lukker</string>
-  <string name="fingerprint_intro_dialog_description">Find fingeraftrykssensoren på telefonen for nemt at tage selfies.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaBlitz</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Enheden er varm. Kameraet vil snart stoppe.</string>
   <string name="overheated_critical">Enheden er for varm. Kameraet er blevet deaktiveret.</string>
   <string name="overheated_cooling">Kameraet er deaktiveret mens enheden køler af.</string>
+  <!-- Permissions -->
 </resources>

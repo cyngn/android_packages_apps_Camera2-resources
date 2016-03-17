@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Pidä laukaisinta pohjassa ottaaksesi sarjakuvaa.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Videokuvaamista ei voi aloitaa. Onko mikrofoni käytössä?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Ota selfieitä käyttäen sormenjälkiskanneria</string>
-  <string name="fingerprint_intro_pane_learn_more">LUE LISÄÄ</string>
-  <string name="fingerprint_intro_dialog_title">Selfie-suljin</string>
-  <string name="fingerprint_intro_dialog_description">Etsi sormenjälkitunnistin puhelimestasi ottaaksesi selfien helposti.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Laite on kuuma. Kamera pysähtyy pian.</string>
   <string name="overheated_critical">Laite on liian kuuma. Kamera on poistettu käytöstä.</string>
   <string name="overheated_cooling">Kamera on poistettu käytöstä kunnes laite viilenee.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Kamera-sovelluksta ei voi suorittaa koska sille ei ole myönnetty tarvittavia käyttöoikeuksia.</string>
+  <string name="permission_camera"><b>Kameran</b> käyttöoikeus tarvitaan kuvien ottamiseen.</string>
+  <string name="permission_storage"><b>Tallennustilan</b> käyttöoikeus tarvitaan kuvien tallentamiseen ja tarkasteluun.</string>
+  <string name="permission_microphone"><b>Mikrofonin</b> käyttöoikeus tarvitaan videokuvaamiseen.</string>
+  <string name="permission_call_to_action">Mene <b>Asetuksiin</b>, ja valitse <b>Käyttöoikeudet</b> myöntääksesi luvan.</string>
+  <string name="permission_location_denied">Sinun tulee sallia sijainnin käyttöoikeus jos haluat merkitä sijainnin kuviin.</string>
+  <string name="no_video_trim">Videon leikkaamiseen sopivaa sovellusta ei ole asennettu.</string>
 </resources>

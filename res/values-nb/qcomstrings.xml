@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Slow Motion 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Slow Motion 60 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Slow Motion 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Slow Motion 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Høy hastighet 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Høy hastighet 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Høy hastighet 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Høy hastighet 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Wavelet Denoise modus</string>

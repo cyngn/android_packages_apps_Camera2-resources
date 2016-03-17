@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Slow motion 60 fps</string>
   <string name="pref_camera_hfr_entry_3x">Slow motion 90 fps</string>
   <string name="pref_camera_hfr_entry_4x">Slow motion 120 fps</string>
-  <string name="pref_camera_hfr_entry_8x">Slow motion 240 fps</string>
   <string name="pref_camera_hfr_entry_hsr_60">Hoge snelheid 60 fps</string>
   <string name="pref_camera_hfr_entry_hsr_90">Hoge snelheid 90 fps</string>
   <string name="pref_camera_hfr_entry_hsr_120">Hoge snelheid 120 fps</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Hoge snelheid 240 fps</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Kleurruis verwijderen</string>

@@ -193,9 +193,10 @@
   <string name="hold_for_burst">Caltén primíu\'l disparador pa tomar semeyes múltiples.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nun pue aniciase la grabación. ¿Ta usándose\'l micrófonu?</string>
-  <!-- Fingerprint Sensor Image Capture -->
   <!-- Chromaflash -->
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <!-- Permissions -->
 </resources>

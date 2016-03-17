@@ -193,18 +193,22 @@
   <string name="hold_for_burst">Удерживайте кнопку затвора для серийной съёмки.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Не удается начать запись видео. Микрофон используется в другом приложении?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Делайте автопортреты касанием сканера отпечатков пальцев</string>
-  <string name="fingerprint_intro_pane_learn_more">ПОДРОБНЕЕ</string>
-  <string name="fingerprint_intro_dialog_title">Съёмка автопортретов</string>
-  <string name="fingerprint_intro_dialog_description">Найдите сканер отпечатков пальцев на устройстве, чтобы делать автопортреты.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Устройство перегрелось. Камера скоро отключится.</string>
   <string name="overheated_critical">Устройство перегрелось. Камера была отключена.</string>
   <string name="overheated_cooling">Камера отключена до остывания устройства.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Приложение камеры невозможно запустить, поскольку ему не предоставлено разрешение.</string>
+  <string name="permission_camera">Чтобы делать снимки, требуется разрешение <b>на доступ к камере</b>.</string>
+  <string name="permission_storage">Для сохранения и просмотра фотографий требуется разрешение <b>на доступ к памяти устройства</b>.</string>
+  <string name="permission_microphone">Для записи видео требуется разрешение <b>на доступ к микрофону</b>.</string>
+  <string name="permission_call_to_action">Перейдите в <b>Настройки</b> и нажмите <b>«Разрешения»</b>, чтобы предоставить доступ.</string>
+  <string name="permission_location_denied">Необходимо предоставить разрешение этому приложению, если вы хотите прикрепить к фотографии местоположение.
+</string>
+  <string name="no_video_trim">Нет приложений для обрезания видео.</string>
 </resources>

@@ -32,7 +32,7 @@
   <string name="pref_camera_powermode_title">מצב צריכת חשמל</string>
   <!-- Settings screen, Power mode dialog radio button choices -->
   <string name="pref_camera_powermode_entry_lp">צריכת חשמל נמוכה</string>
-  <string name="pref_camera_powermode_entry_np">צריכה רגילה</string>
+  <string name="pref_camera_powermode_entry_np">צריכת חשמל רגילה</string>
   <!-- Settings screen, Power mode dialog radio button choices -->
   <!-- Default Power mode.. -->
   <!-- Default auto exposure setting. Do not translate. -->
@@ -60,14 +60,14 @@
   <string name="pref_camera_video_duration_entry_30">30 דקות</string>
   <!-- Default Skin Tone Enhancement setting. Do not translate. -->
   <!-- Settings screen, Select Skin Tone Enhancement title -->
-  <string name="pref_camera_skinToneEnhancement_title">שיפור גוון</string>
+  <string name="pref_camera_skinToneEnhancement_title">שיפור גוון עור</string>
   <!-- Settings screen, Skin Tone Enhancement radio button choices -->
-  <string name="pref_camera_skinToneEnhancement_entry_enable">הפעל</string>
-  <string name="pref_camera_skinToneEnhancement_entry_disable">השבת</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">מופעל</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">כבוי</string>
   <!-- Skin Tone Enhancement entry values. Do not translate. -->
   <!-- Default selectable zone af setting. Do not translate. -->
   <!-- Settings screen, Selectable zone af title -->
-  <string name="pref_camera_selectablezoneaf_title">אשור פוקוס אוטומטי</string>
+  <string name="pref_camera_selectablezoneaf_title">אזור פוקוס אוטומטי</string>
   <!-- Settings screen, Selectable Zone Af dialog radio button choices -->
   <string name="pref_camera_selectablezoneaf_entry_auto">אוטומטי</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">אזור מדידה</string>
@@ -76,7 +76,7 @@
   <!-- Auto exposure entry values. Do not translate. -->
   <!-- Settings screen, Video HDR location dialog choices -->
   <string name="pref_camera_video_hdr_entry_off">כבוי</string>
-  <string name="pref_camera_video_hdr_entry_on">פועל</string>
+  <string name="pref_camera_video_hdr_entry_on">מופעל</string>
   <!-- Settings screen, setting title text for Video HDR-->
   <string name="pref_camera_video_hdr_title">HDR וידאו</string>
   <!-- Default face  detection setting. -->
@@ -91,8 +91,8 @@
   <!-- Settings screen, Select Redeye Reduction -->
   <string name="pref_camera_redeyereduction_title">הפחתת עיניים אדומות</string>
   <!-- Settings menu, redeye reduction choices -->
-  <string name="pref_camera_redeyereduction_entry_enable">הפעל</string>
-  <string name="pref_camera_redeyereduction_entry_disable">השבת</string>
+  <string name="pref_camera_redeyereduction_entry_enable">מופעל</string>
+  <string name="pref_camera_redeyereduction_entry_disable">כבוי</string>
   <!-- The message is shown in dialog when the app encounters an unsupported resolution for HFR mode -->
   <string name="error_app_unsupported_hfr">סרטוני הילוך איטי אינם נתמכים ברזולוציה שנבחרה</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video codec for HFR mode -->
@@ -103,7 +103,7 @@
   <!-- Settings screen, AE bracketing and HDR location dialog choices -->
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_title">תיחום חשיפה אוטומטי</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_on">פועל</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_on">מופעל</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">כבוי</string>
   <!-- Default hfr setting. Do not translate. -->
   <!-- Settings screen, Select hfr title -->
@@ -115,17 +115,15 @@
   <string name="pref_camera_hfr_entry_2x">הילוך איטי - 60 פריימים/שנייה</string>
   <string name="pref_camera_hfr_entry_3x">הילוך איטי - 90 פריימים/שנייה</string>
   <string name="pref_camera_hfr_entry_4x">הילוך איטי - 120 פריימים/שנייה</string>
-  <string name="pref_camera_hfr_entry_8x">הילוך איטי - 240 פריימים/שנייה</string>
   <string name="pref_camera_hfr_entry_hsr_60">מהירות גבוהה - 60 פריימים/שנייה</string>
   <string name="pref_camera_hfr_entry_hsr_90">מהירות גבוהה - 90 פריימים/שנייה</string>
   <string name="pref_camera_hfr_entry_hsr_120">מהירות גבוהה - 120 פריימים/שנייה</string>
-  <string name="pref_camera_hfr_entry_hsr_240">מהירות גבוהה - 240 פריימים/שנייה</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">מצב Wavelet Denoise</string>
   <!-- Denoise Settings screen, Record location dialog choices -->
   <string name="pref_camera_denoise_entry_off">כבוי</string>
-  <string name="pref_camera_denoise_entry_on">פועל</string>
+  <string name="pref_camera_denoise_entry_on">מופעל</string>
   <!-- Default iso setting. Do not translate. -->
   <!-- Settings screen, Select Iso title -->
   <string name="pref_camera_iso_title">ISO</string>
@@ -156,11 +154,11 @@
   <string name="pref_camera_coloreffect_entry_negative">נגטיבי</string>
   <!-- Color effect that overexposes and reverses some of the tones. -->
   <string name="pref_camera_coloreffect_entry_solarize">סולריזציה</string>
-  <string name="pref_camera_coloreffect_entry_posterize">פוסטריזציה</string>
+  <string name="pref_camera_coloreffect_entry_posterize">איחוד גוונים</string>
   <string name="pref_camera_coloreffect_entry_aqua">אקווה</string>
-  <string name="pref_camera_coloreffect_entry_emboss">אמבוס</string>
+  <string name="pref_camera_coloreffect_entry_emboss">הבלטה</string>
   <string name="pref_camera_coloreffect_entry_sketch">סקיצה</string>
-  <string name="pref_camera_coloreffect_entry_neon">נאון</string>
+  <string name="pref_camera_coloreffect_entry_neon">ניאון</string>
   <string name="pref_camera_coloreffect_entry_pastel">פסטל</string>
   <string name="pref_camera_coloreffect_entry_mosaic">פסיפס</string>
   <string name="pref_camera_coloreffect_entry_redtint">גוון אדום</string>
@@ -171,17 +169,17 @@
   <string name="pref_camera_touchafaec_title">מגע AF/AEC</string>
   <!-- Settings screen, Touch AF/AEC dialog radio button choices -->
   <string name="pref_camera_touchafaec_entry_off">כבוי</string>
-  <string name="pref_camera_touchafaec_entry_on">דלוק</string>
+  <string name="pref_camera_touchafaec_entry_on">מופעל</string>
   <!-- Select DIS title -->
   <string name="pref_camera_dis_title">מייצב תמונה דיגיטלי</string>
   <!-- DIS choices -->
   <string name="pref_camera_dis_entry_off">כבוי</string>
-  <string name="pref_camera_dis_entry_on">פועל</string>
+  <string name="pref_camera_dis_entry_on">מופעל</string>
   <!-- Select Face Recognition title -->
   <string name="pref_camera_facerc_title">זיהוי פנים</string>
   <!-- Face Recognition choices -->
   <string name="pref_camera_facerc_entry_off">כבוי</string>
-  <string name="pref_camera_facerc_entry_on">פועל</string>
+  <string name="pref_camera_facerc_entry_on">מופעל</string>
   <!-- Settings screen, Multiple levels entries -->
   <string name="pref_camera_sharpness_entry_level0">רמה 0</string>
   <string name="pref_camera_sharpness_entry_level1">רמה 1</string>
@@ -245,7 +243,7 @@
   <string name="pref_camera_histogram_title">היסטוגרמה</string>
   <!-- Settings screen, Histogram radio button choices -->
   <string name="pref_camera_histogram_entry_enable">הפעל</string>
-  <string name="pref_camera_histogram_entry_disable">השבת</string>
+  <string name="pref_camera_histogram_entry_disable">כבוי</string>
   <!-- Histogram entry values. Do not translate. -->
   <!-- Default auto scene detection setting. -->
   <!-- Settings screen, Select Auto Scene Detection -->

@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Спов. рух 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Спов. рух 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Спов. рух 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Спов. рух 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Прискорена швидкість 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Прискорена швидкість 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Прискорена швидкість 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Прискорена швидкість 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Шумопониження</string>

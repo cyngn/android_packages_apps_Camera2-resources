@@ -143,18 +143,14 @@
   <string name="hold_for_burst">Prema o obturador para sacar unha ráfaga.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Non se pode comenzar a gravar. Estase a utilizar o micrófono?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Saca autorretratos co sensor de pegadas dixitais</string>
-  <string name="fingerprint_intro_pane_learn_more">SABER MÁIS</string>
-  <string name="fingerprint_intro_dialog_title">Obturador de autorretratos</string>
-  <string name="fingerprint_intro_dialog_description">Busque o sensor de pegadas dixitais do seu teléfono para sacar autorretratos dun xeito máis doado.</string>
-  <string name="fingerprint_intro_dialog_button_text">Aceptar</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">O dispositivo está quente. A cámara deterase agora.</string>
   <string name="overheated_critical">O dispositivo está moi quente. Desactivouse a cámara.</string>
   <string name="overheated_cooling">A cámara está desactivada mentres se arrefría o terminal.</string>
+  <!-- Permissions -->
 </resources>

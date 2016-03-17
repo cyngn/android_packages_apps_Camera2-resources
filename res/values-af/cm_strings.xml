@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Hou sluiter om sarsie foto\'s te neem.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Kan nie video opname begin nie. Is mikrofoon in gebruik?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Neem selfies met behulp van die vingerafdruk sensor</string>
-  <string name="fingerprint_intro_pane_learn_more">LEER MEER</string>
-  <string name="fingerprint_intro_dialog_title">Selfie sluiter</string>
-  <string name="fingerprint_intro_dialog_description">Vind die vingerafdruk sensor op jou selfoon om maklik selfies te neem.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Toestel is warm. Kamera gaan binnekort ophou werk.</string>
   <string name="overheated_critical">Toestel is te warm. Kamera is gedeaktiveer.</string>
   <string name="overheated_cooling">Kamera is geaktiveer terwyl toestel afkoel.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Die kamera toep kan nie begin nie omdat dit nie toestemming het om te hardloop nie.</string>
+  <string name="permission_camera"><b>Kamera</b> toestemming word benodig om foto\'s te neem.</string>
+  <string name="permission_storage"><b>Stoor spasie</b> toestemming word benodig om foto\'s te kyk of stoor.</string>
+  <string name="permission_microphone"><b>Mikrofoon</b> toestemming word benodig om video op te neem.</string>
+  <string name="permission_call_to_action">Gaan na <b>Instellings</b> en raak <b>Program toestemmings</b> om toestemming te verleen.</string>
+  <string name="permission_location_denied">Jy moet Ligging toestemming gee na hierdie toep as jy die ligging wil byvoeg in foto\'s.</string>
+  <string name="no_video_trim">Geen toep beskikbaar om video te snoei nie.</string>
 </resources>

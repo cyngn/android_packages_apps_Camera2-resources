@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Podržením spouště provést vícenásobné snímání.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nelze spustit nahrávání videa. Není používán mikrofon?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Pořídit selfie pomocí snímače otisku prstů</string>
-  <string name="fingerprint_intro_pane_learn_more">ZJISTIT VÍCE</string>
-  <string name="fingerprint_intro_dialog_title">Spoušť pro selfie</string>
-  <string name="fingerprint_intro_dialog_description">Pro jednoduché pořízení selfie najděte snímač otisku prstů na telefonu.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Zařízení je horké. Fotoaparát bude brzy ukončen.</string>
   <string name="overheated_critical">Zařízení je příliš horké. Fotoaparát byl dočasně zakázán.</string>
   <string name="overheated_cooling">Fotoaparát je do vychladnutí zařízení zakázán.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Aplikace pro fotoaparát není možné spustit, protože nemá přidělená potřebná oprávnění.</string>
+  <string name="permission_camera">Pro pořizování fotografií je potřeba oprávnění <b>Fotoaparát</b>.</string>
+  <string name="permission_storage">Pro ukládání a zobrazování fotografií je potřeba oprávnění <b>Úložiště</b>.</string>
+  <string name="permission_microphone">Pro zaznamenávání videa je potřeba oprávnění <b>Mikrofon</b>.</string>
+  <string name="permission_call_to_action">Přejděte na <b>Nastavení</b> a volbou <b>Oprávnění</b> provedete udělení požadovaného oprávnění.</string>
+  <string name="permission_location_denied">Pokud chcete ukládat do fotografií informace o poloze, je potřeba oprávnění <b>Umístění</b>.</string>
+  <string name="no_video_trim">Pro střih videa není dostupná žádná nainstalovaná aplikace.</string>
 </resources>

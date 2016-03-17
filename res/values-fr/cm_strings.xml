@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Maintenir le bouton déclencheur appuyé pour prendre en rafale.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Impossible de démarrer un enregistrement vidéo. Le micro est-il utilisé ?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Prendre des selfies en utilisant le lecteur d\'empreintes digitales</string>
-  <string name="fingerprint_intro_pane_learn_more">EN SAVOIR PLUS</string>
-  <string name="fingerprint_intro_dialog_title">Déclencheur pour selfie</string>
-  <string name="fingerprint_intro_dialog_description">Localisez le lecteur d’empreintes digitales sur votre téléphone pour prendre des selfies facilement.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Chromaflash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">L\'appareil est chaud. L\'appareil photo va bientôt se désactiver temporairement.</string>
   <string name="overheated_critical">L\'appareil est trop chaud. L\'appareil photo a été désactivé temporairement.</string>
   <string name="overheated_cooling">L\'appareil photo est désactivé pendant que l\'appareil refroidit.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Impossible d\'exécuter l\'application appareil photo car l\'autorisation ne lui a pas été accordée.</string>
+  <string name="permission_camera">Une autorisation pour <b>Appareil photo</b> est requise pour prendre des photos.</string>
+  <string name="permission_storage">Une autorisation de <b>Stockage</b> est requise pour enregistrer et afficher des photos.</string>
+  <string name="permission_microphone">Une autorisation pour le <b>Microphone</b> est requise pour enregistrer des vidéos.</string>
+  <string name="permission_call_to_action">Aller dans <b>Paramètres</b> et cliquer sur <b>Autorisations</b> pour accorder l\'autorisation.</string>
+  <string name="permission_location_denied">Vous devez accorder l\'autorisation à cette application d\'accéder à votre position si vous souhaitez taguer vos photos avec la position de la prise.</string>
+  <string name="no_video_trim">Aucune application disponible pour couper la vidéo.</string>
 </resources>

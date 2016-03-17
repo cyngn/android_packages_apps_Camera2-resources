@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Zadržite okidač za višestruki snimak.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nije moguće pokrenuti video snimanje. Da li se mikrofon koristi?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Napravite selfie pomoću senzora otiska</string>
-  <string name="fingerprint_intro_pane_learn_more">NAUČI VIŠE</string>
-  <string name="fingerprint_intro_dialog_title">Selfie okidač</string>
-  <string name="fingerprint_intro_dialog_description">Nađite senzor otiska na telefonu za lako pravljenje selfija.</string>
-  <string name="fingerprint_intro_dialog_button_text">U redu</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Uređaj je vruć. Kamera će se uskoro isključiti.</string>
   <string name="overheated_critical">Uređaj je previše vruć. Kamera je onemogućena.</string>
   <string name="overheated_cooling">Kamera je onemogućena dok se uređaj ne ohladi.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Aplikacija Kamera ne može se pokrenuti jer nema odobreno dopuštenje.</string>
+  <string name="permission_camera"><b>Kamera</b> dopuštenje je potrebno za slikanje.</string>
+  <string name="permission_storage"><b>Pohrana</b> dopuštenje je potrebno za spremanje i pregledavanje fotografija.</string>
+  <string name="permission_microphone"><b>Mikrofon</b> dopuštenje je potrebno za snimanje videozapisa.</string>
+  <string name="permission_call_to_action">Idite u <b>Postavke</b>, i dodirnite <b>Dozvole</b> za odobravanje dopuštenja.</string>
+  <string name="permission_location_denied">Morate dati dopuštenje o lokaciji ovoj aplikaciji ako želite označiti fotografije s lokacijom.</string>
+  <string name="no_video_trim">Nema dostupnih aplikacija za obrezivanje videozapisa.</string>
 </resources>

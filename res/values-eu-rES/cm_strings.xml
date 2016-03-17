@@ -193,18 +193,21 @@
   <string name="hold_for_burst">Mantendu kliskagailua sakatuta argazki sorta ateratzeko.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Ezin da bideo grabaketa hasi, mikrofonoa okupatuta dago?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Atera auto-argazkiak hatz-marka sentsorearekin</string>
-  <string name="fingerprint_intro_pane_learn_more">IKASI GEHIAGO</string>
-  <string name="fingerprint_intro_dialog_title">Auto-argazkien kakoa</string>
-  <string name="fingerprint_intro_dialog_description">Kokatu hatz-marka sentsorea zure telefonoan auto-argazkiak erraz ateratzeko.</string>
-  <string name="fingerprint_intro_dialog_button_text">ADOS</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Gailua bero dago. Kamera laster geldituko da.</string>
   <string name="overheated_critical">Gailua beroegi dago. Kamera une batez desgaitu da.</string>
   <string name="overheated_cooling">Kamera desgaituta dago gailua hoztu bitartean.</string>
+  <!-- Permissions -->
+  <string name="permission_missing">Kamera aplikazioa ezin da abiatu ez zaizkiolako baimenak eman.</string>
+  <string name="permission_camera"><b>Kamera</b> baimena behar da argazkiak ateratzeko.</string>
+  <string name="permission_storage"><b>Biltegiratze</b> baimena behar da argazkiak gordetzeko eta ikusteko.</string>
+  <string name="permission_microphone"><b>Mikrofono</b> baimena behar da bideoa grabatzeko.</string>
+  <string name="permission_call_to_action">Zoaz <b>Ezarpenak</b> atalera eta sakatu <b>Baimenak</b> baimena emateko.</string>
+  <string name="permission_location_denied">Kokaleku baimena eman behar diozu aplikazio honi argazkietara kokalekuaren etiketa gehitu nahi baduzu.</string>
+  <string name="no_video_trim">Ez dago bideoa ebakitzeko aplikaziorik erabilgarri.</string>
 </resources>

@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Počasni posnetek 60 sl./s</string>
   <string name="pref_camera_hfr_entry_3x">Počasni posnetek 90 sl./s</string>
   <string name="pref_camera_hfr_entry_4x">Počasni posnetek 120 sl./s</string>
-  <string name="pref_camera_hfr_entry_8x">Počasni posnetek 240 sl./s</string>
   <string name="pref_camera_hfr_entry_hsr_60">Visoka hitrost 60 sl./s</string>
   <string name="pref_camera_hfr_entry_hsr_90">Visoka hitrost 90 sl./s</string>
   <string name="pref_camera_hfr_entry_hsr_120">Visoka hitrost 120 sl./s</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Visoka hitrost 240 sl./s</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Odstranjevanje šuma</string>

@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Запис с 60 кадъра в секунда</string>
   <string name="pref_camera_hfr_entry_3x">Запис с 90 кадъра в секунда</string>
   <string name="pref_camera_hfr_entry_4x">Запис с 120 кадъра в секунда</string>
-  <string name="pref_camera_hfr_entry_8x">Запис с 240 кадъра в секунда</string>
   <string name="pref_camera_hfr_entry_hsr_60">Висока скорост 60 кадъра в секунда</string>
   <string name="pref_camera_hfr_entry_hsr_90">Висока скорост 60 кадъра в секунда</string>
   <string name="pref_camera_hfr_entry_hsr_120">Висока скорост 120 кадъра в секунда</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Висока скорост 240 кадъра в секунда</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Режим за намаляване на шум</string>

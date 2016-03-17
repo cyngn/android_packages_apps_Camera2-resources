@@ -193,18 +193,14 @@
   <string name="hold_for_burst">برای عکسبرداری پشت سر هم شاتر را نگه دارید.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ضبط ویدئو شروع نشد. آیا میکروفن در حال استفاده است؟</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">گرفتن سلفی با استفاده از حسگر اثر انگشت</string>
-  <string name="fingerprint_intro_pane_learn_more">بیشتر بدانید</string>
-  <string name="fingerprint_intro_dialog_title">گرفتن عکس سلفی</string>
-  <string name="fingerprint_intro_dialog_description">برای گرفتن سلفی به راحتی، مکان حسگر اثر انگشت را بر روی گوشی خود پیدا کنید.</string>
-  <string name="fingerprint_intro_dialog_button_text">بسیارخب</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">فلش رنگی</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">دستگاه داغ است. دوربین متوقف خواهد شد.</string>
   <string name="overheated_critical">دستگاه بسیار داغ است. دوربین غیرفعال شده است.</string>
   <string name="overheated_cooling">دوربین تا خنک شدن دستگاه غیرفعال است.</string>
+  <!-- Permissions -->
 </resources>

@@ -17,44 +17,190 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Settings screen, camera section -->
+  <string name="pref_camera_camera_section">কেমেৰা</string>
   <!-- Settings screen, video section -->
+  <string name="pref_camera_video_section">ভিডিঅ’</string>
   <!-- Settings screen, general section -->
+  <string name="pref_camera_general_section">সাধাৰণ</string>
   <!-- Settings screen, Picture size title, the word Size only -->
+  <string name="pref_camera_picturesize_short_title">আকাৰ</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
+  <string name="pref_camera_jpegquality_short_title">মানদণ্ড</string>
   <!-- Settings screen, Viewfinder choice -->
+  <string name="pref_camera_viewfinder_title">ভিউফাইণ্ডাৰ</string>
+  <string name="pref_camera_viewfinder_fullscreen">ফুল স্ক্ৰীণ</string>
+  <string name="pref_camera_viewfinder_letterbox">লেটাৰবক্স</string>
   <!-- Settings screen, Raw mode toggle -->
+  <string name="pref_camera_raw_mode_title">raw প্ৰতিচ্ছবি সংৰক্ষণ কৰক</string>
   <!-- Warn about Raw/Beauty mode conflict -->
+  <string name="beauty_mode_disables_raw">বিউটি মোডে raw কেপচাৰ অক্ষম কৰে</string>
   <!-- Settings screen, ZSL enable toggle -->
+  <string name="pref_camera_zsl_enable_title">জিৰো শ্বাটাৰ টেগ</string>
+  <string name="pref_camera_zsl_enable_summary_on">দ্ৰুত প্ৰতিচ্ছবি কেপচাৰ</string>
+  <string name="pref_camera_zsl_enable_summary_alt">দ্ৰুত প্ৰতিচ্ছবি কেপচাৰ আৰু বাৰ্ষ্ট শ্বট</string>
+  <string name="pref_camera_zsl_enable_summary_off">ভাল নিম্ন লাইট গুণমান</string>
   <!-- The Video quality settings in preference -->
+  <string name="pref_video_quality_alt_title">ভিডিঅ\' আকাৰ</string>
   <!-- The Video quality settings in preference, word Size only -->
+  <string name="pref_video_quality_short_title">আকাৰ</string>
   <!-- Separate video focus modes preference - specifically for bacon -->
   <!-- common aspect ratios -->
   <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <string name="pref_camera_aspectratio_wide">ৱাইড</string>
   <!-- format for entries in the picture size menu. Parameter one is aspect ratio
          parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
          NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
          will be multiplied by 100 as those languages want to count by ten thousands -->
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f মেগাপিক্সেল</string>
   <!-- Settings screen, scene mode -->
+  <string name="pref_camera_scenemode_entry_antimotionblur">মোচন দাগ, অস্পষ্ট হ্ৰাসকৰণ</string>
+  <string name="pref_camera_scenemode_entry_aqua">একুৱা</string>
+  <string name="pref_camera_scenemode_entry_ar">বৰ্ধিত বাস্তৱতা</string>
+  <string name="pref_camera_scenemode_entry_asd">সৰ্বোৎকৃষ্ট শ্বট</string>
+  <string name="pref_camera_scenemode_entry_baby">কেচুঁৱা</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">পৃষ্ঠভূমি দাগ, অস্পষ্ট</string>
+  <string name="pref_camera_scenemode_entry_backlight">বেকলাইট</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">বেকলাইট প’ৰ্ট্ৰেইট</string>
+  <string name="pref_camera_scenemode_entry_barcode">বাৰক\'ড</string>
+  <string name="pref_camera_scenemode_entry_beach">সমুদ্ৰতীৰ</string>
+  <string name="pref_camera_scenemode_entry_beauty">সৌন্দৰ্য</string>
+  <string name="pref_camera_scenemode_entry_candlelight">কেণ্ডেললাইট</string>
+  <string name="pref_camera_scenemode_entry_cine">চিনে</string>
+  <string name="pref_camera_scenemode_entry_closeup">ক্লোজআপ</string>
+  <string name="pref_camera_scenemode_entry_dark">আন্ধাৰ</string>
+  <string name="pref_camera_scenemode_entry_dish">ডিশ্ব</string>
+  <string name="pref_camera_scenemode_entry_duskdawn">ডাস্কডন</string>
+  <string name="pref_camera_scenemode_entry_document">নথি-পত্ৰ</string>
+  <string name="pref_camera_scenemode_entry_fallcolor">ফলকালাৰ</string>
+  <string name="pref_camera_scenemode_entry_fireworks">ফয়াৰৱৰ্কচ</string>
+  <string name="pref_camera_scenemode_entry_flowers">ফুলবোৰ</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">হেণ্ডহেল্ড টুইলাইট</string>
+  <string name="pref_camera_scenemode_entry_highsensitivity">উচ্চ সংবেদনশীলতা</string>
+  <string name="pref_camera_scenemode_entry_indoor">ইনডোৰ</string>
+  <string name="pref_camera_scenemode_entry_landscape">লেণ্ডস্কেপ</string>
+  <string name="pref_camera_scenemode_entry_mix_illuminant">মিশ্ৰিত লাইটিং</string>
+  <string name="pref_camera_scenemode_entry_mood">মুড</string>
+  <string name="pref_camera_scenemode_entry_nightportrait">নৈশ প’ৰ্ট্ৰেইট</string>
+  <string name="pref_camera_scenemode_entry_nightindoor">নৈশ ইনডোৰ</string>
+  <string name="pref_camera_scenemode_entry_oldfilm">পুৰণি ফিল্ম</string>
+  <string name="pref_camera_scenemode_entry_pet">পেট</string>
+  <string name="pref_camera_scenemode_entry_portrait">প’ৰ্ট্ৰেইট</string>
+  <string name="pref_camera_scenemode_entry_snow">বৰফ</string>
+  <string name="pref_camera_scenemode_entry_softskin">চফ্ট স্কিন</string>
+  <string name="pref_camera_scenemode_entry_sports">খেল</string>
+  <string name="pref_camera_scenemode_entry_spotlight">স্পটলাইট</string>
+  <string name="pref_camera_scenemode_entry_steadyphoto">ষ্টেডি ফটো</string>
+  <string name="pref_camera_scenemode_entry_supernight">এন্ধাৰ নিশা</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">চুইপ ষ্টিচ্চ</string>
+  <string name="pref_camera_scenemode_entry_text">টেক্সট</string>
+  <string name="pref_camera_scenemode_entry_theatre">থিয়েটাৰ</string>
+  <string name="pref_camera_scenemode_entry_whiteboard">হোৱাইটবোর্ড</string>
   <!-- Settings screen, focus mode -->
+  <string name="pref_camera_focusmode_entry_continuouspicture">অব্যাহত</string>
+  <string name="pref_camera_focusmode_entry_extended">সম্প্ৰসাৰিত</string>
+  <string name="pref_camera_focusmode_entry_facedetect">ফেচ ডিটেক্ট</string>
+  <string name="pref_camera_focusmode_entry_facepriority">ফেচ অগ্ৰাধিকাৰ</string>
+  <string name="pref_camera_focusmode_entry_fixed">ফিক্সড</string>
+  <string name="pref_camera_focusmode_entry_portrait">প’ৰ্ট্ৰেইট</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">হাইপাৰফোকেল</string>
   <!-- Color effects -->
+  <string name="pref_camera_coloreffect_entry_washed">ৱাচড</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">ভিণ্টেজ ৱাৰ্ম</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">ভিণ্টেজ ক\'ল্ড</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">পইণ্ট নীলা</string>
+  <string name="pref_camera_coloreffect_entry_point_green">পইণ্ট সেউজীয়া</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">পইণ্ট ৰেড-হালধীয়া</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">কাৰ্টুনাইজ</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">হোৱাইটবোর্ড</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">ব্লেকবোৰ্ড</string>
   <!-- Settings screen, Burst mode title -->
+  <string name="pref_camera_burst_title">বাৰ্ষ্ট মোড</string>
   <!-- Settings screen, Burst mode entries -->
+  <string name="pref_camera_burst_entry_off">অফ</string>
+  <string name="pref_camera_burst_entry_5">5 শ্বট</string>
+  <string name="pref_camera_burst_entry_10">10 শ্বট</string>
+  <string name="pref_camera_burst_entry_15">15 শ্বট</string>
+  <string name="pref_camera_burst_entry_20">20 শ্বট</string>
   <!-- Touch-to-focus duration settings -->
+  <string name="pref_camera_focustime_title">স্পৰ্শ ফোকাচ অৱধি</string>
+  <string name="pref_camera_focustime_summary">স্পৰ্শ ফোকাচৰ বাবে অৱধি চয়ন কৰক</string>
   <!-- Settings screen, Timer mode entries -->
+  <string name="pref_camera_focustime_entry_5">5s</string>
+  <string name="pref_camera_focustime_entry_10">10s</string>
+  <string name="pref_camera_focustime_entry_15">15s</string>
+  <string name="pref_camera_focustime_entry_20">20s</string>
+  <string name="pref_camera_focustime_entry_30">30s</string>
+  <string name="pref_camera_focustime_entry_infinite">অসীম</string>
   <!-- Red eye flash mode title -->
+  <string name="pref_camera_flashmode_entry_redeye">ৰেড আই</string>
+  <string name="pref_camera_flashmode_label_redeye">ৰেড আই</string>
   <!-- Beauty mode -->
+  <string name="pref_camera_beauty_mode_title">বিউটি মোড</string>
   <!-- Superresolution : Clear Image -->
+  <string name="pref_camera_clear_image_title">প্ৰতিচ্ছবি পৰিষ্কাৰ কৰক</string>
   <!-- Slow shutter modes -->
+  <string name="pref_camera_slow_shutter_title">মন্থৰ শ্বাটাৰ</string>
+  <string name="pref_camera_slow_shutter_delay_title">মন্থৰ শ্বাটাৰ গতি</string>
+  <string name="pref_camera_slow_shutter_entry_off">অফ</string>
+  <string name="pref_camera_slow_shutter_entry_auto">স্বয়ং</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ চেকেণ্ড</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 চেকেণ্ড</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 চেকেণ্ড</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 চেকেণ্ড</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 চেকেণ্ড</string>
   <!-- More Settings screen, storage title -->
+  <string name="pref_camera_storage_title">ষ্টোৰেজ</string>
+  <string name="pref_camera_recordlocation_on">চলিত অৱস্থানেৰে শ্বটবোৰ টেগ কৰক</string>
+  <string name="pref_camera_recordlocation_off">ফটো আৰু ভিডিঅ\'বোৰ অৱস্থানেৰে টেগ নকৰিব</string>
   <!-- ASD -->
+  <string name="camera_menu_enhance_label">উন্নত</string>
+  <string name="camera_menu_slow_shutter_label">মন্থৰ শ্বাটাৰ</string>
+  <string name="camera_menu_beauty_mode_label">বিউটিফাই</string>
+  <string name="camera_menu_colorize_label">কালাৰাইজ</string>
+  <string name="camera_menu_effects_label">প্ৰভাৱসমূহ</string>
+  <string name="camera_menu_asd_label">স্মাৰ্ট দৃশ্য</string>
   <!-- More Settings screen, power button title -->
+  <string name="pref_camera_power_shutter_title">পাৱাৰ শ্বাটাৰ</string>
+  <string name="pref_camera_power_shutter_summary">পাৱাৰ বুটামে ফটো তোলে</string>
+  <string name="pref_camera_left_handed_title">বাওঁহতীয়া</string>
+  <string name="pref_camera_left_handed_summary">বাওঁহতীয়া ব্যৱহাৰৰ বাবে নিয়ন্ত্ৰণবোৰ মিলাওক</string>
+  <string name="camera_storage_fallback">ডিফ\'ল্ট ষ্ট\'ৰেজ অৱস্থানলৈ ঘূৰাই নি আছে</string>
+  <string name="no_storage_sd">SD কাৰ্ড আন্তঃসংযোগ কৰা নাই বা লিখনযোগ্য নহয়।</string>
+  <string name="no_storage_usb">USB ষ্ট\'ৰেজ আন্তঃসংযোগ কৰা নাই বা লিখনযোগ্য নহয়।</string>
   <!-- access_sd_fail is in strings.xml -->
+  <string name="access_usb_fail">USB ষ্টোৰেজ আহৰণ কৰিব নোৱাৰে।</string>
+  <string name="access_storage_fail">ষ্ট\'ৰেজ আহৰণ কৰিব নোৱাৰে।</string>
   <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">USB ষ্টোৰেজ প্ৰস্তুত কৰি থকা হৈছে\u2026</string>
+  <string name="preparing_storage">ষ্ট\'ৰেজ প্ৰস্তুত কৰি আছে\u2026</string>
+  <string name="spaceIsLow_sd">আপোনাৰ SD কাৰ্ড স্থান ভৰি গৈছে।</string>
+  <string name="spaceIsLow_usb">আপোনাৰ USB ষ্ট\'ৰেজৰ স্থান কমিছে</string>
+  <string name="spaceIsLow_storage">আপোনাৰ ষ্ট\'ৰেজৰ স্থান কমিছে</string>
+  <string name="alternate_storage_none">গুনাগুণ ছেটিংছ পৰিৱৰ্তন কৰক বা কিছুমান প্ৰতিচ্ছবি বা অন্য ফাইল বিলোপ কৰক</string>
+  <string name="alternate_storage_sd_card">কিছু প্ৰতিচ্ছবি বা আন ফাইল বিলোপ কৰক বা SD কাৰ্ড এখন ব্যৱহাৰ কৰক।</string>
+  <string name="alternate_storage_usb">কিছু প্ৰতিচ্ছবি বা আন ফাইল বিলোপ কৰক বা USB ষ্ট\'ৰেজ ব্যৱহাৰ কৰক।</string>
+  <string name="pref_camera_volume_zoom_title">ভলিউম ঝুম</string>
+  <string name="pref_camera_volume_zoom_summary">ভলিউম কীবোৰে ঝুম নিয়ন্ত্ৰণ কৰে</string>
+  <string name="pref_max_brightness_title">উজ্জ্বল স্ক্ৰীণ</string>
+  <string name="pref_max_brightness_summary">কেমেৰা সক্ৰিয় হৈ থাকিলে উজ্জ্বলতা সৰ্বাধিকলৈ ছেট কৰক</string>
+  <string name="pref_camera_reset_title">ডিফল্টসমূহ পুনঃসংৰক্ষণ কৰক</string>
+  <string name="pref_camera_reset_message">সকলো কেমেৰা আৰু ভিডিঅ\' ছেটিং সেইবোৰৰ মূল মানলৈ পৰিৱৰ্তন কৰিব? এইটো ওভতাব নোৱাৰি।</string>
+  <string name="pref_camera_reset_button">পুনসংগ্ৰহ</string>
+  <string name="pref_section_advanced">এডভান্সড</string>
+  <string name="pref_section_other">অন্যান্য</string>
+  <string name="msg_cancel_longshot_for_limited_memory">মেম\'ৰী কমি গৈছে, শ্বটবোৰ বন্ধ কৰিব!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <string name="hold_for_burst">বাৰ্ষ্ট লবলৈ শ্বাটাৰ হ\'ল্ড কৰক।</string>
   <!-- toast message for toast showing error of starting video capture -->
-  <!-- Fingerprint Sensor Image Capture -->
+  <string name="cannot_start_video_toast">ভিডিঅ\' ৰেকৰ্ডিং আৰম্ভ কৰিব নোৱাৰে। মাইক্ৰ\'ফোন ব্যৱহাৰ হৈ আছেনে?</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">ডিভাইচটো গৰম। কেমেৰা অতি সোনকালে ৰোধ হ\'ব।</string>
+  <string name="overheated_critical">ডিভাইচটো খুব গৰম। কেমেৰা অক্ষম কৰা হৈছে।</string>
+  <string name="overheated_cooling">ডিভাইচটো ঠাণ্ডা হোৱালৈ কেমেৰা অক্ষম কৰা হৈছে।</string>
+  <!-- Permissions -->
 </resources>

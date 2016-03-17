@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Tartsa lenyomva a folyamatos kép készítéshez.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nem lehet elindítani a felvételt. Használatban van a mikrofon?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Szelfik készítése ujjlenyomat-olvasó használatával</string>
-  <string name="fingerprint_intro_pane_learn_more">TUDJON MEG TÖBBET</string>
-  <string name="fingerprint_intro_dialog_title">Szelfi exponáló</string>
-  <string name="fingerprint_intro_dialog_description">Keresse meg az ujjlenyomat-leolvasót a telefonján, hogy könnyen készíthessen szelfiket.</string>
-  <string name="fingerprint_intro_dialog_button_text">Rendben</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Készülék meleg. Kamera hamarosan leáll.</string>
   <string name="overheated_critical">Készülék túl meleg. Kamera ideiglenesen le lett tiltva.</string>
   <string name="overheated_cooling">Kamera letiltva, míg a készülék lehűl.</string>
+  <!-- Permissions -->
 </resources>

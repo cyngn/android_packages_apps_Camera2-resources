@@ -115,11 +115,9 @@
   <string name="pref_camera_hfr_entry_2x">Ağır Çəkiliş 60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">Ağır Çəkiliş 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Ağır Çəkiliş 120 FPS</string>
-  <string name="pref_camera_hfr_entry_8x">Ağır Çəkiliş 240 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Sürətli Çəkiliş 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Sürətli Çəkiliş 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Sürətli Çəkiliş 120 FPS</string>
-  <string name="pref_camera_hfr_entry_hsr_240">Sürətli Çəkiliş 240 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Səs-küy azaltma</string>

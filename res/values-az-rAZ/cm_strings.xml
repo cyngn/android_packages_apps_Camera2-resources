@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Seriya çəkiliş üçün sürgünü basılı saxlayın.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Video yazma başlaya bilmir. Mikrofon istifadə olunur?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Barmaq izi sensoru ilə selfi çəkmə</string>
-  <string name="fingerprint_intro_pane_learn_more">ƏTRAFLI ÖYRƏN</string>
-  <string name="fingerprint_intro_dialog_title">Özünü çəkmə</string>
-  <string name="fingerprint_intro_dialog_description">Rahat selfi üçün telefonunuzdakı barmaq izi sensorunu tapın.</string>
-  <string name="fingerprint_intro_dialog_button_text">Oldu</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Cihaz çox isinib. Kamera bağlanacaq.</string>
   <string name="overheated_critical">Cihaz çox isinib. Kamera ləğv edildi.</string>
   <string name="overheated_cooling">Cihaz soyuyarkən kamera ləğv edildi.</string>
+  <!-- Permissions -->
 </resources>

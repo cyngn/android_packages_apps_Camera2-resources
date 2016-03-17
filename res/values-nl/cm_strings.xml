@@ -193,18 +193,14 @@
   <string name="hold_for_burst">Knop inhouden voor burst-opname.</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Kan video-opname niet starten. Is de microfoon in gebruik?</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">Selfies nemen met behulp van de vingerafdruksensor</string>
-  <string name="fingerprint_intro_pane_learn_more">LEES MEER</string>
-  <string name="fingerprint_intro_dialog_title">Selfieknop</string>
-  <string name="fingerprint_intro_dialog_description">Zoek de vingerafdruksensor op uw telefoon om gemakkelijk selfies te maken.</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">Apparaat is warm. Camera zal binnenkort stoppen.</string>
   <string name="overheated_critical">Apparaat is te warm. Camera is uitgeschakeld.</string>
   <string name="overheated_cooling">Camera is uitgeschakeld terwijl apparaat afkoelt.</string>
+  <!-- Permissions -->
 </resources>

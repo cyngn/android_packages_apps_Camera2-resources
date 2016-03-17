@@ -193,18 +193,14 @@
   <string name="hold_for_burst">シャッターを長押ししてバースト撮影をします。</string>
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ビデオ録画を開始できません。マイクを使用していませんか？</string>
-  <!-- Fingerprint Sensor Image Capture -->
-  <string name="fingerprint_intro_pane_description">指紋センサーを使って自撮りする</string>
-  <string name="fingerprint_intro_pane_learn_more">もっと詳しく</string>
-  <string name="fingerprint_intro_dialog_title">自撮りシャッター</string>
-  <string name="fingerprint_intro_dialog_description">携帯電話の指紋センサーに指を置いて簡単に自撮りできます。</string>
-  <string name="fingerprint_intro_dialog_button_text">OK</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">クロマフラッシュ</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
+  <!-- Liveshot -->
   <!-- Thermal warnings -->
   <string name="overheated_warning">端末が熱くなっています。まもなくカメラは停止します。</string>
   <string name="overheated_critical">端末がとても熱くなっています。カメラは使用できなくなっています。</string>
   <string name="overheated_cooling">端末が冷却されるまでカメラは使用できません。</string>
+  <!-- Permissions -->
 </resources>
