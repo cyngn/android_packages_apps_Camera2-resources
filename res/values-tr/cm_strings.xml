@@ -203,4 +203,11 @@
   <string name="overheated_critical">Kamera aşırı derecede sıcak. Kamera devre dışı bırakıldı.</string>
   <string name="overheated_cooling">Cihaz soğurken kamera devre dışı bırakıldı.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Kamera uygulaması izin verilmediği için çalışamıyor.</string>
+  <string name="permission_camera">Fotoğraf çekmek için <b>kamera</b> izni gereklidir.</string>
+  <string name="permission_storage">Fotoğrafları kaydetmek ve görüntülemek için <b>depolama</b> izni gereklidir.</string>
+  <string name="permission_microphone">Video kaydetmek için <b>mikrofon</b> izni gereklidir.</string>
+  <string name="permission_call_to_action"><b>Ayarlar\'a</b> gidin ve izin vermek için <b>İzinler\'e</b> dokunun.</string>
+  <string name="permission_location_denied">Fotoğraflarınızı konum ile etiketlemek istiyorsanız bu uygulamaya Konum izini vermelisiniz.</string>
+  <string name="no_video_trim">Videoyu kırpacak uygulama yok.</string>
 </resources>

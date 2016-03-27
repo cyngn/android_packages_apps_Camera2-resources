@@ -203,4 +203,11 @@
   <string name="overheated_critical">درجة حرارة الجهاز عالية للغاية. تم تعطيل الكاميرا.</string>
   <string name="overheated_cooling">الكاميرا معطلة بينما يتم تبريد درجة حرارة الجهاز.</string>
   <!-- Permissions -->
+  <string name="permission_missing">لا يمكن تشغيل تطبيق الكاميرا لأنه لم يتم منح الأذونات له.</string>
+  <string name="permission_camera">مطلوب إذن <b>الكاميرا</b> لالتقاط الصور.</string>
+  <string name="permission_storage">مطلوب إذن <b>التخزين</b> لحفظ وعرض الصور.</string>
+  <string name="permission_microphone">مطلوب إذن <b>الميكروفون</b> لتسجيل الفيديو.</string>
+  <string name="permission_call_to_action">انتقل إلى <b>إعدادات</b>، واضغط على <b>أذونات</b> لمنح إذن.</string>
+  <string name="permission_location_denied">يجب منح إذن الموقع لهذا التطبيق إذا كنت تريد تعليم صور مع الموقع.</string>
+  <string name="no_video_trim">لا يوجد تطبيق متاح لتهذيب الفيديو.</string>
 </resources>

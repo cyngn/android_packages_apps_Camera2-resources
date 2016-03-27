@@ -203,4 +203,11 @@
   <string name="overheated_critical">อุปกรณ์ร้อนเกินไป กล้องได้ถูกปิดใช้งาน</string>
   <string name="overheated_cooling">กล้องจะถูกปิดใช้งานขณะอุปกรณ์ลดอุณหภูมิลง</string>
   <!-- Permissions -->
+  <string name="permission_missing">แอปกล้องไม่สามารถทำงานได้เนื่องจากยังไม่ได้รับอนุญาต</string>
+  <string name="permission_camera"><b>กล้อง</b>ต้องได้รับอนุญาตเพื่อให้ถ่ายภาพได้</string>
+  <string name="permission_storage"><b>พื้นที่จัดเก็บ</b>ต้องได้รับอนุญาตเพื่อให้บันทึกและดูภาพถ่ายได้</string>
+  <string name="permission_microphone"><b>ไมโครโฟน</b>ต้องได้รับอนุญาตเพื่อให้บันทึกวิดีโอได้</string>
+  <string name="permission_call_to_action">ไปที่ <b>การตั้งค่า</b> และแตะที่ <b>สิทธิ์ของแอป</b> เพื่อให้อนุญาต</string>
+  <string name="permission_location_denied">คุณต้องให้อนุญาตตำแหน่งที่ตั้งกับแอปนี้หากต้องการแท็กภาพถ่ายด้วยสถานที่</string>
+  <string name="no_video_trim">ไม่มีแอปให้ใช้ตัดแต่งวิดีโอ</string>
 </resources>

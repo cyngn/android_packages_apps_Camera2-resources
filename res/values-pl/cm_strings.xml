@@ -203,4 +203,9 @@
   <string name="overheated_critical">Urządzenie jest zbyt gorące. Aparat został wyłączony.</string>
   <string name="overheated_cooling">Aparat jest wyłączony, urządzenie się ochładza.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Aplikacja aparatu nie może zostać uruchomiona z powodu braku uprawnień.</string>
+  <string name="permission_microphone">Wymagane zezwolenie dostępu do <b>Mikrofonu</b>, aby nagrywać wideo.</string>
+  <string name="permission_call_to_action">Przejdź do <b>Ustawień</b> i dotknij <b>Uprawnienia</b>, aby przyznać dostęp.</string>
+  <string name="permission_location_denied">Należy przyznać uprawnienia Lokalizacji, jeżeli aplikacja ma zapisywać lokalizację w zdjęciach.</string>
+  <string name="no_video_trim">Brak aplikacji, aby przyciąć wideo.</string>
 </resources>

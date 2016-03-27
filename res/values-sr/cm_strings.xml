@@ -203,4 +203,11 @@
   <string name="overheated_critical">Уређај је превише врућ. Камера је онемогућена.</string>
   <string name="overheated_cooling">Камера је онемогућена док се уређај хлади.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Апликација камере се не може покренути јер јој није одобрена дозвола.</string>
+  <string name="permission_camera">Дозвола <b>Камера</b> је потребна да би сликао.</string>
+  <string name="permission_storage">Дозвола <b>Складиште</b> је потребна да би сачувао и видео фотографије.</string>
+  <string name="permission_microphone">Дозвола <b>Микрофон</b> је потребна да би се снимао видео.</string>
+  <string name="permission_call_to_action">Иди у <b>Подешавања</b> и кликни не <b>Дозволе</b> да одобриш дозволу.</string>
+  <string name="permission_location_denied">Мораш одобрити дозволу за локације за ову апликацију ако желиш фотографије са локацијом.</string>
+  <string name="no_video_trim">Нема апликације за прераду видеа.</string>
 </resources>

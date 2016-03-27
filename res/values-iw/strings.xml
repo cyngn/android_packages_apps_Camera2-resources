@@ -30,8 +30,8 @@
   <string name="delete">מחק</string>
   <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
   <plurals name="delete_selection">
-    <item quantity="one">האם למחוק את הפריט שנבחר?</item>
-    <item quantity="other">האם למחוק את הפריטים שנבחרו?</item>
+    <item quantity="one">למחוק את הפריט שנבחר?</item>
+    <item quantity="other">למחוק את הפריטים שנבחרו?</item>
   </plurals>
   <string name="share">שתף</string>
   <string name="share_panorama">שתף פנורמה</string>
@@ -45,19 +45,19 @@
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
-    <item quantity="one">‏%1$d נבחרו</item>
+    <item quantity="one">‏%1$d נבחר</item>
     <item quantity="other">‏%1$d נבחרו</item>
   </plurals>
   <!-- String indicating how many media album(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_albums_selected">
-    <item quantity="one">‏%1$d נבחרו</item>
+    <item quantity="one">‏%1$d נבחר</item>
     <item quantity="other">‏%1$d נבחרו</item>
   </plurals>
   <!-- String indicating how many media group(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_groups_selected">
-    <item quantity="one">‏%1$d נבחרו</item>
+    <item quantity="one">‏%1$d נבחר</item>
     <item quantity="other">‏%1$d נבחרו</item>
   </plurals>
   <!-- String indicating timestamp of photo or video -->
@@ -400,7 +400,7 @@ CHAR LIMIT = NONE] -->
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_off">כבוי</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_500">0.5 שנייה</string>
+  <string name="pref_video_time_lapse_frame_interval_500">0.5 שניות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_1000">שנייה אחת</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
@@ -426,9 +426,9 @@ CHAR LIMIT = NONE] -->
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_24000">24 שניות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_30000">0.5 דקה</string>
+  <string name="pref_video_time_lapse_frame_interval_30000">0.5 דקות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_60000">דקה</string>
+  <string name="pref_video_time_lapse_frame_interval_60000">דקה 1</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_90000">1.5 דקות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
@@ -452,9 +452,9 @@ CHAR LIMIT = NONE] -->
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_1440000">24 דקות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_1800000">0.5 שעה</string>
+  <string name="pref_video_time_lapse_frame_interval_1800000">0.5 שעות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
-  <string name="pref_video_time_lapse_frame_interval_3600000">שעה</string>
+  <string name="pref_video_time_lapse_frame_interval_3600000">שעה 1</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_5400000">1.5 שעות</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
@@ -494,7 +494,7 @@ CHAR LIMIT = NONE] -->
   <!-- On-screen hint during timer countdown for taking a photo. [CHAR LIMIT = 60]-->
   <string name="count_down_title_text">סופר לאחור עד לצילום תמונה</string>
   <!-- Title for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 50] -->
-  <string name="remember_location_title">האם לזכור מיקומי תמונות?</string>
+  <string name="remember_location_title">לזכור מיקומי תמונות?</string>
   <!-- Message for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = None] -->
   <string name="remember_location_prompt">תייג את התמונות והסרטונים שלך לציון המקומות שבהם צולמו.\n\nיישומים אחרים יכולים לגשת למידע זה וכן לתמונות שנשמרו.</string>
   <!-- Negative answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 20] -->
@@ -503,14 +503,14 @@ CHAR LIMIT = NONE] -->
   <string name="remember_location_yes">כן</string>
   <!-- Camera menu labels -->
   <!-- more options label [CHAR LIMIT=50] -->
-  <string name="camera_menu_more_label">עוד אפשרויות</string>
+  <string name="camera_menu_more_label">אפשרויות נוספות</string>
   <!-- settings label [CHAR LIMIT=50] -->
   <string name="camera_menu_settings_label">הגדרות</string>
   <!--  Tiny Planet -->
   <!-- Button to press for creating a tiny planet image. [CHAR LIMIT = 30] -->
-  <string name="create_tiny_planet">צור \'פלנטה קטנה\'</string>
+  <string name="create_tiny_planet">צור \'פלנטה קטנטנה\'</string>
   <!-- Message shown while a tiny planet image is being saved. [CHAR LIMIT = 30] -->
-  <string name="saving_tiny_planet">שומר את הפלנטה הקטנה&#8230;</string>
+  <string name="saving_tiny_planet">שומר את הפלנטה הקטנטנה&#8230;</string>
   <!-- Label above a slider that let's the user set the zoom of a tiny planet image. [CHAR LIMIT = 15] -->
   <string name="tiny_planet_zoom">שנה מרחק מתצוגה</string>
   <!-- Label above a slider that let's the user set the rotation of a tiny planet image. [CHAR LIMIT = 15] -->
@@ -519,7 +519,7 @@ CHAR LIMIT = NONE] -->
   <!-- Label for the save button in the crop activity action bar [CHAR LIMIT=20] -->
   <string name="crop_save">שמור</string>
   <!--  String shown when we cannot load the image when starting the activity [CHAR LIMIT=NONE] -->
-  <string name="cannot_load_image">לא ניתן לטעון את התמונה.</string>
+  <string name="cannot_load_image">לא ניתן לטעון את התמונה!</string>
   <!-- Label for album filmstrip button -->
   <string name="switch_photo_filmstrip">תצוגה בסרט שקופיות</string>
   <!--  String shown when setting the homepage wallpaper in the background [CHAR LIMIT=NONE] -->

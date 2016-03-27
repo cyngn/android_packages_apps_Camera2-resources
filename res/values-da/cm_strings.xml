@@ -203,4 +203,11 @@
   <string name="overheated_critical">Enheden er for varm. Kameraet er blevet deaktiveret.</string>
   <string name="overheated_cooling">Kameraet er deaktiveret mens enheden køler af.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Kamera-appen kan ikke køre, fordi det ikke har fået tilladelse.</string>
+  <string name="permission_camera"><b>Kamera</b> tilladelse er påkrævet for at tage billeder.</string>
+  <string name="permission_storage"><b>Lager</b> tilladelse er påkrævet for at gemme og se billeder.</string>
+  <string name="permission_microphone"><b>Mikrofon</b> tilladelse er påkrævet for at optage video.</string>
+  <string name="permission_call_to_action">Gå til <b>Indstillinger</b> og tryk på <b>Tilladelser</b> for at give tilladelse.</string>
+  <string name="permission_location_denied">Du skal give placering tilladelse til denne app, hvis du ønsker at tagge fotos med placering.</string>
+  <string name="no_video_trim">Ingen app til rådighed til at trimme video.</string>
 </resources>

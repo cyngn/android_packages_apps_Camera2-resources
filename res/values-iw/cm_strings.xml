@@ -203,4 +203,11 @@
   <string name="overheated_critical">המכשיר חם מדי. המצלמה הושבתה.</string>
   <string name="overheated_cooling">המצלמה מושבתת בזמן שהמכשיר מתקרר.</string>
   <!-- Permissions -->
+  <string name="permission_missing">יישום המצלמה אינו יכול לפעול כיוון שלא ניתנה לו ההרשאה.</string>
+  <string name="permission_camera">הרשאת <b>מצלמה</b> נדרשת כדי לצלם תמונות.</string>
+  <string name="permission_storage">הרשאת <b>אחסון</b> נדרשת כדי לשמור ולהציג תמונות.</string>
+  <string name="permission_microphone">הרשאת <b>מיקרופון</b> נדרשת לצורך הקלטת וידאו.</string>
+  <string name="permission_call_to_action">עבור אל <b>הגדרות</b>, והקש על <b>הרשאות</b> כדי להעניק הרשאה.</string>
+  <string name="permission_location_denied">עליך להעניק הרשאה לקריאת מיקום ליישום זה אם ברצונך לתייג תמונות לפי מיקום.</string>
+  <string name="no_video_trim">אין יישום זמין לחיתוך הווידאו.</string>
 </resources>
