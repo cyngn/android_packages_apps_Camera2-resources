@@ -203,4 +203,11 @@
   <string name="overheated_critical">Apparaat is te warm. Camera is uitgeschakeld.</string>
   <string name="overheated_cooling">Camera is uitgeschakeld terwijl apparaat afkoelt.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Camera-app kan niet starten omdat er geen machtiging is verleend.</string>
+  <string name="permission_camera"><b>Camera</b>-machtiging is nodig om foto\'s te maken.</string>
+  <string name="permission_storage"><b>Opslag</b>-machtiging is nodig om de foto\'s op te slaan en te bekijken.</string>
+  <string name="permission_microphone"><b>Microfoon</b>-machtiging is nodig om video op te nemen.</string>
+  <string name="permission_call_to_action">Ga naar Instellingen en tik Machtigingen om machtiging te verlenen.</string>
+  <string name="permission_location_denied">U moet locatie-machtiging verlenen om informatie over uw locatie op te slaan bij foto\'s.</string>
+  <string name="no_video_trim">Geen app beschikbaar voor het bijsnijden van video.</string>
 </resources>

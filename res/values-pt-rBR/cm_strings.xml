@@ -208,6 +208,6 @@
   <string name="permission_storage">É necessário permissão de <b>Armazenamento</b> para salvar e exibir fotos.</string>
   <string name="permission_microphone">É necessário permissão para o <b>Microfone</b> para gravar vídeo.</string>
   <string name="permission_call_to_action">Vai a <b>Configurações</b> e toque em <b>Permissões</b> para conceder a permissão.</string>
-  <string name="permission_location_denied">Você deve conceder permissões de Localização para esta aplicação se quiser guardar os dados de localização das fotografias.</string>
+  <string name="permission_location_denied">Você deve conceder permissões de Localização para este aplicativo se quiser marcar a localização com as fotos.</string>
   <string name="no_video_trim">Não há aplicativo disponível para cortar o vídeo.</string>
 </resources>

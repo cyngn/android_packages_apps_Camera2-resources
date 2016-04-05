@@ -204,8 +204,8 @@
   <string name="overheated_cooling">ડિવાઇસ ઠંડું પડે ત્યાં સુધી કૅમેરા અક્ષમ કરવામાં આવ્યો છે.</string>
   <!-- Permissions -->
   <string name="permission_missing">કેમેરા એપ્લિકેશન ચાલશે નહિં કારણ કે તેને પરવાનગી આપવામાં આવી નથી.</string>
-  <string name="permission_camera"><b>કેમેરા</b>પરવાનગી ની જરૂરી છે વિડિઓ ચિત્રો લેવા માટે.</string>
-  <string name="permission_storage"><b>સ્ટોરેજ</b> પરવાનગી ની જરૂરી છે ફોટો સેવ અને જોવા કરવા માટે.</string>
+  <string name="permission_camera"><b>કેમેરા</b>પરવાનગી ની જરૂરી છે ચિત્રો લેવા માટે.</string>
+  <string name="permission_storage"><b>સ્ટોરેજ</b> પરવાનગી ની જરૂરી છે ફોટો સેવ અને જોવા માટે.</string>
   <string name="permission_microphone"><b>માઇક્રોફોન </b> પરવાનગી ની જરૂરી છે વિડિઓ રેકોર્ડ કરવા માટે.</string>
   <string name="permission_call_to_action"><b>સેટિંગ્સમાં જાવ</b>, <b>Permissions</b>પર ટૅપ કરી પરવાનગી આપો.</string>
   <string name="permission_location_denied">આ એપ્લિકેશન ને તમારે સ્થાન પરવાનગી આપવી પડશે જો તમે ફોટોઓ લોકેશન સાથે ટેગ કરવા માંગતા હો.</string>

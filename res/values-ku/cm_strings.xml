@@ -171,7 +171,7 @@
   <string name="access_usb_fail">ده‌سته‌ڵات نه‌شكێنرایه‌وه‌ به‌سه‌ر بیرگه‌ی USB.</string>
   <string name="access_storage_fail">ناتوانرێت بیرگە بەکاربهێنرێت.</string>
   <!-- preparing_sd is in strings.xml -->
-  <string name="preparing_usb">ئاماده‌کردنی بیرگه‌ی USB\u٢٠٢٦</string>
+  <string name="preparing_usb">ئاماده‌کردنی بیرگه‌ی USB\u2026</string>
   <string name="preparing_storage">ئامادەکردنی بیرگە\u2026</string>
   <string name="spaceIsLow_sd">بیرگەی دەرەکی تۆ ئێستا کاردەکات و هیچ شوێنێک نەماوە.</string>
   <string name="spaceIsLow_usb">بیرگەی USB یەکەت کارەکەکات و شوێنی نیە.</string>

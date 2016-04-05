@@ -20,9 +20,7 @@
   <!-- The label for the Video Camera activity. [CHAR LIMIT=16] -->
   <string name="video_camera_label">מצלמת וידאו</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
-  <string name="details_ms">%1$02d:%2$02d</string>
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
-  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <!-- Displayed in the title of the dialog for things to do with a picture
              that is to be "set as" (e.g. set as contact photo or set as wallpaper) -->
   <string name="set_image">הגדר תמונה כ-</string>
@@ -44,10 +42,6 @@
   <string name="close">סגור</string>
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
-  <plurals name="number_of_items_selected">
-    <item quantity="one">‏%1$d נבחר</item>
-    <item quantity="other">‏%1$d נבחרו</item>
-  </plurals>
   <!-- String indicating how many media album(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_albums_selected">
@@ -57,7 +51,7 @@
   <!-- String indicating how many media group(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_groups_selected">
-    <item quantity="one">‏%1$d נבחר</item>
+    <item quantity="one">‏%1$d נבחרה</item>
     <item quantity="other">‏%1$d נבחרו</item>
   </plurals>
   <!-- String indicating timestamp of photo or video -->
@@ -74,7 +68,7 @@
   <!-- The title of the menu item to let user set the image as background etc. [CHAR LIMIT=15] -->
   <string name="set_as">הגדר כ-</string>
   <!-- String indicating an error when playing the video. [CHAR LIMIT=30] -->
-  <string name="video_err">לא ניתן להפעיל את הסרטון.</string>
+  <string name="video_err">לא ניתן להפעיל את הווידאו.</string>
   <!-- Toast message shown when the cropped image has been saved in the
          %s folder (string: folder_download) [CHAR LIMIT=50]-->
   <string name="crop_saved">
@@ -134,7 +128,7 @@
          [CHAR LIMIT=150] -->
   <string name="try_to_set_local_album_available_offline">הפריט מאוחסן באופן מקומי וזמין במצב לא מקוון.</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
-  <string name="please_wait">המתן</string>
+  <string name="please_wait">אנא המתן</string>
   <!-- Text to show with progress bar while stitching a photo sphere. 'Photo sphere' is a product name. [CHAR LIMIT=35]-->
   <string name="rendering_photo_sphere">‏מעבד את צילום ה-Photo Sphere</string>
   <!-- title for the dialog showing the error of camera hardware -->
@@ -144,7 +138,7 @@
   <!-- message for the dialog showing the camera is disabled because of security policies. Camera cannot be used. -->
   <string name="camera_disabled">המצלמה הושבתה בשל מדיניות אבטחה.</string>
   <!-- alert to the user to wait for some operation to complete -->
-  <string name="wait">המתן…</string>
+  <string name="wait">אנא המתן\u2026</string>
   <!-- alert to the user that an SD card must be installed before using the camera -->
   <string name="no_storage" product="default">‏הכנס כרטיס זיכרון לפני השימוש במצלמה.</string>
   <!-- alert to the user that the SD card is being disk-checked -->
@@ -181,7 +175,7 @@
   <!-- The value of a camera preference indicating the setting is off. -->
   <!-- The value of a camera preference indicating the setting is on. -->
   <!-- The Video quality settings in preference [CHAR LIMIT=21] -->
-  <string name="pref_video_quality_title">איכות סרטון</string>
+  <string name="pref_video_quality_title">איכות וידאו</string>
   <!-- The default quality value is 3 (CIF) -->
   <!-- Video quality setting entry.
     Videos will be recorded in 4k DCI quality. [CHAR LIMIT=24] -->
@@ -357,7 +351,7 @@
   <!-- Effect setting item that replaces background with a sunset. [CHAR LIMIT=14] -->
   <string name="effect_backdropper_sunset">שקיעה</string>
   <!-- Effect setting item that replaces background with video from gallery. [CHAR LIMIT=14] -->
-  <string name="effect_backdropper_gallery">הסרטון שלך</string>
+  <string name="effect_backdropper_gallery">הווידאו שלך</string>
   <!-- Announcement telling users video recording has just started [CHAR LIMIT=NONE] -->
   <string name="video_recording_started">הקלטת וידאו החלה.</string>
   <!-- Announcement telling users video recording has just stopped [CHAR LIMIT=NONE] -->
@@ -496,7 +490,7 @@ CHAR LIMIT = NONE] -->
   <!-- Title for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 50] -->
   <string name="remember_location_title">לזכור מיקומי תמונות?</string>
   <!-- Message for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = None] -->
-  <string name="remember_location_prompt">תייג את התמונות והסרטונים שלך לציון המקומות שבהם צולמו.\n\nיישומים אחרים יכולים לגשת למידע זה וכן לתמונות שנשמרו.</string>
+  <string name="remember_location_prompt">תייג את התמונות וסרטוני הווידאו שלך לציון המקומות שבהם צולמו.\n\nיישומים אחרים יכולים לגשת למידע זה וכן לתמונות שנשמרו.</string>
   <!-- Negative answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 20] -->
   <string name="remember_location_no">לא תודה</string>
   <!-- Positive answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = 20] -->
