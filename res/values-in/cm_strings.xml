@@ -19,44 +19,195 @@
   <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kamera</string>
   <!-- Settings screen, video section -->
+  <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
+  <string name="pref_camera_general_section">Umum</string>
   <!-- Settings screen, Picture size title, the word Size only -->
+  <string name="pref_camera_picturesize_short_title">Ukuran</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
+  <string name="pref_camera_jpegquality_short_title">Kualitas</string>
   <!-- Settings screen, Viewfinder choice -->
+  <string name="pref_camera_viewfinder_title">Jendela bidik</string>
+  <string name="pref_camera_viewfinder_fullscreen">Layar penuh</string>
+  <string name="pref_camera_viewfinder_letterbox">Kotak surat</string>
   <!-- Settings screen, Raw mode toggle -->
+  <string name="pref_camera_raw_mode_title">Simpan gambar mentah</string>
   <!-- Warn about Raw/Beauty mode conflict -->
+  <string name="beauty_mode_disables_raw">Modus kecantikan menonaktifkan pemotretan raw</string>
   <!-- Settings screen, ZSL enable toggle -->
+  <string name="pref_camera_zsl_enable_title">Rana tanpa jeda</string>
+  <string name="pref_camera_zsl_enable_summary_on">Pengambilan gambar cepat</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Pengambilan gambar cepat dan pengambilan rentetan</string>
+  <string name="pref_camera_zsl_enable_summary_off">Kualitas cahaya rendah yang lebih baik</string>
   <!-- The Video quality settings in preference -->
+  <string name="pref_video_quality_alt_title">Ukuran Video</string>
   <!-- The Video quality settings in preference, word Size only -->
+  <string name="pref_video_quality_short_title">Ukuran</string>
   <!-- Separate video focus modes preference - specifically for bacon -->
   <!-- common aspect ratios -->
   <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <string name="pref_camera_aspectratio_wide">Lebar</string>
   <!-- format for entries in the picture size menu. Parameter one is aspect ratio
          parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
          NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
          will be multiplied by 100 as those languages want to count by ten thousands -->
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
   <!-- Settings screen, scene mode -->
+  <string name="pref_camera_scenemode_entry_antimotionblur">Reduksi gerakan kabur</string>
+  <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
+  <string name="pref_camera_scenemode_entry_ar">Perkaya realita</string>
+  <string name="pref_camera_scenemode_entry_asd">Bidikan terbaik</string>
+  <string name="pref_camera_scenemode_entry_baby">Bayi</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">Latar belakang kabur</string>
+  <string name="pref_camera_scenemode_entry_backlight">Lampu latar</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">Potret lampu latar</string>
+  <string name="pref_camera_scenemode_entry_barcode">Kode palang</string>
+  <string name="pref_camera_scenemode_entry_beach">Pantai</string>
+  <string name="pref_camera_scenemode_entry_beauty">Cantik</string>
+  <string name="pref_camera_scenemode_entry_candlelight">Lilin</string>
+  <string name="pref_camera_scenemode_entry_cine">Bioskop</string>
+  <string name="pref_camera_scenemode_entry_closeup">Closeup</string>
+  <string name="pref_camera_scenemode_entry_dark">Gelap</string>
+  <string name="pref_camera_scenemode_entry_dish">Piring</string>
+  <string name="pref_camera_scenemode_entry_duskdawn">Senja-fajar</string>
+  <string name="pref_camera_scenemode_entry_document">Dokumen</string>
+  <string name="pref_camera_scenemode_entry_fallcolor">Warna-fall</string>
+  <string name="pref_camera_scenemode_entry_fireworks">Kembang api</string>
+  <string name="pref_camera_scenemode_entry_flowers">Bunga</string>
+  <string name="pref_camera_scenemode_entry_handheldtwilight">Genggaman senja</string>
+  <string name="pref_camera_scenemode_entry_highsensitivity">Sensifitas tinggi</string>
+  <string name="pref_camera_scenemode_entry_indoor">Dalam ruangan</string>
+  <string name="pref_camera_scenemode_entry_landscape">Lanskap</string>
+  <string name="pref_camera_scenemode_entry_mix_illuminant">Pencahayaan campuran</string>
+  <string name="pref_camera_scenemode_entry_mood">Suasana hati</string>
+  <string name="pref_camera_scenemode_entry_nightportrait">Potret malam</string>
+  <string name="pref_camera_scenemode_entry_nightindoor">Dalam ruangan malam</string>
+  <string name="pref_camera_scenemode_entry_oldfilm">Film lama</string>
+  <string name="pref_camera_scenemode_entry_pet">Peliharaan</string>
+  <string name="pref_camera_scenemode_entry_portrait">Potret</string>
+  <string name="pref_camera_scenemode_entry_snow">Salju</string>
+  <string name="pref_camera_scenemode_entry_softskin">Kulit lembut</string>
+  <string name="pref_camera_scenemode_entry_sports">Olahraga</string>
+  <string name="pref_camera_scenemode_entry_spotlight">Lampu sorot</string>
+  <string name="pref_camera_scenemode_entry_steadyphoto">Foto stabil</string>
+  <string name="pref_camera_scenemode_entry_supernight">Malam gelap</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">Sweep stitch</string>
+  <string name="pref_camera_scenemode_entry_text">Teks</string>
+  <string name="pref_camera_scenemode_entry_theatre">Teater</string>
+  <string name="pref_camera_scenemode_entry_whiteboard">Papan tulis putih</string>
   <!-- Settings screen, focus mode -->
+  <string name="pref_camera_focusmode_entry_continuouspicture">Terus-menerus</string>
+  <string name="pref_camera_focusmode_entry_extended">Diperluas</string>
+  <string name="pref_camera_focusmode_entry_facedetect">Deteksi wajah</string>
+  <string name="pref_camera_focusmode_entry_facepriority">Prioritas wajah</string>
+  <string name="pref_camera_focusmode_entry_fixed">Tetap</string>
+  <string name="pref_camera_focusmode_entry_portrait">Potret</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfokus</string>
   <!-- Color effects -->
+  <string name="pref_camera_coloreffect_entry_washed">Luntur</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">Klasik hangat</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">Klasik dingin</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">Titik biru</string>
+  <string name="pref_camera_coloreffect_entry_point_green">Titik hijau</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">Titik merah-kuning</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">Kartunkan</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Papan tulis putih</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Papan tulis hitam</string>
   <!-- Settings screen, Burst mode title -->
+  <string name="pref_camera_burst_title">Modus rentetan</string>
   <!-- Settings screen, Burst mode entries -->
+  <string name="pref_camera_burst_entry_off">Mati</string>
+  <string name="pref_camera_burst_entry_5">5 bidikan</string>
+  <string name="pref_camera_burst_entry_10">10 bidikan</string>
+  <string name="pref_camera_burst_entry_15">15 bidikan</string>
+  <string name="pref_camera_burst_entry_20">20 bidikan</string>
   <!-- Touch-to-focus duration settings -->
+  <string name="pref_camera_focustime_title">Durasi fokus sentuhan</string>
+  <string name="pref_camera_focustime_summary">Pilih durasi untuk fokus sentuh</string>
   <!-- Settings screen, Timer mode entries -->
+  <string name="pref_camera_focustime_entry_5">5det</string>
+  <string name="pref_camera_focustime_entry_10">10det</string>
+  <string name="pref_camera_focustime_entry_15">15det</string>
+  <string name="pref_camera_focustime_entry_20">20det</string>
+  <string name="pref_camera_focustime_entry_30">30det</string>
+  <string name="pref_camera_focustime_entry_infinite">Tak terhingga</string>
   <!-- Red eye flash mode title -->
+  <string name="pref_camera_flashmode_entry_redeye">Mata merah</string>
+  <string name="pref_camera_flashmode_label_redeye">MATA MERAH</string>
   <!-- Beauty mode -->
+  <string name="pref_camera_beauty_mode_title">Mode cantik</string>
   <!-- Superresolution : Clear Image -->
+  <string name="pref_camera_clear_image_title">Gambar jernih</string>
   <!-- Slow shutter modes -->
+  <string name="pref_camera_slow_shutter_title">Bidik lambat</string>
+  <string name="pref_camera_slow_shutter_delay_title">Kecepatan bidik lambat</string>
+  <string name="pref_camera_slow_shutter_entry_off">Nonaktif</string>
+  <string name="pref_camera_slow_shutter_entry_auto">Otomatis</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ detik</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 detik</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 detik</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 detik</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 detik</string>
   <!-- More Settings screen, storage title -->
+  <string name="pref_camera_storage_title">Penyimpanan</string>
+  <string name="pref_camera_recordlocation_on">Tag gambar dengan lokasi saat ini</string>
+  <string name="pref_camera_recordlocation_off">Jangan tag foto dan video dengan lokasi</string>
   <!-- ASD -->
+  <string name="camera_menu_enhance_label">Sempurnakan</string>
+  <string name="camera_menu_slow_shutter_label">Bidik lambat</string>
+  <string name="camera_menu_beauty_mode_label">Indahkan</string>
+  <string name="camera_menu_colorize_label">Warnai</string>
+  <string name="camera_menu_effects_label">Efek</string>
+  <string name="camera_menu_asd_label">Adegan Pintar</string>
   <!-- More Settings screen, power button title -->
+  <string name="pref_camera_power_shutter_title">Bidik dengan tombol daya</string>
+  <string name="pref_camera_power_shutter_summary">Tombol daya mengambil foto</string>
+  <string name="pref_camera_left_handed_title">Kidal</string>
+  <string name="pref_camera_left_handed_summary">Sesuaikan kendali untuk pengguna kidal</string>
+  <string name="camera_storage_fallback">Kembali ke lokasi penyimpanan baku</string>
+  <string name="no_storage_sd">Kartu SD tidak ditancap atau tidak bisa ditulisi.</string>
+  <string name="no_storage_usb">Penyimpanan USB tidak ditancap atau tidak bisa ditulisi.</string>
   <!-- access_sd_fail is in strings.xml -->
+  <string name="access_usb_fail">Tidak dapat mengakses penyimpanan USB.</string>
+  <string name="access_storage_fail">Tidak dapat mengakses penyimpanan.</string>
   <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">Mempersiapkan penyimpanan USB\u2026</string>
+  <string name="preparing_storage">Mempersiapkan penyimpanan\u2026</string>
+  <string name="spaceIsLow_sd">Kartu SD Anda akan kehabisan ruang.</string>
+  <string name="spaceIsLow_usb">Penyimpanan USB Anda akan kehabisan ruang.</string>
+  <string name="spaceIsLow_storage">Penyimpanan Anda akan kehabisan ruang.</string>
+  <string name="alternate_storage_none">Ubah pengaturan kualitas, atau hapus beberapa gambar atau berkas lainnya.</string>
+  <string name="alternate_storage_sd_card">Hapus beberapa gambar atau berkas lainnya, atau gunakan kartu SD.</string>
+  <string name="alternate_storage_usb">Hapus beberapa gambar atau berkas lainnya, atau gunakan penyimpanan USB.</string>
+  <string name="pref_camera_volume_zoom_title">Zum Volume</string>
+  <string name="pref_camera_volume_zoom_summary">Tombol volume kontrol zum</string>
+  <string name="pref_max_brightness_title">Layar cerah</string>
+  <string name="pref_max_brightness_summary">Mengatur kecerahan pada maksimum saat kamera sedang aktif</string>
+  <string name="pref_camera_reset_title">Kembalikan ke pengaturan baku</string>
+  <string name="pref_camera_reset_message">Ubah semua pengaturan kamera dan video ke nilai asal? Ini tidak dapat diurungkan.</string>
+  <string name="pref_camera_reset_button">Kembalikan</string>
+  <string name="pref_section_advanced">Tingkat lanjut</string>
+  <string name="pref_section_other">Lainnya</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Memori habis, menghentikan pengambilan!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <string name="hold_for_burst">Tekan rana untuk mengambil rentetan.</string>
   <!-- toast message for toast showing error of starting video capture -->
+  <string name="cannot_start_video_toast">Tidak dapat memulai perekam video. Apakah mikrofon sedang digunakan?</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
   <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">Perangkat panas. Kamera akan segera berhenti.</string>
+  <string name="overheated_critical">Perangkat terlalu panas. Kamera telah dinonaktifkan.</string>
+  <string name="overheated_cooling">Kamera dinonaktifkan sampai perangkat mendingin.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Aplikasi kamera tidak dapat berjalan karena tidak diberi izin.</string>
+  <string name="permission_camera">Izin <b>Kamera</b> diperlukan untuk mengambil gambar.</string>
+  <string name="permission_storage">Izin <b>Penyimpanan</b> dibutuhkan untuk menyimpan dan melihat foto.</string>
+  <string name="permission_microphone">Izin <b>Mikrofon</b> dibutuhkan untuk merekam video.</string>
+  <string name="permission_call_to_action">Buka <b>Pengaturan</b>, dan buka<b>Izin</b> untuk memberikan izin.</string>
+  <string name="permission_location_denied">Anda harus mengizinkan Lokasi untuk aplikasi ini apabila Anda ingin menandai foto dengan lokasi.</string>
+  <string name="no_video_trim">Aplikasi untuk memotong video tidak tersedia.</string>
 </resources>

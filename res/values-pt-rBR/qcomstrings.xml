@@ -29,10 +29,10 @@
   <!-- Video quality setting entry. Videos will be recorded in QVGA quality. [CHAR LIMIT=24] -->
   <!-- Video quality setting entry. Videos will be recorded in QCIF quality. [CHAR LIMIT=24] -->
   <!-- Settings screen, Power Mode title -->
-  <string name="pref_camera_powermode_title">Modo de potência</string>
+  <string name="pref_camera_powermode_title">Modo de energia</string>
   <!-- Settings screen, Power mode dialog radio button choices -->
-  <string name="pref_camera_powermode_entry_lp">Baixa potência</string>
-  <string name="pref_camera_powermode_entry_np">Potência normal</string>
+  <string name="pref_camera_powermode_entry_lp">Baixo consumo</string>
+  <string name="pref_camera_powermode_entry_np">Consumo normal</string>
   <!-- Settings screen, Power mode dialog radio button choices -->
   <!-- Default Power mode.. -->
   <!-- Default auto exposure setting. Do not translate. -->
@@ -40,7 +40,7 @@
   <string name="pref_camera_autoexposure_title">Exposição automática</string>
   <!-- Settings screen, auto exposure dialog radio button choices -->
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
-  <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada central</string>
+  <string name="pref_camera_autoexposure_entry_centerweighted">Medição central</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
   <!-- Auto exposure entry values. Do not translate. -->
   <!-- Settings screen, Video encoder title -->
@@ -60,7 +60,7 @@
   <string name="pref_camera_video_duration_entry_30">30 minutos</string>
   <!-- Default Skin Tone Enhancement setting. Do not translate. -->
   <!-- Settings screen, Select Skin Tone Enhancement title -->
-  <string name="pref_camera_skinToneEnhancement_title">Melhoria do tom da pele</string>
+  <string name="pref_camera_skinToneEnhancement_title">Aprimorar tom da pele</string>
   <!-- Settings screen, Skin Tone Enhancement radio button choices -->
   <string name="pref_camera_skinToneEnhancement_entry_enable">Ligado</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Desligado</string>
@@ -71,7 +71,7 @@
   <!-- Settings screen, Selectable Zone Af dialog radio button choices -->
   <string name="pref_camera_selectablezoneaf_entry_auto">Automático</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Medição pontual</string>
-  <string name="pref_camera_selectablezoneaf_entry_centerweighted">Ponderada central</string>
+  <string name="pref_camera_selectablezoneaf_entry_centerweighted">Medição central</string>
   <string name="pref_camera_selectablezoneaf_entry_frameaverage">Média de frames</string>
   <!-- Auto exposure entry values. Do not translate. -->
   <!-- Settings screen, Video HDR location dialog choices -->
@@ -84,25 +84,25 @@
   <string name="pref_camera_facedetection_title">Detecção facial</string>
   <!-- Default redeye reduction setting. -->
   <!-- The message is shown in toast when the app encounters an unsupported selection for HFR/HSR mode -->
-  <string name="error_app_unsupported_hfr_selection">Alta velocidade/Câmera lenta não é suportado para DIS e TimeLapse</string>
+  <string name="error_app_unsupported_hfr_selection">Alta velocidade/Câmera lenta não compatível com DIS e TimeLapse</string>
   <!-- The message is shown in dialog when the app
          encounters an unsupported resolution for HSR mode -->
-  <string name="error_app_unsupported_hsr">Não há suporte para vídeo de alta velocidade na resolução selecionada</string>
+  <string name="error_app_unsupported_hsr">Vídeo de alta velocidade não compatível com a resolução selecionada</string>
   <!-- Settings screen, Select Redeye Reduction -->
   <string name="pref_camera_redeyereduction_title">Redução de olhos vermelhos</string>
   <!-- Settings menu, redeye reduction choices -->
   <string name="pref_camera_redeyereduction_entry_enable">Ligado</string>
   <string name="pref_camera_redeyereduction_entry_disable">Desligado</string>
   <!-- The message is shown in dialog when the app encounters an unsupported resolution for HFR mode -->
-  <string name="error_app_unsupported_hfr">Não há suporte para vídeo câmera lenta na resolução selecionada</string>
+  <string name="error_app_unsupported_hfr">Vídeo câmera lenta não compatível na resolução selecionada</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video codec for HFR mode -->
-  <string name="error_app_unsupported_hfr_codec">Apenas codificação H.264 de vídeo é suportada quando a câmera lenta estiver ligada</string>
-  <string name="error_app_unsupported_hsr_codec">Apenas codificação H.264 vídeo é suportada quando alta velocidade estiver ligada</string>
+  <string name="error_app_unsupported_hfr_codec">Apenas codificação H.264 de vídeo é compatível quando a câmera lenta estiver ligada</string>
+  <string name="error_app_unsupported_hsr_codec">Apenas codificação H.264 vídeo é compatível quando alta velocidade estiver ligada</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video resolution-->
-  <string name="error_app_unsupported">Resolução de vídeo não suportada para este tipo de codec</string>
+  <string name="error_app_unsupported">Resolução de vídeo não compatível com este tipo de codec</string>
   <!-- Settings screen, AE bracketing and HDR location dialog choices -->
-  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Suporte AE</string>
-  <string name="pref_camera_ae_bracket_hdr_title">Assistente auto-exposição</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Patamares de AE</string>
+  <string name="pref_camera_ae_bracket_hdr_title">Patamares de auto-exposição</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Ligado</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Desligado</string>
   <!-- Default hfr setting. Do not translate. -->
@@ -113,7 +113,7 @@
   <!-- Settings screen, hfr radio button choices -->
   <string name="pref_camera_hfr_entry_off">Desligado</string>
   <string name="pref_camera_hfr_entry_2x">Câmera lenta 60 FPS</string>
-  <string name="pref_camera_hfr_entry_3x">Câmera lenta FPS 90</string>
+  <string name="pref_camera_hfr_entry_3x">Câmera lenta 90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">Câmera lenta 120 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_60">Alta velocidade 60 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_90">Alta velocidade 90 FPS</string>
@@ -146,7 +146,7 @@
   <string name="pref_camera_antibanding_entry_3">Automático</string>
   <!-- Default color effect setting. -->
   <!-- Settings screen, Select Color effect title -->
-  <string name="pref_camera_coloreffect_title">Effeito de cor</string>
+  <string name="pref_camera_coloreffect_title">Efeito de cor</string>
   <!-- Settings screen, Color effect dialog radio button choices -->
   <string name="pref_camera_coloreffect_entry_none">Nenhum</string>
   <string name="pref_camera_coloreffect_entry_mono">Monocromático</string>
@@ -154,7 +154,7 @@
   <string name="pref_camera_coloreffect_entry_negative">Negativo</string>
   <!-- Color effect that overexposes and reverses some of the tones. -->
   <string name="pref_camera_coloreffect_entry_solarize">Solarizar</string>
-  <string name="pref_camera_coloreffect_entry_posterize">Posterizar</string>
+  <string name="pref_camera_coloreffect_entry_posterize">Pôster</string>
   <string name="pref_camera_coloreffect_entry_aqua">Água</string>
   <string name="pref_camera_coloreffect_entry_emboss">Alto-relevo</string>
   <string name="pref_camera_coloreffect_entry_sketch">Rascunho</string>
@@ -168,18 +168,18 @@
   <!-- Settings screen, Select Touch AF/AEC title -->
   <string name="pref_camera_touchafaec_title">Toque AF/AEC</string>
   <!-- Settings screen, Touch AF/AEC dialog radio button choices -->
-  <string name="pref_camera_touchafaec_entry_off">Desligar</string>
-  <string name="pref_camera_touchafaec_entry_on">Ligar</string>
+  <string name="pref_camera_touchafaec_entry_off">Desligado</string>
+  <string name="pref_camera_touchafaec_entry_on">Ligado</string>
   <!-- Select DIS title -->
   <string name="pref_camera_dis_title">Estabilização de vídeo</string>
   <!-- DIS choices -->
-  <string name="pref_camera_dis_entry_off">Desligar</string>
-  <string name="pref_camera_dis_entry_on">Ligar</string>
+  <string name="pref_camera_dis_entry_off">Desligado</string>
+  <string name="pref_camera_dis_entry_on">Ligado</string>
   <!-- Select Face Recognition title -->
   <string name="pref_camera_facerc_title">Reconhecimento facial</string>
   <!-- Face Recognition choices -->
-  <string name="pref_camera_facerc_entry_off">Desligar</string>
-  <string name="pref_camera_facerc_entry_on">Ligar</string>
+  <string name="pref_camera_facerc_entry_off">Desligado</string>
+  <string name="pref_camera_facerc_entry_on">Ligado</string>
   <!-- Settings screen, Multiple levels entries -->
   <string name="pref_camera_sharpness_entry_level0">Nível 0</string>
   <string name="pref_camera_sharpness_entry_level1">Nível 1</string>
