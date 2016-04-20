@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Fotocamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Generale</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Dimensione</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Qualità</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Mirino</string>
   <string name="pref_camera_viewfinder_fullscreen">Schermo intero</string>
   <string name="pref_camera_viewfinder_letterbox">LetterBox</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Salva immagine raw</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">La modalità bellezza disattiva la cattura in raw</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Ritardo zero dell\'otturatore</string>
   <string name="pref_camera_zsl_enable_summary_on">Acquisizione rapida dell\'immagine</string>
   <string name="pref_camera_zsl_enable_summary_alt">Acquisizione rapida immagini con scatto continuo</string>
   <string name="pref_camera_zsl_enable_summary_off">Migliore qualità con luce bassa</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Dimensioni video</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Dimensione</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Ampia</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Riduzione sfocatura da movimento</string>
   <string name="pref_camera_scenemode_entry_aqua">Acqua</string>
   <string name="pref_camera_scenemode_entry_ar">Realtà aumentata</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Testo</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatro</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Lavagna bianca</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Continuo</string>
   <string name="pref_camera_focusmode_entry_extended">Esteso</string>
   <string name="pref_camera_focusmode_entry_facedetect">Rilevamento viso</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fisso</string>
   <string name="pref_camera_focusmode_entry_portrait">Ritratto</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Iperfocale</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Lavato</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Vintage, caldo</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Vintage, freddo</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Cartone animato</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Lavagna bianca</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Lavagna nera</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Scatti continui</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">OFF</string>
   <string name="pref_camera_burst_entry_5">5 scatti</string>
   <string name="pref_camera_burst_entry_10">10 scatti</string>
   <string name="pref_camera_burst_entry_15">15 scatti</string>
   <string name="pref_camera_burst_entry_20">20 scatti</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Fuoco: durata tocco</string>
   <string name="pref_camera_focustime_summary">Seleziona la durata per il tocco della messa a fuoco</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Infinito</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Occhi rossi</string>
   <string name="pref_camera_flashmode_label_redeye">OCCHI ROSSI</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Bellezza</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Immagine pulita</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Aumenta esposizione</string>
   <string name="pref_camera_slow_shutter_delay_title">Aumenta tempo di esposizione</string>
   <string name="pref_camera_slow_shutter_entry_off">OFF</string>
@@ -119,24 +148,29 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 secondi</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 secondi</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 secondi</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Memoria</string>
   <string name="pref_camera_recordlocation_on">Memorizza la località nei dati della foto</string>
   <string name="pref_camera_recordlocation_off">Non memorizzare la località nei dati delle foto e dei video</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">MIGLIORA</string>
   <string name="camera_menu_slow_shutter_label">OTTURATORE LENTO</string>
   <string name="camera_menu_beauty_mode_label">ABBELLISCI</string>
   <string name="camera_menu_colorize_label">Colora</string>
   <string name="camera_menu_effects_label">Effetti</string>
   <string name="camera_menu_asd_label">Scena intelligente</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Scatta tasto On/Off</string>
-  <string name="pref_camera_power_shutter_summary">Il tasto alimentazione scatta la foto</string>
+  <string name="pref_camera_power_shutter_summary">Tasto di accensione scatta foto</string>
   <string name="pref_camera_left_handed_title">Mancino</string>
   <string name="pref_camera_left_handed_summary">Regola i controlli per l\'uso con la mano sinistra</string>
   <string name="camera_storage_fallback">Ripristina la cartella di memorizzazione predefinita</string>
   <string name="no_storage_sd">Scheda sd non inserita o non scrivibile.</string>
   <string name="no_storage_usb">Memoria USB non inserita o non scrivibile.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Impossibile accedere alla memoria USB.</string>
   <string name="access_storage_fail">Impossibile accedere alla memoria.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Preparazione memoria USB\u2026</string>
   <string name="preparing_storage">Preparazione memoria\u2026</string>
   <string name="spaceIsLow_sd">Spazio sulla scheda SD in esaurimento.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Avanzate</string>
   <string name="pref_section_other">Altro</string>
   <string name="msg_cancel_longshot_for_limited_memory">Memoria insufficiente, impossibile scattare!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Tieni premuto il pulsante per effettuare scatti continui.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Non è possibile avviare una registrazione video. Il microfono è in uso?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Scatta selfie usando il lettore d\'impronte digitali</string>
   <string name="fingerprint_intro_pane_learn_more">ULTERIORI INFO</string>
   <string name="fingerprint_intro_dialog_title">Otturatore selfie</string>
   <string name="fingerprint_intro_dialog_description">Localizza il sensore d\'impronte sul tuo telefono per fare selfie.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Il dispositivo è caldo. La fotocamera si arresterà.</string>
   <string name="overheated_critical">Il dispositivo è troppo caldo. La fotocamera è stata disattivata.</string>
   <string name="overheated_cooling">Fotocamera disabilitata mentre il dispositivo si raffredda.</string>

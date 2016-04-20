@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Máy ảnh</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Chung</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Kích thước</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Chất lượng</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Khung chụp</string>
   <string name="pref_camera_viewfinder_fullscreen">Toàn màn hình</string>
   <string name="pref_camera_viewfinder_letterbox">Hộp thư</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Lưu ảnh gốc (raw)</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Chế độ làm đẹp vô hiệu hóa chụp ảnh raw</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Độ trễ chụp bằng không</string>
   <string name="pref_camera_zsl_enable_summary_on">Chụp ảnh nhanh</string>
   <string name="pref_camera_zsl_enable_summary_alt">Chụp ảnh nhanh và liên tục</string>
   <string name="pref_camera_zsl_enable_summary_off">Chất lượng ánh sáng thấp tốt hơn</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Kích thước video</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Kích thước</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Rộng</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixel</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Giảm mờ chuyển động</string>
   <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
   <string name="pref_camera_scenemode_entry_ar">Tăng cường thực tế</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Văn bản</string>
   <string name="pref_camera_scenemode_entry_theatre">Nhà hát</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Bảng trắng</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Liên tục</string>
   <string name="pref_camera_focusmode_entry_extended">Mở rộng</string>
   <string name="pref_camera_focusmode_entry_facedetect">Nhận diện khuôn mặt</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Cố định</string>
   <string name="pref_camera_focusmode_entry_portrait">Dọc</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Siêu lấy nét</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Xanh xao</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Màu ấm cổ điển</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Màu lạnh cổ điển</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Hoạt hình</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Bảng trắng</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Bảng đen</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Chế độ chụp nhanh</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Tắt</string>
   <string name="pref_camera_burst_entry_5">5 ảnh</string>
   <string name="pref_camera_burst_entry_10">10 ảnh</string>
   <string name="pref_camera_burst_entry_15">15 ảnh</string>
   <string name="pref_camera_burst_entry_20">20 ảnh</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Thời gian chạm lấy nét</string>
   <string name="pref_camera_focustime_summary">Chọn thời gian để chạm lấy nét</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 giây</string>
   <string name="pref_camera_focustime_entry_10">10 giây</string>
   <string name="pref_camera_focustime_entry_15">15 giây</string>
   <string name="pref_camera_focustime_entry_20">20 giây</string>
   <string name="pref_camera_focustime_entry_30">30 giây</string>
   <string name="pref_camera_focustime_entry_infinite">Vô cực</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Mắt đỏ</string>
   <string name="pref_camera_flashmode_label_redeye">MẮT ĐỎ</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Chế độ làm đẹp</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Hình ảnh rõ ràng</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Chụp màn trập chậm</string>
   <string name="pref_camera_slow_shutter_delay_title">Tốc độ chụp màn trập chậm</string>
   <string name="pref_camera_slow_shutter_entry_off">Tắt</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 giây</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 giây</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 giây</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Lưu trữ</string>
   <string name="pref_camera_recordlocation_on">Gắn thẻ ảnh chụp với vị trí hiện tại</string>
   <string name="pref_camera_recordlocation_off">Không gắn thẻ ảnh và video với vị trí</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Tăng cường</string>
   <string name="camera_menu_slow_shutter_label">Chụp màn trập chậm</string>
   <string name="camera_menu_beauty_mode_label">Làm đẹp</string>
   <string name="camera_menu_colorize_label">Hiệu chỉnh màu sắc</string>
   <string name="camera_menu_effects_label">Hiệu ứng</string>
   <string name="camera_menu_asd_label">Cảnh thông minh</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Chụp bằng nút nguồn</string>
   <string name="pref_camera_power_shutter_summary">Nút nguồn chụp ảnh</string>
   <string name="pref_camera_left_handed_title">Thuận tay trái</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Phục hồi vị trí lưu trữ mặc định</string>
   <string name="no_storage_sd">Thẻ nhớ không được lắp hoặc không thể ghi.</string>
   <string name="no_storage_usb">Bộ lưu trữ USB không được lắp hoặc không thể ghi.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Không thể truy cập bộ lưu trữ USB.</string>
   <string name="access_storage_fail">Không thể truy cập bộ lưu trữ.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Đang chuẩn bị bộ lưu trữ USB\u2026</string>
   <string name="preparing_storage">Đang chuẩn bị bộ lưu trữ\u2026</string>
   <string name="spaceIsLow_sd">Thẻ nhớ của bạn sắp hết dung lượng.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Nâng cao</string>
   <string name="pref_section_other">Khác</string>
   <string name="msg_cancel_longshot_for_limited_memory">Bộ nhớ đang ở mức thấp, ngừng chụp!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Giữ nút bấm để chụp.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Không thể khởi động máy quay video. Micro đang sử dụng?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Chụp ảnh tự sướng bằng cách sử dụng cảm biến vân tay</string>
   <string name="fingerprint_intro_pane_learn_more">TÌM HIỂU THÊM</string>
   <string name="fingerprint_intro_dialog_title">Nút bấm tự sướng</string>
   <string name="fingerprint_intro_dialog_description">Xác định vị trí cảm biến vân tay trên điện thoại của bạn để dễ dàng chụp ảnh tự sướng.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Thiết bị đang nóng. Máy ảnh sẽ sớm ngừng hoạt động.</string>
   <string name="overheated_critical">Thiết bị quá nóng. Máy ảnh đã bị vô hiệu.</string>
   <string name="overheated_cooling">Máy ảnh bị vô hiệu khi thiết bị lạnh.</string>

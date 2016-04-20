@@ -16,9 +16,50 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">ক্যামেরা</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">ভিডিও</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">সাধারণ</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">আকার</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">গুণমান</string>
+  <!-- Settings screen, Viewfinder choice -->
+  <!-- Settings screen, Raw mode toggle -->
+  <!-- Warn about Raw/Beauty mode conflict -->
+  <!-- Settings screen, ZSL enable toggle -->
+  <!-- The Video quality settings in preference -->
+  <!-- The Video quality settings in preference, word Size only -->
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
+  <!-- Settings screen, scene mode -->
+  <!-- Settings screen, focus mode -->
+  <!-- Color effects -->
+  <!-- Settings screen, Burst mode title -->
+  <!-- Settings screen, Burst mode entries -->
+  <!-- Touch-to-focus duration settings -->
+  <!-- Settings screen, Timer mode entries -->
+  <!-- Red eye flash mode title -->
+  <!-- Beauty mode -->
+  <!-- Superresolution : Clear Image -->
+  <!-- Slow shutter modes -->
+  <!-- More Settings screen, storage title -->
+  <!-- ASD -->
+  <!-- More Settings screen, power button title -->
+  <!-- access_sd_fail is in strings.xml -->
+  <!-- preparing_sd is in strings.xml -->
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <!-- toast message for toast showing error of starting video capture -->
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

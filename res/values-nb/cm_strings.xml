@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Generelt</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Størrelse</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kvalitet</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Søkeren</string>
   <string name="pref_camera_viewfinder_fullscreen">Fullskjerm</string>
   <string name="pref_camera_viewfinder_letterbox">Postkasse</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Lagre raw-bilde</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Skjønnhetsmodus deaktiverer raw-bilde</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Ingen lukkerforsinkelse</string>
   <string name="pref_camera_zsl_enable_summary_on">Hurtig bildetaking</string>
   <string name="pref_camera_zsl_enable_summary_alt">Hurtig bildetaking og serietaking</string>
   <string name="pref_camera_zsl_enable_summary_off">Bedre kvalitet ved svakt lys</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Videostørrelse</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Størrelse</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Bred</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixels</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Bevegelsesuskarphet reduksjon</string>
   <string name="pref_camera_scenemode_entry_aqua">Vann</string>
   <string name="pref_camera_scenemode_entry_ar">Utvidet virkelighet</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Tekst</string>
   <string name="pref_camera_scenemode_entry_theatre">Teater</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Tavle</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Kontinuerlig</string>
   <string name="pref_camera_focusmode_entry_extended">Utvidet</string>
   <string name="pref_camera_focusmode_entry_facedetect">Ansiktsoppdagelse</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fast</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrett</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfokal</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Utvasket</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Vintage varmt</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Vintage kaldt</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Tegneserie</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Tavle</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Sort tavle</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Høyhastighetsmodus</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Av</string>
   <string name="pref_camera_burst_entry_5">5 bilder</string>
   <string name="pref_camera_burst_entry_10">10 bilder</string>
   <string name="pref_camera_burst_entry_15">15 bilder</string>
   <string name="pref_camera_burst_entry_20">20 bilder</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Touch fokus varighet</string>
   <string name="pref_camera_focustime_summary">Velg varighet for berøringsfokus</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Uendelig</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Røde øyne</string>
   <string name="pref_camera_flashmode_label_redeye">RØDE ØYNE</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Skjønnhetsmodus</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Klart bilde</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Treg lukker</string>
   <string name="pref_camera_slow_shutter_delay_title">Treg lukkerhastighet</string>
   <string name="pref_camera_slow_shutter_entry_off">Av</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 sekunder</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekunder</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekunder</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Lagring</string>
   <string name="pref_camera_recordlocation_on">Tag bilder med gjeldende plassering</string>
   <string name="pref_camera_recordlocation_off">Ikke merk bilder og videoer med beliggenhet</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Forbedre</string>
   <string name="camera_menu_slow_shutter_label">Treg lukker</string>
   <string name="camera_menu_beauty_mode_label">Forskjønne</string>
   <string name="camera_menu_colorize_label">Fargelegge</string>
   <string name="camera_menu_effects_label">Effekter</string>
   <string name="camera_menu_asd_label">Smart Scene</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Påknapp som utløser</string>
   <string name="pref_camera_power_shutter_summary">Strømknappen tar bilde</string>
   <string name="pref_camera_left_handed_title">Venstrehendt</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Går tilbake til standard lagringsplassering</string>
   <string name="no_storage_sd">SD kort er ikke satt inn eller skrivbart.</string>
   <string name="no_storage_usb">USB lagring er ikke montert eller skrivbar.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Får ikke tilgang til USB lagring.</string>
   <string name="access_storage_fail">Får ikke tilgang til lagring.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Forbereder USBlagring\u2026</string>
   <string name="preparing_storage">Forbereder lagring\u2026</string>
   <string name="spaceIsLow_sd">SD kortet ditt er i ferd med å bli fullt.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">Avansert</string>
   <string name="pref_section_other">Andre</string>
   <string name="msg_cancel_longshot_for_limited_memory">Minnet er i ferd med å bli fullt, slutt å ta bilder!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Hold lukkeren for å ta burst-shoots.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Kan ikke starte video opptak. Er mikrofonen i bruk?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Ta selfies ved å bruke fingeravtrykkssensoren</string>
   <string name="fingerprint_intro_pane_learn_more">FÅ MER INFORMASJON</string>
   <string name="fingerprint_intro_dialog_title">Selfie-lukker</string>
   <string name="fingerprint_intro_dialog_description">Finn fingeravtrykkssensoren på enheten for lett å ta selfies.</string>
   <string name="fingerprint_intro_dialog_button_text">OK</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">Enheten er varm. Kameraet vil stoppe snart.</string>
   <string name="overheated_critical">Enheten er for varm. Kameraet er midlertidig deaktivert.</string>
   <string name="overheated_cooling">Kameraet er deaktivert mens enheten kjøler ned.</string>

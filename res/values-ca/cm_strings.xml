@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Càmera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Vídeo</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">General</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Mida</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Qualitat</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Visor</string>
   <string name="pref_camera_viewfinder_fullscreen">Pantalla sencera</string>
   <string name="pref_camera_viewfinder_letterbox">Bústia</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Desa la imatge raw</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">El mode bellesa impossibilita la captura d\'imatge raw</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Obturador sense retard</string>
   <string name="pref_camera_zsl_enable_summary_on">Captura d\'imatge ràpida</string>
   <string name="pref_camera_zsl_enable_summary_alt">Captura d\'imatge ràpida i obturador continu</string>
   <string name="pref_camera_zsl_enable_summary_off">Millor qualitat amb poca llum</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Mida del vídeo</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Mida</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Ample</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapíxels</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Reducció del difuminat del moviment</string>
   <string name="pref_camera_scenemode_entry_aqua">Aigua</string>
   <string name="pref_camera_scenemode_entry_ar">Realitat augmentada</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Text</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatre</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Pissarra blanca</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Continu</string>
   <string name="pref_camera_focusmode_entry_extended">Extès</string>
   <string name="pref_camera_focusmode_entry_facedetect">Detecció de cares</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fixat</string>
   <string name="pref_camera_focusmode_entry_portrait">Retrat</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfocal</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Rentat</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Vintage càlid</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Vintage fred</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Encartrona</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Pissarra blanca</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Pissarra negra</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Mode ràfaga</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Desactivat</string>
   <string name="pref_camera_burst_entry_5">5 fotos</string>
   <string name="pref_camera_burst_entry_10">10 fotos</string>
   <string name="pref_camera_burst_entry_15">15 fotos</string>
   <string name="pref_camera_burst_entry_20">20 fotos</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Duració del focus tàctil</string>
   <string name="pref_camera_focustime_summary">Selecciona la duració del focus tàctil</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Infinit</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Ulls vermells</string>
   <string name="pref_camera_flashmode_label_redeye">ULLS VERMELLS</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Mode bonic</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Imatge nítida</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Obturador lent</string>
   <string name="pref_camera_slow_shutter_delay_title">Velocitat de l\'obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Desactivat</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 segons</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 segons</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 segons</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Emmagatzematge</string>
   <string name="pref_camera_recordlocation_on">Marca les fotos amb la ubicació actual</string>
   <string name="pref_camera_recordlocation_off">No marquis les fotos i els vídeos amb la ubicació</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">MILLORA</string>
   <string name="camera_menu_slow_shutter_label">OBTURADOR LENT</string>
   <string name="camera_menu_beauty_mode_label">FES BONIC</string>
   <string name="camera_menu_colorize_label">ACOLOREIX</string>
   <string name="camera_menu_effects_label">EFECTES</string>
   <string name="camera_menu_asd_label">ESCENA INTEL·LIGENT</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Obturador ràpid</string>
   <string name="pref_camera_power_shutter_summary">El botó d\'apagat fa una foto</string>
   <string name="pref_camera_left_handed_title">Esquerrà</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">S\'està tornant a la ubicació predefinida d\'emmagatzematge</string>
   <string name="no_storage_sd">La targeta SD no està inserida o no s\'hi pot escriure.</string>
   <string name="no_storage_usb">L\'emmagatzematge USB no està inserit o no s\'hi pot escriure.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">No s\'ha pogut accedir a l\'emmagatzematge USB.</string>
   <string name="access_storage_fail">No s\'ha pogut accedir a l\'emmagatzematge.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">S\'està preparant l\'emmagatzematge USB\u2026</string>
   <string name="preparing_storage">S\'està preparant l\'emmagatzematge\u2026</string>
   <string name="spaceIsLow_sd">La teva targeta SD s\'està quedant sense espai.</string>
@@ -148,21 +182,28 @@
   <string name="pref_camera_volume_zoom_title">Zoom amb el volum</string>
   <string name="pref_camera_volume_zoom_summary">Les tecles de volum controlen el zoom</string>
   <string name="pref_max_brightness_title">Pantalla brillant</string>
-  <string name="pref_max_brightness_summary">Estableix la brillantor al màxim mentre la Càmera estigui activa</string>
+  <string name="pref_max_brightness_summary">Estableix la lluminositat al màxim mentre la Càmera estigui activa</string>
   <string name="pref_camera_reset_title">Restaura els predefinits</string>
   <string name="pref_camera_reset_message">Vols canviar tots els ajustaments de càmera i vídeo als seus valors originals? Això no es pot desfer.</string>
   <string name="pref_camera_reset_button">Restaura</string>
   <string name="pref_section_advanced">Avançat</string>
   <string name="pref_section_other">Altres</string>
   <string name="msg_cancel_longshot_for_limited_memory">S\'està acabant la memòria, parant de disparar!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Aguanta l\'obturador per disparar contínuament.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">No es pot iniciar una gravació de vídeo. Està el micròfon en ús?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">Fes selfies utilitzant el lector d\'empremtes digitals</string>
   <string name="fingerprint_intro_pane_learn_more">MÉS INFORMACIÓ</string>
   <string name="fingerprint_intro_dialog_title">Obturador de selfies</string>
   <string name="fingerprint_intro_dialog_description">Localitza el lector d\'empremtes digital al teu telèfon per fer selfies fàcilment.</string>
   <string name="fingerprint_intro_dialog_button_text">D\'ACORD</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">El dispositiu està calent. La càmera s\'aturarà aviat.</string>
   <string name="overheated_critical">El dispositiu està massa calent. La càmera s\'ha inhabilitat.</string>
   <string name="overheated_cooling">La càmera està inhabilitada mentre el dispositiu es refreda.</string>

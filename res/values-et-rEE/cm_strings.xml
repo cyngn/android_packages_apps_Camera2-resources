@@ -16,15 +16,34 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kaamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Üldine</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Suurus</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kvaliteet</string>
+  <!-- Settings screen, Viewfinder choice -->
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Salvesta toorpilt</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Ilurežiim keelab toorpildi</string>
+  <!-- Settings screen, ZSL enable toggle -->
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Video suurus</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Suurus</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Liikumishägu vähendamine</string>
   <string name="pref_camera_scenemode_entry_aqua">Vesi</string>
   <string name="pref_camera_scenemode_entry_ar">Võimendatud reaalsus</string>
@@ -67,6 +86,7 @@
   <string name="pref_camera_scenemode_entry_text">Tekst</string>
   <string name="pref_camera_scenemode_entry_theatre">Teater</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Tahvel</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Pidev</string>
   <string name="pref_camera_focusmode_entry_extended">Laiendatud</string>
   <string name="pref_camera_focusmode_entry_facedetect">Näotuvastus</string>
@@ -74,6 +94,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fikseeritud</string>
   <string name="pref_camera_focusmode_entry_portrait">Vertikaalne</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hüperfokaal</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Pestud</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Soojad värvid</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Külmad värvid</string>
@@ -83,24 +104,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Multika ilme</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Valge tahvel</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Must tahvel</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Sarivõte</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Väljas</string>
   <string name="pref_camera_burst_entry_5">5 võtet</string>
   <string name="pref_camera_burst_entry_10">10 võtet</string>
   <string name="pref_camera_burst_entry_15">15 võtet</string>
   <string name="pref_camera_burst_entry_20">20 võtet</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Puutega fookustamise kestus</string>
   <string name="pref_camera_focustime_summary">Vali puutega fookustamise kestus</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5s</string>
   <string name="pref_camera_focustime_entry_10">10s</string>
   <string name="pref_camera_focustime_entry_15">15s</string>
   <string name="pref_camera_focustime_entry_20">20s</string>
   <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Lõpmatu</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Punasilmsus</string>
   <string name="pref_camera_flashmode_label_redeye">PUNASILMSUS</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Ilu režiim</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Puhas Pilt</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Aeglusta säriaega</string>
   <string name="pref_camera_slow_shutter_delay_title">Aeglase säriaja kiirus</string>
   <string name="pref_camera_slow_shutter_entry_off">Välja</string>
@@ -110,22 +139,34 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 sekundit</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekundit</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekundit</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Salvestuskoht</string>
   <string name="pref_camera_recordlocation_on">Märgi võtted asukohaga</string>
   <string name="pref_camera_recordlocation_off">Ära märgi fotodele ega videotele asukohta</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Tõsta esile</string>
   <string name="camera_menu_slow_shutter_label">Aeglusta säriaega</string>
   <string name="camera_menu_beauty_mode_label">Ilusta</string>
   <string name="camera_menu_colorize_label">Tooni</string>
   <string name="camera_menu_effects_label">Efektid</string>
   <string name="camera_menu_asd_label">Smart-stseen</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Sisselülitusnupp</string>
   <string name="pref_camera_power_shutter_summary">Sisselülitusnupp teeb foto</string>
   <string name="pref_camera_left_handed_title">Vasakukäeline</string>
   <string name="pref_camera_left_handed_summary">Kohanda nuppe vasaku käega kasutamiseks</string>
   <string name="camera_storage_fallback">Ennistamine salvestamise vaikeasukohta</string>
+  <!-- access_sd_fail is in strings.xml -->
+  <!-- preparing_sd is in strings.xml -->
   <string name="pref_camera_volume_zoom_title">Helinupuga suumimine</string>
   <string name="pref_camera_volume_zoom_summary">Helitugevuse nupuga suumimine</string>
   <string name="pref_max_brightness_title">Hele ekraan</string>
   <string name="pref_max_brightness_summary">Määra heledus maksimumini kui Kaamera on aktiivne</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <!-- toast message for toast showing error of starting video capture -->
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

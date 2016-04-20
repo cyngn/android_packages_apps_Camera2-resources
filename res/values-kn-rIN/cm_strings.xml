@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">ಕ್ಯಾಮೆರಾ</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">ವೀಡಿಯೋ</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">ಸಾಮಾನ್ಯ</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">ಗಾತ್ರ</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">ಗುಣಮಟ್ಟ</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">ವ್ಯೂಫೈಂಡರ್</string>
   <string name="pref_camera_viewfinder_fullscreen">ಪೂರ್ಣಪರದೆ</string>
   <string name="pref_camera_viewfinder_letterbox">ಲೆಟರ್‍ಬಾಕ್ಸ್</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">ಕಚ್ಚಾ ಇಮೇಜನ್ನು ಉಳಿಸು</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">ಬ್ಯೂಟಿ ಮೋಡ್ ಕಚ್ಚಾ ಇಮೇಜನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">ಶೂನ್ಯ ಷಟರ್ ವಿಳಂಬ</string>
   <string name="pref_camera_zsl_enable_summary_on">ವೇಗ ಇಮೇಜ್ ಸೆರೆಹಿಡಿಯುವಿಕೆ</string>
   <string name="pref_camera_zsl_enable_summary_alt">ವೇಗ ಇಮೇಜ್ ಸೆರೆಹಿಡಿಯುವಿಕೆ ಹಾಗು ಬರ್ಸ್ಟ್ ಶಾಟ್</string>
   <string name="pref_camera_zsl_enable_summary_off">ಉತ್ತಮ ಕಡಿಮೆ ಬೆಳಕು ಗುಣಮಟ್ಟ</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">ವೀಡಿಯೋ ಗಾತ್ರ</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">ಗಾತ್ರ</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">ವೈಡ್</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f ಮೆಗಾಪಿಕ್ಸೆಲ್ಸ್</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">ಮೋಶನ್ ಬ್ಲರ್ ಕಡಿತ</string>
   <string name="pref_camera_scenemode_entry_aqua">ಆಕ್ವಾ</string>
   <string name="pref_camera_scenemode_entry_ar">ವೃದ್ಧಿತ ವಾಸ್ತವತೆ</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">ಪಠ್ಯ</string>
   <string name="pref_camera_scenemode_entry_theatre">ಥಿಯೆಟರ್</string>
   <string name="pref_camera_scenemode_entry_whiteboard">ಬಿಳಿಹಲಗೆ</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">ನಿರಂತರ</string>
   <string name="pref_camera_focusmode_entry_extended">ವಿಸ್ತೃತ</string>
   <string name="pref_camera_focusmode_entry_facedetect">ಮುಖ ಪತ್ತೆಹಚ್ಚು</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">ನಿಶ್ಚಿತ</string>
   <string name="pref_camera_focusmode_entry_portrait">ಪೋಟ್ರೇಟ್</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">ಹೈಪರ್‍ಫೋಕಲ್</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">ತೊಳೆದ</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">ವಿಂಟೇಜ್ ಬೆಚ್ಚನೆ</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">ವಿಂಟೇಜ್ ತಂಪನೆ</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">ಕಾರ್ಟೂನೈಜ್</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">ಬಿಳಿಹಲಗೆ</string>
   <string name="pref_camera_coloreffect_entry_blackboard">ಕಪ್ಪುಹಲಗೆ</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">ಬರ್ಸ್ಟ್ ಮೋಡ್</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">ಆಫ್</string>
   <string name="pref_camera_burst_entry_5">5 ಶಾಟ್ಸ್</string>
   <string name="pref_camera_burst_entry_10">10 ಶಾಟ್ಸ್</string>
   <string name="pref_camera_burst_entry_15">15 ಶಾಟ್ಸ್</string>
   <string name="pref_camera_burst_entry_20">20 ಶಾಟ್ಸ್</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">ಸ್ಪರ್ಶ ಫೋಕಸ್ ಕಾಲಾವಧಿ</string>
   <string name="pref_camera_focustime_summary">ಸ್ಪರ್ಶ ಫೋಕಸ್‍ಗಾಗಿ ಕಾಲಾವಧಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5ಸೆ</string>
   <string name="pref_camera_focustime_entry_10">10ಸೆ</string>
   <string name="pref_camera_focustime_entry_15">15ಸೆ</string>
   <string name="pref_camera_focustime_entry_20">20ಸೆ</string>
   <string name="pref_camera_focustime_entry_30">30ಸೆ</string>
   <string name="pref_camera_focustime_entry_infinite">ಅಪರಿಮಿತ</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">ಕೆಂಪು ಕಣ್ನು</string>
   <string name="pref_camera_flashmode_label_redeye">ಕೆಂಪು ಕಣ್ಣು</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">ಬ್ಯೂಟಿ ಮೋಡ್</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">ಸ್ಪಷ್ಟ ಇಮೇಜ್</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">ನಿಧಾನ ಷಟರ್</string>
   <string name="pref_camera_slow_shutter_delay_title">ನಿಧಾನ ಷಟರ್ ವೇಗ</string>
   <string name="pref_camera_slow_shutter_entry_off">ಆಫ್</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 ಸೆಕೆಂಡ್‍ಗಳು</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 ಸೆಕೆಂಡ್‍ಗಳು</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 ಸೆಕೆಂಡ್‍ಗಳು</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">ಸಂಗ್ರಹಣೆ</string>
   <string name="pref_camera_recordlocation_on">ಶಾಟ್ಸ್ ಜೊತೆ ಪ್ರಸ್ತುತ ಸ್ಥಳವನ್ನು ನಮೂದಿಸು</string>
   <string name="pref_camera_recordlocation_off">ಫೋಟೋಗಳು ಮತ್ತು ವೀಡಿಯೋಗಳನ್ನು ಸ್ಥಳದ ಜೊತೆ ನಮೂದಿಸಬೇಡ</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">ವರ್ಧಿಸು</string>
   <string name="camera_menu_slow_shutter_label">ನಿಧಾನ ಷಟರ್</string>
   <string name="camera_menu_beauty_mode_label">ಬ್ಯೂಟಿಫೈ</string>
   <string name="camera_menu_colorize_label">ಕಲರೈಸ್</string>
   <string name="camera_menu_effects_label">ಪರಿಣಾಮಗಳು</string>
   <string name="camera_menu_asd_label">ಸ್ಮಾರ್ಟ್ ದೃಶ್ಯ</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">ಪವರ್ ಷಟರ್</string>
   <string name="pref_camera_power_shutter_summary">ಪವರ್ ಬಟನ್ ಫೋಟೋ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ</string>
   <string name="pref_camera_left_handed_title">ಎಡಗೈ</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">ಡೀಫಾಲ್ಟ್ ಸಂಗ್ರಹಣೆ ಸ್ಥಳಕ್ಕೆ ಹಿಂತಿರುಗಿಸಲಾಗುತ್ತಿದೆ</string>
   <string name="no_storage_sd">SD ಕಾರ್ಡ್ ಅಳವಡಿಸಲಾಗಿಲ್ಲ ಅಥವ ವ್ರೈಟಬಲ್ ಅಲ್ಲ.</string>
   <string name="no_storage_usb">ಯುಎಸ್‍ಬಿ ಸಂಗ್ರಹಣೆ ಅಳವಡಿಸಲಾಗಿಲ್ಲ ಅಥವ ವ್ರೈಟಬಲ್ ಅಲ್ಲ.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">ಯುಎಸ್‍ಬಿ ಸಂಗ್ರಹಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಆಗಲಿಲ್ಲ.</string>
   <string name="access_storage_fail">ಸಂಗ್ರಹಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಆಗಲಿಲ್ಲ.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">ಯುಎಸ್‍ಬಿ ಸಂಗ್ರಹಣೆಯನ್ನು ಸಿದ್ಧಗೊಳಿಸುತ್ತಿದೆ\u2026</string>
   <string name="preparing_storage">ಸಂಗ್ರಹಣೆಯನ್ನು ಸಿದ್ಧಗೊಳಿಸುತ್ತಿದೆ\u2026</string>
   <string name="spaceIsLow_sd">ನಿಮ್ಮ SD ಕಾರ್ಡ್‍ನಲ್ಲಿ ಜಾಗ ಬಹಳಾ ಕಡಿಮೆಯಾಗಿಪೆ.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">ಸುಧಾರಿತ</string>
   <string name="pref_section_other">ಇತರೆ</string>
   <string name="msg_cancel_longshot_for_limited_memory">ಸ್ಮರಣೆಯು ಕಡಿಮೆಯಾಗುತ್ತಿದೆ, ಶಾಟ್‍ಗಳನ್ನು ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">ಬರ್ಸ್ಟ್ ಸೆರೆಹಿಡಿಯಲು ಷಟರ್ ಒತ್ತಿ ಹಿಡಿಯಿರಿ.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">ವೀಡಿಯೋ ರಿಕಾರ್ಡಿಂಗ್ ಆರಂಭಿಸಲು ಆಗುತ್ತಿಲ್ಲ. ಧ್ವನಿಗ್ರಾಹಕ ಬಳಕೆಯಲ್ಲಿದೆಯೇ?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಉಪಯೋಗಿಸಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆಯಿರಿ</string>
   <string name="fingerprint_intro_pane_learn_more">ಮತ್ತಷ್ಟು ತಿಳಿಯಿರಿ</string>
   <string name="fingerprint_intro_dialog_title">ಸೆಲ್ಫೀ ಷಟರ್</string>
   <string name="fingerprint_intro_dialog_description">ಸುಲಭವಾಗಿ ಸೆಲ್ಫೀಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ನಿಮ್ಮ ಫೋನಿನಲ್ಲಿರುವ ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸಂವೇದಕವನ್ನು ಗುರುತಿಸಿ.</string>
   <string name="fingerprint_intro_dialog_button_text">ಆಯ್ತು</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ಕ್ರೋಮಾಫ್ಲ್ಯಾಶ್</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">ಸಾಧನವು ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾ ಶೀಘ್ರದಲ್ಲಿ ನಿಲ್ಲಲಿದೆ.</string>
   <string name="overheated_critical">ಸಾಧನವು ಬಹಳಾ ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
   <string name="overheated_cooling">ಸಾಧನವು ತಣ್ಣಗಾಗುವವರೆಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>

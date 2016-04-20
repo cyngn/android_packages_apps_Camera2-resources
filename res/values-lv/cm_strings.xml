@@ -16,15 +16,34 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Kamera</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Video</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Vispārīgi</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Izmērs</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kvalitāte</string>
+  <!-- Settings screen, Viewfinder choice -->
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Neapstrādāta attēla saglabāšana</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Skaistuma režīms atslēdz neapstrādātu uzņemšanu</string>
+  <!-- Settings screen, ZSL enable toggle -->
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Video izmērs</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Izmērs</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Kustības smērējuma samazināšana</string>
   <string name="pref_camera_scenemode_entry_aqua">Akva</string>
   <string name="pref_camera_scenemode_entry_ar">Papildinātā realitāte</string>
@@ -67,6 +86,7 @@
   <string name="pref_camera_scenemode_entry_text">Teksts</string>
   <string name="pref_camera_scenemode_entry_theatre">Teātris</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Balta tāfele</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Nepārtraukti</string>
   <string name="pref_camera_focusmode_entry_extended">Paplašināts</string>
   <string name="pref_camera_focusmode_entry_facedetect">Noteikt seju</string>
@@ -74,6 +94,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Nekustīgs</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrets</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfokāls</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Izmazgāts</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Silta vinjete</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Auksta vinjete</string>
@@ -83,24 +104,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Zīmējums</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Balta tāfele</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Melna tāfele</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Šalts režīms</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Izslēgts</string>
   <string name="pref_camera_burst_entry_5">5 kadri</string>
   <string name="pref_camera_burst_entry_10">10 kadri</string>
   <string name="pref_camera_burst_entry_15">15 kadri</string>
   <string name="pref_camera_burst_entry_20">20 kadri</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Skāriena fokusa ilgums</string>
   <string name="pref_camera_focustime_summary">Izvēlieties pieskārienu fokusa ilgumu</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 s</string>
   <string name="pref_camera_focustime_entry_10">10 s</string>
   <string name="pref_camera_focustime_entry_15">15 s</string>
   <string name="pref_camera_focustime_entry_20">20 s</string>
   <string name="pref_camera_focustime_entry_30">30 s</string>
   <string name="pref_camera_focustime_entry_infinite">Bezgalība</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Sarkanas acis</string>
   <string name="pref_camera_flashmode_label_redeye">SARKANAS ACIS</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Skaistuma režīms</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Skaidrs attēls</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Lēns slēdzis</string>
   <string name="pref_camera_slow_shutter_delay_title">Zamazināt slēdža ātrumu</string>
   <string name="pref_camera_slow_shutter_entry_off">Izslēgts</string>
@@ -110,22 +139,34 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 sekundes</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekundes</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 sekundes</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Krātuve</string>
   <string name="pref_camera_recordlocation_on">Iezīmēt kadrus ar tekošo vietu</string>
   <string name="pref_camera_recordlocation_off">Neiezīmēt kadrus ar tekošo vietu</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">Uzlabot</string>
   <string name="camera_menu_slow_shutter_label">Lēns slēdzis</string>
   <string name="camera_menu_beauty_mode_label">Skaistums</string>
   <string name="camera_menu_colorize_label">Iekrāsot</string>
   <string name="camera_menu_effects_label">Efekti</string>
   <string name="camera_menu_asd_label">Gudrā aina</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Jaudas slēdzis</string>
   <string name="pref_camera_power_shutter_summary">Barošanas slēdzis uzņem bildi</string>
   <string name="pref_camera_left_handed_title">Kreilim</string>
   <string name="pref_camera_left_handed_summary">Pielāgot vadību kreilim</string>
   <string name="camera_storage_fallback">Atgriezties uz noklusēto krātuves vietu</string>
+  <!-- access_sd_fail is in strings.xml -->
+  <!-- preparing_sd is in strings.xml -->
   <string name="pref_camera_volume_zoom_title">Skaļums ir palielinājums</string>
   <string name="pref_camera_volume_zoom_summary">Skaļuma taustiņš maina palielinājumu</string>
   <string name="pref_max_brightness_title">Spilgts ekrāns</string>
   <string name="pref_max_brightness_summary">Kamēr kamera ir aktīva, iestatītu maksimālo spilgtumu</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <!-- toast message for toast showing error of starting video capture -->
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

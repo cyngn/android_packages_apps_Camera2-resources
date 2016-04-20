@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">카메라</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">비디오</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">일반</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">크기</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">품질</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">뷰파인더</string>
   <string name="pref_camera_viewfinder_fullscreen">전체 화면</string>
   <string name="pref_camera_viewfinder_letterbox">레터박스</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">RAW 이미지 저장</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">피부 보정 모드에선 RAW 저장을 할 수 없습니다</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">제로 셔터 랙</string>
   <string name="pref_camera_zsl_enable_summary_on">빠른 이미지 캡처</string>
   <string name="pref_camera_zsl_enable_summary_alt">빠른 이미지 캡처 및 버스트 샷</string>
   <string name="pref_camera_zsl_enable_summary_off">더 나은 저조도 화질</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">비디오 크기</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">크기</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">광각</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f만 화소</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">모션 블러 감소</string>
   <string name="pref_camera_scenemode_entry_aqua">아쿠아</string>
   <string name="pref_camera_scenemode_entry_ar">증강 현실</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">텍스트</string>
   <string name="pref_camera_scenemode_entry_theatre">극장</string>
   <string name="pref_camera_scenemode_entry_whiteboard">화이트보드</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">연속</string>
   <string name="pref_camera_focusmode_entry_extended">확장</string>
   <string name="pref_camera_focusmode_entry_facedetect">얼굴 인식</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">고정</string>
   <string name="pref_camera_focusmode_entry_portrait">인물</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">과초점</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">탈색</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">빈티지 (따뜻하게)</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">빈티지 (차갑게)</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">만화</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">화이트보드</string>
   <string name="pref_camera_coloreffect_entry_blackboard">칠판</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">연사 모드</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">꺼짐</string>
   <string name="pref_camera_burst_entry_5">5장</string>
   <string name="pref_camera_burst_entry_10">10장</string>
   <string name="pref_camera_burst_entry_15">15장</string>
   <string name="pref_camera_burst_entry_20">20장</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">터치 초점 지속시간</string>
   <string name="pref_camera_focustime_summary">터치 초점 지속시간 선택</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5초</string>
   <string name="pref_camera_focustime_entry_10">10초</string>
   <string name="pref_camera_focustime_entry_15">15초</string>
   <string name="pref_camera_focustime_entry_20">20초</string>
   <string name="pref_camera_focustime_entry_30">30초</string>
   <string name="pref_camera_focustime_entry_infinite">계속 유지</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">적목</string>
   <string name="pref_camera_flashmode_label_redeye">적목</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">뷰티 모드</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">선명한 이미지</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">느린 셔터</string>
   <string name="pref_camera_slow_shutter_delay_title">느린 셔터 속도</string>
   <string name="pref_camera_slow_shutter_entry_off">꺼짐</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2초</string>
   <string name="pref_camera_slow_shutter_entry_4s">4초</string>
   <string name="pref_camera_slow_shutter_entry_8s">8초</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">저장소</string>
   <string name="pref_camera_recordlocation_on">현재 위치 태그</string>
   <string name="pref_camera_recordlocation_off">사진 및 동영상에 위치 태그 사용 안 함</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">향상</string>
   <string name="camera_menu_slow_shutter_label">느린 셔터</string>
   <string name="camera_menu_beauty_mode_label">피부 보정</string>
   <string name="camera_menu_colorize_label">색상효과</string>
   <string name="camera_menu_effects_label">효과</string>
   <string name="camera_menu_asd_label">스마트 씬</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">전원 키 셔터</string>
   <string name="pref_camera_power_shutter_summary">전원 버튼으로 사진 촬영</string>
   <string name="pref_camera_left_handed_title">왼손잡이</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">기본 저장소 위치로 되돌리는 중</string>
   <string name="no_storage_sd">SD 카드가 삽입되지 않았거나 읽기 전용입니다.</string>
   <string name="no_storage_usb">USB 저장소가 삽입되지 않았거나 읽기 전용입니다.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">USB 저장소에 접근할 수 없습니다.</string>
   <string name="access_storage_fail">저장소에 접근할 수 없습니다.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">USB 저장소 준비 중\u2026</string>
   <string name="preparing_storage">저장소 준비중\u2026</string>
   <string name="spaceIsLow_sd">SD 카드에 빈 공간이 부족합니다.</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">고급</string>
   <string name="pref_section_other">기타</string>
   <string name="msg_cancel_longshot_for_limited_memory">메모리가 부족하여 촬영을 중단합니다!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">버스트 샷을 찍으려면 셔터를 누른 체로 유지하세요.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">동영상을 찍을 수 없습니다. 마이크를 사용중입니까?</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">지문 센서를 이용하여 셀카 촬영</string>
   <string name="fingerprint_intro_pane_learn_more">더 알아보기</string>
   <string name="fingerprint_intro_dialog_title">셀카 셔터</string>
   <string name="fingerprint_intro_dialog_description">휴대 전화에 있는 지문 센서를 찾아 쉽게 셀카를 찍으세요.</string>
   <string name="fingerprint_intro_dialog_button_text">확인</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">크로마플래시</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">장치가 뜨겁습니다. 카메라가 곧 중지됩니다.</string>
   <string name="overheated_critical">카메라가 너무 뜨겁습니다. 카메라가 비활성화되었습니다.</string>
   <string name="overheated_cooling">장치가 냉각되는 동안 카메라가 비활성화됩니다.</string>

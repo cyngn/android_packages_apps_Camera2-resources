@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">Cámara</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">Videu</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Xeneral</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamañu</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Calidá</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">Visor</string>
   <string name="pref_camera_viewfinder_fullscreen">Pantalla completa</string>
   <string name="pref_camera_viewfinder_letterbox">Buzón</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Guardar imaxe RAW</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">El mou belleza deshabilita la captura en RAW</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">Desaniciar retrasu del disparador</string>
   <string name="pref_camera_zsl_enable_summary_on">Captura rápida d\'imaxe</string>
   <string name="pref_camera_zsl_enable_summary_alt">Captura rápida d\'imaxe y captura múltiple</string>
   <string name="pref_camera_zsl_enable_summary_off">Meyor calidá con lluz baxa</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Tamañu de videu</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">Tamañu</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">Ampliada</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapixels</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Reductor de desenfoque</string>
   <string name="pref_camera_scenemode_entry_aqua">Agua</string>
   <string name="pref_camera_scenemode_entry_ar">Realidá aumentada</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">Testu</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatru</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Pizarra</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">Continuu</string>
   <string name="pref_camera_focusmode_entry_extended">Estendíu</string>
   <string name="pref_camera_focusmode_entry_facedetect">Detección de cares</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">Fixu</string>
   <string name="pref_camera_focusmode_entry_portrait">Retratu</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfocal</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">Llaváu</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Antiguu caldiu</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Antiguu fríu</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">Viñetiar</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">Pizarra blanca</string>
   <string name="pref_camera_coloreffect_entry_blackboard">Pizarra prieta</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">Mou rabasera</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">Desactiváu</string>
   <string name="pref_camera_burst_entry_5">5 semeyes</string>
   <string name="pref_camera_burst_entry_10">10 semeyes</string>
   <string name="pref_camera_burst_entry_15">15 semeyes</string>
   <string name="pref_camera_burst_entry_20">20 semeyes</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">Duración del enfoque</string>
   <string name="pref_camera_focustime_summary">Seleicionar la duración del enfoque</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 s</string>
   <string name="pref_camera_focustime_entry_10">10 s</string>
   <string name="pref_camera_focustime_entry_15">15 s</string>
   <string name="pref_camera_focustime_entry_20">20 s</string>
   <string name="pref_camera_focustime_entry_30">30 s</string>
   <string name="pref_camera_focustime_entry_infinite">Infinitu</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">Güeyos bermeyos</string>
   <string name="pref_camera_flashmode_label_redeye">GÜEYOS BERMEYOS</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">Mou belleza</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">Imaxe nítida</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">Obturador lentu</string>
   <string name="pref_camera_slow_shutter_delay_title">Velocidá d\'obturador lenta</string>
   <string name="pref_camera_slow_shutter_entry_off">Apagáu</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 segundos</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 segundos</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">Almacenamientu</string>
   <string name="pref_camera_recordlocation_on">Etiqueta les semeyes cola llocalización actual</string>
   <string name="pref_camera_recordlocation_off">Nun etiquetar les semeyes y videos cola llocalización</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">MEYORES</string>
   <string name="camera_menu_slow_shutter_label">OBTURADOR LENTU</string>
   <string name="camera_menu_beauty_mode_label">EMBELLECER</string>
   <string name="camera_menu_colorize_label">DAR COLOR</string>
   <string name="camera_menu_effects_label">EFEUTOS</string>
   <string name="camera_menu_asd_label">ESCENA INTELIXENTE</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Disparador c/botón d\'encendíu</string>
   <string name="pref_camera_power_shutter_summary">El botón d\'apagáu fai una semeya</string>
   <string name="pref_camera_left_handed_title">Mou pa maniegos</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">Tornando a la llocalización predefinida d\'almacenamientu</string>
   <string name="no_storage_sd">Tarxeta SD non inxertada o non modificable.</string>
   <string name="no_storage_usb">Almacenamientu USB non inxertáu o non modificable.</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">Ensin accesu al almacenamientu USB.</string>
   <string name="access_storage_fail">Ensin accesu al almacenamientu.</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">Tresnando almacenamientu USB\u2026</string>
   <string name="preparing_storage">Tresnando l\'almacenamientu\u2026</string>
   <string name="spaceIsLow_sd">La tarxeta SD ta quedando ensin espaciu.</string>
@@ -155,6 +189,13 @@
   <string name="pref_section_advanced">Avanzaos</string>
   <string name="pref_section_other">Otru</string>
   <string name="msg_cancel_longshot_for_limited_memory">Memoria baxa, ¡deteniendo les tomes!</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">Caltén primíu\'l disparador pa tomar semeyes múltiples.</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nun pue aniciase la grabación. ¿Ta usándose\'l micrófonu?</string>
+  <!-- Fingerprint Sensor Image Capture -->
+  <!-- Chromaflash -->
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
 </resources>

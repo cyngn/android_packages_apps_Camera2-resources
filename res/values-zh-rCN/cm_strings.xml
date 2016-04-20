@@ -16,24 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Settings screen, camera section -->
   <string name="pref_camera_camera_section">相机</string>
+  <!-- Settings screen, video section -->
   <string name="pref_camera_video_section">视频</string>
+  <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">常规</string>
+  <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">大小</string>
+  <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">质量</string>
+  <!-- Settings screen, Viewfinder choice -->
   <string name="pref_camera_viewfinder_title">取景器</string>
   <string name="pref_camera_viewfinder_fullscreen">全屏</string>
   <string name="pref_camera_viewfinder_letterbox">信箱</string>
+  <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">保存原始图像</string>
+  <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">美化模式将禁用 RAW 拍摄</string>
+  <!-- Settings screen, ZSL enable toggle -->
   <string name="pref_camera_zsl_enable_title">零快门延迟</string>
   <string name="pref_camera_zsl_enable_summary_on">快速图像捕获</string>
   <string name="pref_camera_zsl_enable_summary_alt">快速图像捕获和快速连拍</string>
   <string name="pref_camera_zsl_enable_summary_off">更好的低光照质量</string>
+  <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">视频大小</string>
+  <!-- The Video quality settings in preference, word Size only -->
   <string name="pref_video_quality_short_title">大小</string>
+  <!-- Separate video focus modes preference - specifically for bacon -->
+  <!-- common aspect ratios -->
+  <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
   <string name="pref_camera_aspectratio_wide">宽</string>
+  <!-- format for entries in the picture size menu. Parameter one is aspect ratio
+         parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
+         NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
+         will be multiplied by 100 as those languages want to count by ten thousands -->
   <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f 百万像素</string>
+  <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">降低动态模糊</string>
   <string name="pref_camera_scenemode_entry_aqua">水底</string>
   <string name="pref_camera_scenemode_entry_ar">增强现实</string>
@@ -76,6 +95,7 @@
   <string name="pref_camera_scenemode_entry_text">文本</string>
   <string name="pref_camera_scenemode_entry_theatre">剧场</string>
   <string name="pref_camera_scenemode_entry_whiteboard">白板</string>
+  <!-- Settings screen, focus mode -->
   <string name="pref_camera_focusmode_entry_continuouspicture">连续</string>
   <string name="pref_camera_focusmode_entry_extended">广角</string>
   <string name="pref_camera_focusmode_entry_facedetect">人脸识别</string>
@@ -83,6 +103,7 @@
   <string name="pref_camera_focusmode_entry_fixed">固定</string>
   <string name="pref_camera_focusmode_entry_portrait">肖像</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">超焦距</string>
+  <!-- Color effects -->
   <string name="pref_camera_coloreffect_entry_washed">冲蚀</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">暖色仿古</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">冷色仿古</string>
@@ -92,24 +113,32 @@
   <string name="pref_camera_coloreffect_entry_cartoonize">卡通</string>
   <string name="pref_camera_coloreffect_entry_whiteboard">白板</string>
   <string name="pref_camera_coloreffect_entry_blackboard">黑板</string>
+  <!-- Settings screen, Burst mode title -->
   <string name="pref_camera_burst_title">连拍模式</string>
+  <!-- Settings screen, Burst mode entries -->
   <string name="pref_camera_burst_entry_off">关闭</string>
   <string name="pref_camera_burst_entry_5">5 连拍</string>
   <string name="pref_camera_burst_entry_10">10 连拍</string>
   <string name="pref_camera_burst_entry_15">15 连拍</string>
   <string name="pref_camera_burst_entry_20">20 连拍</string>
+  <!-- Touch-to-focus duration settings -->
   <string name="pref_camera_focustime_title">触摸对焦持续时间</string>
   <string name="pref_camera_focustime_summary">为触摸对焦选择持续时间</string>
+  <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5 秒</string>
   <string name="pref_camera_focustime_entry_10">10 秒</string>
   <string name="pref_camera_focustime_entry_15">15 秒</string>
   <string name="pref_camera_focustime_entry_20">20 秒</string>
   <string name="pref_camera_focustime_entry_30">30 秒</string>
   <string name="pref_camera_focustime_entry_infinite">无限</string>
+  <!-- Red eye flash mode title -->
   <string name="pref_camera_flashmode_entry_redeye">红眼</string>
   <string name="pref_camera_flashmode_label_redeye">红眼</string>
+  <!-- Beauty mode -->
   <string name="pref_camera_beauty_mode_title">美肤模式</string>
+  <!-- Superresolution : Clear Image -->
   <string name="pref_camera_clear_image_title">清晰图像</string>
+  <!-- Slow shutter modes -->
   <string name="pref_camera_slow_shutter_title">低速快门</string>
   <string name="pref_camera_slow_shutter_delay_title">慢的快门速度</string>
   <string name="pref_camera_slow_shutter_entry_off">关闭</string>
@@ -119,15 +148,18 @@
   <string name="pref_camera_slow_shutter_entry_2s">2 s</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 s</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 s</string>
+  <!-- More Settings screen, storage title -->
   <string name="pref_camera_storage_title">存储器</string>
   <string name="pref_camera_recordlocation_on">为照片添加当前位置标签</string>
   <string name="pref_camera_recordlocation_off">照片和视频不添加位置标签</string>
+  <!-- ASD -->
   <string name="camera_menu_enhance_label">增强</string>
   <string name="camera_menu_slow_shutter_label">低速快门</string>
   <string name="camera_menu_beauty_mode_label">美肤</string>
   <string name="camera_menu_colorize_label">着色</string>
   <string name="camera_menu_effects_label">效果</string>
   <string name="camera_menu_asd_label">智能场景</string>
+  <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">电源键快门</string>
   <string name="pref_camera_power_shutter_summary">按下电源键拍摄照片</string>
   <string name="pref_camera_left_handed_title">左利手</string>
@@ -135,8 +167,10 @@
   <string name="camera_storage_fallback">恢复到默认的存储位置</string>
   <string name="no_storage_sd">SD 卡没有插入或不可写。</string>
   <string name="no_storage_usb">USB 存储没有插入或不可写。</string>
+  <!-- access_sd_fail is in strings.xml -->
   <string name="access_usb_fail">无法访问 USB 存储。</string>
   <string name="access_storage_fail">无法访问存储。</string>
+  <!-- preparing_sd is in strings.xml -->
   <string name="preparing_usb">正在准备 USB 存储\u2026</string>
   <string name="preparing_storage">正在准备存储\u2026</string>
   <string name="spaceIsLow_sd">您的 SD 卡已无可用空间。</string>
@@ -155,14 +189,21 @@
   <string name="pref_section_advanced">高级</string>
   <string name="pref_section_other">其他</string>
   <string name="msg_cancel_longshot_for_limited_memory">内存不足，停止拍摄！</string>
+  <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
   <string name="hold_for_burst">按住快门来连拍。</string>
+  <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">无法开始视频录制。麦克风正在被使用？</string>
+  <!-- Fingerprint Sensor Image Capture -->
   <string name="fingerprint_intro_pane_description">使用指纹扫描器自拍</string>
   <string name="fingerprint_intro_pane_learn_more">了解更多</string>
   <string name="fingerprint_intro_dialog_title">自拍快门</string>
   <string name="fingerprint_intro_dialog_description">通过使用手机上的指纹扫描器可以轻易的自拍。</string>
   <string name="fingerprint_intro_dialog_button_text">确定</string>
+  <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
+  <!-- OptiZoom (Qualcomm OptiZoom) -->
+  <!-- Panorama -->
+  <!-- Thermal warnings -->
   <string name="overheated_warning">设备很热。相机将很快停止工作。</string>
   <string name="overheated_critical">设备过热。相机已被禁用。</string>
   <string name="overheated_cooling">设备冷却时相机处于禁用状态。</string>
