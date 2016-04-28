@@ -22,6 +22,8 @@
   <string name="pref_camera_video_section">Vídeo</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">General</string>
+  <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Mida</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +212,11 @@
   <string name="permission_call_to_action">Ves a la <b>Configuració</b> i prem a <b>Permisos</b> per concedir el permís.</string>
   <string name="permission_location_denied">Has de concedir el permís d\'Ubicació a aquesta aplicació si vols poder etiquetar fotos amb la seva ubicació.</string>
   <string name="no_video_trim">No hi ha cap aplicació disponible per retallar vídeo.</string>
+  <!-- Plugin related resources -->
+  <string name="panorama">Panoràmica</string>
+  <string name="add_more">Afegeix-ne més</string>
+  <string name="slow_motion">Càmera lenta</string>
+  <string name="plugin_failure">El mode ha fallat</string>
+  <string name="permissions_not_accepted">Modes necessita accedir a la càmera per poder funcionar. Obre\'l una altra vegada per donar-li permís.</string>
+  <string name="options_menu_apply_effect">Aplica l\'efecte</string>
 </resources>

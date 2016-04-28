@@ -19,6 +19,7 @@
   <!-- Settings screen, camera section -->
   <!-- Settings screen, video section -->
   <!-- Settings screen, general section -->
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <!-- Settings screen, Picture quality title, the word Quality only -->
   <!-- Settings screen, Viewfinder choice -->
@@ -58,4 +59,5 @@
   <!-- Liveshot -->
   <!-- Thermal warnings -->
   <!-- Permissions -->
+  <!-- Plugin related resources -->
 </resources>

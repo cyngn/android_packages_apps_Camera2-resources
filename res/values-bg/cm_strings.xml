@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Видео</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Общи</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Размер</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,5 @@
   <string name="permission_call_to_action">Отидете в Настройки и кликнете върху \" Разрешения \" за да дадете разрешение за достъп.</string>
   <string name="permission_location_denied">Трябва да дадете на приложението достъп до услугата за определяне на местоположението, ако искате да запаметявате координати в снимките.</string>
   <string name="no_video_trim">Няма приложение за обработка видеоклиповете.</string>
+  <!-- Plugin related resources -->
 </resources>

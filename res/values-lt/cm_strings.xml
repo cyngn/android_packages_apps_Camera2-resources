@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Vaizdo įrašas</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Bendra</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Dydis</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -199,4 +200,5 @@
   <!-- Liveshot -->
   <!-- Thermal warnings -->
   <!-- Permissions -->
+  <!-- Plugin related resources -->
 </resources>

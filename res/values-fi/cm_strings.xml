@@ -22,6 +22,8 @@
   <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Yleiset</string>
+  <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Modit</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Koko</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +212,11 @@
   <string name="permission_call_to_action">Mene <b>Asetuksiin</b>, ja valitse <b>Käyttöoikeudet</b> myöntääksesi luvan.</string>
   <string name="permission_location_denied">Sinun tulee sallia sijainnin käyttöoikeus jos haluat merkitä sijainnin kuviin.</string>
   <string name="no_video_trim">Videon leikkaamiseen sopivaa sovellusta ei ole asennettu.</string>
+  <!-- Plugin related resources -->
+  <string name="panorama">Panoraama</string>
+  <string name="add_more">Lisää uusi</string>
+  <string name="slow_motion">Hidastuskuvaus</string>
+  <string name="plugin_failure">Tila epäonnistui</string>
+  <string name="permissions_not_accepted">Tilat vaatii pääsyn kameraasi toimiakseen. Avaa se uudelleen salliaksesi.</string>
+  <string name="options_menu_apply_effect">Ota efekti käyttöön</string>
 </resources>

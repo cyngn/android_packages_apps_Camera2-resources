@@ -22,6 +22,8 @@
   <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Generale</string>
+  <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mod</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Dimensione</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +212,11 @@
   <string name="permission_call_to_action">Vai in <b>Impostazioni</b> e seleziona <b>Permessi</b> per concedere l\'autorizzazione.</string>
   <string name="permission_location_denied">Devi concedere l\'accesso alla localizzazione all\'app se vuoi aggiungere il tag della località alle foto.</string>
   <string name="no_video_trim">Nessun\'app disponibile per tagliare video.</string>
+  <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Aggiungi altro</string>
+  <string name="slow_motion">Slow Motion</string>
+  <string name="plugin_failure">Mod non riuscita</string>
+  <string name="permissions_not_accepted">La mod devono accedere alla fotocamera per funzionare. Aprila di nuovo per consentire.</string>
+  <string name="options_menu_apply_effect">Applica effetto</string>
 </resources>

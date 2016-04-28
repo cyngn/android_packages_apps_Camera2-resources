@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">General</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Size</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -203,4 +204,5 @@
   <string name="overheated_critical">Device is too hot. Camera has been disabled.</string>
   <string name="overheated_cooling">Camera is disabled while device cools.</string>
   <!-- Permissions -->
+  <!-- Plugin related resources -->
 </resources>

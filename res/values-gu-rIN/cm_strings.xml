@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">વિડિઓ</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">સામાન્ય</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">કદ</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,5 @@
   <string name="permission_call_to_action"><b>સેટિંગ્સમાં જાવ</b>, <b>Permissions</b>પર ટૅપ કરી પરવાનગી આપો.</string>
   <string name="permission_location_denied">આ એપ્લિકેશન ને તમારે સ્થાન પરવાનગી આપવી પડશે જો તમે ફોટોઓ લોકેશન સાથે ટેગ કરવા માંગતા હો.</string>
   <string name="no_video_trim">કોઈ એપ્લિકેશન ઉપલબ્ધ નથી વિડિઓ ને ટ્રિમ કરવા.</string>
+  <!-- Plugin related resources -->
 </resources>

@@ -22,6 +22,8 @@
   <string name="pref_camera_video_section">Видео</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Опште</string>
+  <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Режими</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Величина</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +212,11 @@
   <string name="permission_call_to_action">Иди у <b>Подешавања</b> и кликни не <b>Дозволе</b> да одобриш дозволу.</string>
   <string name="permission_location_denied">Мораш одобрити дозволу за локације за ову апликацију ако желиш фотографије са локацијом.</string>
   <string name="no_video_trim">Нема апликације за прераду видеа.</string>
+  <!-- Plugin related resources -->
+  <string name="panorama">Панорама</string>
+  <string name="add_more">Додај више</string>
+  <string name="slow_motion">Успорени снимак</string>
+  <string name="plugin_failure">Неуспешан режим</string>
+  <string name="permissions_not_accepted">Режими требају приступ твојој камери да би радили. Отвори их поново да дозволиш.</string>
+  <string name="options_menu_apply_effect">Примени ефекат</string>
 </resources>

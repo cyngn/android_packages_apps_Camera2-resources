@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">General</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamaño</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,5 @@
   <string name="permission_call_to_action">Ir a <b>Configuración</b> y pulsar <b>Permisos</b> para otorgar el permiso.</string>
   <string name="permission_location_denied">Si quieres tomar fotos con ubicación, debes conceder permiso de ubicación a esta aplicación.</string>
   <string name="no_video_trim">No hay una aplicación disponible para recortar videos.</string>
+  <!-- Plugin related resources -->
 </resources>

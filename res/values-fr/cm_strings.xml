@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Vidéo</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Général</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Taille</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,5 @@
   <string name="permission_call_to_action">Aller dans <b>Paramètres</b> et cliquer sur <b>Autorisations</b> pour accorder l\'autorisation.</string>
   <string name="permission_location_denied">Vous devez accorder l\'autorisation à cette application d\'accéder à votre position si vous souhaitez taguer vos photos avec la position de la prise.</string>
   <string name="no_video_trim">Aucune application disponible pour couper la vidéo.</string>
+  <!-- Plugin related resources -->
 </resources>

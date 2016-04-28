@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Λειτουργία βίντεο</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Γενικά</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Μέγεθος</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,9 @@
   <string name="permission_call_to_action">Μεταβείτε στις <b>Ρυθμίσεις</b> και πατήστε <b>Δικαιώματα</b> για να εκχωρήσετε τα δικαιώματα.</string>
   <string name="permission_location_denied">Πρέπει να παραχωρήσετε δικαίωμα πρόσβασης τοποθεσίας σε αυτή την εφαρμογή εάν θέλετε να επισημάνετε τις φωτογραφίες σας με την τοποθεσία.</string>
   <string name="no_video_trim">Δεν υπάρχει διαθέσιμη εφαρμογή για περικοπή βίντεο.</string>
+  <!-- Plugin related resources -->
+  <string name="panorama">Πανόραμα</string>
+  <string name="add_more">Προσθήκη περισσότερων</string>
+  <string name="slow_motion">Αργή κίνηση</string>
+  <string name="plugin_failure">Η λειτουργία απέτυχε</string>
 </resources>

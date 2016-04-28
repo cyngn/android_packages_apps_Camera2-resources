@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">వీడియో</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">సాధారణం</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">పరిమాణం</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -203,4 +204,5 @@
   <string name="overheated_critical">పరికరం చాలా వేడిగా ఉంది. కెమెరా నిలిపివేయబడింది.</string>
   <string name="overheated_cooling">పరికరం చల్లారేంతవరకు కెమెరా నిలిపివేయబడింది.</string>
   <!-- Permissions -->
+  <!-- Plugin related resources -->
 </resources>

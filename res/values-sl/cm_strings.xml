@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Videopos.</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Splošno</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Velikost</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,5 @@
   <string name="permission_call_to_action">Pojdite v <b>Nastavitve</b> in tapnite <b>Dovoljenja</b> za odobritev dovoljenja.</string>
   <string name="permission_location_denied">Če želite fotografije označiti z lokacijo, morate tej aplikaciji odobriti dovoljenje za lokacijo.</string>
   <string name="no_video_trim">Ni na voljo aplikacij za obrezovanje videoposnetkov.</string>
+  <!-- Plugin related resources -->
 </resources>

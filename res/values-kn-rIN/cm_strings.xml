@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">ವೀಡಿಯೋ</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">ಸಾಮಾನ್ಯ</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">ಗಾತ್ರ</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -203,4 +204,5 @@
   <string name="overheated_critical">ಸಾಧನವು ಬಹಳಾ ಬಿಸಿಯಾಗಿದೆ. ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
   <string name="overheated_cooling">ಸಾಧನವು ತಣ್ಣಗಾಗುವವರೆಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.</string>
   <!-- Permissions -->
+  <!-- Plugin related resources -->
 </resources>

@@ -22,6 +22,7 @@
   <string name="pref_camera_video_section">Video</string>
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Generelt</string>
+  <!-- Settings screen, plugin section -->
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Størrelse</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -210,4 +211,5 @@
   <string name="permission_call_to_action">Gå til <b>Indstillinger</b> og tryk på <b>Tilladelser</b> for at give tilladelse.</string>
   <string name="permission_location_denied">Du skal give placering tilladelse til denne app, hvis du ønsker at tagge fotos med placering.</string>
   <string name="no_video_trim">Ingen app til rådighed til at trimme video.</string>
+  <!-- Plugin related resources -->
 </resources>
