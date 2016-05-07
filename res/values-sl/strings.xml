@@ -29,6 +29,12 @@
   <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Izbriši</string>
   <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
+  <plurals name="delete_selection">
+    <item quantity="one">Izbriši izbrani predmet?</item>
+    <item quantity="two">Izbriši izbrana predmeta?</item>
+    <item quantity="few">Izbriši izbrane predmete?</item>
+    <item quantity="other">Izbriši izbrane predmete?</item>
+  </plurals>
   <string name="share">Deli z drugimi</string>
   <string name="share_panorama">Deli panoramo z drugimi</string>
   <string name="share_as_photo">Deli z drugimi kot fotografijo</string>
@@ -169,6 +175,12 @@
   <!-- Title for countdown timer on camera settings screen [CHAR LIMIT=30]-->
   <string name="pref_camera_timer_title">Odštevalni merilnik časa</string>
   <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 sekunda</item>
+    <item quantity="two">%d sekundi</item>
+    <item quantity="few">%d sekunde</item>
+    <item quantity="other">%d sekund</item>
+  </plurals>
   <!-- Text followed by a checkbox to turn on/off sound effects during the countdown. [CHAR LIMIT = 24]-->
   <string name="pref_camera_timer_sound_title">Zvok med odštev.</string>
   <!-- Entry of a on/off setting. The setting is turned off. [CHAR LIMIT=15] -->
