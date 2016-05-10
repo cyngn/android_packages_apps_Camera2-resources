@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">일반</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">모드</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">크기</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -204,5 +205,20 @@
   <string name="overheated_critical">카메라가 너무 뜨겁습니다. 카메라가 비활성화되었습니다.</string>
   <string name="overheated_cooling">장치가 냉각되는 동안 카메라가 비활성화됩니다.</string>
   <!-- Permissions -->
+  <string name="permission_missing">카메라 앱에 권한이 없어서 실행할 수 없습니다.</string>
+  <string name="permission_camera"><b>카메라</b> 권한이 사진 찍기를 위해 필요합니다.</string>
+  <string name="permission_storage"><b>저장소</b> 권한이 사진 저장 및 보기를 위해 필요합니다.</string>
+  <string name="permission_microphone"><b>마이크</b> 권한이 영상 녹화를 위해 필요합니다.</string>
+  <string name="permission_call_to_action"><b>설정</b>에서 권한 허가를 위해 <b>권한</b>을 탭하십시오.</string>
+  <string name="permission_location_denied">사진에 위치 태그를 하려면 위치 권한을 허가해야 합니다.</string>
+  <string name="no_video_trim">영상 편집 앱이 없습니다.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">파노라마</string>
+  <string name="add_more">더 추가하기</string>
+  <string name="slow_motion">슬로우 모션</string>
+  <string name="plugin_failure">모드 실패함</string>
+  <string name="permissions_not_accepted">모드는 작동하기 위해 카메라에 대한 접근이 필요합니다. 다시 열어서 허용하세요.</string>
+  <string name="options_menu_apply_effect">효과 적용</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
 </resources>

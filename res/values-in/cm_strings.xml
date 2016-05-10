@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Umum</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mod</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Ukuran</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -204,12 +205,21 @@
   <string name="overheated_critical">Perangkat terlalu panas. Kamera telah dinonaktifkan.</string>
   <string name="overheated_cooling">Kamera dinonaktifkan sampai perangkat mendingin.</string>
   <!-- Permissions -->
-  <string name="permission_missing">Aplikasi kamera tidak dapat berjalan karena tidak diberi izin.</string>
+  <string name="permission_missing">Aplikasi Kamera tidak dapat berjalan karena tidak diberi izin.</string>
   <string name="permission_camera">Izin <b>Kamera</b> diperlukan untuk mengambil gambar.</string>
   <string name="permission_storage">Izin <b>Penyimpanan</b> dibutuhkan untuk menyimpan dan melihat foto.</string>
   <string name="permission_microphone">Izin <b>Mikrofon</b> dibutuhkan untuk merekam video.</string>
-  <string name="permission_call_to_action">Buka <b>Pengaturan</b>, dan buka<b>Izin</b> untuk memberikan izin.</string>
+  <string name="permission_call_to_action">Buka <b>Pengaturan</b>, dan ketuk <b>Izin</b> untuk memberikan izin.</string>
   <string name="permission_location_denied">Anda harus mengizinkan Lokasi untuk aplikasi ini apabila Anda ingin menandai foto dengan lokasi.</string>
   <string name="no_video_trim">Aplikasi untuk memotong video tidak tersedia.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Tambah lainnya</string>
+  <string name="slow_motion">Gerak Lambat</string>
+  <string name="plugin_failure">Mod gagal</string>
+  <string name="permissions_not_accepted">Mod perlu mengakses Kamera untuk dapat bekerja. Buka lagi untuk mengizinkan.</string>
+  <string name="options_menu_apply_effect">Terapkan Efek</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MOD</string>
 </resources>

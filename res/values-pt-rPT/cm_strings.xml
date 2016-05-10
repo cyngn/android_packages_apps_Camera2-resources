@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Geral</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamanho</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -212,4 +213,13 @@
   <string name="permission_location_denied">Deve conceder permissões de Localização a esta aplicação se quiser guardar os dados de localização das fotografias.</string>
   <string name="no_video_trim">Não há aplicações disponíveis para cortar o vídeo.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Adicionar mais</string>
+  <string name="slow_motion">Câmara lenta</string>
+  <string name="plugin_failure">O modo falhou</string>
+  <string name="permissions_not_accepted">Os Modos precisam de aceder à sua câmara para funcionarem. Abra-os novamente para permitir.</string>
+  <string name="options_menu_apply_effect">Aplicar efeito</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODO</string>
 </resources>

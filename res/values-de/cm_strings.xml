@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Allgemein</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Größe</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -212,4 +213,13 @@
   <string name="permission_location_denied">Sie müssen dieser App die Berechtigung zum Zugriff auf Ihren Standort geben, wenn Sie Fotos mit Standort-Tags versehen wollen.</string>
   <string name="no_video_trim">Keine App für den Videoschnitt verfügbar.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Mehr hinzufügen</string>
+  <string name="slow_motion">Zeitlupe</string>
+  <string name="plugin_failure">Modus fehlgeschlagen</string>
+  <string name="permissions_not_accepted">Die Modi funktionieren nur, wenn sie Zugriff auf Ihre Kamera haben. Öffnen Sie die Kamera-App erneut, um dies zuzulassen.</string>
+  <string name="options_menu_apply_effect">Effekt anwenden</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODE</string>
 </resources>

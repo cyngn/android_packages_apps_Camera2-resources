@@ -219,4 +219,7 @@
   <string name="plugin_failure">El mode ha fallat</string>
   <string name="permissions_not_accepted">Modes necessita accedir a la càmera per poder funcionar. Obre\'l una altra vegada per donar-li permís.</string>
   <string name="options_menu_apply_effect">Aplica l\'efecte</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODE</string>
 </resources>

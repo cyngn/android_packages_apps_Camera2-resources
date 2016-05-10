@@ -219,4 +219,7 @@
   <string name="plugin_failure">Mod non riuscita</string>
   <string name="permissions_not_accepted">La mod devono accedere alla fotocamera per funzionare. Aprila di nuovo per consentire.</string>
   <string name="options_menu_apply_effect">Applica effetto</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MOD</string>
 </resources>

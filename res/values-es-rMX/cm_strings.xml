@@ -67,4 +67,6 @@
   <string name="permission_location_denied">Si quieres tomar fotos con ubicación, debes conceder permiso de ubicación a esta aplicación.</string>
   <string name="no_video_trim">No hay una aplicación disponible para recortar vídeo.</string>
   <!-- Plugin related resources -->
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
 </resources>

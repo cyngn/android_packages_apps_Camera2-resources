@@ -219,4 +219,7 @@
   <string name="plugin_failure">Tila epäonnistui</string>
   <string name="permissions_not_accepted">Tilat vaatii pääsyn kameraasi toimiakseen. Avaa se uudelleen salliaksesi.</string>
   <string name="options_menu_apply_effect">Ota efekti käyttöön</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">TILA</string>
 </resources>

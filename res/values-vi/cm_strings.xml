@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Chung</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mod</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Kích thước</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -212,4 +213,13 @@
   <string name="permission_location_denied">Bạn phải cấp quyền truy cập Vị trí cho ứng dụng này nếu bạn muốn gắn thẻ vị trí cho ảnh.</string>
   <string name="no_video_trim">Không có ứng dụng nào khả dụng để cắt video.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Ảnh toàn cảnh</string>
+  <string name="add_more">Thêm nhiều hơn nữa</string>
+  <string name="slow_motion">Chuyển động chậm</string>
+  <string name="plugin_failure">Chế độ không thành công</string>
+  <string name="permissions_not_accepted">Chế độ cần phải truy cập máy ảnh của bạn để làm việc. Mở máy ảnh một lần nữa để cho phép.</string>
+  <string name="options_menu_apply_effect">Áp dụng hiệu ứng</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">CHẾ ĐỘ</string>
 </resources>

@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">כללי</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">תוספים</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">גודל</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -205,11 +206,20 @@
   <string name="overheated_cooling">המצלמה מושבתת בזמן שהמכשיר מתקרר.</string>
   <!-- Permissions -->
   <string name="permission_missing">יישום המצלמה אינו יכול לפעול כיוון שלא ניתנה לו ההרשאה.</string>
-  <string name="permission_camera">הרשאת <b>מצלמה</b> נדרשת כדי לצלם תמונות.</string>
-  <string name="permission_storage">הרשאת <b>אחסון</b> נדרשת כדי לשמור ולהציג תמונות.</string>
-  <string name="permission_microphone">הרשאת <b>מיקרופון</b> נדרשת לצורך הקלטת וידאו.</string>
+  <string name="permission_camera">דרושה הרשאת <b>מצלמה</b> כדי לצלם תמונות.</string>
+  <string name="permission_storage">דרושה הרשאת <b>אחסון</b> כדי לשמור ולהציג תמונות.</string>
+  <string name="permission_microphone">דרושה הרשאת <b>מיקרופון</b> כדי להקליט וידאו.</string>
   <string name="permission_call_to_action">עבור אל <b>הגדרות</b>, והקש על <b>הרשאות</b> כדי להעניק הרשאה.</string>
   <string name="permission_location_denied">עליך להעניק הרשאה לקריאת מיקום ליישום זה אם ברצונך לתייג תמונות לפי מיקום.</string>
   <string name="no_video_trim">אין יישום זמין לחיתוך הווידאו.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">פנורמה</string>
+  <string name="add_more">הוסף</string>
+  <string name="slow_motion">הילוך איטי</string>
+  <string name="plugin_failure">מצב נכשל</string>
+  <string name="permissions_not_accepted">לתוסף \'מצבים\' נדרשת הרשאת גישה למצלמתך כדי לפעול. פתח אותו שנית כדי לאפשר גישה.</string>
+  <string name="options_menu_apply_effect">החל אפקט</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">מצב</string>
 </resources>

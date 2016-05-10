@@ -195,10 +195,16 @@
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nun pue aniciase la grabación. ¿Ta usándose\'l micrófonu?</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
   <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">El preséu ta caliente. La cámara va parase agora.</string>
+  <string name="overheated_critical">El preséu ta enforma caliente. Desactivóse la cámara.</string>
+  <string name="overheated_cooling">La cámara ta desactivada mentanto s\'esfrez el preséu.</string>
   <!-- Permissions -->
   <!-- Plugin related resources -->
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
 </resources>

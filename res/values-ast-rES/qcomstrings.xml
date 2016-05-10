@@ -84,15 +84,20 @@
   <string name="pref_camera_facedetection_title">Detección de cares</string>
   <!-- Default redeye reduction setting. -->
   <!-- The message is shown in toast when the app encounters an unsupported selection for HFR/HSR mode -->
+  <string name="error_app_unsupported_hfr_selection">Alta velocidá/cámara lenta nun ye compatible con DIS y TimeLapse</string>
   <!-- The message is shown in dialog when the app
          encounters an unsupported resolution for HSR mode -->
+  <string name="error_app_unsupported_hsr">El videu n\'alta velocidá nun ye compatible cola resolución esbillada</string>
   <!-- Settings screen, Select Redeye Reduction -->
   <string name="pref_camera_redeyereduction_title">Amenorgamientu de güeyos bermeyos</string>
   <!-- Settings menu, redeye reduction choices -->
   <string name="pref_camera_redeyereduction_entry_enable">Activada</string>
   <string name="pref_camera_redeyereduction_entry_disable">Desactivada</string>
   <!-- The message is shown in dialog when the app encounters an unsupported resolution for HFR mode -->
+  <string name="error_app_unsupported_hfr">El videu de cámara lenta nun ye compatible cola resolución esbillada</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video codec for HFR mode -->
+  <string name="error_app_unsupported_hfr_codec">La codificación de videu H.264 namái ye compatible cuando la cámara lenta ta activada</string>
+  <string name="error_app_unsupported_hsr_codec">La codificación de videu H.264 namái ye válidu cuando la grabación n\'alta velocidá ta activada</string>
   <!-- The message is shown in dialog when the app encounters an unsupported video resolution-->
   <string name="error_app_unsupported">Resolución de videu non sofitada nesti tipu de codificador</string>
   <!-- Settings screen, AE bracketing and HDR location dialog choices -->
@@ -102,8 +107,17 @@
   <string name="pref_camera_ae_bracket_hdr_entry_off">Desactivada</string>
   <!-- Default hfr setting. Do not translate. -->
   <!-- Settings screen, Select hfr title -->
+  <string name="pref_camera_hfr_title">Cámara lenta</string>
+  <string name="pref_camera_hsr_title">Alta velocidá</string>
+  <string name="pref_camera_hsr_hfr_title">Alta velocidá/Cámara lenta</string>
   <!-- Settings screen, hfr radio button choices -->
   <string name="pref_camera_hfr_entry_off">Desactiváu</string>
+  <string name="pref_camera_hfr_entry_2x">Cámara lenta a 60 FPS</string>
+  <string name="pref_camera_hfr_entry_3x">Cámara lenta a 90 FPS</string>
+  <string name="pref_camera_hfr_entry_4x">Cámara lenta a 120 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_60">Alta velocidá a 60 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_90">Alta velocidá a 90 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_120">Alta velocidá a 120 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Denoise Settings screen, setting title text -->
   <string name="pref_camera_denoise_title">Mou reductor de ruiu</string>

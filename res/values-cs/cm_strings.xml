@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Obecné</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">MODy</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Velikost</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -212,4 +213,13 @@
   <string name="permission_location_denied">Pokud chcete ukládat do fotografií informace o poloze, je potřeba oprávnění <b>Umístění</b>.</string>
   <string name="no_video_trim">Pro střih videa není dostupná žádná nainstalovaná aplikace.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Přidat více</string>
+  <string name="slow_motion">Zpomalený pohyb</string>
+  <string name="plugin_failure">MOD selhal</string>
+  <string name="permissions_not_accepted">MODy vyžadují přístup k fotoaparátu. Pro povolení jej znovu spusťte.</string>
+  <string name="options_menu_apply_effect">Použít efekt</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MOD</string>
 </resources>

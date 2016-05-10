@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Orokorra</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mod-ak</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamaina</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -212,4 +213,13 @@
   <string name="permission_location_denied">Kokaleku baimena eman behar diozu aplikazio honi argazkietara kokalekuaren etiketa gehitu nahi baduzu.</string>
   <string name="no_video_trim">Ez dago bideoa ebakitzeko aplikaziorik erabilgarri.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Gehitu gehiago</string>
+  <string name="slow_motion">Kamera geldoa</string>
+  <string name="plugin_failure">Moduak huts egin du</string>
+  <string name="permissions_not_accepted">Moduak zure kamera atzitzeko baimena behar du. Ireki berriro baimentzeko.</string>
+  <string name="options_menu_apply_effect">Aplikatu efektua</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODUA</string>
 </resources>

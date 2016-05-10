@@ -205,4 +205,6 @@
   <string name="overheated_cooling">சாதனம் குளிர்ச்சியடையும்போது கேமரா முடக்கப்பட்டுள்ளது.</string>
   <!-- Permissions -->
   <!-- Plugin related resources -->
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
 </resources>

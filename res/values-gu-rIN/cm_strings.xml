@@ -212,4 +212,6 @@
   <string name="permission_location_denied">આ એપ્લિકેશન ને તમારે સ્થાન પરવાનગી આપવી પડશે જો તમે ફોટોઓ લોકેશન સાથે ટેગ કરવા માંગતા હો.</string>
   <string name="no_video_trim">કોઈ એપ્લિકેશન ઉપલબ્ધ નથી વિડિઓ ને ટ્રિમ કરવા.</string>
   <!-- Plugin related resources -->
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
 </resources>

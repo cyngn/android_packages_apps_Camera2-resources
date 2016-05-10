@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Generelt</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Størrelse</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -204,5 +205,21 @@
   <string name="overheated_critical">Enheten er for varm. Kameraet er midlertidig deaktivert.</string>
   <string name="overheated_cooling">Kameraet er deaktivert mens enheten kjøler ned.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Kamera appen kan ikke brukes fordi den ikke har fått tillatelse.</string>
+  <string name="permission_camera"><b>Kamera</b> tillatelse er nødvendig for å ta bilder.</string>
+  <string name="permission_storage"><b>Lagring</b> tillatelse er nødvendig for å lagre og vise bilder.</string>
+  <string name="permission_microphone"><b>Mikrofon</b> tillatelse er nødvendig for å spille inn video.</string>
+  <string name="permission_call_to_action">Gå til <b>Innstillinger</b>, og trykk på <b>Tillatelser</b> for å gi tillatelse.</string>
+  <string name="permission_location_denied">Hvis du vil merke bildene med plassering, må du gi Plassering tillatelse til dette programmet.</string>
+  <string name="no_video_trim">Ingen app tilgjengelig som kan trimme videoen.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Legg til mer</string>
+  <string name="slow_motion">Slow Motion</string>
+  <string name="plugin_failure">Modus mislyktes</string>
+  <string name="permissions_not_accepted">Moduser trenger tilgang til videokameraet ditt for å fungere. Åpne det igjen for å tillate.</string>
+  <string name="options_menu_apply_effect">Bruk Effekt</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODUS</string>
 </resources>

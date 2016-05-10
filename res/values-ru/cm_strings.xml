@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Общие</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Плагины</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Размер</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -213,4 +214,13 @@
 </string>
   <string name="no_video_trim">Нет приложений для обрезания видео.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Панорама</string>
+  <string name="add_more">Добавить ещё</string>
+  <string name="slow_motion">Замедл. движ.</string>
+  <string name="plugin_failure">Сбой плагина</string>
+  <string name="permissions_not_accepted">Для работы модов требуется доступ к вашей камере. Откройте ее снова, чтобы предоставить доступ.</string>
+  <string name="options_menu_apply_effect">Применить эффект</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">РЕЖИМ</string>
 </resources>

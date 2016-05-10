@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">常规</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">模块</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">大小</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -212,4 +213,13 @@
   <string name="permission_location_denied">如果您想要标记照片位置，则必须授予此应用位置权限。</string>
   <string name="no_video_trim">没有可用于修剪视频的应用。</string>
   <!-- Plugin related resources -->
+  <string name="panorama">全景</string>
+  <string name="add_more">添加更多</string>
+  <string name="slow_motion">慢动作</string>
+  <string name="plugin_failure">Mode 已失败</string>
+  <string name="permissions_not_accepted">Modes 需要访问您的相机才能工作。再次打开它并点击允许。</string>
+  <string name="options_menu_apply_effect">应用效果</string>
+  <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
+  <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODE</string>
 </resources>
