@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Xeneral</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamañu</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -204,7 +205,21 @@
   <string name="overheated_critical">El preséu ta enforma caliente. Desactivóse la cámara.</string>
   <string name="overheated_cooling">La cámara ta desactivada mentanto s\'esfrez el preséu.</string>
   <!-- Permissions -->
+  <string name="permission_missing">La cámara nun pue executase porque nun se-y dieron permisos.</string>
+  <string name="permission_camera">Pa facer semeyes, hai de da-y permisos a la <b>cámara</b>.</string>
+  <string name="permission_storage">Precísase\'l permisu d\'<b>almacenamientu d\'información</b> pa guardar y ver semeyes.</string>
+  <string name="permission_microphone">Precísase\'l permisu de <b>micrófonu</b> pa grabar videu.</string>
+  <string name="permission_call_to_action">Ve a <b>Axustes</b> y primi <b>Permisos</b> pa dalos.</string>
+  <string name="permission_location_denied">Si quies sacar semeyes con llocalización, has de da-y permisos de llocalización a esta aplicación.</string>
+  <string name="no_video_trim">Nun hai una app disponible pa retayar videu.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorámica</string>
+  <string name="add_more">Amestar más</string>
+  <string name="slow_motion">Cámara lenta</string>
+  <string name="plugin_failure">El mou falló</string>
+  <string name="permissions_not_accepted">La función de moos precisa acceder a la cámara pa furrular correcho. Ábrilu otra vegada pa da-y permisu.</string>
+  <string name="options_menu_apply_effect">Aplicar l\'efeutu</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MOU</string>
 </resources>
