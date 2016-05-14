@@ -222,4 +222,6 @@
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
   <string name="effect_mode_button_label">MODO</string>
+  <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Erro: não é possível tirar a foto</string>
 </resources>

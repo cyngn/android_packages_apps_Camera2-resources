@@ -174,4 +174,5 @@
   <!-- Plugin related resources -->
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
+  <!-- Toast message shown when picture data comes back null from camera driver -->
 </resources>
