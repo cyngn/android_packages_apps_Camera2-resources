@@ -212,6 +212,7 @@
   <string name="permission_location_denied">U moet locatie-machtiging verlenen om informatie over uw locatie op te slaan bij foto\'s.</string>
   <string name="no_video_trim">Geen app beschikbaar voor het bijsnijden van video.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
   <!-- Toast message shown when picture data comes back null from camera driver -->
