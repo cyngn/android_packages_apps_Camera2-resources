@@ -194,8 +194,17 @@
   <!-- toast message for toast showing error of starting video capture -->
   <string name="cannot_start_video_toast">Nun pue aniciase la grabación. ¿Ta usándose\'l micrófonu?</string>
   <!-- Fingerprint Sensor Image Capture -->
+  <string name="fingerprint_intro_pane_description">Fai selfies usando\'l sensor de buelga dixital</string>
+  <string name="fingerprint_intro_pane_learn_more">DEPRENDI MÁS</string>
+  <string name="fingerprint_intro_dialog_title">Obturador de selfies</string>
+  <string name="fingerprint_intro_dialog_description">Alluga\'l sensor de buelga dixital nel teléfonu pa facer selfies cenciellamente.</string>
+  <string name="fingerprint_intro_dialog_button_text">Aceutar</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">El preséu ta caliente. La cámara va parase agora.</string>
+  <string name="overheated_critical">El preséu ta enforma caliente. Desactivóse la cámara.</string>
+  <string name="overheated_cooling">La cámara ta desactivada mentanto s\'esfrez el preséu.</string>
 </resources>
