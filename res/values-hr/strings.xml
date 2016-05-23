@@ -29,6 +29,11 @@
   <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Obriši</string>
   <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
+  <plurals name="delete_selection">
+    <item quantity="one">Želite li izbrisati odabranu stavku?</item>
+    <item quantity="few">Želite li izbrisati odabrane stavke?</item>
+    <item quantity="other">Želite li izbrisati odabrane stavke?</item>
+  </plurals>
   <string name="share">Dijeli</string>
   <string name="share_panorama">Dijeli panoramu</string>
   <string name="share_as_photo">Dijeli kao fotografiju</string>
@@ -40,10 +45,25 @@
   <string name="close">Zatvori</string>
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d odabran</item>
+    <item quantity="few">%1$d odabranih</item>
+    <item quantity="other">%1$d odabranih</item>
+  </plurals>
   <!-- String indicating how many media album(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d odabran</item>
+    <item quantity="few">%1$d odabranih</item>
+    <item quantity="other">%1$d odabranih</item>
+  </plurals>
   <!-- String indicating how many media group(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_groups_selected">
+    <item quantity="one">%1$d odabran</item>
+    <item quantity="few">%1$d odabranih</item>
+    <item quantity="other">%1$d odabranih</item>
+  </plurals>
   <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Pokaži na karti</string>
   <string name="rotate_left">Zakreni ulijevo</string>
@@ -151,6 +171,11 @@
   <!-- Title for countdown timer on camera settings screen [CHAR LIMIT=30]-->
   <string name="pref_camera_timer_title">Timer za odbrojavanje</string>
   <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="one">1 sekunda</item>
+    <item quantity="few">%d sekunde</item>
+    <item quantity="other">%d sekundi</item>
+  </plurals>
   <!-- Text followed by a checkbox to turn on/off sound effects during the countdown. [CHAR LIMIT = 24]-->
   <string name="pref_camera_timer_sound_title">Zvuk odbrojavanja</string>
   <!-- Entry of a on/off setting. The setting is turned off. [CHAR LIMIT=15] -->
