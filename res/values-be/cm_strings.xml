@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Агульныя</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Стан</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Памер</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -204,6 +205,13 @@
   <string name="overheated_critical">Прылада перагрэлася. Камера была адключана.</string>
   <string name="overheated_cooling">Камера адключана да астывання прылады.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Дадатак камеры ня можа быць запушчаны таму што не мае прадастаўленнага дазволу.</string>
+  <string name="permission_camera">Патрэбен дазвол да <b>Камеры</b>, каб рабіць фотаздымкі.</string>
+  <string name="permission_storage">Патрэбен дазвол да <b>Памяці</b>, каб захаваць фотаздымкі.</string>
+  <string name="permission_microphone">Патрэбен дазвол да <b>Мікрафона</b>, каб запісваць відэа.</string>
+  <string name="permission_call_to_action">Перайдзіце да <b>Наладаў</b> ды націсніце на <b>Дазволы</b> как даць дазвол.</string>
+  <string name="permission_location_denied">Вы павінны даць дазвол дадатку, каб прымацаваць свае месцазнаходжанне.</string>
+  <string name="no_video_trim">Няма дадаткаў, каб падрэзаць відэа.</string>
   <!-- Plugin related resources -->
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
