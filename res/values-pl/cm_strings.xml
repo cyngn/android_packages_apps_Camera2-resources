@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Ogólne</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mody</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Rozmiar</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -218,4 +219,5 @@
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Błąd: nie można zrobić zdjęcia</string>
 </resources>
