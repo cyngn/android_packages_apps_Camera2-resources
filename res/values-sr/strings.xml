@@ -29,6 +29,11 @@
   <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Избриши</string>
   <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
+  <plurals name="delete_selection">
+    <item quantity="one">Желите ли да избришете изабрану ставку?</item>
+    <item quantity="few">Желите ли да избришете изабране ставке?</item>
+    <item quantity="other">Желите ли да избришете изабране ставке?</item>
+  </plurals>
   <string name="share">Дели</string>
   <string name="share_panorama">Дели панораму</string>
   <string name="share_as_photo">Дели као слику</string>
@@ -40,8 +45,18 @@
   <string name="close">Затвори</string>
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d изабрана</item>
+    <item quantity="few">%1$d изабране</item>
+    <item quantity="other">%1$d изабраних</item>
+  </plurals>
   <!-- String indicating how many media album(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_albums_selected">
+    <item quantity="one">%1$d изабрана</item>
+    <item quantity="few">%1$d изабране</item>
+    <item quantity="other">%1$d изабраних</item>
+  </plurals>
   <!-- String indicating how many media group(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <!-- String indicating timestamp of photo or video -->

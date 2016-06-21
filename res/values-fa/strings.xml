@@ -30,6 +30,7 @@
   <string name="delete">حذف</string>
   <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
   <plurals name="delete_selection">
+    <item quantity="one">موارد انتخابی حذف شوند؟</item>
     <item quantity="other">موارد انتخابی حذف شوند؟</item>
   </plurals>
   <string name="share">اشتراک‌گذاری</string>
@@ -44,16 +45,19 @@
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
+    <item quantity="one">‏%1$d مورد انتخاب شد</item>
     <item quantity="other">‏%1$d مورد انتخاب شد</item>
   </plurals>
   <!-- String indicating how many media album(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_albums_selected">
+    <item quantity="one">‏%1$d مورد انتخاب شد</item>
     <item quantity="other">‏%1$d مورد انتخاب شد</item>
   </plurals>
   <!-- String indicating how many media group(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_groups_selected">
+    <item quantity="one">‏%1$d مورد انتخاب شد</item>
     <item quantity="other">‏%1$d مورد انتخاب شد</item>
   </plurals>
   <!-- String indicating timestamp of photo or video -->
@@ -164,6 +168,7 @@
   <string name="pref_camera_timer_title">تایمر شمارش معکوس</string>
   <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
   <plurals name="pref_camera_timer_entry">
+    <item quantity="one">‏%d ثانیه</item>
     <item quantity="other">‏%d ثانیه</item>
   </plurals>
   <!-- Text followed by a checkbox to turn on/off sound effects during the countdown. [CHAR LIMIT = 24]-->
