@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Allgemeng</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Gréisst</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -166,28 +167,54 @@
   <string name="pref_camera_left_handed_title">Lénkshänneg</string>
   <string name="pref_camera_left_handed_summary">Steierelementer fir Lénkshänner ajustéieren</string>
   <string name="camera_storage_fallback">Op d\'Standard-Späicherplaz zrécksetzen</string>
+  <string name="no_storage_sd">SD-Kaart ass net agesat oder net schreifbar.</string>
+  <string name="no_storage_usb">USB-Späicher ass net agesat oder net schreifbar.</string>
   <!-- access_sd_fail is in strings.xml -->
+  <string name="access_usb_fail">Kann net op den USB-Späicher zougräifen.</string>
+  <string name="access_storage_fail">Kann net op den Späicher zougräifen.</string>
   <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">USB-Späicher gëtt preparéiert\u2026</string>
+  <string name="preparing_storage">Späicher gëtt preparéiert\u2026</string>
+  <string name="spaceIsLow_sd">Är SD-Kaart ass gläich voll.</string>
+  <string name="spaceIsLow_usb">Ären USB-Späicher ass gläich voll.</string>
+  <string name="spaceIsLow_storage">Äre Späicher ass gläich voll.</string>
+  <string name="alternate_storage_none">Änner d\'Qualitéitsastellungen oder läsch e puer Biller oder Fichieren.</string>
+  <string name="alternate_storage_sd_card">Läsch e puer Biller oder Fichieren, oder benotzt eng SD-Kaart.</string>
+  <string name="alternate_storage_usb">Läsch e puer Biller oder Fichieren, oder benotzt en USB-Späicher.</string>
   <string name="pref_camera_volume_zoom_title">Lautstäerkt-Zoom</string>
   <string name="pref_camera_volume_zoom_summary">Mat de Lautstäerktknäppercher zoomen</string>
   <string name="pref_max_brightness_title">Helle Schierm</string>
   <string name="pref_max_brightness_summary">Maximal Schiermhellegkeet bei aktiver Kamera</string>
   <string name="pref_camera_reset_title">Virgaben zrécksetzen</string>
+  <string name="pref_camera_reset_message">Wëllt Dir all Är Kamera- a Videoastellunge op hir original Wäerter änneren? Dëst kann net réckgängeg gemaach ginn.</string>
   <string name="pref_camera_reset_button">Erëmhierstellen</string>
   <string name="pref_section_advanced">Erweidert</string>
   <string name="pref_section_other">Aner</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Späicher ass gläich voll, Opname gi gestoppt!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <string name="hold_for_burst">Ausléiser fir Serienopname gedréckt halen.</string>
   <!-- toast message for toast showing error of starting video capture -->
+  <string name="cannot_start_video_toast">D\'Videoopnam kann net gestart ginn. Gëtt de Mikro benotzt?</string>
   <!-- Chromaflash -->
   <string name="pref_camera_chroma_flash_title">Chroma-Blëtz</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
   <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">Den Handy ass waarm. D\'Kamera wäert gläich ausschalten.</string>
+  <string name="overheated_critical">Den Handy ass ze waarm. D\'Kamera ass temporär ausgeschalt.</string>
   <string name="overheated_cooling">De Fotoapparat gouf desaktivéiert bis den Apparat ofgekillt ass.</string>
   <!-- Permissions -->
+  <string name="permission_missing">D\'Foto-App kann net gestart ginn, well se keng Berechtegunge krut.</string>
+  <string name="permission_camera">D\'<b>Kamera</b>-Berechtegung gëtt gebraucht fir Biller ze maachen.</string>
+  <string name="permission_storage">D\'<b>Späicher</b>-Berechtegung gëtt gebraucht fir Fotoen ze späicheren an ze kucken.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Méi dobäisetzen</string>
+  <string name="slow_motion">Zäitlupp</string>
+  <string name="permissions_not_accepted">Dës Modi funktionnéiere just, wann se Zougrëff op d\'Kamera hunn. Maach d\'Kamera-App nees op, fir dëst zouzeloossen.</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Feeler: Bild konnt net opgeholl ginn</string>
 </resources>
