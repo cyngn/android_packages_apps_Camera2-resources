@@ -164,7 +164,7 @@
   <!-- More Settings screen, power button title -->
   <string name="pref_camera_power_shutter_title">Bidik dengan tombol daya</string>
   <string name="pref_camera_power_shutter_summary">Tombol daya mengambil foto</string>
-  <string name="pref_camera_left_handed_title">Kidal</string>
+  <string name="pref_camera_left_handed_title">Tangan kiri</string>
   <string name="pref_camera_left_handed_summary">Sesuaikan kendali untuk pengguna kidal</string>
   <string name="camera_storage_fallback">Kembali ke lokasi penyimpanan baku</string>
   <string name="no_storage_sd">Kartu SD tidak ditancap atau tidak bisa ditulisi.</string>
@@ -206,21 +206,22 @@
   <string name="overheated_cooling">Kamera dinonaktifkan sampai perangkat mendingin.</string>
   <!-- Permissions -->
   <string name="permission_missing">Aplikasi Kamera tidak dapat berjalan karena tidak diberi izin.</string>
-  <string name="permission_camera">Izin <b>Kamera</b> diperlukan untuk mengambil gambar.</string>
+  <string name="permission_camera">Izin <b>Kamera</b> dibutuhkan untuk mengambil gambar.</string>
   <string name="permission_storage">Izin <b>Penyimpanan</b> dibutuhkan untuk menyimpan dan melihat foto.</string>
   <string name="permission_microphone">Izin <b>Mikrofon</b> dibutuhkan untuk merekam video.</string>
   <string name="permission_call_to_action">Buka <b>Pengaturan</b>, dan ketuk <b>Izin</b> untuk memberikan izin.</string>
   <string name="permission_location_denied">Anda harus mengizinkan Lokasi untuk aplikasi ini apabila Anda ingin menandai foto dengan lokasi.</string>
-  <string name="no_video_trim">Aplikasi untuk memotong video tidak tersedia.</string>
+  <string name="no_video_trim">Tidak ada aplikasi tersedia untuk memangkas video.</string>
   <!-- Plugin related resources -->
   <string name="panorama">Panorama</string>
   <string name="add_more">Tambah lainnya</string>
-  <string name="slow_motion">Gerak Lambat</string>
-  <string name="plugin_failure">Mod gagal</string>
-  <string name="permissions_not_accepted">Mod perlu mengakses Kamera untuk dapat bekerja. Buka lagi untuk mengizinkan.</string>
+  <string name="slow_motion">Gerakan Lambat</string>
+  <string name="plugin_failure">Mode gagal</string>
+  <string name="permissions_not_accepted">Mode butuh mengakses Kamera untuk dapat bekerja. Buka lagi untuk mengizinkan.</string>
   <string name="options_menu_apply_effect">Terapkan Efek</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
-  <string name="effect_mode_button_label">MOD</string>
+  <string name="effect_mode_button_label">MODE</string>
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Kesalahan: tidak dapat mengambil gambar</string>
 </resources>

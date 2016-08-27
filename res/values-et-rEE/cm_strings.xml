@@ -28,11 +28,18 @@
   <!-- Settings screen, Picture quality title, the word Quality only -->
   <string name="pref_camera_jpegquality_short_title">Kvaliteet</string>
   <!-- Settings screen, Viewfinder choice -->
+  <string name="pref_camera_viewfinder_title">Pildiotsija</string>
+  <string name="pref_camera_viewfinder_fullscreen">Täisekraanil</string>
+  <string name="pref_camera_viewfinder_letterbox">Kirjakast</string>
   <!-- Settings screen, Raw mode toggle -->
   <string name="pref_camera_raw_mode_title">Salvesta toorpilt</string>
   <!-- Warn about Raw/Beauty mode conflict -->
   <string name="beauty_mode_disables_raw">Ilurežiim keelab toorpildi</string>
   <!-- Settings screen, ZSL enable toggle -->
+  <string name="pref_camera_zsl_enable_title">Null katiku aeg</string>
+  <string name="pref_camera_zsl_enable_summary_on">Kiire pildistamine</string>
+  <string name="pref_camera_zsl_enable_summary_alt">Kiire pildi tegemine ja sarivõte</string>
+  <string name="pref_camera_zsl_enable_summary_off">Parem vähese valguse kvaliteet</string>
   <!-- The Video quality settings in preference -->
   <string name="pref_video_quality_alt_title">Video suurus</string>
   <!-- The Video quality settings in preference, word Size only -->
@@ -40,10 +47,12 @@
   <!-- Separate video focus modes preference - specifically for bacon -->
   <!-- common aspect ratios -->
   <!-- aspect ratio greater than 16:9, so "widescreen" or "cinematic" -->
+  <string name="pref_camera_aspectratio_wide">Lai</string>
   <!-- format for entries in the picture size menu. Parameter one is aspect ratio
          parameter two is size in megapixels, e.g. "(4:3) 12.1 megapixels"
          NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
          will be multiplied by 100 as those languages want to count by ten thousands -->
+  <string name="pref_camera_megapixel_format">(%1$s) %2$1.1f megapikslit</string>
   <!-- Settings screen, scene mode -->
   <string name="pref_camera_scenemode_entry_antimotionblur">Liikumishägu vähendamine</string>
   <string name="pref_camera_scenemode_entry_aqua">Vesi</string>
@@ -157,19 +166,43 @@
   <string name="pref_camera_left_handed_title">Vasakukäeline</string>
   <string name="pref_camera_left_handed_summary">Kohanda nuppe vasaku käega kasutamiseks</string>
   <string name="camera_storage_fallback">Ennistamine salvestamise vaikeasukohta</string>
+  <string name="no_storage_sd">SD kaart pole sisestatud või kirjutatav.</string>
+  <string name="no_storage_usb">USB mälu ei ole sisestatud või pole kirjutatav.</string>
   <!-- access_sd_fail is in strings.xml -->
+  <string name="access_usb_fail">USB mälule ei saadud juurdepääsu.</string>
+  <string name="access_storage_fail">Mälule ei saadud juurdepääsu.</string>
   <!-- preparing_sd is in strings.xml -->
+  <string name="preparing_usb">\u2026 USB mälu ette valmistamine</string>
+  <string name="preparing_storage">\u2026 mälu ette valmistamine</string>
+  <string name="spaceIsLow_sd">SD kaart on täis saamas.</string>
+  <string name="spaceIsLow_usb">USB ühendusega mälu on täis saamas.</string>
+  <string name="spaceIsLow_storage">Sinu salvesti mälu on täis saamas.</string>
+  <string name="alternate_storage_none">Muutke kvaliteediseadet või kustutage mõned fotod või teised failid.</string>
+  <string name="alternate_storage_sd_card">Kustutage mõned fotod või teised failid, või kasutage SD kaarti.</string>
+  <string name="alternate_storage_usb">Kustutage mõned fotod või teised failid, või kasutage USB andmekandjat.</string>
   <string name="pref_camera_volume_zoom_title">Helinupuga suumimine</string>
   <string name="pref_camera_volume_zoom_summary">Helitugevuse nupuga suumimine</string>
   <string name="pref_max_brightness_title">Hele ekraan</string>
   <string name="pref_max_brightness_summary">Määra heledus maksimumini kui Kaamera on aktiivne</string>
+  <string name="pref_camera_reset_title">Taasta vaikesätted</string>
+  <string name="pref_camera_reset_message">Muuda kõik kaamera ja video seaded nende algväärtustele? Seda ei saa tagasi võtta.</string>
+  <string name="pref_camera_reset_button">Taasta</string>
+  <string name="pref_section_advanced">Edasijõudnute valikud</string>
+  <string name="pref_section_other">Muu</string>
+  <string name="msg_cancel_longshot_for_limited_memory">Mälu on tühjenemas, kaadrid peatatakse!</string>
   <!-- Toast telling users holding down the shutter will take multiple photos [CHAR LIMIT=30] -->
+  <string name="hold_for_burst">Hoidke päästikut, et teha sarivõte.</string>
   <!-- toast message for toast showing error of starting video capture -->
+  <string name="cannot_start_video_toast">Videosalvestust ei saa alustada. Kas mikrofon on kasutuses?</string>
   <!-- Chromaflash -->
+  <string name="pref_camera_chroma_flash_title">ChromaFlash</string>
   <!-- OptiZoom (Qualcomm OptiZoom) -->
   <!-- Panorama -->
   <!-- Liveshot -->
   <!-- Thermal warnings -->
+  <string name="overheated_warning">Seade on kuum. Kaamera lõpetab peagi töö.</string>
+  <string name="overheated_critical">Seade on liialt kuum. Kaamera on keelatud.</string>
+  <string name="overheated_cooling">Kaamera on keelatud, kuni seade jahtub.</string>
   <!-- Permissions -->
   <!-- Plugin related resources -->
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
