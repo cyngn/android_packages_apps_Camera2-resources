@@ -223,4 +223,5 @@
   <!-- NOTE to translator: keep under 6 characters! -->
   <string name="effect_mode_button_label">MODE</string>
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Erreur : impossible de prendre une photo</string>
 </resources>
