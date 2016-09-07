@@ -216,9 +216,11 @@
   <string name="panorama">Panorama</string>
   <string name="add_more">Dodaj więcej</string>
   <string name="plugin_failure">Użycie trybu nie powiodło się</string>
+  <string name="permissions_not_accepted">Mody wymagają dostępu do aparatu, aby mogły działać. Otwórz go ponownie, aby zezwolić.</string>
   <string name="options_menu_apply_effect">Zastosuj Efekt</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MOD</string>
   <!-- Toast message shown when picture data comes back null from camera driver -->
   <string name="picture_null_error">Błąd: nie można zrobić zdjęcia</string>
 </resources>

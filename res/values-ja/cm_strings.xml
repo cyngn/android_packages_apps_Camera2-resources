@@ -123,7 +123,7 @@
   <string name="pref_camera_burst_entry_15">15枚</string>
   <string name="pref_camera_burst_entry_20">20枚</string>
   <!-- Touch-to-focus duration settings -->
-  <string name="pref_camera_focustime_title">タッチフォーカス継続時間</string>
+  <string name="pref_camera_focustime_title">タッチフォーカス継続</string>
   <string name="pref_camera_focustime_summary">タッチフォーカス継続時間を選択する</string>
   <!-- Settings screen, Timer mode entries -->
   <string name="pref_camera_focustime_entry_5">5秒</string>
