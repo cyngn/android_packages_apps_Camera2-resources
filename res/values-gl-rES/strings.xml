@@ -139,26 +139,44 @@
   <!-- title for the dialog showing the error of camera hardware -->
   <string name="camera_error_title">Error da cámara</string>
   <!-- message for the dialog showing the error of camera hardware -->
+  <string name="cannot_connect_camera">Non se pode estabelecer conexión coa cámara.</string>
   <!-- message for the dialog showing the camera is disabled because of security policies. Camera cannot be used. -->
+  <string name="camera_disabled">Desactivouse a cámara seguindo as políticas de seguridade.</string>
   <!-- alert to the user to wait for some operation to complete -->
+  <string name="wait">Agarde\u2026</string>
   <!-- alert to the user that an SD card must be installed before using the camera -->
+  <string name="no_storage" product="default">Antes de usar a cámra, insira unha tarxeta SD.</string>
   <!-- alert to the user that the SD card is being disk-checked -->
+  <string name="preparing_sd" product="default">Preparando a tarxeta SD\u2026</string>
   <!-- alert to the user that the camera fails to read or write the SD card. -->
+  <string name="access_sd_fail" product="default">Imposíbel acceder á tarxeta SD.</string>
   <!-- A label that overlays on top of the preview frame to indicate the camcorder is in time lapse mode [CHAR LIMIT=35] -->
+  <string name="time_lapse_title">Gravación a intervalos de tempo</string>
   <!-- Screen display message during image capture to indicate that the capture is in progress, like during HDR+. [CHAR LIMIT=20] -->
+  <string name="capturing">Capturando</string>
   <!-- Settings screen, camera selection dialog title. Users can select a camera from the phone (front-facing or back-facing). [CHAR LIMIT=20] -->
+  <string name="pref_camera_id_title">Escoller cámara</string>
   <!-- In select camera setting, back facing camera. [CHAR LIMIT=14] -->
+  <string name="pref_camera_id_entry_back">Volver</string>
   <!-- In select camera setting, front-facing camera. [CHAR LIMIT=14] -->
+  <string name="pref_camera_id_entry_front">Frontal</string>
   <!-- Settings screen, setting title text -->
+  <string name="pref_camera_recordlocation_title">Gardar lugar</string>
   <!--  Label for record location preference [CHAR LIMIT=50] -->
+  <string name="pref_camera_location_label">LUGAR</string>
   <!-- Title for countdown timer on camera settings screen [CHAR LIMIT=30]-->
+  <string name="pref_camera_timer_title">Conta atrás</string>
   <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
   <!-- Text followed by a checkbox to turn on/off sound effects during the countdown. [CHAR LIMIT = 24]-->
+  <string name="pref_camera_timer_sound_title">Emitir un pitido ao facer conta atrás</string>
   <!-- Entry of a on/off setting. The setting is turned off. [CHAR LIMIT=15] -->
+  <string name="setting_off">Apagado</string>
   <!-- Entry of a on/off setting. The setting is turned on. [CHAR LIMIT=15] -->
+  <string name="setting_on">Aceso</string>
   <!-- The value of a camera preference indicating the setting is off. -->
   <!-- The value of a camera preference indicating the setting is on. -->
   <!-- The Video quality settings in preference [CHAR LIMIT=21] -->
+  <string name="pref_video_quality_title">Calidade do vídeo</string>
   <!-- The default quality value is 3 (CIF) -->
   <!-- Video quality setting entry.
     Videos will be recorded in 4k DCI quality. [CHAR LIMIT=24] -->
@@ -168,31 +186,62 @@
   <!-- Video quality setting entry. Videos will be recorded in 720p quality. [CHAR LIMIT=24] -->
   <!-- Video quality setting entry. Videos will be recorded in 480p quality. [CHAR LIMIT=24] -->
   <!-- Video quality setting entry. Videos will be recorded in the highest quality available on the device. [CHAR LIMIT=24] -->
+  <string name="pref_video_quality_entry_high">Alta</string>
   <!-- Video quality setting entry. Videos will be recorded in the lowest quality available on the device. [CHAR LIMIT=24] -->
+  <string name="pref_video_quality_entry_low">Baixa</string>
   <!-- Describes the preference dialog for choosing interval between frame capture for
     time lapse recording. Appears at top of the dialog. [CHAR LIMIT=30] -->
+  <string name="pref_video_time_lapse_frame_interval_title">Intervalo de tempo</string>
   <!-- Settings screen, Camera setting category title -->
+  <string name="pref_camera_settings_category">Configuración da cámara</string>
   <!-- Settings screen, Camcorder setting category title -->
+  <string name="pref_camcorder_settings_category">Configuración de cámara de gravación</string>
   <!-- Settings screen, Picture size title -->
+  <string name="pref_camera_picturesize_title">Tamaño da foto</string>
   <!-- Settings screen, Focus mode title -->
+  <string name="pref_camera_focusmode_title">Modo de foco</string>
   <!-- Settings screen, Focus mode dialog radio button choices -->
+  <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <!-- A setting that lets the camera focus into infinity. [CHAR LIMIT=20] -->
+  <string name="pref_camera_focusmode_entry_infinity">Infinidade</string>
   <!-- A setting that lets the camera operate in macro focus mode for nearby objects. [CHAR LIMIT=20] -->
+  <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <!-- Menu, focus mode labels [CHAR LIMIT=50] -->
+  <string name="pref_camera_focusmode_label_auto">AUTO</string>
+  <string name="pref_camera_focusmode_label_infinity">INFINIDADE</string>
+  <string name="pref_camera_focusmode_label_macro">MACRO</string>
   <!-- Default flash mode setting.-->
   <!-- Value for flash off setting-->
   <!-- Settings screen, Flash mode title -->
+  <string name="pref_camera_flashmode_title">Modo flash</string>
   <!-- flash label [CHAR LIMIT=50] -->
+  <string name="pref_camera_flashmode_label">MODO FLASH</string>
   <!-- Settings screen, Flash mode 'auto'. [CHAR LIMIT=12] -->
+  <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <!-- Settings screen, Flash mode 'alway on'. [CHAR LIMIT=12] -->
+  <string name="pref_camera_flashmode_entry_on">Aceso</string>
   <!-- Settings screen, Flash mode 'always off'. [CHAR LIMIT=12] -->
+  <string name="pref_camera_flashmode_entry_off">Apagado</string>
   <!-- Menu, flash mode labels [CHAR LIMIT=50] -->
+  <string name="pref_camera_flashmode_label_auto">FLASH AUTOMÁTICO</string>
+  <string name="pref_camera_flashmode_label_on">FLASH ACESO</string>
+  <string name="pref_camera_flashmode_label_off">FLASH APAGADO</string>
   <!-- Default videocamera flash mode setting.-->
   <!-- Default white balance setting. -->
   <!-- Settings screen, white balance title -->
+  <string name="pref_camera_whitebalance_title">Equilibrio de brancos</string>
   <!-- Menu, white balance label -->
+  <string name="pref_camera_whitebalance_label">EQUILIBRIO DE BRANCOS</string>
   <!-- Settings screen, White balance dialog radio button choices -->
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">Incandescente</string>
+  <string name="pref_camera_whitebalance_entry_daylight">Luz de día</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescente</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">Nubrado</string>
   <!-- Menu, White balance labels [CHAR LIMIT=50] -->
+  <string name="pref_camera_whitebalance_label_auto">AUTO</string>
+  <string name="pref_camera_whitebalance_label_incandescent">INCANDESCENTE</string>
+  <string name="pref_camera_whitebalance_label_daylight">LUZ DE DÍA</string>
   <string name="pref_camera_whitebalance_label_fluorescent">FLUORESCENTE</string>
   <string name="pref_camera_whitebalance_label_cloudy">NUBRADO</string>
   <!-- Default scene mode setting. -->
@@ -299,60 +348,112 @@
   <!-- Effect setting item that makes eyes small. [CHAR LIMIT=14] -->
   <string name="effect_goofy_face_small_eyes">Ollos pequeños</string>
   <!-- Effect setting item that replaces background with Android in Space. [CHAR LIMIT=14] -->
+  <string name="effect_backdropper_space">No espazo</string>
   <!-- Effect setting item that replaces background with a sunset. [CHAR LIMIT=14] -->
+  <string name="effect_backdropper_sunset">Solpor</string>
   <!-- Effect setting item that replaces background with video from gallery. [CHAR LIMIT=14] -->
+  <string name="effect_backdropper_gallery">O teu vídeo</string>
   <!-- Announcement telling users video recording has just started [CHAR LIMIT=NONE] -->
+  <string name="video_recording_started">Comezou a gravación de vídeo.</string>
   <!-- Announcement telling users video recording has just stopped [CHAR LIMIT=NONE] -->
+  <string name="video_recording_stopped">Deteuse a gravación de vídeo.</string>
   <!-- A button in effect setting popup to clear the effect. [CHAR LIMIT=26] -->
+  <string name="clear_effects">Eliminar efectos</string>
   <!-- Title of category for silly face effects. [CHAR LIMIT=26] -->
+  <string name="effect_silly_faces">CARAS RARAS</string>
   <!-- Title of category for background replacement effects. [CHAR LIMIT=26] -->
+  <string name="effect_background">FONDO</string>
   <!-- The shutter button. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_shutter_button">Obturador</string>
   <!-- The menu button. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_menu_button">Botón do menú</string>
   <!-- The mode picker to switch between camera, video and panorama. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_mode_picker">Selector de cámara, vídeo ou panorámica</string>
   <!-- The check box in camera settings, such as store location. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_check_box">%1$s caixa de verificación</string>
   <!-- The button to switch to Camera mode. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_switch_to_camera">Ir á cámara de fotos</string>
   <!-- The button to switch to Video mode. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_switch_to_video">Ir a cámara de vídeo</string>
   <!-- The button to switch to Panorama mode. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_switch_to_panorama">Ir á cámara panorámica</string>
   <!-- The button to switch to the Photo Sphere mode. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_switch_to_photo_sphere">Ir a cámara foto esférica</string>
   <!-- The button to switch to the high quality mode. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_switch_to_gcam">Cambiar á calidade alta</string>
   <!-- The button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT = NONE] -->
+  <string name="accessibility_review_cancel">Revisión cancelada</string>
   <!-- The button in review mode indicating that the taken photo/video is OK to be attached/uploaded [CHAR LIMIT = NONE] -->
+  <string name="accessibility_review_ok">Revisión acabada</string>
   <!-- button in review mode indicate the user want to retake another photo/video for attachment [
 CHAR LIMIT = NONE] -->
+  <string name="accessibility_review_retake">Volver a revisar</string>
   <!-- Default text for a button that can be toggled on and off. -->
+  <string name="capital_on">ACESO</string>
   <!-- Default text for a button that can be toggled on and off. -->
+  <string name="capital_off">APAGADO</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_off">Apagado</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_500">0,5 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_1000">%d segundo</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_1500">1,6 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_2000">2 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_2500">1,6 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_3000">3 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_4000">4 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_5000">5 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_6000">6 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_10000">10 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_12000">32 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_15000">15 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_24000">64 segundos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_30000">0,5 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_60000">1 minuto</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_90000">1,5 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_120000">2 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_150000">2,5 minutes</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_180000">3 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_240000">4 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_300000">5 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_360000">6 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_600000">10 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_720000">12 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_900000">15 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_1440000">24 minutos</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_1800000">0,5 horas</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_3600000">1 hora</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_5400000">1,5 horas</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
+  <string name="pref_video_time_lapse_frame_interval_7200000">2 horas</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->
   <string name="pref_video_time_lapse_frame_interval_9000000">2,5 horas</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT = 30] -->

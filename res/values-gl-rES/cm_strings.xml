@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">Xeral</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mods</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">Tamaño</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -91,17 +92,67 @@
   <string name="pref_camera_scenemode_entry_sports">Deportes</string>
   <string name="pref_camera_scenemode_entry_spotlight">Foco</string>
   <string name="pref_camera_scenemode_entry_steadyphoto">Foto estábel</string>
+  <string name="pref_camera_scenemode_entry_supernight">Noite escura</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">Percorrido en panorama</string>
+  <string name="pref_camera_scenemode_entry_text">Texto</string>
+  <string name="pref_camera_scenemode_entry_theatre">Teatro</string>
+  <string name="pref_camera_scenemode_entry_whiteboard">Taboleiro branco</string>
   <!-- Settings screen, focus mode -->
+  <string name="pref_camera_focusmode_entry_continuouspicture">Continuo</string>
+  <string name="pref_camera_focusmode_entry_extended">Ampliado</string>
+  <string name="pref_camera_focusmode_entry_facedetect">Detección de faciana</string>
+  <string name="pref_camera_focusmode_entry_facepriority">Priorizar faciana</string>
+  <string name="pref_camera_focusmode_entry_fixed">Fixo</string>
+  <string name="pref_camera_focusmode_entry_portrait">Retrato</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfocal</string>
   <!-- Color effects -->
+  <string name="pref_camera_coloreffect_entry_washed">Lavado</string>
+  <string name="pref_camera_coloreffect_entry_vintage_warm">Antigo quente</string>
+  <string name="pref_camera_coloreffect_entry_vintage_cold">Antigo frío</string>
+  <string name="pref_camera_coloreffect_entry_point_blue">Punto azul</string>
+  <string name="pref_camera_coloreffect_entry_point_green">Punto verde</string>
+  <string name="pref_camera_coloreffect_entry_point_red_yellow">Punto vermello-amarelo</string>
+  <string name="pref_camera_coloreffect_entry_cartoonize">Viñeta</string>
+  <string name="pref_camera_coloreffect_entry_whiteboard">Taboleiro branco</string>
+  <string name="pref_camera_coloreffect_entry_blackboard">Encerado</string>
   <!-- Settings screen, Burst mode title -->
+  <string name="pref_camera_burst_title">Modo ráfaga</string>
   <!-- Settings screen, Burst mode entries -->
+  <string name="pref_camera_burst_entry_off">Apagado</string>
+  <string name="pref_camera_burst_entry_5">5 disparos</string>
+  <string name="pref_camera_burst_entry_10">10 disparos</string>
+  <string name="pref_camera_burst_entry_15">15 disparos</string>
+  <string name="pref_camera_burst_entry_20">20 disparos</string>
   <!-- Touch-to-focus duration settings -->
+  <string name="pref_camera_focustime_title">Duración do toque de enfoque</string>
+  <string name="pref_camera_focustime_summary">Seleccionar a duración do toque de enfoque</string>
   <!-- Settings screen, Timer mode entries -->
+  <string name="pref_camera_focustime_entry_5">5 s</string>
+  <string name="pref_camera_focustime_entry_10">10 s</string>
+  <string name="pref_camera_focustime_entry_15">15s</string>
+  <string name="pref_camera_focustime_entry_20">20s</string>
+  <string name="pref_camera_focustime_entry_30">30s</string>
+  <string name="pref_camera_focustime_entry_infinite">Infinito</string>
   <!-- Red eye flash mode title -->
+  <string name="pref_camera_flashmode_entry_redeye">Ollos vermellos</string>
+  <string name="pref_camera_flashmode_label_redeye">OLLO VERMELLO</string>
   <!-- Beauty mode -->
+  <string name="pref_camera_beauty_mode_title">Modo beleza</string>
   <!-- Superresolution : Clear Image -->
+  <string name="pref_camera_clear_image_title">Imaxe clara</string>
   <!-- Slow shutter modes -->
+  <string name="pref_camera_slow_shutter_title">Obturador lento</string>
+  <string name="pref_camera_slow_shutter_delay_title">Velocidade de obturador lenta</string>
+  <string name="pref_camera_slow_shutter_entry_off">Apagado</string>
+  <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ segundo</string>
+  <string name="pref_camera_slow_shutter_entry_1s">1 segundo</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 segundos</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 segundos</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 segundos</string>
   <!-- More Settings screen, storage title -->
+  <string name="pref_camera_storage_title">Almacenamento</string>
+  <string name="pref_camera_recordlocation_on">Etiquetar fotos coa localización actual</string>
   <string name="pref_camera_recordlocation_off">Non etiquetar as fotos e vídeos coa localización</string>
   <!-- ASD -->
   <string name="camera_menu_enhance_label">Mellorar</string>
@@ -154,8 +205,23 @@
   <string name="overheated_critical">O dispositivo está moi quente. Desactivouse a cámara.</string>
   <string name="overheated_cooling">A cámara está desactivada mentres se arrefría o terminal.</string>
   <!-- Permissions -->
+  <string name="permission_missing">Non se pode executar a aplicación da cámara xa que non ten permisos.</string>
+  <string name="permission_camera">Requírense permisos para a <b>Cámara</b> para tirar fotos.</string>
+  <string name="permission_storage">Requírese permiso para o <b>Almacenamento</b> para gardar e ver imaxes.</string>
+  <string name="permission_microphone">Requírese permiso para o <b>Micrófono</b> para gravar vídeo.</string>
+  <string name="permission_call_to_action">Ir a <b>Axustes</b>, premer en <b>Permisos</b> para conceder permiso.</string>
+  <string name="permission_location_denied">Ten que conceder a esta aplicación permiso para a Localización se quere etiqueta-las fotos coa súa localización.</string>
+  <string name="no_video_trim">Non hai ningunha aplicación dispoñible para recortar vídeo.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Engadir máis</string>
+  <string name="slow_motion">Cámara lenta</string>
+  <string name="plugin_failure">O modo fallou</string>
+  <string name="permissions_not_accepted">Modes precisa acceder á túa cámara para funcionar. Ábrao de novo para darlle permiso.</string>
+  <string name="options_menu_apply_effect">Aplicar efecto</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODO</string>
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Erro: non se pode tirar unha foto</string>
 </resources>
