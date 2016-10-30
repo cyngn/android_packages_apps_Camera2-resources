@@ -23,6 +23,7 @@
   <!-- Settings screen, general section -->
   <string name="pref_camera_general_section">全般</string>
   <!-- Settings screen, plugin section -->
+  <string name="pref_camera_plugin_section">Mod</string>
   <!-- Settings screen, Picture size title, the word Size only -->
   <string name="pref_camera_picturesize_short_title">サイズ</string>
   <!-- Settings screen, Picture quality title, the word Quality only -->
@@ -158,14 +159,14 @@
   <string name="camera_menu_slow_shutter_label">スローシャッター</string>
   <string name="camera_menu_beauty_mode_label">ビューティー化</string>
   <string name="camera_menu_colorize_label">カラー化</string>
-  <string name="camera_menu_effects_label">効果</string>
+  <string name="camera_menu_effects_label">エフェクト</string>
   <string name="camera_menu_asd_label">スマートシーン</string>
   <!-- More Settings screen, power button title -->
-  <string name="pref_camera_power_shutter_title">電源ボタンシャッター</string>
-  <string name="pref_camera_power_shutter_summary">電源ボタンで写真を撮る</string>
+  <string name="pref_camera_power_shutter_title">電源ボタンでシャッター</string>
+  <string name="pref_camera_power_shutter_summary">電源ボタンで写真を撮影する</string>
   <string name="pref_camera_left_handed_title">左利き</string>
   <string name="pref_camera_left_handed_summary">左利きでの使用向けにコントロールを調整する</string>
-  <string name="camera_storage_fallback">デフォルトのストレージの場所に戻しています</string>
+  <string name="camera_storage_fallback">デフォルトのストレージの保存場所に戻しています</string>
   <string name="no_storage_sd">SDカードが挿入されていないか、書き込み禁止になっています。</string>
   <string name="no_storage_usb">USBストレージが挿入されていないか、書き込み禁止になっています。</string>
   <!-- access_sd_fail is in strings.xml -->
@@ -204,8 +205,23 @@
   <string name="overheated_critical">端末がとても熱くなっています。カメラは使用できなくなっています。</string>
   <string name="overheated_cooling">端末が冷却されるまでカメラは使用できません。</string>
   <!-- Permissions -->
+  <string name="permission_missing">権限が許可されていないためカメラアプリを実行できません。</string>
+  <string name="permission_camera">写真を撮影するために<b>カメラ</b>の権限が必要です。</string>
+  <string name="permission_storage">写真を保存または表示するために<b>ストレージ</b>の権限が必要です。</string>
+  <string name="permission_microphone">動画を録画するために<b>マイク</b>の権限が必要です。</string>
+  <string name="permission_call_to_action"><b>設定</b>アプリに移動して、権限を許可するために<b>権限</b> をタップしてください。</string>
+  <string name="permission_location_denied">写真に位置情報を追加したい場合は、このアプリに位置情報の権限を許可する必要があります。</string>
+  <string name="no_video_trim">ビデオをトリミングするためのアプリがありません。</string>
   <!-- Plugin related resources -->
+  <string name="panorama">パノラマ</string>
+  <string name="add_more">さらに追加</string>
+  <string name="slow_motion">スローモーション</string>
+  <string name="plugin_failure">モードを実行できませんでした</string>
+  <string name="permissions_not_accepted">モードが動作するにはカメラにアクセスする必要があります。許可するためにもう一度開いてください。</string>
+  <string name="options_menu_apply_effect">エフェクトを適用</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">モード</string>
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">エラー: 写真を撮影できません</string>
 </resources>

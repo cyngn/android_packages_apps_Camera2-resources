@@ -36,6 +36,7 @@
          NOTE: for Chinese (zh) and Korean (ko) the pixel number (parameter two)
          will be multiplied by 100 as those languages want to count by ten thousands -->
   <!-- Settings screen, scene mode -->
+  <string name="pref_camera_scenemode_entry_document">Dokumento</string>
   <!-- Settings screen, focus mode -->
   <!-- Color effects -->
   <!-- Settings screen, Burst mode title -->
@@ -46,6 +47,10 @@
   <!-- Beauty mode -->
   <!-- Superresolution : Clear Image -->
   <!-- Slow shutter modes -->
+  <string name="pref_camera_slow_shutter_entry_1s">1 sekundo</string>
+  <string name="pref_camera_slow_shutter_entry_2s">2 sekundoj</string>
+  <string name="pref_camera_slow_shutter_entry_4s">4 sekundoj</string>
+  <string name="pref_camera_slow_shutter_entry_8s">8 sekundoj</string>
   <!-- More Settings screen, storage title -->
   <!-- ASD -->
   <!-- More Settings screen, power button title -->

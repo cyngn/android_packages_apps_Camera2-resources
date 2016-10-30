@@ -213,7 +213,15 @@
   <string name="permission_location_denied">Jy moet Ligging toestemming gee na hierdie toep as jy die ligging wil byvoeg in foto\'s.</string>
   <string name="no_video_trim">Geen toep beskikbaar om video te snoei nie.</string>
   <!-- Plugin related resources -->
+  <string name="panorama">Panorama</string>
+  <string name="add_more">Voeg meer by</string>
+  <string name="slow_motion">Stadige Aksie</string>
+  <string name="plugin_failure">Modus het misluk</string>
+  <string name="permissions_not_accepted">Kamera modes het toegang nodig om vir jou kamera te werk. Open dit weer om dit toe te laat.</string>
+  <string name="options_menu_apply_effect">Pas effek toe</string>
   <!-- Mode button label, for user to select one of the plugin modes like Hyperlapse, or Pano -->
   <!-- NOTE to translator: keep under 6 characters! -->
+  <string name="effect_mode_button_label">MODUS</string>
   <!-- Toast message shown when picture data comes back null from camera driver -->
+  <string name="picture_null_error">Fout: kon nie foto neem</string>
 </resources>

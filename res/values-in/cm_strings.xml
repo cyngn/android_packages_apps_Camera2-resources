@@ -185,7 +185,7 @@
   <string name="pref_camera_volume_zoom_summary">Tombol volume kontrol zum</string>
   <string name="pref_max_brightness_title">Layar cerah</string>
   <string name="pref_max_brightness_summary">Mengatur kecerahan pada maksimum saat kamera sedang aktif</string>
-  <string name="pref_camera_reset_title">Kembalikan ke pengaturan baku</string>
+  <string name="pref_camera_reset_title">Kembalikan ke standar</string>
   <string name="pref_camera_reset_message">Ubah semua pengaturan kamera dan video ke nilai asal? Ini tidak dapat diurungkan.</string>
   <string name="pref_camera_reset_button">Kembalikan</string>
   <string name="pref_section_advanced">Tingkat lanjut</string>
